@@ -11,7 +11,7 @@ http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=c87cd384
 http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=1a3884893e2942013359eae8e6859295&expiry=1735232769&token=716f4a2a41bbe794e35a225b1285fc4f
 #EXTINF:-1 group-title="UK", UKBBC One
 http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=0e898bc2e099f682f080897f03984ac8&expiry=1735232769&token=29d2d36cfffeac834528f6828e356270
-#EXTINF:-1 group-title="UK", UKBBC One Scotland
+#EXTINF:-1 group-title="UK", BBC One ScotHD
 http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=f704ba15568ebb8c3b15d98aa93db330&expiry=1735232769&token=e1ca03dd882b28cbfa9d5f74320efb90
 #EXTINF:-1 group-title="其他", BBC Two HD
 http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=feda805f1abd0825dd9c4c463c13ab6f&expiry=1735232769&token=3a9409dbe9050e03f552cbe23108a87e
@@ -235,13 +235,13 @@ http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=d258a6e1
 http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=06ab86e1efba5f49e5f3f6c8a953ec8e&expiry=1735232769&token=2bd50397cb0b0c3fc57cd9abfcead0ee
 #EXTINF:-1 group-title="其他", beIN Sports HD
 http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=9ca324ccdd2ff0e800a14a379679c780&expiry=1735232769&token=3b7e067b541c7cd387fab96dff3f223f
-#EXTINF:-1 group-title="其他", Fox Sports A
+#EXTINF:-1 group-title="其他", J SPORTS 1 HD
 http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=d415a9340bf62cc02fb0bc48de60ac53&expiry=1735232769&token=40d0a8349d5dbf2ef82755a5e923c3ad
-#EXTINF:-1 group-title="其他", Fox Sports A
+#EXTINF:-1 group-title="其他", J SPORTS 1 HD
 http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=ed685db917f8eea8d2cd748d7b7b0d5a&expiry=1735232769&token=1fed1eeda7f60525acc34cb4f4d54f3d
-#EXTINF:-1 group-title="其他", Fox Sports A
+#EXTINF:-1 group-title="其他", J SPORTS 1 HD
 http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=5a7a2020093335f03957612c0834ae8c&expiry=1735232769&token=d9d997110137981e34005353cc6d54f5
-#EXTINF:-1 group-title="其他", Fox Sports A
+#EXTINF:-1 group-title="其他", J SPORTS 1 HD
 http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=6c4f7d9bd818e83bc5bb059e45b6f7a6&expiry=1735232769&token=4ab84cc742b4233776cdbd70ee9cb708
 #EXTINF:-1 group-title="其他", Bally Sports North A
 http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=56799f0f9ccaa990a0df6947f7d22a9d&expiry=1735232769&token=c843d98ac9375742801760aa208ec55b
@@ -473,21 +473,21 @@ http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=204cde32
 http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=6b1f210946bd2ee92f6bc7637138cb1b&expiry=1735232769&token=405fd8fb39c6c44a4e84c37ccab1fcbd
 #EXTINF:-1 group-title="ES", Ginx esports TV
 http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=0275cb8f9b0a195d8ebff84f294ed496&expiry=1735232769&token=081b54e58038389540388bd6d173a049
-#EXTINF:-1 group-title="其他", Sportsnet
+#EXTINF:-1 group-title="其他", J SPORTS 1 HD
 http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=88caefa428df3b7158b5d9d99fb87ce9&expiry=1735232769&token=cdd129b0b3a747cb905f61aea866995c
-#EXTINF:-1 group-title="其他", Sportsnet
+#EXTINF:-1 group-title="其他", J SPORTS 1 HD
 http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=e297f96c8c9d8b99f850c8e3a38212f4&expiry=1735232769&token=131ac0745690edfc40bf480af4c82e6e
-#EXTINF:-1 group-title="其他", Sportsnet
+#EXTINF:-1 group-title="其他", J SPORTS 1 HD
 http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=15ffa134ba95b99ecff0b6a703d08c6a&expiry=1735232769&token=1ffd53e0832dc8a655f66e3eb6b966af
-#EXTINF:-1 group-title="其他", Sportsnet
+#EXTINF:-1 group-title="其他", J SPORTS 1 HD
 http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=de2a6fad7cb23dd395abca223abed75a&expiry=1735232769&token=bb59a7bade9f9dcd37654e4636c1f0da
-#EXTINF:-1 group-title="其他", Sportsnet
+#EXTINF:-1 group-title="其他", J SPORTS 1 HD
 http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=90d6e0c5062ad5b788836936868420db&expiry=1735232769&token=0794ca25632e2c8444b626e74317c273
-#EXTINF:-1 group-title="其他", Sportsnet
+#EXTINF:-1 group-title="其他", J SPORTS 1 HD
 http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=52e92fef274a5c88ab21fecf63821bee&expiry=1735232769&token=d9bae5f12608155aedf344ad93d9552a
-#EXTINF:-1 group-title="其他", Sportsnet
+#EXTINF:-1 group-title="其他", J SPORTS 1 HD
 http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=9d92b26113cf40224756594e1be34760&expiry=1735232769&token=bd909714aee047d9b78e70b5ec6d86d5
-#EXTINF:-1 group-title="其他", Sportsnet
+#EXTINF:-1 group-title="其他", J SPORTS 1 HD
 http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=f1ea505e25833e4d8840b0b39835dac0&expiry=1735232769&token=9552a1f2c28f1be282ab047dc6930868
 #EXTINF:-1 group-title="其他", Sportsnet East F
 http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=5a836c324b9c7b7e751adf9345323e04&expiry=1735232769&token=43fb6edce44ea64c4d0175e985df6f07
@@ -671,7 +671,7 @@ http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=d7e7f66c
 http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=a189a87b39b9f23011d4ea1b80a767d8&expiry=1735232769&token=d1a07552b1196d46bb603991f1914808
 #EXTINF:-1 group-title="其他", Sportsnet The FAN
 http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=539f1045e0008e51ceaaed46f17d8dc9&expiry=1735232769&token=25421054ecfc50de35931636cf7c3fed
-#EXTINF:-1 group-title="AR", SKY SPORTS ARENA
+#EXTINF:-1 group-title="AR", Sky Sports F1 HD
 http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=db9feb676dc7de92b6fd7c58f17b1eff&expiry=1735232769&token=afc79878d5b2b372a8afd184cc81952b
 #EXTINF:-1 group-title="IN", Sky Sports Main Event HD
 http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=b6075112f77a6bbd6bf08aa5b58c142d&expiry=1735232769&token=00948a416bff985dcda8546d01cd0096
