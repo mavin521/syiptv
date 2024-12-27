@@ -429,6 +429,8 @@ https://stream1.freetv.fun/ao-ya-wei-shi-3.ctv
 https://stream1.freetv.fun/ao-ya-wei-shi-2.m3u8
 #EXTINF:-1, C+頻道
 https://stream1.freetv.fun/xiang-gang-c-plus-1.m3u8
+#EXTINF:-1, Channel V HD
+https://stream1.freetv.fun/channel-v-1.ctv
 #EXTINF:-1, KIX[HK]
 https://stream1.freetv.fun/kix-3.m3u8
 #EXTINF:-1, RTHK31
