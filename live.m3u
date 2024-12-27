@@ -1,677 +1,677 @@
 #EXTM3U
-#EXTINF:-1,袦邪褌褔! HD
+#EXTINF:-1,Potplayer,Tivimate,OTT navigator可用，其它软件自行测试
 https://raw.githubusercontent.com/mavin521/syiptv/main/123/1.m3u8
-#EXTINF:-1,Sky Cinema Action HD
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=d434db40c2c29be1588c79af203b3b6f&expiry=1735239573&token=a0811875be56df6256e85b5dff9cce82
+#EXTINF:-1,UK SKY CINEMA ACTION FHD
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=d434db40c2c29be1588c79af203b3b6f&expiry=1735302857&token=018c4b52c2503f6126e2813ac0cd03a0
 #EXTINF:-1,UK MOVIES SKY CINEMA DRAMA
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=f5bbf2ca4c73e3a3f812fe01bca3610f&expiry=1735239573&token=ff262f35d309b5b2d508f2b55fdafea7
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=f5bbf2ca4c73e3a3f812fe01bca3610f&expiry=1735302857&token=ffedf3b49f5bb9589c53d1c17cdcb459
 #EXTINF:-1,UK Sky Cinema Scifi  Horror FHD
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=c87cd384e62ce0b5d618b4b12974688d&expiry=1735239573&token=dba57860f1f7eba555fcae20c9face2a
-#EXTINF:-1,BBC NEWS HD
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=1a3884893e2942013359eae8e6859295&expiry=1735239573&token=494fa0b4e3a71ff9ea18a9dbbb9cac13
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=c87cd384e62ce0b5d618b4b12974688d&expiry=1735302857&token=03b5f6094df319078b74b9acff2907da
+#EXTINF:-1,UK BBC NEWS
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=1a3884893e2942013359eae8e6859295&expiry=1735302857&token=4ace678b2248b34948de5c91a235bfc0
 #EXTINF:-1,UKBBC One
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=0e898bc2e099f682f080897f03984ac8&expiry=1735239573&token=da123fad04665db887ddaccc7f65c5eb
-#EXTINF:-1,BBC One ScotHD
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=f704ba15568ebb8c3b15d98aa93db330&expiry=1735239573&token=d1cf7bf9cca2e48c3002ccc07ed43588
-#EXTINF:-1,BBC Two HD
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=feda805f1abd0825dd9c4c463c13ab6f&expiry=1735239573&token=70cd434b1754e1d84b0fb39244cc5189
-#EXTINF:-1,CBC
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=81b0cf4571ed0f89bbc95e6ff1900359&expiry=1735239573&token=8d3cb998700d3c2c7eca131e11fea039
-#EXTINF:-1,小孝小 Kids HD
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=8241472990fb5a0cad38d208416a36dd&expiry=1735239573&token=ea154424d6dc903b9418f94695ae7d4e
-#EXTINF:-1,Sky Cinema Action HD
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=3f63a23ee05205c3a1d2c9762e796632&expiry=1735239573&token=0cdf31cfcfce749736301f9c2511d4da
-#EXTINF:-1,Sky Cinema Family HD
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=39d0091ba4ec68bc568b538783b951eb&expiry=1735239573&token=098ad200d4da0ce82943f16b668e0abb
-#EXTINF:-1,Sky Cinema Family HD
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=d8db169cd8d4ecfcd67e300fe9b33389&expiry=1735239573&token=18a8155343eaeb634ee258ed3adb2fbf
-#EXTINF:-1,Sky Cinema Family HD
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=3e769ab19fb09683d4dfe35b244f4e17&expiry=1735239573&token=9d53ae4af0e788ec19d855f5e5b4fe74
-#EXTINF:-1,Astro Ceria HD
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=1c1465160bd15e3732cd490255d4119a&expiry=1735239573&token=f2a482745b907b107125e0c0c80cb221
-#EXTINF:-1,CINEMAX HD
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=dfe23194abc89446b4c00ae65fd585a3&expiry=1735239573&token=6b61d2404a815bdc4291c6fb2c2bb27c
-#EXTINF:-1,CNA HD
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=ef6670e428cc00d3bcdd342501d8aa9c&expiry=1735239573&token=9282dc76f1aee449be8cc5becc19c687
-#EXTINF:-1,CNA HD
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=92c506fd5b138672176d960da0e460f7&expiry=1735239573&token=e3cc3235e5587ffc007ac5cf59f1405f
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=0e898bc2e099f682f080897f03984ac8&expiry=1735302857&token=f0092a8a33efe0dedf25a34e26b8a374
+#EXTINF:-1,UKBBC One Scotland
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=f704ba15568ebb8c3b15d98aa93db330&expiry=1735302857&token=feab2fd04f67b947b4d29f01f33b26bc
+#EXTINF:-1,UK BBC TWO HD
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=feda805f1abd0825dd9c4c463c13ab6f&expiry=1735302857&token=6eb14d3e3435cc95c28f9a21a91a3e9f
+#EXTINF:-1,UKCBBC
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=81b0cf4571ed0f89bbc95e6ff1900359&expiry=1735302857&token=445933d883c6484c533e6400a694c060
+#EXTINF:-1,UKFilm
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=8241472990fb5a0cad38d208416a36dd&expiry=1735302857&token=b6094c4eef62c3f2626be04756f8d19a
+#EXTINF:-1,UKSky Cinema Animation
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=3f63a23ee05205c3a1d2c9762e796632&expiry=1735302857&token=9bc4faf23009a5502cdcd65428788d2c
+#EXTINF:-1,UKSky Cinema Family
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=39d0091ba4ec68bc568b538783b951eb&expiry=1735302857&token=e9da01bd9bc0abcbf622f21a88819f2f
+#EXTINF:-1,UKSky Cinema Premier
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=d8db169cd8d4ecfcd67e300fe9b33389&expiry=1735302857&token=dfd83c58f19e44075a621c9266692972
+#EXTINF:-1,UK Sky Cinema Comedy
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=3e769ab19fb09683d4dfe35b244f4e17&expiry=1735302857&token=f90f32e02a73a67c2e4ce6a89b88934d
+#EXTINF:-1,US BBC America
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=1c1465160bd15e3732cd490255d4119a&expiry=1735302857&token=fe6e8fc8c3c58c699b330993913ee9b4
+#EXTINF:-1,US Cinemax East
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=dfe23194abc89446b4c00ae65fd585a3&expiry=1735302857&token=8ed23613da98326b7f76064329d4a216
+#EXTINF:-1,US CNN
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=ef6670e428cc00d3bcdd342501d8aa9c&expiry=1735302857&token=fe77aa28247291d032836017ceb83803
+#EXTINF:-1,US CNN
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=92c506fd5b138672176d960da0e460f7&expiry=1735302857&token=ef1de48a4b5f544f6ec98b40346275de
 #EXTINF:-1,US Cinemax Outermax X
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=9e17dd9a314abb3d0cc2b0fb1cb9295d&expiry=1735239573&token=138eb8bc6992fa4e97957b3f7c0b9022
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=9e17dd9a314abb3d0cc2b0fb1cb9295d&expiry=1735302857&token=474153eb90795193562369aad2f461b4
 #EXTINF:-1,US Starz Cinema East
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=b99b0baeeeb011dfdf5afcc67b2037a7&expiry=1735239573&token=21ca6d7cd8f6e777259fdeac1ccbedb5
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=b99b0baeeeb011dfdf5afcc67b2037a7&expiry=1735302857&token=1b89c63d0a86807883b040245256f44f
 #EXTINF:-1,US Starz Cinema East H
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=55af2b9f4f173298379ce7225d6254f5&expiry=1735239573&token=c7849496ae81ad638bcea3af9913ff42
-#EXTINF:-1,BBC Earth
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=b0d35539faa12c3253ba9e534115c817&expiry=1735239573&token=8b5e2a54d85d867a1897544510c362a5
-#EXTINF:-1,Eurosport 1
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=505f08aa5880eabcaf4ea74b01440e8f&expiry=1735239573&token=fc65e024f7b507655319f9bb01c0968f
-#EXTINF:-1,Sky Sports Cricket
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=03611a63c0dca5a11b35ffe0e4dd86f0&expiry=1735239573&token=d4ca76c1da1f525c6e498e7a330b0921
-#EXTINF:-1,Sky Sports F1 HD
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=64d7b04617a3503b76a17dfe9be3a96f&expiry=1735239573&token=08e20b9a2b1d49fdd7aed0d201e93175
-#EXTINF:-1,Sky Sports F1 HD
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=6686c2517134a747427df36addaa1cb4&expiry=1735239573&token=b7b57a19369feab4b03aff4e2edfb80c
-#EXTINF:-1,Sky Sports F1 HD
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=b56941ed4af956712d4af4d9a26133b1&expiry=1735239573&token=0b039c15106b9377785c863fca7d43a1
-#EXTINF:-1,Sky Sports Main Event HD
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=da7cfb4422445d35f7608d6ef652496e&expiry=1735239573&token=4131c8a865d0b9cba800b4bc3d702e66
-#EXTINF:-1,Sky Sports F1 HD
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=72e518a3390384fdabcff7626f84723a&expiry=1735239573&token=1bd7c7ab7f547d69337674befbe43302
-#EXTINF:-1,Sky Sports NFL
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=65f9674712f6ac090190c7f96254f2ab&expiry=1735239573&token=5744fac6c657ddc938456778286c9463
-#EXTINF:-1,Sky Sports Cricket
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=aa142911975270e8455aca0e9929d646&expiry=1735239573&token=41c8b2ff0148459a25144dd02d1e79d5
-#EXTINF:-1,Sky Sports F1 HD
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=eedc94e60e52ffec54f30c3ce84f6698&expiry=1735239573&token=55068e0fe80c342fb6389f0f8424aa06
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=55af2b9f4f173298379ce7225d6254f5&expiry=1735302857&token=c96d182fadb7116c198a8e96f6d5a60a
+#EXTINF:-1,CA  BBC EARTH
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=b0d35539faa12c3253ba9e534115c817&expiry=1735302857&token=5730042b074bf593cccd22e478daa6b3
+#EXTINF:-1,UK EuroSport  UK P
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=505f08aa5880eabcaf4ea74b01440e8f&expiry=1735302857&token=46664435b4facd83f403194034dd83af
+#EXTINF:-1,UKSky Sports Action
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=03611a63c0dca5a11b35ffe0e4dd86f0&expiry=1735302857&token=66010722c87b4c8df1fa6a1c6fc828f1
+#EXTINF:-1,UKSky Sports Arena
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=64d7b04617a3503b76a17dfe9be3a96f&expiry=1735302857&token=46bd45bf3c597b7f680851636204e923
+#EXTINF:-1,UK Sky Sports F FHD D
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=6686c2517134a747427df36addaa1cb4&expiry=1735302857&token=34a01fd453982d350dfcfeea4f6f4b4f
+#EXTINF:-1,UK Sky Sports Golf FHD
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=b56941ed4af956712d4af4d9a26133b1&expiry=1735302857&token=ae1259f6fe861dee406a3dc852f0d6e9
+#EXTINF:-1,UKSky Sports Main Event
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=da7cfb4422445d35f7608d6ef652496e&expiry=1735302857&token=68eb975da89b8e3da9415a997b7d03a2
+#EXTINF:-1,UK Sky Sports Mix FHD D
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=72e518a3390384fdabcff7626f84723a&expiry=1735302857&token=e684d05dfe35e20d9c42d079d94a9f5e
+#EXTINF:-1,UKSky Sports News
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=65f9674712f6ac090190c7f96254f2ab&expiry=1735302857&token=1bf3f2c91b2794182a00446bed16a391
+#EXTINF:-1,UK Sky Sports Cricket FHD D
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=aa142911975270e8455aca0e9929d646&expiry=1735302857&token=9ea93bc47247bea898097557a9f490ed
+#EXTINF:-1,UK Sky Sports F FHD
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=eedc94e60e52ffec54f30c3ce84f6698&expiry=1735302857&token=661e83b338dda857dc9776c5ea00caef
 #EXTINF:-1,US NBC Sports Bay Area A
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=b2600b1e508de3d22bb59c8af15c4dec&expiry=1735239573&token=5d61f64b635a23e10a0189aa913e7665
-#EXTINF:-1,Sky Sport Austria
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=35e73bcbfddb29d9626434c6a8a0d6e7&expiry=1735239573&token=86cb96772f24d396dadb08a33e5c65c7
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=b2600b1e508de3d22bb59c8af15c4dec&expiry=1735302857&token=fb1fde2ba930dd78641d3145affc8fa3
+#EXTINF:-1,US NBC Sports Boston A
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=35e73bcbfddb29d9626434c6a8a0d6e7&expiry=1735302857&token=9a226089a62601df676d06998449923e
 #EXTINF:-1,US NBC Sports California A
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=c6d1d337d366dd6f8b856e17537da595&expiry=1735239573&token=55a40612694c1ccef7ceb1a899696e68
-#EXTINF:-1,Sky Sports Cricket
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=78f77b2f09bfbc616737dde3ea33415c&expiry=1735239573&token=3b399cd46e6952add7b66cbbeb0b2a6a
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=c6d1d337d366dd6f8b856e17537da595&expiry=1735302857&token=f90ad47c8c73f98139bfa943f6cab9f1
+#EXTINF:-1,US NBC Sports Chicago
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=78f77b2f09bfbc616737dde3ea33415c&expiry=1735302857&token=518251bbb942a25b9ffaf0e2a8c10ee4
 #EXTINF:-1,US NBC Sports Network FHD
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=12953fe49b39554e1eb3939a6865155e&expiry=1735239573&token=a577ce580e8393886a3cb84061c8f7ae
-#EXTINF:-1,Astro Sports Plus
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=96ba0a1ba3a18cd04c5751921afb2fee&expiry=1735239573&token=e3c669fc15fe5f87fbbca96855b02700
-#EXTINF:-1,Sky Sports Main Event HD
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=424230d51bfe885120a64a5bf4f732ea&expiry=1735239573&token=47923b7c0528dbc6d3dc5703a923a9ef
-#EXTINF:-1,Spectrum Sportsnet Lakers
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=7d8bc6b0b93cb421fbe6deba4a816ff7&expiry=1735239573&token=3f27624ed2af1d3c4d4a9604bfd1ef09
-#EXTINF:-1,Spectrum Sportsnet Lakers
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=412c47d878e1a2172d587e6e9ed1c048&expiry=1735239573&token=0ce160321f3bde844ae7479e3124b7c4
-#EXTINF:-1,Spectrum Sportsnet Lakers
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=0c8ffd158468403753d1283a6cc72494&expiry=1735239573&token=bd5437381905e2e29d392b2c9a4ac9fa
-#EXTINF:-1,Bandsports HD
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=5fef83f9812d9092ba69378df234d846&expiry=1735239573&token=9d4b34bf550b551d4ce4c2368d023f41
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=12953fe49b39554e1eb3939a6865155e&expiry=1735302857&token=e69ace18838c9a95cbf8af6913acb50a
+#EXTINF:-1,US NBC Sports Philly F
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=96ba0a1ba3a18cd04c5751921afb2fee&expiry=1735302857&token=9b732e03428f70149dc54beb4782a48e
+#EXTINF:-1,US NBC Sports Washington F
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=424230d51bfe885120a64a5bf4f732ea&expiry=1735302857&token=828c6301e1455b18a666710d6aafb232
+#EXTINF:-1,US Spectrum SportsNet LA Dodgers HD
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=7d8bc6b0b93cb421fbe6deba4a816ff7&expiry=1735302857&token=d9c18dd81ee2e2dbc576dcbc465c8833
+#EXTINF:-1,US Spectrum SportsNet Lakers FHD
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=412c47d878e1a2172d587e6e9ed1c048&expiry=1735302857&token=8f2a4cec2f9145cd4084a50926b77977
+#EXTINF:-1,US Spectrum SportsNet Lakers FHD
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=0c8ffd158468403753d1283a6cc72494&expiry=1735302857&token=70ca621355ad59907981dba183dac815
+#EXTINF:-1,US Altitude Sports HD
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=5fef83f9812d9092ba69378df234d846&expiry=1735302857&token=0b780926d50ded81932ed389b718f4f3
 #EXTINF:-1,US CBS Sports Network HD
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=7e3af571685adde72abb078dc92297b5&expiry=1735239573&token=0a1814a3c6992af84cc90e7580dc5891
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=7e3af571685adde72abb078dc92297b5&expiry=1735302857&token=7d490ce6e37f3bc9faa976c6f7b3bba2
 #EXTINF:-1,US ESPNU College Sports
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=a0acb3908c8c5257e3a079a098d15b7f&expiry=1735239573&token=7dc83201ce7b349cd58f6fedbb123e16
-#EXTINF:-1,beIN Sports HD
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=4022b75eaf10bae48e79f037899baa46&expiry=1735239573&token=eb10ae7cebb1e15d48ba34c1606aa775
-#EXTINF:-1,beIN Sports HD
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=d415a9340bf62cc02fb0bc48de60ac53&expiry=1735239573&token=b3404edae133fac3165245fce9260ffa
-#EXTINF:-1,Sky Sports Football HD
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=56799f0f9ccaa990a0df6947f7d22a9d&expiry=1735239573&token=51725b1c349527710b4393535dbe1775
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=a0acb3908c8c5257e3a079a098d15b7f&expiry=1735302857&token=14b821d8119a90d27258fa64e46db2ef
+#EXTINF:-1,US Fox Sports
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=4022b75eaf10bae48e79f037899baa46&expiry=1735302857&token=eb4c8d320d2ae198696141d7a9f63444
+#EXTINF:-1,US Fox Sports  A
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=d415a9340bf62cc02fb0bc48de60ac53&expiry=1735302857&token=9344222e424f7db805ed1c29345d0000
+#EXTINF:-1,US Bally Sports North A
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=56799f0f9ccaa990a0df6947f7d22a9d&expiry=1735302857&token=d1cb6e2f10a71463478c97afc0205db8
 #EXTINF:-1,US Bally Sports Carolinas A
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=9666272c01d1162b93e9bc7c9c220b90&expiry=1735239573&token=d5dcb7630bf9f59775b4534b704282d3
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=9666272c01d1162b93e9bc7c9c220b90&expiry=1735302857&token=b45e2870edfdb25b06fc481d2b7d468f
 #EXTINF:-1,US Bally Sports South
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=d40ae8d2cb649c00e20de2fb6e8f02d4&expiry=1735239573&token=5e4d70061e327395e774cd873da77b33
-#EXTINF:-1,Sky Sports Football HD
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=adb76cab91a68da5fbe2dcdeb56f7861&expiry=1735239573&token=90c76d209114627153884ff162f61626
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=d40ae8d2cb649c00e20de2fb6e8f02d4&expiry=1735302857&token=9d65406ffac9f089ba5b79bbe4411499
+#EXTINF:-1,US Bally Sports South A
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=adb76cab91a68da5fbe2dcdeb56f7861&expiry=1735302857&token=743e09a6ac4e9d10f67034989c5956bb
 #EXTINF:-1,US Marquee Sports Network HD A
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=537d2dc207ca7e1669b829eb1b02a798&expiry=1735239573&token=809a0eb1934e4a2028c4733422c31b9a
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=537d2dc207ca7e1669b829eb1b02a798&expiry=1735302857&token=6a31c8bed2d1b2fea17f11a7aec53d58
 #EXTINF:-1,US Sportsnet New York SNY A
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=ec2d801567b4ae490bbf05cacd6b9f41&expiry=1735239573&token=2339e5a97baf4422c391eafe303b501c
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=ec2d801567b4ae490bbf05cacd6b9f41&expiry=1735302857&token=448f8be85772f76cc4b3d99ed3526180
 #EXTINF:-1,US Sportsman Channel A
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=3a72ac9c7b01a4a135bcbbed96296576&expiry=1735239573&token=3b81d1dde600b535b705f069bf4854fb
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=3a72ac9c7b01a4a135bcbbed96296576&expiry=1735302857&token=4e2667658ef605ad36d4c53832808f2e
 #EXTINF:-1,US Root Sports Network
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=05ec156efeb9e7dede34ca81acb1d3cf&expiry=1735239573&token=06a22fb6192b16cf2c4a26666373d162
-#EXTINF:-1,GAORA SPORTS HD
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=aed1cb4271daacb21ff320c66d8beae1&expiry=1735239573&token=1febedb2f3b04749f3d9d6c5588be7fa
-#EXTINF:-1,RAI Sport
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=37258347a292d420e663fdf74995064b&expiry=1735239573&token=36a23a6070214f9ea2cc02a8a71fc0f4
-#EXTINF:-1,GAORA SPORTS HD
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=a9e8dda8f83f5ecddb8c0181009aed76&expiry=1735239573&token=cddcfe443b96b483a8d9ef87e01c316d
-#EXTINF:-1,Sky Sports F1 HD
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=5d57486253efb6cab6cfd527ffe3e25d&expiry=1735239573&token=d287708c3e7f0a4ed776910c6eaf801a
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=05ec156efeb9e7dede34ca81acb1d3cf&expiry=1735302857&token=74b976379135805766eab482626105ab
+#EXTINF:-1,Carib RUSH Sports D
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=aed1cb4271daacb21ff320c66d8beae1&expiry=1735302857&token=b3427f4c60de1f490caac64677bb6b43
+#EXTINF:-1,Carib SPORT MAX P
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=37258347a292d420e663fdf74995064b&expiry=1735302857&token=922e6ff57b73d05207d64484d6bb5464
+#EXTINF:-1,Carib RUSH Sports D
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=a9e8dda8f83f5ecddb8c0181009aed76&expiry=1735302857&token=d4a0ef7f55470c0ac6cd7bcbf6e35bdd
+#EXTINF:-1,US Bally Sports Sun
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=5d57486253efb6cab6cfd527ffe3e25d&expiry=1735302857&token=36bfc7790941e2e3c38f149a2412d20c
 #EXTINF:-1,US ATT SportsNet Pittsburgh
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=a605e792cda8d7d7fcbec2f0f5643a4a&expiry=1735239573&token=764b2982096b8107d91fe506138bec16
-#EXTINF:-1,DocuBox HD
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=6d34cebdfe842b94269266c37bef3d9f&expiry=1735239573&token=36a6b610635c879b7fa56a209ea5e899
-#EXTINF:-1,Sky Sports F1 HD
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=e23214071faf92806aed06decebc4905&expiry=1735239573&token=407e25163e0b39bda3972aa54c1b91b2
-#EXTINF:-1,GAORA SPORTS HD
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=c4b69ae1421e6a9a9f01b041bae5863a&expiry=1735239573&token=18fbcac12166d4d1ae23c9b0a402cf11
-#EXTINF:-1,GAORA SPORTS HD
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=e170342c0aba1ee6a1861092678b9bef&expiry=1735239573&token=a5dd227c9d6708a1c3e570a7fcc39e07
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=a605e792cda8d7d7fcbec2f0f5643a4a&expiry=1735302857&token=8650aacb9065baf71778f49a0c3e086b
+#EXTINF:-1,DOCUBOX NETFLIX
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=6d34cebdfe842b94269266c37bef3d9f&expiry=1735302857&token=e6aefb39a2c2f681a636ab061b6cef2d
+#EXTINF:-1,CAR SPORTSMAX
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=e23214071faf92806aed06decebc4905&expiry=1735302857&token=aeb99638af7008db648e3213b35e5d0a
+#EXTINF:-1,Star TV Sports
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=c4b69ae1421e6a9a9f01b041bae5863a&expiry=1735302857&token=bc6ba1aad69de998d02542c632a35305
+#EXTINF:-1,Star TV Sports
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=e170342c0aba1ee6a1861092678b9bef&expiry=1735302857&token=6e2bc70acb9e76c94c263dd7521f262e
 #EXTINF:-1,UFC
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=41706a9a7fe8ff430a18c6e8388206b1&expiry=1735239573&token=c113500db15f7ad052ab0cd5858e5ce7
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=41706a9a7fe8ff430a18c6e8388206b1&expiry=1735302857&token=5d5e4dd43c196e741017df290d50f46f
 #EXTINF:-1,US UFC  HD
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=71d27ffb21c54fccb2696f100943f985&expiry=1735239573&token=52d9e99fc789e3f7ffd0e010d31c6945
-#EXTINF:-1,Sportv
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=9a913e0534905b2203ea6420d8befb57&expiry=1735239573&token=f4e798126554db16964d712b9fcc6bb3
-#EXTINF:-1,Sportv
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=123c03af6422f83c86343330a755761a&expiry=1735239573&token=597d2c862f191bce8cacfa87193f436d
-#EXTINF:-1,Sportv
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=c843d90777dd447d43f2100fa109e2ca&expiry=1735239573&token=4183427ba16c779323d634f89bc8fca8
-#EXTINF:-1,Sportv
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=71bdf1d717e51e7b5d4927dd53a542f4&expiry=1735239573&token=365829c757a440577eb3e9c7d73a01d5
-#EXTINF:-1,Premier Sports
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=cc4f45334ec4406d9c9a2ce3185502e4&expiry=1735239573&token=8cf66e7f386195105281e799d8239337
-#EXTINF:-1,Premier Sports
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=bd7f1735def74183c934ba3ad94c0357&expiry=1735239573&token=782bda974d749890462add0fb2160c8a
-#EXTINF:-1,Premier Sports
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=47fcb47c2285db01c8677fd6294b9db2&expiry=1735239573&token=b8a64532b5335d54415541317f64f662
-#EXTINF:-1,Eurosport 1
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=ea8e0814caad6aa2ab063bb134b82765&expiry=1735239573&token=fd0ac9c66bfcc038cc441fe35fd32436
-#EXTINF:-1,GAORA SPORTS HD
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=fdc86dced1b564443d09c458ca851f7d&expiry=1735239573&token=3646a66e512ecba42efb540664460db2
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=71d27ffb21c54fccb2696f100943f985&expiry=1735302857&token=eca034f15a07c31b6d9c903dd6ec12b6
+#EXTINF:-1,PT SPORT TV  FHD
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=9a913e0534905b2203ea6420d8befb57&expiry=1735302857&token=831de619162171f7aa67f090fe62624f
+#EXTINF:-1,PT SPORT TV  HD
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=123c03af6422f83c86343330a755761a&expiry=1735302857&token=2f86c7197638a688189aba7c02410f84
+#EXTINF:-1,PT SPORT TV  HD
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=c843d90777dd447d43f2100fa109e2ca&expiry=1735302857&token=c37b1193894046cf47bde14312f47c18
+#EXTINF:-1,PT SPORT TV  FHD
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=71bdf1d717e51e7b5d4927dd53a542f4&expiry=1735302857&token=daa8922ae33a6a5830a56cd4b76fd4f4
+#EXTINF:-1,PT ELEVEN SPORTS  HD
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=cc4f45334ec4406d9c9a2ce3185502e4&expiry=1735302857&token=354f5b2646524827e02044ef4ab731fb
+#EXTINF:-1,PT ELEVEN SPORTS  HD
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=bd7f1735def74183c934ba3ad94c0357&expiry=1735302857&token=8785199a42442ca4bd61911f901d5368
+#EXTINF:-1,PT ELEVEN SPORTS  HD
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=47fcb47c2285db01c8677fd6294b9db2&expiry=1735302857&token=a57eccfe0f2aebfc1a3e94a7672d439a
+#EXTINF:-1,AU FOX SPORTS
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=ea8e0814caad6aa2ab063bb134b82765&expiry=1735302857&token=736ec0a7ea58fd13883a51a56d2cd082
+#EXTINF:-1,CAFR  TVA SPORTS
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=fdc86dced1b564443d09c458ca851f7d&expiry=1735302857&token=3b3c09dee59ca0957ecb78c89013c6ca
 #EXTINF:-1,CA Sportsnet East D
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=6c703d90ba05ed46d1e66811f8de89dc&expiry=1735239573&token=2779fef7d5bb92e1af0a4a232d8aae66
-#EXTINF:-1,Sky Sports Cricket
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=4b2b05920e7694a9333983c87ef9324a&expiry=1735239573&token=20bef215cae850197d77ca88f25e57c4
-#EXTINF:-1,beIN Sports HD
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=204cde3236a1c06ac5083183ef42cf7b&expiry=1735239573&token=00a0389c1b886b532aaadf9b5cc4dfe5
-#EXTINF:-1,J SPORTS 1 HD
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=88caefa428df3b7158b5d9d99fb87ce9&expiry=1735239573&token=5060fdc8142e2d187a8c2b2b273dc7c2
-#EXTINF:-1,J SPORTS 1 HD
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=e297f96c8c9d8b99f850c8e3a38212f4&expiry=1735239573&token=e1426b11fa5cf5d735da2d1522463394
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=6c703d90ba05ed46d1e66811f8de89dc&expiry=1735302857&token=f9cc1dacb330657fb6928a0a9922f92d
+#EXTINF:-1,CA Sportsnet One E
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=4b2b05920e7694a9333983c87ef9324a&expiry=1735302857&token=d56054ed4010e65dc82cfb0b8eff720e
+#EXTINF:-1,CA Ginx esports TV
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=204cde3236a1c06ac5083183ef42cf7b&expiry=1735302857&token=d57d010031256ba1c621ee272af7a166
+#EXTINF:-1,CA Sportsnet  HD
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=88caefa428df3b7158b5d9d99fb87ce9&expiry=1735302857&token=76d7e7d7b21c6b19d20500dfd3e2ad45
+#EXTINF:-1,CA Sportsnet  HD
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=e297f96c8c9d8b99f850c8e3a38212f4&expiry=1735302857&token=3440ccfad922e2cf0a8555e75f8aefc5
 #EXTINF:-1,CA Sportsnet East HD F
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=5a836c324b9c7b7e751adf9345323e04&expiry=1735239573&token=2f7c9580e0655fb5cd5504ce8de0a2e0
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=5a836c324b9c7b7e751adf9345323e04&expiry=1735302857&token=043522fb7502ce434e4bad030f662717
 #EXTINF:-1,CA Sportsnet One FHD
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=8f0ef074cbb17c52fae472d3cb961a7e&expiry=1735239573&token=34ce637f49cf4ffe85616e6f8246d887
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=8f0ef074cbb17c52fae472d3cb961a7e&expiry=1735302857&token=d394e3258caf2bcdd65e6fb3732b03ee
 #EXTINF:-1,CA Sportsnet One HD
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=6d80da31e9196b1f4ae1b23dfb6334b8&expiry=1735239573&token=8b5a35d6a7a4cd96c48287e13aee9ec7
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=6d80da31e9196b1f4ae1b23dfb6334b8&expiry=1735302857&token=ce7c7769883e5c62fc85b8e0c634a37a
 #EXTINF:-1,CA Sportsnet Ontario
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=be1a59467d36f6d41075418ccf6ff856&expiry=1735239573&token=eb6d68e683746839145f8bbd81a20cc1
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=be1a59467d36f6d41075418ccf6ff856&expiry=1735302857&token=b29f87ed4e6b0a5c37c729e9c81c0e0b
 #EXTINF:-1,CA Sportsnet Ontario HD
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=05558a3fca2cfa93f692eff295150785&expiry=1735239573&token=05e517e2dc046477592f08c925703274
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=05558a3fca2cfa93f692eff295150785&expiry=1735302857&token=dbb17b2c9a5445e836f075a062699b8b
 #EXTINF:-1,CA Sportsnet Ontario FHD
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=d3ddb3d519873a2478e2f910424e6c68&expiry=1735239573&token=7bae845c4c124b741ea256125122215d
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=d3ddb3d519873a2478e2f910424e6c68&expiry=1735302857&token=c8253c2f3a3f675fd182af6759f325ae
 #EXTINF:-1,CA Sportsnet Pacific FHD
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=8e5d04a17a683289369ba7719d869cf4&expiry=1735239573&token=865218148eda1b18491036d18e324463
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=8e5d04a17a683289369ba7719d869cf4&expiry=1735302857&token=df88903e360a22b9b0dedd66ba6fcc99
 #EXTINF:-1,CA Sportsnet Pacific HD
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=debec20aa922cb2a6ae8824608e314f7&expiry=1735239573&token=32547b875a436d19bd651305e6b832c3
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=debec20aa922cb2a6ae8824608e314f7&expiry=1735302857&token=05dd07bd8cecaeffd22a00a8811512fd
 #EXTINF:-1,CA Sportsnet West FHD
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=d16836c7c66c0260fbfdfc373b881834&expiry=1735239573&token=ac0d86e4c142b0e75f4ee6e6a3ec5efe
-#EXTINF:-1,Sky Sports Cricket
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=e3c8f130854f42d9670d259a5e2d86fc&expiry=1735239573&token=637db3ff4efadcb73ed85473534dcf2d
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=d16836c7c66c0260fbfdfc373b881834&expiry=1735302857&token=8a74d6594d625efdc6046424c4961926
+#EXTINF:-1,CA SPORTSNET WEST
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=e3c8f130854f42d9670d259a5e2d86fc&expiry=1735302857&token=d3721d910389327caf29183ca05ee0bf
 #EXTINF:-1,CA Sportsnet World HD
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=cb1bad99523a90003fca0d2fdc1b0596&expiry=1735239573&token=4e4031387e643dac81c3458eb56c3830
-#EXTINF:-1,GAORA SPORTS HD
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=c2a76a68ab7fa5ed03f2cd03ae068896&expiry=1735239573&token=cd8771a94a7936a532ef5730e0e667a2
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=cb1bad99523a90003fca0d2fdc1b0596&expiry=1735302857&token=a0afaa1dc2cca1ae0ba4f384d06bdd75
+#EXTINF:-1,CA FR TVA Sports
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=c2a76a68ab7fa5ed03f2cd03ae068896&expiry=1735302857&token=55ec54f745368b545681cfb502e9c049
 #EXTINF:-1,Carib Flow Sports D
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=283561dc169758ec1292ba4726a8696c&expiry=1735239573&token=974cabb59c7029ef3eb7af748bd12253
-#EXTINF:-1,RAI Sport
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=044ba2cd00424c3d410acc8dd153d854&expiry=1735239573&token=7d8eb98550186cae5d0a4ad4d65c0e48
-#EXTINF:-1,beIN Sports HD
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=b66ff65adb472a37c74f91b530168750&expiry=1735239573&token=d3e786f2b84d7a15c93ddfc8064743b7
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=283561dc169758ec1292ba4726a8696c&expiry=1735302857&token=91a762501831a9c4d9b8f3a4f887d12a
+#EXTINF:-1,Carib SPORT MAX P
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=044ba2cd00424c3d410acc8dd153d854&expiry=1735302857&token=c20998569a9031123b04454c660494ac
+#EXTINF:-1,Carib TVJSports
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=b66ff65adb472a37c74f91b530168750&expiry=1735302857&token=047eb95fb71ed7c0ef94e3d365ecff7c
 #EXTINF:-1,COL WIN SPORTS PLUS HD EXCLUSIVO
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=d4da4fe34f98182fefe4e13ff4c58697&expiry=1735239573&token=a407604ac73740dce9aef74e809950bf
-#EXTINF:-1,beIN Sports HD
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=0140e5dac801c3869b1c891849de0087&expiry=1735239573&token=0fdfcb2b9ec1d919d0d56fd51ebc6393
-#EXTINF:-1,beIN Sports HD
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=d7f14eab38e7c3a7acceaade501e1540&expiry=1735239573&token=f1c18b443750adf4e1539e2fb5198632
-#EXTINF:-1,Eurosport 1
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=6f531e9a69d0484dbd8ed4180065a23c&expiry=1735239573&token=83c3f464a5aaa9b7d800c8b37163ce3e
-#EXTINF:-1,Sky Sports Cricket
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=50d8e041ae762007a530a1c4334fb60e&expiry=1735239573&token=77fadd571cc5607e7631a932b339d545
-#EXTINF:-1,Sky Sports F1 HD
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=12fc54ebb8188aa1bcd0fc4612351a98&expiry=1735239573&token=dec66a358f12b7d901a1428c2fff97f7
-#EXTINF:-1,Sky Sports F1 HD
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=f427310c2d222fb487ccdb6f25939e1a&expiry=1735239573&token=27a6ed292c07db945c7dc3eb7d7944d5
-#EXTINF:-1,Sky Sports F1 HD
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=cbef787b991652732f4bc647750316b0&expiry=1735239573&token=da9cde0f16d961229b7f35cb8e2a2f67
-#EXTINF:-1,Sky Sports Main Event HD
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=c64f3163d36edc062fb9575796b7a25b&expiry=1735239573&token=3fb1167048e24aecfc06b67bf1b0ebf5
-#EXTINF:-1,Sky Sports F1 HD
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=9cb4cd53e1f0c978e79a83e6430ba14d&expiry=1735239573&token=c824d836ee2cd81072ccba0f07330d89
-#EXTINF:-1,Sky Sports NFL
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=707db49b7f8d6b56e9dcb03da4995ff3&expiry=1735239573&token=eeddfa3474e60f45a9c9e774b69d9a06
-#EXTINF:-1,Sky Sports Cricket
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=80ab0d009c42c29ebc4cd489dc56ba91&expiry=1735239573&token=0134c2d1e5abffff007965c9cd78fa97
-#EXTINF:-1,Sky Sports F1 HD
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=5bb86f9b93255d1a3b65844249d2c4d0&expiry=1735239573&token=88bd7d41286029c2a04f956d7ffc71a7
-#EXTINF:-1,Sky Sports Football HD
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=e4bb51de1b59e998fe2309b6db1bced3&expiry=1735239573&token=2ba2650e2711df7dd9112a656dd12098
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=d4da4fe34f98182fefe4e13ff4c58697&expiry=1735302857&token=52375926d7e8005219d0efbe5594e297
+#EXTINF:-1,CO Win Sports  FHD
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=0140e5dac801c3869b1c891849de0087&expiry=1735302857&token=97a02d4de053ac915f996e599e187d22
+#EXTINF:-1,US FOX Sports
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=d7f14eab38e7c3a7acceaade501e1540&expiry=1735302857&token=b1f40e3f37756961a5cdf39611f8257a
+#EXTINF:-1,UK EuroSport  UK P
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=6f531e9a69d0484dbd8ed4180065a23c&expiry=1735302857&token=a0f6b5c603554d17c14da7d95dd58d2f
+#EXTINF:-1,UKSky Sports Action
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=50d8e041ae762007a530a1c4334fb60e&expiry=1735302857&token=7c44f74cb0e2f4b40fdebf30b2e394dd
+#EXTINF:-1,UKSky Sports Arena
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=12fc54ebb8188aa1bcd0fc4612351a98&expiry=1735302857&token=fe74731d66b0a7d154584937597e683c
+#EXTINF:-1,UK Sky Sports F FHD D
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=f427310c2d222fb487ccdb6f25939e1a&expiry=1735302857&token=89d51c7d78a325f2ed1819d83e01315e
+#EXTINF:-1,UK Sky Sports Golf FHD
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=cbef787b991652732f4bc647750316b0&expiry=1735302857&token=a038d0088f7ba99879d29cd8dc584c68
+#EXTINF:-1,UKSky Sports Main Event
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=c64f3163d36edc062fb9575796b7a25b&expiry=1735302857&token=f4cb66f0e26e773ce7254f2eff3aef00
+#EXTINF:-1,UK Sky Sports Mix FHD D
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=9cb4cd53e1f0c978e79a83e6430ba14d&expiry=1735302857&token=7ea482f2d0ece0b59b79f1d9f56dc664
+#EXTINF:-1,UKSky Sports News
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=707db49b7f8d6b56e9dcb03da4995ff3&expiry=1735302857&token=13c8951289429047ad80bca89a5c0c44
+#EXTINF:-1,UK Sky Sports Cricket FHD D
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=80ab0d009c42c29ebc4cd489dc56ba91&expiry=1735302857&token=4fecaf11be7761e54ffb1e1ed1f84fdc
+#EXTINF:-1,UK Sky Sports F FHD
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=5bb86f9b93255d1a3b65844249d2c4d0&expiry=1735302857&token=7c6e93dd9dee3ab514c2866b93b2e2a7
+#EXTINF:-1,US Bally Sports Southeast
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=e4bb51de1b59e998fe2309b6db1bced3&expiry=1735302857&token=5370c3b438520ab5add62c9f5b6716dd
 #EXTINF:-1,US NBC Sports Network F
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=953e901d13c613146605de2036f33b16&expiry=1735239573&token=3919c3b94a1a4340d0c60f6027523cd4
-#EXTINF:-1,Sky Sport Austria
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=d9e3e742da35dff9d8ca4d0426a7777c&expiry=1735239573&token=3912f85487236ec613a87c110c29c03c
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=953e901d13c613146605de2036f33b16&expiry=1735302857&token=34c53fa6b322dcc6ad48749a142a1850
+#EXTINF:-1,US Bally Sports Detroit A
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=d9e3e742da35dff9d8ca4d0426a7777c&expiry=1735302857&token=969df040bf337564cb18c9d25d9e65eb
 #EXTINF:-1,US Bally Sports Midwest A
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=3a92c12d2948db01c383d20f43da1567&expiry=1735239573&token=36e7ae95bf12d282b4aecae0f6560499
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=3a92c12d2948db01c383d20f43da1567&expiry=1735302857&token=d7501871842cbc1eea5658753a925a6c
 #EXTINF:-1,US Bally Sports Oklahoma A
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=f841a20b565730460385042b8a1d8e7e&expiry=1735239573&token=68a86b3a43b7ab6376d0ad10d904cb40
-#EXTINF:-1,Sky Sports Football HD
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=72e7b03a765258590747f3dcd1a84619&expiry=1735239573&token=1248556070b7d6618ddcf91fc83d0694
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=f841a20b565730460385042b8a1d8e7e&expiry=1735302857&token=9ccd6cbb95c340e40ff4dab8bb476448
+#EXTINF:-1,US Bally Sports Southeast
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=72e7b03a765258590747f3dcd1a84619&expiry=1735302857&token=b2d2e89f4c538a975eba30c6fabe6b3d
 #EXTINF:-1,US Bally Sports Southwest
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=941c208b4e1581ded296b6aaab8a0a1f&expiry=1735239573&token=64761e49cbaca6d29a105f6ffc70ba79
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=941c208b4e1581ded296b6aaab8a0a1f&expiry=1735302857&token=4ec77da6a4b715df068399dd55dcac10
 #EXTINF:-1,US Bally Sports West
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=3b3b0359b3fb9eaa810579b750afb3c7&expiry=1735239573&token=9680424df33018d37498d4c74b862328
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=3b3b0359b3fb9eaa810579b750afb3c7&expiry=1735302857&token=e1ec5d157d31aec1e43ac589e69bc614
 #EXTINF:-1,US Bally Sports Wisconsin
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=e6bf817ea3004a8cb2388d95ffdcf580&expiry=1735239573&token=67f7a4e23f57c268190a53ba18daa32e
-#EXTINF:-1,Premier Sports
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=3d8806289c9119f31d1d3a143c526226&expiry=1735239573&token=9275da536bf261697356801263a43525
-#EXTINF:-1,Sky Sports Football HD
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=7bd14de372986454d3ba53d7942fc883&expiry=1735239573&token=34e9d88fd29d8fd896d90296a93ae8ec
-#EXTINF:-1,Sky Sport Austria
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=982bf74d0d10bdab56c124f6cd7a423c&expiry=1735239573&token=e5e27751c10533d208c5c184fff9447b
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=e6bf817ea3004a8cb2388d95ffdcf580&expiry=1735302857&token=e906fd75b67957035cc3339985dce169
+#EXTINF:-1,PT Eleven Sports  FHD
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=3d8806289c9119f31d1d3a143c526226&expiry=1735302857&token=2f9ca5e7dec991a31047e8d6505b6efd
+#EXTINF:-1,US Bally Sports North A
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=7bd14de372986454d3ba53d7942fc883&expiry=1735302857&token=ab02ec60afd788aed1edb37147add9db
+#EXTINF:-1,US Bally Sports Detroit
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=982bf74d0d10bdab56c124f6cd7a423c&expiry=1735302857&token=43c3f1c9c9a0b6886fd293d00b3633a0
 #EXTINF:-1,US Bally Sports Ohio A
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=74894b23c350a6fd5d72388ffb653c55&expiry=1735239573&token=94526ccdb91ed2aba1d5a26d2fb0454d
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=74894b23c350a6fd5d72388ffb653c55&expiry=1735302857&token=edc72f9267c41ab71bb4853f639a4e38
 #EXTINF:-1,US NBC Sports Bay Area A
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=1eacc0d04b13b99758bb6fd46a12c02d&expiry=1735239573&token=38977b361838c43378a770a2b501ccdc
-#EXTINF:-1,Sky Sport Austria
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=3f7120f97ebe5179f76463ebded14d00&expiry=1735239573&token=0437fa74a9e400232fa6a82efad8bce8
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=1eacc0d04b13b99758bb6fd46a12c02d&expiry=1735302857&token=2df61e3c00cd150949808f29b9360047
+#EXTINF:-1,US NBC Sports Boston A
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=3f7120f97ebe5179f76463ebded14d00&expiry=1735302857&token=4806cf0b898b46e3d8cecd592c03e1e8
 #EXTINF:-1,US NBC Sports California A
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=2eb0ca455c07b3570afc761628a134e2&expiry=1735239573&token=17499c29964f314554983ce69e01192a
-#EXTINF:-1,Sky Sports Cricket
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=5baa146d12ca8ae688625c42f3b5e238&expiry=1735239573&token=415cccdde8d39fdd16c5c42606aa2e24
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=2eb0ca455c07b3570afc761628a134e2&expiry=1735302857&token=fb89567fc9c06c0c88be646170dc2c42
+#EXTINF:-1,US NBC Sports Chicago
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=5baa146d12ca8ae688625c42f3b5e238&expiry=1735302857&token=2de354fa52740be18d382e1f2e050876
 #EXTINF:-1,US NBC Sports Network FHD
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=46e3d7ca70498637ca85028e8bccbc17&expiry=1735239573&token=22b8bfb14d48aa9fa38aa80341154ade
-#EXTINF:-1,Astro Sports Plus
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=2f07423fe224a85d1a11dee70987ca73&expiry=1735239573&token=8dcd155d048311e6eb62520d5f4ab8d1
-#EXTINF:-1,Sky Sports Main Event HD
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=118168edf68df54d47b73fe254518ead&expiry=1735239573&token=05fa77c867440d4ee367930cc210218f
-#EXTINF:-1,Spectrum Sportsnet Lakers
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=e0fe7578e900c6701fb3a2408e70bdeb&expiry=1735239573&token=5121c131174b96563331dd7facc2492d
-#EXTINF:-1,Spectrum Sportsnet Lakers
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=dd51ca7a1f6e8984c65ac562bf3a7842&expiry=1735239573&token=1c5a38e3a20840ff65c7b33f27200a02
-#EXTINF:-1,Spectrum Sportsnet Lakers
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=9d702402fc205cfd8a91ec567c349686&expiry=1735239573&token=df34dddd7ceabf1301ef5d9e2c3b1bb6
-#EXTINF:-1,Bandsports HD
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=2a714b32a8ee38acecd7c04e2b8a7948&expiry=1735239573&token=1b417e871f0a4d69627f24e84fc78850
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=46e3d7ca70498637ca85028e8bccbc17&expiry=1735302857&token=140850ae91d9a5787cc8ea83c4e4940d
+#EXTINF:-1,US NBC Sports Philly F
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=2f07423fe224a85d1a11dee70987ca73&expiry=1735302857&token=2715512f88049e183e4c0c6d4fdf8951
+#EXTINF:-1,US NBC Sports Washington F
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=118168edf68df54d47b73fe254518ead&expiry=1735302857&token=19c9fac3387b888bc41403fed76c443b
+#EXTINF:-1,US Spectrum SportsNet LA Dodgers HD
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=e0fe7578e900c6701fb3a2408e70bdeb&expiry=1735302857&token=ccd5040c38c3f893ca1427ad328c5fbc
+#EXTINF:-1,US Spectrum SportsNet Lakers FHD
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=dd51ca7a1f6e8984c65ac562bf3a7842&expiry=1735302857&token=f6c83178efbe19b42324bd9c2cf419e4
+#EXTINF:-1,US Spectrum SportsNet Lakers FHD
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=9d702402fc205cfd8a91ec567c349686&expiry=1735302857&token=cbcafe83946a062e0ce2d94ba0641e62
+#EXTINF:-1,US Altitude Sports HD
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=2a714b32a8ee38acecd7c04e2b8a7948&expiry=1735302857&token=0081ed0ba01bfea33af51a281bdfe6ab
 #EXTINF:-1,US CBS Sports Network HD
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=dd38f8d967c25b1c27297c4d68e43445&expiry=1735239573&token=89fc524cdada602eeebe8fbed6c0ba16
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=dd38f8d967c25b1c27297c4d68e43445&expiry=1735302857&token=6253261283c03f314d1ac0e4e54a16d6
 #EXTINF:-1,US ESPNU College Sports
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=7226b5423be249db0c01660ff2499b38&expiry=1735239573&token=c661e2531c6e29d4be6a693dea832c93
-#EXTINF:-1,beIN Sports HD
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=d258a6e1b498f6dba8fb25ffc7600843&expiry=1735239573&token=d728a44f25b8661a9cdf1c3cb169bf1c
-#EXTINF:-1,beIN Sports HD
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=ed685db917f8eea8d2cd748d7b7b0d5a&expiry=1735239573&token=832e6e0cfd7ec6f98d3119acf33f7a81
-#EXTINF:-1,Sky Sports Football HD
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=ff1d8e084e1505dab49ce8abe8b0c824&expiry=1735239573&token=cea741dcf71610b6be6166f396abf0cc
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=7226b5423be249db0c01660ff2499b38&expiry=1735302857&token=38681027d17b5758c03eae4e6d0cecf2
+#EXTINF:-1,US Fox Sports
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=d258a6e1b498f6dba8fb25ffc7600843&expiry=1735302857&token=9911f93d850519935684c37ec136ba33
+#EXTINF:-1,US Fox Sports  A
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=ed685db917f8eea8d2cd748d7b7b0d5a&expiry=1735302857&token=de65029077932840add0eaa75e663d7e
+#EXTINF:-1,US Bally Sports North A
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=ff1d8e084e1505dab49ce8abe8b0c824&expiry=1735302857&token=f7e6d7dafde2564b920a317c51962f3f
 #EXTINF:-1,US Bally Sports Carolinas A
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=2991a86de89e908b8343d6718f8d3543&expiry=1735239573&token=3dcbe20b0cc995f1fc03f20343f68b31
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=2991a86de89e908b8343d6718f8d3543&expiry=1735302857&token=20c42a0bd54b79f6e89399f92416d530
 #EXTINF:-1,US Bally Sports South
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=f14c47749dd800482975d3d4971cabe4&expiry=1735239573&token=1162dca2de0c012519b06ae311f8f2fe
-#EXTINF:-1,Sky Sports Football HD
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=c3cabe3d3051831897a90d2ff3f39b34&expiry=1735239573&token=c8d1527921eed6858019772814f2c5d0
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=f14c47749dd800482975d3d4971cabe4&expiry=1735302857&token=c619bec8f31dbb8892a7146424a48aea
+#EXTINF:-1,US Bally Sports South A
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=c3cabe3d3051831897a90d2ff3f39b34&expiry=1735302857&token=0a794c814e7d2612ed3e3a2bb46f7f91
 #EXTINF:-1,US Marquee Sports Network HD A
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=fc55740892ae47ec78a6446dc3a9ee41&expiry=1735239573&token=ab4b1361cac2d8e24661f0e1cd452056
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=fc55740892ae47ec78a6446dc3a9ee41&expiry=1735302857&token=a751fb56b0c379d5540b542b38fdae52
 #EXTINF:-1,US Sportsnet New York SNY A
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=391f103139857a866e12d336b2b6833b&expiry=1735239573&token=33dcbd22df8b40fe0daa10b53bc44e0b
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=391f103139857a866e12d336b2b6833b&expiry=1735302857&token=6c0f123ad3d2385512f921e2c6841064
 #EXTINF:-1,US Sportsman Channel A
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=af98c57c176da8a6333ae4ad9108bde4&expiry=1735239573&token=ac59f30dccf1ddb098ac95131c7095e1
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=af98c57c176da8a6333ae4ad9108bde4&expiry=1735302857&token=804ff85726ccbe3454b5e20c3ef9ded1
 #EXTINF:-1,US Root Sports Network
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=6ca6da43061fb5fcb5478e7b634d9048&expiry=1735239573&token=7a20f08770693a772ac34e033491356a
-#EXTINF:-1,GAORA SPORTS HD
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=10f7ccb9b49c28169490fa9f4a199cd5&expiry=1735239573&token=a61f61ad3ed0e58f757be439ca18e224
-#EXTINF:-1,RAI Sport
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=a09d7839dd611c16c6d6b5486587c353&expiry=1735239573&token=d71e0a52bfd84095937696b16d8b65a7
-#EXTINF:-1,GAORA SPORTS HD
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=093f671d80499c3f5f2def62dc523e6f&expiry=1735239573&token=f772012bc7b08fb8e7bf0f7451414a54
-#EXTINF:-1,Sky Sports F1 HD
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=85dd4ceabfeca39fd5736a7b3313cf5a&expiry=1735239573&token=19e0cffee14e3ca85657f6811738355b
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=6ca6da43061fb5fcb5478e7b634d9048&expiry=1735302857&token=81e8128d3ec1b33b5083f94374c57493
+#EXTINF:-1,Carib RUSH Sports D
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=10f7ccb9b49c28169490fa9f4a199cd5&expiry=1735302857&token=d5d752e057fba87f72435b745f4cab4b
+#EXTINF:-1,Carib SPORT MAX P
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=a09d7839dd611c16c6d6b5486587c353&expiry=1735302857&token=d3fa5b6bbe9335a2db680021a266aebf
+#EXTINF:-1,Carib RUSH Sports D
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=093f671d80499c3f5f2def62dc523e6f&expiry=1735302857&token=b5374a1d82adcac7bf50d83e5b49d1d9
+#EXTINF:-1,US Bally Sports Sun
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=85dd4ceabfeca39fd5736a7b3313cf5a&expiry=1735302857&token=827b79d63be5d442e99f62f013d25844
 #EXTINF:-1,US ATT SportsNet Pittsburgh
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=f44558da9583150ffef2d22901b0bf00&expiry=1735239573&token=40ea157ae977cdd617922ed7ab2554c5
-#EXTINF:-1,DocuBox HD
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=41dba87bb2549550ef27488091b950b8&expiry=1735239573&token=2262db301fb0c5617689a4df430bbb28
-#EXTINF:-1,Sky Sports F1 HD
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=34c04dc9cc1fcb8c6c7c3df113b1c592&expiry=1735239573&token=e8e5cf998a6bf4124497c4dd380e6960
-#EXTINF:-1,GAORA SPORTS HD
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=71e2fe807f63f3ec8eaf1cfc2e3cedd9&expiry=1735239573&token=b2933b6aa8a46c37cdffc09b802c4cc8
-#EXTINF:-1,GAORA SPORTS HD
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=fb914f33716a524d6d06e086e98c4cc2&expiry=1735239573&token=e0f7ec9d3a5383941ccb30520a0c2dd4
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=f44558da9583150ffef2d22901b0bf00&expiry=1735302857&token=e19683a88d332b9c84400470cbf25dd5
+#EXTINF:-1,DOCUBOX NETFLIX
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=41dba87bb2549550ef27488091b950b8&expiry=1735302857&token=e1b61e44b75d70f1ea6584e7eb393ce0
+#EXTINF:-1,CAR SPORTSMAX
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=34c04dc9cc1fcb8c6c7c3df113b1c592&expiry=1735302857&token=aac8644e39c6ca9aaf6953bebd5c4766
+#EXTINF:-1,Star TV Sports
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=71e2fe807f63f3ec8eaf1cfc2e3cedd9&expiry=1735302857&token=5e292d2cc5be8bc1e68654197605c793
+#EXTINF:-1,Star TV Sports
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=fb914f33716a524d6d06e086e98c4cc2&expiry=1735302857&token=7106e1813e684a30ae0cf3104b05ea69
 #EXTINF:-1,UFC
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=1f9d965c5377f1f52b2c1418c8444193&expiry=1735239573&token=7aaf608fbd55787f5a28f8178823d7c9
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=1f9d965c5377f1f52b2c1418c8444193&expiry=1735302857&token=adeaec821c328590e26bc8111b9ce7b6
 #EXTINF:-1,US UFC  HD
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=375769b17cd8f659cf4c5fafe1823f13&expiry=1735239573&token=b05b1eafc0ae898bd6b2d9a8828b0caf
-#EXTINF:-1,Sportv
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=756791c81c6ae2efb75ee23fef852312&expiry=1735239573&token=53fff051087c2596e83c6c5645a12cbc
-#EXTINF:-1,Sportv
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=b4f334ebe6c84685e270de52dba8750f&expiry=1735239573&token=9f77e3a214c5860fb759361235f6f769
-#EXTINF:-1,Sportv
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=3947cae89cfabf7f5e05d78c8ec8c4ca&expiry=1735239573&token=0a7f7d8eaa44d8a09da706a03c950b2a
-#EXTINF:-1,Sportv
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=ba42b87980b9233bc1f7299a621def3f&expiry=1735239573&token=7411ac89d657992c5d6e52e48d0ac2ec
-#EXTINF:-1,Premier Sports
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=dcb21c06f7e85e9dc93c79023af0ccd3&expiry=1735239573&token=ec27ab79735dbca7fdd62e5946c8ddfb
-#EXTINF:-1,Premier Sports
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=17939c0625981ac33c6b23f1132b3fda&expiry=1735239573&token=b9f81a59595410baafef0d9ee33024bb
-#EXTINF:-1,Premier Sports
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=1873b90b3a1ca38bc542331e37e3c70c&expiry=1735239573&token=268a57ba21ab11606864f09eab0d4dfe
-#EXTINF:-1,Eurosport 1
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=a61af1e807b7752ec1b3850500b7b830&expiry=1735239573&token=123e51dd1ccef270855019b970fd1405
-#EXTINF:-1,GAORA SPORTS HD
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=3d37dc0dbcf79772e4e3ef43edfe1d3e&expiry=1735239573&token=e2080011ca54b4b3055ae516dd196d50
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=375769b17cd8f659cf4c5fafe1823f13&expiry=1735302857&token=ae3a3bdcc415131dbc0023c6f49fcafe
+#EXTINF:-1,PT SPORT TV  FHD
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=756791c81c6ae2efb75ee23fef852312&expiry=1735302857&token=e05134af1ad37db635f4002e36377159
+#EXTINF:-1,PT SPORT TV  HD
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=b4f334ebe6c84685e270de52dba8750f&expiry=1735302857&token=9c20802c402f56d9af5ac26242a7e221
+#EXTINF:-1,PT SPORT TV  HD
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=3947cae89cfabf7f5e05d78c8ec8c4ca&expiry=1735302857&token=ec5c21d67ec6c902b7a0213ef34b5cbc
+#EXTINF:-1,PT SPORT TV  FHD
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=ba42b87980b9233bc1f7299a621def3f&expiry=1735302857&token=57b0a4b41fd9b7a41c0e6c5a0c96e6f7
+#EXTINF:-1,PT ELEVEN SPORTS  HD
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=dcb21c06f7e85e9dc93c79023af0ccd3&expiry=1735302857&token=61c05a1a7b420b8687d278d8f68ec1b8
+#EXTINF:-1,PT ELEVEN SPORTS  HD
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=17939c0625981ac33c6b23f1132b3fda&expiry=1735302857&token=33176f6b4740826eabbd2717dc2e6b24
+#EXTINF:-1,PT ELEVEN SPORTS  HD
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=1873b90b3a1ca38bc542331e37e3c70c&expiry=1735302857&token=4662dd94b4b92d1db543727d9004a19a
+#EXTINF:-1,AU FOX SPORTS
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=a61af1e807b7752ec1b3850500b7b830&expiry=1735302857&token=c826d28638d3f120f107d99b7f21400e
+#EXTINF:-1,CAFR  TVA SPORTS
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=3d37dc0dbcf79772e4e3ef43edfe1d3e&expiry=1735302857&token=6685950adccbc84409a152e329100bf8
 #EXTINF:-1,CA Sportsnet East D
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=575920e69db7aec26efb80762dab56a6&expiry=1735239573&token=9d9324d2b49bdce03eb3fdc0f83dab13
-#EXTINF:-1,Sky Sports Cricket
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=4120fb83718538724786cf90fba0e7cf&expiry=1735239573&token=4e508dd70472605c2e35b926cf6d9d49
-#EXTINF:-1,beIN Sports HD
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=6b1f210946bd2ee92f6bc7637138cb1b&expiry=1735239573&token=2739e06571a3b2f853e0256530565acf
-#EXTINF:-1,J SPORTS 1 HD
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=15ffa134ba95b99ecff0b6a703d08c6a&expiry=1735239573&token=0e603c794f495559c9d2e2efb74acde4
-#EXTINF:-1,J SPORTS 1 HD
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=de2a6fad7cb23dd395abca223abed75a&expiry=1735239573&token=757f51c3e3bccee197200c7731a6a9d1
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=575920e69db7aec26efb80762dab56a6&expiry=1735302857&token=fe66647e3f8b7f46561bf8791e70c209
+#EXTINF:-1,CA Sportsnet One E
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=4120fb83718538724786cf90fba0e7cf&expiry=1735302857&token=dbbc17a0f8ab94ee15e516f8a414c2c2
+#EXTINF:-1,CA Ginx esports TV
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=6b1f210946bd2ee92f6bc7637138cb1b&expiry=1735302857&token=6fb72ddde3daf99a5b33da7f6ad7c127
+#EXTINF:-1,CA Sportsnet  HD
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=15ffa134ba95b99ecff0b6a703d08c6a&expiry=1735302857&token=3c13e7317aeee8925f0b67852fd30c94
+#EXTINF:-1,CA Sportsnet  HD
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=de2a6fad7cb23dd395abca223abed75a&expiry=1735302857&token=0a9c3eb0cfbfef029166cbf81b7043e3
 #EXTINF:-1,CA Sportsnet East HD F
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=26653943bdc5415a68e5562e782d52c2&expiry=1735239573&token=96abeaa5788331914c16340290c182e9
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=26653943bdc5415a68e5562e782d52c2&expiry=1735302857&token=b892d32f82870a7771a7d3c976847b7e
 #EXTINF:-1,CA Sportsnet One FHD
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=337df540b0f8a8985f83f8418bf863dc&expiry=1735239573&token=ac3d270954fa8fb7345c0022a2b240bf
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=337df540b0f8a8985f83f8418bf863dc&expiry=1735302857&token=2adcfd3e90e456a9076a8f8e4f733434
 #EXTINF:-1,CA Sportsnet One HD
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=a9888c19152bd8f75a958164361f9f40&expiry=1735239573&token=beb6d218da1492fcef4caf76e50669c3
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=a9888c19152bd8f75a958164361f9f40&expiry=1735302857&token=c6b5e14fbe157dea8bee6cf897702b73
 #EXTINF:-1,CA Sportsnet Ontario
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=4f9f4b924d25a2dcd61b80a808bbbf15&expiry=1735239573&token=f448d7e6fa35b824665c2394446ddd65
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=4f9f4b924d25a2dcd61b80a808bbbf15&expiry=1735302857&token=358e3c0b7df048ffada2d1dccf9bbc7b
 #EXTINF:-1,CA Sportsnet Ontario HD
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=fc7fa0b3487994127e7d481bbf552a2a&expiry=1735239573&token=b69e7292ed9e8cf6219980eb4884233d
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=fc7fa0b3487994127e7d481bbf552a2a&expiry=1735302857&token=b5b03c7261aeec49fae6429c38d4d21b
 #EXTINF:-1,CA Sportsnet Ontario FHD
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=2738674e43c2c2603008d804028f4e71&expiry=1735239573&token=ab1f4861b47b331c3d43d6cac26e4f07
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=2738674e43c2c2603008d804028f4e71&expiry=1735302857&token=a3718af039d15e45d61bcdd24122b3dc
 #EXTINF:-1,CA Sportsnet Pacific FHD
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=0c5be3cf3b3b90b3f34ec3bc0be666de&expiry=1735239573&token=180510a8c32981187bc512da9e4a8054
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=0c5be3cf3b3b90b3f34ec3bc0be666de&expiry=1735302857&token=fc9c605b9feb4fc7b54f7edd46e11c5c
 #EXTINF:-1,CA Sportsnet Pacific HD
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=91f94e7ec9be3c6df4acd7350cebe05a&expiry=1735239573&token=da578a76bb1076511c2d8e8a37e97075
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=91f94e7ec9be3c6df4acd7350cebe05a&expiry=1735302857&token=9acb31c82aac821882ff535598572868
 #EXTINF:-1,CA Sportsnet West FHD
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=0923b4287af6418ae225d9dfbd687ea6&expiry=1735239573&token=af24c6a4be63c51994b779d1a2f497bf
-#EXTINF:-1,Sky Sports Cricket
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=c43b6d964e255680b5edc6ccbada97b2&expiry=1735239573&token=deb604baf079c6892e73ff8713c8973a
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=0923b4287af6418ae225d9dfbd687ea6&expiry=1735302857&token=cc6dbf7d69c5c6a980a3e2eb90880d91
+#EXTINF:-1,CA SPORTSNET WEST
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=c43b6d964e255680b5edc6ccbada97b2&expiry=1735302857&token=f645db560af947ca46e17481f1fffd78
 #EXTINF:-1,CA Sportsnet World HD
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=eb981cc9523468bf837728d6758ea304&expiry=1735239573&token=4f9acd132a0650fb7d4aedc3a8935090
-#EXTINF:-1,GAORA SPORTS HD
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=2ea19a51ebf5b3a84556eda5c453d451&expiry=1735239573&token=32198fd65de9d2d79ffb97e59ba85b0a
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=eb981cc9523468bf837728d6758ea304&expiry=1735302857&token=240a4f5a3b49b9738ce3686386a5b1c8
+#EXTINF:-1,CA FR TVA Sports
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=2ea19a51ebf5b3a84556eda5c453d451&expiry=1735302857&token=dc87c9db89f9c4bf12c608edf02ff944
 #EXTINF:-1,Carib Flow Sports D
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=c48158d2f71ef65d976276099c7320ab&expiry=1735239573&token=f72e15fa000dd9d344ab3cce45b4acde
-#EXTINF:-1,RAI Sport
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=33e1234097d566fc96cafc2498776d0e&expiry=1735239573&token=cb228c8c6f276b9de60a72379b554b83
-#EXTINF:-1,beIN Sports HD
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=92cfc8335855724f107ff731bdd7e07c&expiry=1735239573&token=3d64d8f3b733042d4283904605310bbf
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=c48158d2f71ef65d976276099c7320ab&expiry=1735302857&token=b51091671e9a8217921aea55de7b612a
+#EXTINF:-1,Carib SPORT MAX P
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=33e1234097d566fc96cafc2498776d0e&expiry=1735302857&token=e8d8d9c58b80b5a75dbcb8b6cf1a5545
+#EXTINF:-1,Carib TVJSports
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=92cfc8335855724f107ff731bdd7e07c&expiry=1735302857&token=cbe557b08f2756572e0aa358c91530a6
 #EXTINF:-1,COL WIN SPORTS PLUS HD EXCLUSIVO
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=6dbe5f58524e9db6e0436896392b6f41&expiry=1735239573&token=a57292b723ccb5d815736d3dd8d2f309
-#EXTINF:-1,beIN Sports HD
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=84418ce8450a16432f33bc98c5502cb7&expiry=1735239573&token=f54e8fd6b7b4b07f0baee9537ceace78
-#EXTINF:-1,beIN Sports HD
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=965d5a654fc244f9b43bbbe629846bef&expiry=1735239573&token=10f214606c7f5a1112c30f86943c9341
-#EXTINF:-1,Sky Sports Football HD
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=9e6fd66a23ab343d55e143647b110f15&expiry=1735239573&token=b450531d3a37336f0329869a2e367e66
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=6dbe5f58524e9db6e0436896392b6f41&expiry=1735302857&token=2dc015c2253c1f453ba9e13595976448
+#EXTINF:-1,CO Win Sports  FHD
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=84418ce8450a16432f33bc98c5502cb7&expiry=1735302857&token=b1366da70349b054cf17f049b23f2b0b
+#EXTINF:-1,US FOX Sports
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=965d5a654fc244f9b43bbbe629846bef&expiry=1735302857&token=9c9e57099c5ae2b68cc1d42d679984fe
+#EXTINF:-1,US Bally Sports Florida A
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=9e6fd66a23ab343d55e143647b110f15&expiry=1735302857&token=dcecaef7e10a41c580b1d2c5804e01e4
 #EXTINF:-1,KORE  AM   FM  Fox Sports Eugene
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=a189a87b39b9f23011d4ea1b80a767d8&expiry=1735239573&token=61f0bb18b137b3f814ed76bf3154572b
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=a189a87b39b9f23011d4ea1b80a767d8&expiry=1735302857&token=31a2baf74773c77d6c46bf7556bd98c2
 #EXTINF:-1,Sportsnet  The FAN
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=539f1045e0008e51ceaaed46f17d8dc9&expiry=1735239573&token=a455d70f6072b905b476d193b9ec2d20
-#EXTINF:-1,J SPORTS 1 HD
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=90d6e0c5062ad5b788836936868420db&expiry=1735239573&token=f8b33f2c1ae3b04c5743fb02c2d383d3
-#EXTINF:-1,Eurosport 1
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=132135bcd18e6f0e8007473a9ea45e53&expiry=1735239573&token=25245b0cc62bdd07f880b895bdfd1ee0
-#EXTINF:-1,Sky Sports Cricket
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=f6f508eb2823abfdc5bafba0d2037ad6&expiry=1735239573&token=5e7c3f58cbb499dffd3823c30525dcac
-#EXTINF:-1,Sky Sports F1 HD
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=961264ace064387ab75de5b01cf8abef&expiry=1735239573&token=29185275e8314ed99e510a89a76c0560
-#EXTINF:-1,Sky Sports F1 HD
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=f25a8fdf0363f5a3716891d72044e634&expiry=1735239573&token=d80ee349663089fcf22ce6cacda1be52
-#EXTINF:-1,Sky Sports F1 HD
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=2b5086deb67ea3d1efed2c4b1477ceba&expiry=1735239573&token=4febb5ac02b8c3df980fbca8dcf12bbd
-#EXTINF:-1,Sky Sports Main Event HD
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=7aa768557d6bceb4a184f70f1cc32304&expiry=1735239573&token=9607c3b214530a717abb9da69fd921aa
-#EXTINF:-1,Sky Sports F1 HD
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=e10d69ad6816ef57e9db4919c428b2da&expiry=1735239573&token=3ce490e72a9f16990e105b45583253fd
-#EXTINF:-1,Sky Sports NFL
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=e1e1221627c1eced2ed677c5ec0bc8e2&expiry=1735239573&token=38dd97833bcb0381529400c74253790f
-#EXTINF:-1,Sky Sports Cricket
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=55e35bab5ca6456c81484c64a69a647f&expiry=1735239573&token=2f9d3b303d328c0d7d2175c29ceb8b99
-#EXTINF:-1,Sky Sports F1 HD
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=57c686d8f2f5668dd97119bab9dd396e&expiry=1735239573&token=39b9570c5f047373e88df43e98974db0
-#EXTINF:-1,Sky Sports Football HD
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=b2f8f02fd180a96ef289fa79c1af3f9c&expiry=1735239573&token=442113afc554aaf5ea05c2cc115109c3
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=539f1045e0008e51ceaaed46f17d8dc9&expiry=1735302857&token=3951dca6e0137feba54c0a425985f2f6
+#EXTINF:-1,Sportsnet
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=90d6e0c5062ad5b788836936868420db&expiry=1735302857&token=f64101fdc180ad86bb085bf11b54e8c8
+#EXTINF:-1,UK EuroSport  UK P
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=132135bcd18e6f0e8007473a9ea45e53&expiry=1735302857&token=9af4df3b5547644804d405c9c32d3cf6
+#EXTINF:-1,UKSky Sports Action
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=f6f508eb2823abfdc5bafba0d2037ad6&expiry=1735302857&token=d95ce5b888e37560fc38e3074697f5d1
+#EXTINF:-1,UKSky Sports Arena
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=961264ace064387ab75de5b01cf8abef&expiry=1735302857&token=32f142bc90d14d62f846072dfd75bc6a
+#EXTINF:-1,UK Sky Sports F FHD D
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=f25a8fdf0363f5a3716891d72044e634&expiry=1735302857&token=6c66bcfa1245cc3aed8e09d37cc428f9
+#EXTINF:-1,UK Sky Sports Golf FHD
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=2b5086deb67ea3d1efed2c4b1477ceba&expiry=1735302857&token=35d6f890f7962700a9b10e1203a94bed
+#EXTINF:-1,UKSky Sports Main Event
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=7aa768557d6bceb4a184f70f1cc32304&expiry=1735302857&token=17d3a30a9a5d26174a415693f46e6ed4
+#EXTINF:-1,UK Sky Sports Mix FHD D
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=e10d69ad6816ef57e9db4919c428b2da&expiry=1735302857&token=8de3885c743b16cfe0f622d8915a0d35
+#EXTINF:-1,UKSky Sports News
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=e1e1221627c1eced2ed677c5ec0bc8e2&expiry=1735302857&token=78130c54883961de979d033015576662
+#EXTINF:-1,UK Sky Sports Cricket FHD D
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=55e35bab5ca6456c81484c64a69a647f&expiry=1735302857&token=60ed7f5e6f1fdc32ca531b8bc2210f6c
+#EXTINF:-1,UK Sky Sports F FHD
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=57c686d8f2f5668dd97119bab9dd396e&expiry=1735302857&token=9c9bbd2bef417660176c9d7510bb40cd
+#EXTINF:-1,US Bally Sports Southeast
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=b2f8f02fd180a96ef289fa79c1af3f9c&expiry=1735302857&token=ad47a4602ca02cc0bfb704300759e695
 #EXTINF:-1,US NBC Sports Network F
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=36ff61b118a2966852bb80e15a16e370&expiry=1735239573&token=8fa17c1917ff23429ab2dc7dc08d966e
-#EXTINF:-1,Sky Sport Austria
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=c5d5646259aa5d8a10f1ed357940c916&expiry=1735239573&token=84f1856d5d4220e67e2992e5eb46754b
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=36ff61b118a2966852bb80e15a16e370&expiry=1735302857&token=be91e2ede767710bde4b68aa8072c73e
+#EXTINF:-1,US Bally Sports Detroit A
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=c5d5646259aa5d8a10f1ed357940c916&expiry=1735302857&token=9b47cde1828b151d7d1b5d78766a4558
 #EXTINF:-1,US Bally Sports Midwest A
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=ab7a4a95ba203303621010c07e2730ee&expiry=1735239573&token=bdcc51f1088afa0c10060377c9e6bd4b
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=ab7a4a95ba203303621010c07e2730ee&expiry=1735302857&token=be62a87d0d74f15affc76f8939214bf6
 #EXTINF:-1,US Bally Sports Oklahoma A
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=a3079f2f5cc2570fd232232f756c1290&expiry=1735239573&token=eda397a2240502d978f56460c5ecf48f
-#EXTINF:-1,Sky Sports Football HD
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=dd90effde3bf1542985a9694344c35e5&expiry=1735239573&token=9c0e9c10c1fd327b191c5a96c04d1705
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=a3079f2f5cc2570fd232232f756c1290&expiry=1735302857&token=aac83698cfe1b34300293b343cb8daae
+#EXTINF:-1,US Bally Sports Southeast
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=dd90effde3bf1542985a9694344c35e5&expiry=1735302857&token=a9649aab6fda0f83dcc44972c38e4251
 #EXTINF:-1,US Bally Sports Southwest
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=9efb7673f726bcb70006e9672c33878c&expiry=1735239573&token=a58a80a1082725a7eaf7b86602a38713
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=9efb7673f726bcb70006e9672c33878c&expiry=1735302857&token=6b36f4081d73d7fe523260bc9b8a9270
 #EXTINF:-1,US Bally Sports West
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=cade31f2c310cb1009dee3989a9b9afb&expiry=1735239573&token=0c8ed9122b93d9b695bc80b56f33a989
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=cade31f2c310cb1009dee3989a9b9afb&expiry=1735302857&token=fd1b0a83f883d898b3b172b38214e33d
 #EXTINF:-1,US Bally Sports Wisconsin
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=bdcbe67ef78ee6c9103e6ce431612c25&expiry=1735239573&token=3eed90fa61604d1fb39f366f72504044
-#EXTINF:-1,Premier Sports
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=e7e18dcfd7eebfe5846c54a8fb5c8a7f&expiry=1735239573&token=a6f87d5ac452d8716409c117260f650e
-#EXTINF:-1,Sky Sports Football HD
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=78343b1d5c9ca63bac396388a78eed46&expiry=1735239573&token=3daac63df95afc29bc6291a6d528f4ec
-#EXTINF:-1,Sky Sport Austria
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=ae217e017bc6ae85b05d3976daee5291&expiry=1735239573&token=008f8718b3ec010a2962896502e80eae
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=bdcbe67ef78ee6c9103e6ce431612c25&expiry=1735302857&token=4300a68c654f465d7720bc77a1f9edf1
+#EXTINF:-1,PT Eleven Sports  FHD
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=e7e18dcfd7eebfe5846c54a8fb5c8a7f&expiry=1735302857&token=91d90ee62390adc75b608ec031e3c06f
+#EXTINF:-1,US Bally Sports North A
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=78343b1d5c9ca63bac396388a78eed46&expiry=1735302857&token=a20c566c0aea29c52517fd4133eae151
+#EXTINF:-1,US Bally Sports Detroit
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=ae217e017bc6ae85b05d3976daee5291&expiry=1735302857&token=b65667700f68d5758bd2c2087220a398
 #EXTINF:-1,US Bally Sports Ohio A
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=5cf690b0681e08a80399fe4b93bcc6ad&expiry=1735239573&token=2a015f374fbc26019749eafcb0142853
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=5cf690b0681e08a80399fe4b93bcc6ad&expiry=1735302857&token=a246f1d31254cfaf10f0b9038eda4005
 #EXTINF:-1,US NBC Sports Bay Area A
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=5a02beb10259c61600c837c2cd44b1fa&expiry=1735239573&token=632649b534e0bef4ce814040c31859d6
-#EXTINF:-1,Sky Sport Austria
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=056fe769ab738c494447bdc2ac16fb6a&expiry=1735239573&token=de29d7150456347fd04d7c980f02baf0
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=5a02beb10259c61600c837c2cd44b1fa&expiry=1735302857&token=3970c6fdb2fa83b71219ceeb015bd4ee
+#EXTINF:-1,US NBC Sports Boston A
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=056fe769ab738c494447bdc2ac16fb6a&expiry=1735302857&token=7f3448758b5ca3efec26bd35697b0b31
 #EXTINF:-1,US NBC Sports California A
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=5ea31627c63b791bf780595a142e3016&expiry=1735239573&token=ea25e2aef98290386d55ae1e118ba025
-#EXTINF:-1,Sky Sports Cricket
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=2e24970dd4914fb393dfbc952e64cb44&expiry=1735239573&token=7bb766ee9a9d42a6916a9c2e70aa8169
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=5ea31627c63b791bf780595a142e3016&expiry=1735302857&token=75ce796438646701831c82e89229bd3e
+#EXTINF:-1,US NBC Sports Chicago
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=2e24970dd4914fb393dfbc952e64cb44&expiry=1735302857&token=a1d46e6de610107e239dca401726aa62
 #EXTINF:-1,US NBC Sports Network FHD
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=1d734809adec561ec233904b544ff5d7&expiry=1735239573&token=9f7e6d8b8595a6765af3372ac1b3e0fc
-#EXTINF:-1,Astro Sports Plus
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=a700098475ab158cec106380e7f4e0f3&expiry=1735239573&token=a5d7c7fc1da41c5d6686e7397e853260
-#EXTINF:-1,Sky Sports Main Event HD
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=c77613fb52400a29084c0d26292be7e5&expiry=1735239573&token=ff9ef800aa28af19ce11dee89877623e
-#EXTINF:-1,Spectrum Sportsnet Lakers
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=9fb343d108252846f4a1a2708e61bb1f&expiry=1735239573&token=8c2103fed61938ca82d03f4bb344ee0b
-#EXTINF:-1,Spectrum Sportsnet Lakers
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=aa4727f68cc0f3b107defaa4fbaf026a&expiry=1735239573&token=ca6f0a417209354d84a8d5956093bc3a
-#EXTINF:-1,Spectrum Sportsnet Lakers
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=01f5a8de936bd518634d1312447c5a2a&expiry=1735239573&token=b9ffb4fa11d0dc879b7eb50f8a76fef7
-#EXTINF:-1,Bandsports HD
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=8570c016983e782e4ffa2889cba2c6fe&expiry=1735239573&token=ed8b967941b8583f21ef6783156b7a89
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=1d734809adec561ec233904b544ff5d7&expiry=1735302857&token=2106559136251a020a549fe9d3915113
+#EXTINF:-1,US NBC Sports Philly F
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=a700098475ab158cec106380e7f4e0f3&expiry=1735302857&token=9192528ba9eeaee0bda1a57da92fe6c9
+#EXTINF:-1,US NBC Sports Washington F
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=c77613fb52400a29084c0d26292be7e5&expiry=1735302857&token=d37be1ccf728e7ea0f169e6adea311cc
+#EXTINF:-1,US Spectrum SportsNet LA Dodgers HD
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=9fb343d108252846f4a1a2708e61bb1f&expiry=1735302857&token=2fe9faa3ddb4d27483cfaf34835cbdc9
+#EXTINF:-1,US Spectrum SportsNet Lakers FHD
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=aa4727f68cc0f3b107defaa4fbaf026a&expiry=1735302857&token=a59163523736661ecce73b8a749ebd9e
+#EXTINF:-1,US Spectrum SportsNet Lakers FHD
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=01f5a8de936bd518634d1312447c5a2a&expiry=1735302857&token=360229159946d8fd4f2fc1ae4fc48fa0
+#EXTINF:-1,US Altitude Sports HD
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=8570c016983e782e4ffa2889cba2c6fe&expiry=1735302857&token=25cbb2017dea46e879c524c8afbc5efa
 #EXTINF:-1,US CBS Sports Network HD
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=2c69536f1f6b8878a2c99a76594ac585&expiry=1735239573&token=4d750664eab798b8259554000cb00295
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=2c69536f1f6b8878a2c99a76594ac585&expiry=1735302857&token=5ff013018e91b4b98b373bea94a067d6
 #EXTINF:-1,US ESPNU College Sports
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=489d77cc29d3f532a617c6eaccbe5e53&expiry=1735239573&token=ebf47a145ce2f136c44e0d027642ee29
-#EXTINF:-1,beIN Sports HD
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=06ab86e1efba5f49e5f3f6c8a953ec8e&expiry=1735239573&token=87aa4711df8c84af753a93d48c540492
-#EXTINF:-1,beIN Sports HD
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=5a7a2020093335f03957612c0834ae8c&expiry=1735239573&token=0462c268e768ab9e90a91ec21e5844ea
-#EXTINF:-1,Sky Sports Football HD
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=0b70353303f11bb8b1b842f9c5c7ec74&expiry=1735239573&token=d4ab78a21c94fbbb65897bf5ddf99ed6
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=489d77cc29d3f532a617c6eaccbe5e53&expiry=1735302857&token=9ac4d1615fa21e0e1e426b7e99be4f12
+#EXTINF:-1,US Fox Sports
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=06ab86e1efba5f49e5f3f6c8a953ec8e&expiry=1735302857&token=10c486d65f22451895387a72ab72945e
+#EXTINF:-1,US Fox Sports  A
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=5a7a2020093335f03957612c0834ae8c&expiry=1735302857&token=7b10618af39051e7dbbc68ea763e380e
+#EXTINF:-1,US Bally Sports North A
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=0b70353303f11bb8b1b842f9c5c7ec74&expiry=1735302857&token=a746931b14ba218543df074739ed848f
 #EXTINF:-1,US Bally Sports Carolinas A
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=70a24a83c59a80a1d286a97687c058c2&expiry=1735239573&token=1cf0f2b1c1437fdde14f09402f3d1ec1
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=70a24a83c59a80a1d286a97687c058c2&expiry=1735302857&token=f18fd0abc3d5698ae00e1fabf6ef7365
 #EXTINF:-1,US Bally Sports South
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=61d4b9d8ae5f82ba5d85034eccedadac&expiry=1735239573&token=db9c8013ae0123daa7f3f1a139387aaa
-#EXTINF:-1,Sky Sports Football HD
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=2f9537ec02ad3f84fcb5ef44256ba514&expiry=1735239573&token=38f5e2bee06dd7e82c83d0e1faa8cfb5
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=61d4b9d8ae5f82ba5d85034eccedadac&expiry=1735302857&token=763aa5c5211275413c8a542b0eaa40d4
+#EXTINF:-1,US Bally Sports South A
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=2f9537ec02ad3f84fcb5ef44256ba514&expiry=1735302857&token=19bbd63b2a728b5672317af9f8f55e44
 #EXTINF:-1,US Marquee Sports Network HD A
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=ea745489519d1db1dcbfa86ce91f6322&expiry=1735239573&token=9c5e862c52828145bf15da72b28e92f9
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=ea745489519d1db1dcbfa86ce91f6322&expiry=1735302857&token=0404ebf344509d1b5fdb094063e2d79b
 #EXTINF:-1,US Sportsnet New York SNY A
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=5b3f01c1a4d491ed4fe0264d47fbdedd&expiry=1735239573&token=de09ca81b72d4a7730eb785a19c392aa
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=5b3f01c1a4d491ed4fe0264d47fbdedd&expiry=1735302857&token=f82a8fa8e29d9bcebf3b643ac6fbc296
 #EXTINF:-1,US Sportsman Channel A
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=c9ce79c8958c4d774358387848ce3925&expiry=1735239573&token=986a03091c2972fe2e3c66e9086b6b97
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=c9ce79c8958c4d774358387848ce3925&expiry=1735302857&token=6463b4aae1269ef7f39a1c2565efcd97
 #EXTINF:-1,US Root Sports Network
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=8c41cc3ba60a64a1e0b3a9892261017a&expiry=1735239573&token=81f375ca8f7c364e1a751bad5177b09a
-#EXTINF:-1,GAORA SPORTS HD
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=8d5de6a0c983939b2cc05c0dd8663e80&expiry=1735239573&token=b55a06e8a1e51df0e748798994247f34
-#EXTINF:-1,RAI Sport
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=26cef23ebc9373903eee3651c16c2ce1&expiry=1735239573&token=ac43ec14f8d596e67570d428e385bf71
-#EXTINF:-1,GAORA SPORTS HD
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=cba9711035e6b058cf55cf13caa5732e&expiry=1735239573&token=5e8485da3dc243948aaaf0340d294e55
-#EXTINF:-1,Sky Sports F1 HD
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=3c02c98e021d8a5ca4f18f046cba2b6a&expiry=1735239573&token=839fb6ea437eee01da4bf20f063d99e3
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=8c41cc3ba60a64a1e0b3a9892261017a&expiry=1735302857&token=1d3de2b0a04d8196eab90debe56f3be9
+#EXTINF:-1,Carib RUSH Sports D
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=8d5de6a0c983939b2cc05c0dd8663e80&expiry=1735302857&token=870bcb08550868082bd1ad50433d69e0
+#EXTINF:-1,Carib SPORT MAX P
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=26cef23ebc9373903eee3651c16c2ce1&expiry=1735302857&token=09e5baab23944ee48a2734036462f134
+#EXTINF:-1,Carib RUSH Sports D
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=cba9711035e6b058cf55cf13caa5732e&expiry=1735302857&token=a5ffb821ca7e034228c234351d670c54
+#EXTINF:-1,US Bally Sports Sun
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=3c02c98e021d8a5ca4f18f046cba2b6a&expiry=1735302857&token=df9c090f55b9a5754b13837383f0b115
 #EXTINF:-1,US ATT SportsNet Pittsburgh
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=a124b2df491fd08b6a7ff1e6b6b3483b&expiry=1735239573&token=f8db4ff5ee7cf3df33dc5e6e18f0ad7f
-#EXTINF:-1,DocuBox HD
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=d8f9cbc67bb6a800c9185b42e4573950&expiry=1735239573&token=724e6b1b29fdb9f6cdc0fa5361b47ae1
-#EXTINF:-1,Sky Sports F1 HD
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=b23b359bbee3a8ddcc52136ad237a587&expiry=1735239573&token=686463c241aaca4720c425139b283590
-#EXTINF:-1,GAORA SPORTS HD
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=46488f5782aab235f78536f3ab692e58&expiry=1735239573&token=e14e0460a7f0b74fa61ae9cee1786519
-#EXTINF:-1,GAORA SPORTS HD
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=cd4172fbc4cde47efc1c72b081de98e1&expiry=1735239573&token=537a43ee14f165c0e16d70b2a28aab81
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=a124b2df491fd08b6a7ff1e6b6b3483b&expiry=1735302857&token=2a80de1936af7ab6dd3b5620d3c5b95c
+#EXTINF:-1,DOCUBOX NETFLIX
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=d8f9cbc67bb6a800c9185b42e4573950&expiry=1735302857&token=e5e51664b56786451900c6129fc74c36
+#EXTINF:-1,CAR SPORTSMAX
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=b23b359bbee3a8ddcc52136ad237a587&expiry=1735302857&token=1bd0cd1f4132f289645e821071535234
+#EXTINF:-1,Star TV Sports
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=46488f5782aab235f78536f3ab692e58&expiry=1735302857&token=73b088e8b8b294c596cc686967ea185c
+#EXTINF:-1,Star TV Sports
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=cd4172fbc4cde47efc1c72b081de98e1&expiry=1735302857&token=fd33b20f6abea606a17670e98e5bb582
 #EXTINF:-1,UFC
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=39a6f1d101bfed4ff97f3543672745ba&expiry=1735239573&token=c8d4270738f6d89753c61a9e77806cf0
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=39a6f1d101bfed4ff97f3543672745ba&expiry=1735302857&token=81c1fcf312ec4c611ada99df7a53af73
 #EXTINF:-1,US UFC  HD
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=47e00bb13906bcb3e403e8450bea2f81&expiry=1735239573&token=fc087aec7baa9808f6aea14dddf0cd42
-#EXTINF:-1,Sportv
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=706bfd00632b379fd9a51d7b65ab9ed9&expiry=1735239573&token=98f678052e5c5e62e3d23cfd6555648c
-#EXTINF:-1,Sportv
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=61d953822819f213d043f0a68a7943ff&expiry=1735239573&token=57234c34b18ccfe982cfcccfdfbe014a
-#EXTINF:-1,Sportv
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=9c8e3da36d3bf08f969d1b9c8fb3555c&expiry=1735239573&token=028324d0552537c7930c516459984dda
-#EXTINF:-1,Sportv
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=5850dfd24e37f1024fce935067739dce&expiry=1735239573&token=759b9bd179ba048543e7f217c86847b6
-#EXTINF:-1,Premier Sports
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=724a8ccd10180bc9a4012c0ed2e139c4&expiry=1735239573&token=a2e21352f38aa4d4da6fa605409fabad
-#EXTINF:-1,Premier Sports
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=f142990a502456baaec88325afa86302&expiry=1735239573&token=4602a1120f09d4abda82703a2179d851
-#EXTINF:-1,Premier Sports
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=b971bdc134bd82a2b8f5e547c1820366&expiry=1735239573&token=30180438547de9ab5d87697d9d876643
-#EXTINF:-1,Eurosport 1
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=0bd51bc9df312d68dfd1787f45f931f4&expiry=1735239573&token=84ec3ee32e72f3b16e35f7f01ff9a502
-#EXTINF:-1,GAORA SPORTS HD
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=b4973441d2ed42ed8a91eb67b60eb073&expiry=1735239573&token=8ecdc41daa3f0a765301972b65463ecd
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=47e00bb13906bcb3e403e8450bea2f81&expiry=1735302857&token=562f1ffdf44db2bee9a934fb6c736afc
+#EXTINF:-1,PT SPORT TV  FHD
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=706bfd00632b379fd9a51d7b65ab9ed9&expiry=1735302857&token=1c11b13e427c8faefa61591421daa4aa
+#EXTINF:-1,PT SPORT TV  HD
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=61d953822819f213d043f0a68a7943ff&expiry=1735302857&token=6f744fbb367e5c4fd9bbd8a51970d3a1
+#EXTINF:-1,PT SPORT TV  HD
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=9c8e3da36d3bf08f969d1b9c8fb3555c&expiry=1735302857&token=369a58effff5798fc7dde6d9ea4eb00b
+#EXTINF:-1,PT SPORT TV  FHD
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=5850dfd24e37f1024fce935067739dce&expiry=1735302857&token=15c3645958935f96b3b2961cce3f382b
+#EXTINF:-1,PT ELEVEN SPORTS  HD
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=724a8ccd10180bc9a4012c0ed2e139c4&expiry=1735302857&token=52ecedcc1e6dfbcb531151a0be4df463
+#EXTINF:-1,PT ELEVEN SPORTS  HD
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=f142990a502456baaec88325afa86302&expiry=1735302857&token=15c21964ebf09023f12220327cdd8baf
+#EXTINF:-1,PT ELEVEN SPORTS  HD
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=b971bdc134bd82a2b8f5e547c1820366&expiry=1735302857&token=99b62068266dabc41c7a3c617331e7f8
+#EXTINF:-1,AU FOX SPORTS
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=0bd51bc9df312d68dfd1787f45f931f4&expiry=1735302857&token=16dcf8faeac30831bcc68716c2047358
+#EXTINF:-1,CAFR  TVA SPORTS
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=b4973441d2ed42ed8a91eb67b60eb073&expiry=1735302857&token=87ca0a4f9b4359b9d99d96dc1b4a57ab
 #EXTINF:-1,CA Sportsnet East D
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=4201c097e532f0830c97568a75b5f0d4&expiry=1735239573&token=636d47fc56e3d412ec4643805f2d75e3
-#EXTINF:-1,Sky Sports Cricket
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=b733468179f5533d831f92bc5f68fd9d&expiry=1735239573&token=06398a3c81fbbc400537c5e38cde7022
-#EXTINF:-1,beIN Sports HD
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=0275cb8f9b0a195d8ebff84f294ed496&expiry=1735239573&token=a84f493c596dfb8fa141f7765ad00254
-#EXTINF:-1,J SPORTS 1 HD
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=52e92fef274a5c88ab21fecf63821bee&expiry=1735239573&token=7d68fc9e844ec80f268f91d28238286b
-#EXTINF:-1,J SPORTS 1 HD
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=9d92b26113cf40224756594e1be34760&expiry=1735239573&token=5d8959813adf3cdfb51082e04d95cc28
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=4201c097e532f0830c97568a75b5f0d4&expiry=1735302857&token=f99457db9ed576791b03e5e5fcd5e39c
+#EXTINF:-1,CA Sportsnet One E
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=b733468179f5533d831f92bc5f68fd9d&expiry=1735302857&token=79e9734a16d36dc40e7dc80c32ec5d47
+#EXTINF:-1,CA Ginx esports TV
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=0275cb8f9b0a195d8ebff84f294ed496&expiry=1735302857&token=5a74885e164d9376e4e9c5c3de488879
+#EXTINF:-1,CA Sportsnet  HD
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=52e92fef274a5c88ab21fecf63821bee&expiry=1735302857&token=803fa79869b2d5c1316fc04043be4dec
+#EXTINF:-1,CA Sportsnet  HD
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=9d92b26113cf40224756594e1be34760&expiry=1735302857&token=6d9d367eb180b50182f6f3aa1220f013
 #EXTINF:-1,CA Sportsnet East HD F
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=df5c13523f9304f075045420880757d4&expiry=1735239573&token=82dd98aad32211937bd18df803d00dbf
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=df5c13523f9304f075045420880757d4&expiry=1735302857&token=9c48d45603390894a4b464d8a1118990
 #EXTINF:-1,CA Sportsnet One FHD
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=ea6ab83ee2565a5a8af56b6faa60bfb6&expiry=1735239573&token=35a7bc09554f7cfb78b479b0d02be6ca
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=ea6ab83ee2565a5a8af56b6faa60bfb6&expiry=1735302857&token=94d765eaf3ed9f3c2c8be45e93c49443
 #EXTINF:-1,CA Sportsnet One HD
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=ac3c491abee4e54b26f78cf8e998aa85&expiry=1735239573&token=d497147ee6837782ae035fb7935bfd11
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=ac3c491abee4e54b26f78cf8e998aa85&expiry=1735302857&token=ba7430c8f08a376b5ce30cab27da6e68
 #EXTINF:-1,CA Sportsnet Ontario
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=2e13219a885943e63b3bee980b542dc5&expiry=1735239573&token=9c516c255b0cf8905650994e5282762c
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=2e13219a885943e63b3bee980b542dc5&expiry=1735302857&token=d191b6a0ffac027eb1660db0510cffa3
 #EXTINF:-1,CA Sportsnet Ontario HD
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=fc7c6682ca98f98bc323f00840c4aadb&expiry=1735239573&token=c2795d7fb871284a2b4d98aaa766e42f
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=fc7c6682ca98f98bc323f00840c4aadb&expiry=1735302857&token=1515a206c5745c966d058df37c13ed1d
 #EXTINF:-1,CA Sportsnet Ontario FHD
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=a23dc56ee27d3add068a1749bf01ca29&expiry=1735239573&token=94db037b78ef40cb631d554877bf7817
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=a23dc56ee27d3add068a1749bf01ca29&expiry=1735302857&token=643d67f8ce7fe6aae3fb49e2695bfcf3
 #EXTINF:-1,CA Sportsnet Pacific FHD
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=3edf67ee0260a966627627dabeed5b11&expiry=1735239573&token=258d012d92a57bf92fba58b80ee9fc94
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=3edf67ee0260a966627627dabeed5b11&expiry=1735302857&token=0c5b1bdb094e372c39bb925d778a29ad
 #EXTINF:-1,CA Sportsnet Pacific HD
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=e7b0426631b66264b4bc01f58c2a8683&expiry=1735239573&token=472f5e2168570c3b0677df9f67c30534
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=e7b0426631b66264b4bc01f58c2a8683&expiry=1735302857&token=943e2398ef12c97a891fd66540387f5e
 #EXTINF:-1,CA Sportsnet West FHD
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=06a34dd029947385d12e3b5b76eb02d5&expiry=1735239573&token=2da7dca1a5559de2a7d0722dc89e088e
-#EXTINF:-1,Sky Sports Cricket
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=7390c727100c812870683f6274ed4a91&expiry=1735239573&token=2d230519539797fbebd6e734aa850954
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=06a34dd029947385d12e3b5b76eb02d5&expiry=1735302857&token=e38d85ffb3039c6db187eec1d2b01b43
+#EXTINF:-1,CA SPORTSNET WEST
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=7390c727100c812870683f6274ed4a91&expiry=1735302857&token=772e4513e8c9c6ae2c42ea2ce4826099
 #EXTINF:-1,CA Sportsnet World HD
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=566e0d5c3822f1a264070602ec4bdb36&expiry=1735239573&token=64f2d43a22d367ac8186851a3cb58586
-#EXTINF:-1,GAORA SPORTS HD
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=7e7e04185f10f49d24b8b3b216fcef92&expiry=1735239573&token=a7d89353f5847447e928e9291428c012
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=566e0d5c3822f1a264070602ec4bdb36&expiry=1735302857&token=ed749a45ddd58028893760e4a1e0c18a
+#EXTINF:-1,CA FR TVA Sports
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=7e7e04185f10f49d24b8b3b216fcef92&expiry=1735302857&token=0b0a86dd314236c7e08bb515e5e0216d
 #EXTINF:-1,Carib Flow Sports D
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=7ed2e735a779fc61b1842b2cf04fe619&expiry=1735239573&token=70b6cecb0e8a4faeb9b6baf236b5558d
-#EXTINF:-1,RAI Sport
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=f4a4bc6ae1ae15c751729a577fca56f6&expiry=1735239573&token=b01a4aa8d726f9b38c53aecad8f4cfcf
-#EXTINF:-1,beIN Sports HD
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=0461aab159fc84835f6c54f28c1a1b52&expiry=1735239573&token=859b62ff3855ee8d2d76489f9c420f32
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=7ed2e735a779fc61b1842b2cf04fe619&expiry=1735302857&token=2c1d0f614f41ba4ccb0f8dc9350acfb1
+#EXTINF:-1,Carib SPORT MAX P
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=f4a4bc6ae1ae15c751729a577fca56f6&expiry=1735302857&token=1312c1ec8cd5c3608e188101287f9061
+#EXTINF:-1,Carib TVJSports
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=0461aab159fc84835f6c54f28c1a1b52&expiry=1735302857&token=c69211dab0d419d8c2c8c0fc3f355650
 #EXTINF:-1,COL WIN SPORTS PLUS HD EXCLUSIVO
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=d82f83f295c43227046738650645ff48&expiry=1735239573&token=4c303674372ab5388d2a0a2d4a60a520
-#EXTINF:-1,beIN Sports HD
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=e6a359948d402bc82c3f218a3308526d&expiry=1735239573&token=72a2a47247df56c31ef34d1d3f61567e
-#EXTINF:-1,beIN Sports HD
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=20b4de5c90b1473db9bef4045d0a54fe&expiry=1735239573&token=f5e7172308bd0741fdbb97a41d196bea
-#EXTINF:-1,Sky Sports Football HD
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=d7e7f66cd0396e7da2bbe81ec40a4f4f&expiry=1735239573&token=525aa1bc449a0d587f7645d652ad40b7
-#EXTINF:-1,J SPORTS 1 HD
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=f1ea505e25833e4d8840b0b39835dac0&expiry=1735239573&token=c346c448dd158561246096bd9c97251d
-#EXTINF:-1,Eurosport 1
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=fb55e5a73779b290837422977e95e6e6&expiry=1735239573&token=915637c2e33bfa86cf76efe1ccd3d2ae
-#EXTINF:-1,Sky Sports Cricket
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=d74f8538f2f3f60dde9c872d610b70dd&expiry=1735239573&token=384fdc317a53c7a8220ab305b2c5e819
-#EXTINF:-1,Sky Sports F1 HD
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=304d2c08fff63b9c85add9786eda138d&expiry=1735239573&token=6dc9fb181036359f8b85ceeccf03f167
-#EXTINF:-1,Sky Sports F1 HD
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=b3f59caebf65f7fecccb0a86885846df&expiry=1735239573&token=aad7e8f3c586b2582b5f6d49bb3e1e5a
-#EXTINF:-1,Sky Sports F1 HD
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=4cab056a7767bf5cbbee4f3e37a5ae6d&expiry=1735239573&token=43fda7a4be3a8c2d7fc601164d3749f8
-#EXTINF:-1,Sky Sports Main Event HD
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=56601390c37a7e122d7f6475dc8564a3&expiry=1735239573&token=c33b54359925b061001229165b38ccb9
-#EXTINF:-1,Sky Sports F1 HD
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=6d1a8887e600b8f1a31291761adff115&expiry=1735239573&token=57e607f68ac66542ba155a61b1ce41a0
-#EXTINF:-1,Sky Sports NFL
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=f8032e3cab57fa39a1844587eace694d&expiry=1735239573&token=4b8dfc88f68db78103c8fc88bce746eb
-#EXTINF:-1,Sky Sports Cricket
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=921c7dd85aea78834d6929c94a323d05&expiry=1735239573&token=580be6c30bb825ddee4b24c18d6eac76
-#EXTINF:-1,Sky Sports F1 HD
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=1ff35ee6f92e0916e485155f716d57c3&expiry=1735239573&token=093b1d0f30b3970ed9d104e9eb03fc3c
-#EXTINF:-1,Sky Sports Football HD
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=d9d0ef85a010c953b2413bada1d18eb1&expiry=1735239573&token=ec32629965346d50a96dea95536238b7
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=d82f83f295c43227046738650645ff48&expiry=1735302857&token=8896e23458b86e7c3b892f54579d5cdf
+#EXTINF:-1,CO Win Sports  FHD
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=e6a359948d402bc82c3f218a3308526d&expiry=1735302857&token=216d903b3be3f93c3d3330b11bc0624c
+#EXTINF:-1,US FOX Sports
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=20b4de5c90b1473db9bef4045d0a54fe&expiry=1735302857&token=776456cadef59c4de970487da6d0cbb9
+#EXTINF:-1,US Bally Sports Florida A
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=d7e7f66cd0396e7da2bbe81ec40a4f4f&expiry=1735302857&token=74d5d1a33e158231917aaa81904450b7
+#EXTINF:-1,Sportsnet
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=f1ea505e25833e4d8840b0b39835dac0&expiry=1735302857&token=4c4d51fcc3fb72a05ac372283979ab0d
+#EXTINF:-1,UK EuroSport  UK P
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=fb55e5a73779b290837422977e95e6e6&expiry=1735302857&token=73e5f977d1ee13975b4cebfb46280c51
+#EXTINF:-1,UKSky Sports Action
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=d74f8538f2f3f60dde9c872d610b70dd&expiry=1735302857&token=e80a2f1cd2e6bc2498f5131cc46de339
+#EXTINF:-1,UKSky Sports Arena
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=304d2c08fff63b9c85add9786eda138d&expiry=1735302857&token=3efda5c4dd0bde6ec9a7473a68b8240d
+#EXTINF:-1,UK Sky Sports F FHD D
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=b3f59caebf65f7fecccb0a86885846df&expiry=1735302857&token=e3d2ea4426951693957ab9057330c757
+#EXTINF:-1,UK Sky Sports Golf FHD
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=4cab056a7767bf5cbbee4f3e37a5ae6d&expiry=1735302857&token=315f6b546f21b80fdaa939370122633d
+#EXTINF:-1,UKSky Sports Main Event
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=56601390c37a7e122d7f6475dc8564a3&expiry=1735302857&token=e698de0e4bb98455f0dbc7c40f44fb48
+#EXTINF:-1,UK Sky Sports Mix FHD D
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=6d1a8887e600b8f1a31291761adff115&expiry=1735302857&token=de1f8c18f58ef731c05397fa3cb3ea12
+#EXTINF:-1,UKSky Sports News
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=f8032e3cab57fa39a1844587eace694d&expiry=1735302857&token=dbdfc1470af9f8b4332a43a182eab106
+#EXTINF:-1,UK Sky Sports Cricket FHD D
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=921c7dd85aea78834d6929c94a323d05&expiry=1735302857&token=d954f7b26852b4aeae9cec22804a17c3
+#EXTINF:-1,UK Sky Sports F FHD
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=1ff35ee6f92e0916e485155f716d57c3&expiry=1735302857&token=ee0db99626355ac445157c3d57db9b01
+#EXTINF:-1,US Bally Sports Southeast
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=d9d0ef85a010c953b2413bada1d18eb1&expiry=1735302857&token=ddc159cc6fac23ffbf7473fbef97c97d
 #EXTINF:-1,US NBC Sports Network F
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=8587c0084df9aa4c7b87d40b741495ef&expiry=1735239573&token=3efbbf4e4e220136e9835ae7952f48bc
-#EXTINF:-1,Sky Sport Austria
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=3f28351204e107163b29ea803e4c91a3&expiry=1735239573&token=adb20cd19e348276e0ad3bd1f8e2d1f5
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=8587c0084df9aa4c7b87d40b741495ef&expiry=1735302857&token=684fac1c8779baf4ad909f28c2d538a0
+#EXTINF:-1,US Bally Sports Detroit A
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=3f28351204e107163b29ea803e4c91a3&expiry=1735302857&token=85aa351f47b790351e14243b5bb3dcd0
 #EXTINF:-1,US Bally Sports Midwest A
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=dd66a47fa071c7b6947fa6744c003dd5&expiry=1735239573&token=42df13ec68911464d614c99ff91101da
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=dd66a47fa071c7b6947fa6744c003dd5&expiry=1735302857&token=363848bb26434d5aad2eb98a86bec87e
 #EXTINF:-1,US Bally Sports Oklahoma A
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=170a65ce33bb0e5710907faa6b46520d&expiry=1735239573&token=fe5713a88f1dfdac92dcc94771821b31
-#EXTINF:-1,Sky Sports Football HD
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=8c90111421facae11eaad1b04aaad6af&expiry=1735239573&token=d7f02e026a9d29281f9ff902327f7177
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=170a65ce33bb0e5710907faa6b46520d&expiry=1735302857&token=750677492a4738866e2f5e337048bc0e
+#EXTINF:-1,US Bally Sports Southeast
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=8c90111421facae11eaad1b04aaad6af&expiry=1735302857&token=3d20ba88f77c8d1e2db1e473fcb464fb
 #EXTINF:-1,US Bally Sports Southwest
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=0f88f54c0d9465a30d67bcb7c6877122&expiry=1735239573&token=b1e7af1e941be2ef4ceb13cd9d5efe1f
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=0f88f54c0d9465a30d67bcb7c6877122&expiry=1735302857&token=bbce3f4dea2b20cfdefe1fed269a67b6
 #EXTINF:-1,US Bally Sports West
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=928207bda0150bd3471bc079c9e3b2e3&expiry=1735239573&token=d22340bd400d2a103e13e0a432f34f4e
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=928207bda0150bd3471bc079c9e3b2e3&expiry=1735302857&token=67cf8b7be96cbe43ac0e2953e86a489c
 #EXTINF:-1,US Bally Sports Wisconsin
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=cc893237347e047b8154dc362ed148d1&expiry=1735239573&token=bf750395fbc31260a82b9c353b1bb934
-#EXTINF:-1,Premier Sports
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=24524f8d6cfd30588bd999200abb264f&expiry=1735239573&token=70a5cd2c180e9b2893414b1535ff7148
-#EXTINF:-1,Sky Sports Football HD
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=e21040d43f32dd1cfa083cbbf061eb86&expiry=1735239573&token=0260e69352e07027e2accb5b5561d5df
-#EXTINF:-1,Sky Sport Austria
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=d40e2ae92f10637b6979d31bb211e4d6&expiry=1735239573&token=df612180139743828b3d20fdace5dd07
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=cc893237347e047b8154dc362ed148d1&expiry=1735302857&token=ebce63cdbe9cd3ed6e109ebc15ba2b7f
+#EXTINF:-1,PT Eleven Sports  FHD
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=24524f8d6cfd30588bd999200abb264f&expiry=1735302857&token=c126ea16de8754bc6ded27c267a7b05c
+#EXTINF:-1,US Bally Sports North A
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=e21040d43f32dd1cfa083cbbf061eb86&expiry=1735302857&token=5e8b2ff4e24e93dfff7258b87fe11d05
+#EXTINF:-1,US Bally Sports Detroit
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=d40e2ae92f10637b6979d31bb211e4d6&expiry=1735302857&token=5be4f82754cf8f84ff72719ba486b8ae
 #EXTINF:-1,US Bally Sports Ohio A
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=9813793a77dae5edcb0467870580e566&expiry=1735239573&token=0766fe303f0a3e1d95e14c779298a7de
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=9813793a77dae5edcb0467870580e566&expiry=1735302857&token=ec16f290d8a2e53d9630a746535fe04c
 #EXTINF:-1,US NBC Sports Bay Area A
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=d06e329f0f08ae2a94c581f4fcab47c3&expiry=1735239573&token=6c78fbed78b54620007447b25df9c17d
-#EXTINF:-1,Sky Sport Austria
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=1191d464cf2ffbc12b4df8ca828454ee&expiry=1735239573&token=39f84fc7e46c3c2c7ba3d33487832952
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=d06e329f0f08ae2a94c581f4fcab47c3&expiry=1735302857&token=34d4aef566a882849b336e0cab9f809b
+#EXTINF:-1,US NBC Sports Boston A
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=1191d464cf2ffbc12b4df8ca828454ee&expiry=1735302857&token=c80275bc2e81e4b0e60165d6b26b8dda
 #EXTINF:-1,US NBC Sports California A
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=c5408089b6b012d6d1d3db326f193c38&expiry=1735239573&token=cd1cf45bfcf53d8f8ff0aa77f50120db
-#EXTINF:-1,Sky Sports Cricket
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=41a901c89ad08b42349c6529bf0353e8&expiry=1735239573&token=6a131cbda1326eb1c00643b091e72164
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=c5408089b6b012d6d1d3db326f193c38&expiry=1735302857&token=7794d6ad5d82ad5c9e46edd661e6ef15
+#EXTINF:-1,US NBC Sports Chicago
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=41a901c89ad08b42349c6529bf0353e8&expiry=1735302857&token=d4b99fd152353cdb87eaa8bd9736e9f6
 #EXTINF:-1,US NBC Sports Network FHD
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=7d9046c5f6ac71a0bb15a8976cffb720&expiry=1735239573&token=1f8b3b42560d06eededb0d9b380faddd
-#EXTINF:-1,Astro Sports Plus
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=b3356a09003b8566533a6f85c9a56da1&expiry=1735239573&token=01dc6cc7cc477c63d52505feacd703a1
-#EXTINF:-1,Sky Sports Main Event HD
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=9587e3a66fd6301ee74cebb0e734df4f&expiry=1735239573&token=04384f2c5e70bb6d35a4d66bc2c61648
-#EXTINF:-1,Spectrum Sportsnet Lakers
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=60619343107bbb83eb4b4b6337684a8b&expiry=1735239573&token=96255a556e573770370a8ece959b6014
-#EXTINF:-1,Spectrum Sportsnet Lakers
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=7503e9d387d8dc58dbb8ff83b87d6545&expiry=1735239573&token=492417a15c6ebaa7888c80daed249036
-#EXTINF:-1,Spectrum Sportsnet Lakers
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=8e6157589f02c0df1e1bd95e7a38355d&expiry=1735239573&token=fe46feb274540119497e8d9b45acda22
-#EXTINF:-1,Bandsports HD
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=a1599cc7075715d94731f3b7ec387e58&expiry=1735239573&token=8ff5fd46ba5bdd2544499aa2894df082
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=7d9046c5f6ac71a0bb15a8976cffb720&expiry=1735302857&token=f6a59744f544a6ead85779b8ffa009d1
+#EXTINF:-1,US NBC Sports Philly F
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=b3356a09003b8566533a6f85c9a56da1&expiry=1735302857&token=38f6ac3187fbae2b8e925ef60ef6244e
+#EXTINF:-1,US NBC Sports Washington F
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=9587e3a66fd6301ee74cebb0e734df4f&expiry=1735302857&token=cda7538e0f1e1f39cf8e3d558e20a33d
+#EXTINF:-1,US Spectrum SportsNet LA Dodgers HD
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=60619343107bbb83eb4b4b6337684a8b&expiry=1735302857&token=477c2991857e3cf1c5e485f3d9ffafd2
+#EXTINF:-1,US Spectrum SportsNet Lakers FHD
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=7503e9d387d8dc58dbb8ff83b87d6545&expiry=1735302857&token=2c91072293a77b4f6c540d5fcc95413b
+#EXTINF:-1,US Spectrum SportsNet Lakers FHD
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=8e6157589f02c0df1e1bd95e7a38355d&expiry=1735302857&token=03f940b0a5d15bfb56c4c01cc709687f
+#EXTINF:-1,US Altitude Sports HD
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=a1599cc7075715d94731f3b7ec387e58&expiry=1735302857&token=517b66fd283d212239242b5c94a8c77e
 #EXTINF:-1,US CBS Sports Network HD
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=b20c97e88025ef666be5617f1d81cc51&expiry=1735239573&token=6452189cb89f9d0b38f0fad61eaa048e
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=b20c97e88025ef666be5617f1d81cc51&expiry=1735302857&token=4e6c2cb4a20b6e34358f8a197aa3d571
 #EXTINF:-1,US ESPNU College Sports
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=941ab5185506bd3e0c8ed89cc030d57d&expiry=1735239573&token=e937fb0cec9956f3dfa1947fcb680889
-#EXTINF:-1,beIN Sports HD
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=9ca324ccdd2ff0e800a14a379679c780&expiry=1735239573&token=362005f0fd1d19b52fbd1a37bad2ce7b
-#EXTINF:-1,beIN Sports HD
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=6c4f7d9bd818e83bc5bb059e45b6f7a6&expiry=1735239573&token=edfcc88f82f07ec1163242b483e1cf1f
-#EXTINF:-1,Sky Sports Football HD
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=cf590f0d11f4d84a8583bea0a81e9182&expiry=1735239573&token=06ebc541d44177929d32efc7c6bbe44f
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=941ab5185506bd3e0c8ed89cc030d57d&expiry=1735302857&token=eb1fe54312d84fb2e1aefba53bc7dd25
+#EXTINF:-1,US Fox Sports
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=9ca324ccdd2ff0e800a14a379679c780&expiry=1735302857&token=ab08bf9240cdf8d80ca8a0eff597be94
+#EXTINF:-1,US Fox Sports  A
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=6c4f7d9bd818e83bc5bb059e45b6f7a6&expiry=1735302857&token=4c3a406c1125f59e46b64d3a75164450
+#EXTINF:-1,US Bally Sports North A
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=cf590f0d11f4d84a8583bea0a81e9182&expiry=1735302857&token=8c79b461bb6e8c9d195fe696169810f5
 #EXTINF:-1,US Bally Sports Carolinas A
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=6a52fdabdec56b13e137fffbb87dacae&expiry=1735239573&token=ff6c52a4e81601324188c33e6142ad30
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=6a52fdabdec56b13e137fffbb87dacae&expiry=1735302857&token=794032c2ebcdf7206abd1764d1461a91
 #EXTINF:-1,US Bally Sports South
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=10211ac2d4633862326a25f9532ceb6c&expiry=1735239573&token=0ab57e3f1aff646ba34c7544929bbd29
-#EXTINF:-1,DocuBox HD
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=edcadb0f135c9f22e106795445637891&expiry=1735239573&token=7fb42b2057dcb87ef95f0b82559ef040
-#EXTINF:-1,Sky Sports F1 HD
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=d6be5a431233e77fc9814243603cf586&expiry=1735239573&token=ec465a7c5a8712d1727d12de90ae717c
-#EXTINF:-1,GAORA SPORTS HD
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=99c90db9162c428f7881915321ee259b&expiry=1735239573&token=4f2140506c5d92e9691244926feb9d1d
-#EXTINF:-1,GAORA SPORTS HD
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=bd92fae8ac480ea6849e7de2215f16c6&expiry=1735239573&token=a9decca9d671066553bfe0afc4d89568
-#EXTINF:-1,SkySp ArenaHD
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=db9feb676dc7de92b6fd7c58f17b1eff&expiry=1735239573&token=193eee16cfc4525b44eef09f16653e6a
-#EXTINF:-1,Sky Sports Main Event HD
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=b6075112f77a6bbd6bf08aa5b58c142d&expiry=1735239573&token=a35ff02ee81df8407f807223154a247e
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=10211ac2d4633862326a25f9532ceb6c&expiry=1735302857&token=d9b488a63a882b849ec8e2d733b563e8
+#EXTINF:-1,DOCUBOX NETFLIX
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=edcadb0f135c9f22e106795445637891&expiry=1735302857&token=22686fd57d4c1c319fc8c2d63355793e
+#EXTINF:-1,CAR SPORTSMAX
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=d6be5a431233e77fc9814243603cf586&expiry=1735302857&token=8e9d737d1677416d4a820215c0181ca3
+#EXTINF:-1,Star TV Sports
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=99c90db9162c428f7881915321ee259b&expiry=1735302857&token=e31f2c6101c753c0fce4634b2f0c1fe4
+#EXTINF:-1,Star TV Sports
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=bd92fae8ac480ea6849e7de2215f16c6&expiry=1735302857&token=b081a569db336079530b6eaf2972a42b
+#EXTINF:-1,UK SKY SPORTS ARENA FHD
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=db9feb676dc7de92b6fd7c58f17b1eff&expiry=1735302857&token=f58f185c693c41071da62428ef63917f
+#EXTINF:-1,UK SKY SPORTS MAIN EVENT HD
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=b6075112f77a6bbd6bf08aa5b58c142d&expiry=1735302857&token=6eb7c1bfa54b826f3f0de41d12e6c236
 #EXTINF:-1,UFC
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=771fbbad8cd174044bfa23398cc1d03b&expiry=1735239573&token=34a33072be4a53fd93a1b73901de54c4
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=771fbbad8cd174044bfa23398cc1d03b&expiry=1735302857&token=5ae430a1be25e38c52434f3b21771dea
 #EXTINF:-1,US UFC  HD
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=ac1224d5b1f4f005a7fe9305de9f61a1&expiry=1735239573&token=6e85d5c84e4e9f0a3e26592bf0425af0
-#EXTINF:-1,Sportv
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=3d7a815bd8cc4a32d707aced65a3e317&expiry=1735239573&token=0d42a8f676d678b07481021bae34a548
-#EXTINF:-1,Sportv
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=999bf528610c0c50d8d9e8b86aeed302&expiry=1735239573&token=beae2bc72095bf3ac849c51f376117aa
-#EXTINF:-1,Sportv
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=c0e4c4ef8b4b38607701cc805f54dbee&expiry=1735239573&token=5d99277dac61820b00afba1d3428f0a6
-#EXTINF:-1,Sportv
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=a03564644e7f20756dd0cb765102f6da&expiry=1735239573&token=ae970dcd2b224de49c8c0bdef482177b
-#EXTINF:-1,Premier Sports
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=68da9b47b9e3e9e2f59aa5df40f828a0&expiry=1735239573&token=262d3ecd4f2930447b400a0e865e0e2b
-#EXTINF:-1,Premier Sports
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=0697361d11282dc2d91981e3f8e9ef06&expiry=1735239573&token=97f732a9c9bfb22d512582dbf3fbd90d
-#EXTINF:-1,Premier Sports
-http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=bd32cbd28ff3acbd6e36a40c3009dda0&expiry=1735239573&token=8c055a00580c1542cea18b0378b1708f
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=ac1224d5b1f4f005a7fe9305de9f61a1&expiry=1735302857&token=7d6c3ec933501022af6277b863243084
+#EXTINF:-1,PT SPORT TV  FHD
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=3d7a815bd8cc4a32d707aced65a3e317&expiry=1735302857&token=789adc46d387cbe9f7c3c2fa8d7c7215
+#EXTINF:-1,PT SPORT TV  HD
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=999bf528610c0c50d8d9e8b86aeed302&expiry=1735302857&token=21abba09d0ff6d320e87ad228b29ae14
+#EXTINF:-1,PT SPORT TV  HD
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=c0e4c4ef8b4b38607701cc805f54dbee&expiry=1735302857&token=cda759154af649c52a3c11f2b824dffb
+#EXTINF:-1,PT SPORT TV  FHD
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=a03564644e7f20756dd0cb765102f6da&expiry=1735302857&token=d5536ff72fdbdfa657ffcd5c13a623a6
+#EXTINF:-1,PT ELEVEN SPORTS  HD
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=68da9b47b9e3e9e2f59aa5df40f828a0&expiry=1735302857&token=bb52c96508da8e2f26d382ff5dd9206a
+#EXTINF:-1,PT ELEVEN SPORTS  HD
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=0697361d11282dc2d91981e3f8e9ef06&expiry=1735302857&token=4d10439e33837c4ce1cf291c9f244544
+#EXTINF:-1,PT ELEVEN SPORTS  HD
+http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=bd32cbd28ff3acbd6e36a40c3009dda0&expiry=1735302857&token=38c1260e63b4e4ea7b47a9afba4fa7c0
