@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,Look Look
+https://raw.githubusercontent.com/mavin521/syiptv/main/123/1.m3u8
 #EXTINF:-1, Lifetime(TW)
 https://stream1.freetv.fun/us-lifetime-1.ctv
 #EXTINF:-1, TVBS歡樂臺HD
