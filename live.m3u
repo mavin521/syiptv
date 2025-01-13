@@ -1,211 +1,35 @@
 #EXTM3U
 #EXTINF:-1,Potplayer,Tivimate,OTT navigator可用，其它软件自行测试
 https://raw.githubusercontent.com/mavin521/syiptv/main/123/1.m3u8
-#EXTINF:-1,UK SKY CINEMA ACTION FHD
-http://iptv.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=41c796b20ed01f2008625d37357c3040&expiry=1736785870&token=18a98215768513d0dac454f2b0ffa9e0
-#EXTINF:-1,UK MOVIES SKY CINEMA DRAMA
-http://iptv.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=fa730036a82c21375f2aed86d024a441&expiry=1736785870&token=d7102fbcab92b2cad76d1a66aa99c0fc
-#EXTINF:-1,UK Sky Cinema Scifi  Horror FHD
-http://iptv.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=358ca910e10a843c51bdb8fa33b6fc7b&expiry=1736785870&token=48cc4e227ed88b5fc879748c2bd92ad3
-#EXTINF:-1,UK MOVIES SKY COMEDY
-http://iptv.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=7dc11184a4850ce046bfd9b921f23f10&expiry=1736785870&token=ca9c38a14742c0518459e76ec1c88b26
-#EXTINF:-1,UK MOVIES SKY CRIME THRILLER
-http://iptv.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=3a11e2fe688e478ce6f7f3429ae6357e&expiry=1736785870&token=4c853c3f32507aa79b0596c8b1f61ed4
-#EXTINF:-1,UK MOVIES SKY GREATS
-http://iptv.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=5a77998db005a67e4cedff6d87b7ab17&expiry=1736785870&token=8e03eced2c2f31a57cf92125fa502960
-#EXTINF:-1,UK BBC NEWS
-http://iptv.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=924c10ed52edf89a497871405d2866fb&expiry=1736785870&token=398a82f5fe799f71f55456c0964845fc
-#EXTINF:-1,UKBBC One
-http://iptv.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=dc41aee6c7ad51ad8725ff76681e1105&expiry=1736785870&token=5ab73d99cd0dfbd7f31ec819f4aa9ba1
-#EXTINF:-1,UKBBC One Scotland
-http://iptv.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=54ede8e3315df827e817282f76f134a6&expiry=1736785870&token=a03113ccd9886791729f45cb731e9deb
-#EXTINF:-1,UK BBC TWO HD
-http://iptv.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=fa8a8b9f6f2dcd84b336a278936912eb&expiry=1736785870&token=5006dfbfc0e665b50079414370a7d960
-#EXTINF:-1,UKCBBC
-http://iptv.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=46186265c083e484eaf319983883fcb9&expiry=1736785870&token=305d0fcb4c569ca0e9090048af2daffd
-#EXTINF:-1,UKSky Cinema Animation
-http://iptv.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=c413b275a8cb003669b8637ebd9aef2e&expiry=1736785870&token=dfad1de3c60f53cac213741469b4d1e6
-#EXTINF:-1,UKSky Cinema Family
-http://iptv.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=c015b614e9a4586d908cbbd9409381f2&expiry=1736785870&token=6d5bad71daac315f701862a445661fc8
-#EXTINF:-1,UKSky Cinema Premier
-http://iptv.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=8ab6d167e47d7ffb7678faebe26f8529&expiry=1736785870&token=959191acfdf31e1e511828342b31b48d
-#EXTINF:-1,UK Sky Cinema Comedy
-http://iptv.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=3de609aa92efaaa6b6f10b0179e18cc7&expiry=1736785870&token=a4483d17e0505ef06ed093b8b68e090f
-#EXTINF:-1,UK SKY NEWS
-http://iptv.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=04ffbea7bb8876d74c022a756ee8f62c&expiry=1736785870&token=da5c1065583cd2d109381832a4b1b441
-#EXTINF:-1,UKSky Sports Action
-http://iptv.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=03611a63c0dca5a11b35ffe0e4dd86f0&expiry=1736785870&token=9a693437edf7ef52dea2e4dac0c6e6d7
-#EXTINF:-1,UKSky Sports Arena
-http://iptv.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=64d7b04617a3503b76a17dfe9be3a96f&expiry=1736785870&token=8c9df03319f8738154dd3156e47be567
-#EXTINF:-1,UK Sky Sports F FHD D
-http://iptv.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=6686c2517134a747427df36addaa1cb4&expiry=1736785870&token=5af96e95e867624701b8898dc630b19f
-#EXTINF:-1,UK Sky Sports Golf FHD
-http://iptv.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=b56941ed4af956712d4af4d9a26133b1&expiry=1736785870&token=0fdc01f0b81976affe2dfdced0285cf2
-#EXTINF:-1,UKSky Sports Main Event
-http://iptv.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=da7cfb4422445d35f7608d6ef652496e&expiry=1736785870&token=8b4df84e7a02d2a6528231972ae6a24e
-#EXTINF:-1,UK Sky Sports Mix FHD D
-http://iptv.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=72e518a3390384fdabcff7626f84723a&expiry=1736785870&token=e97e53771b6064937969fbe16d055be0
-#EXTINF:-1,UKSky Sports News
-http://iptv.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=65f9674712f6ac090190c7f96254f2ab&expiry=1736785870&token=ccda5e0cfea5311b089588dbde7c8fcf
-#EXTINF:-1,UK SKY SciFI FHD D
-http://iptv.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=dde6d435b80382ce455f2a16bb676667&expiry=1736785870&token=3d89dd71118241decd5d4ae41ff12e59
-#EXTINF:-1,UK Sky Sports Cricket FHD D
-http://iptv.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=aa142911975270e8455aca0e9929d646&expiry=1736785870&token=2e8b294b3fc173f3fb8b9eca06aa604d
-#EXTINF:-1,UK Sky Sports F FHD
-http://iptv.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=eedc94e60e52ffec54f30c3ce84f6698&expiry=1736785870&token=94c56a0e768a54cc61534f8de7610928
-#EXTINF:-1,UK SKY SP RACING FHD
-http://iptv.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=41ffb715f416d59c40c71421c106b612&expiry=1736785870&token=f434fa78475a94478edf02918815a04c
-#EXTINF:-1,US BBC America
-http://iptv.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=b0c065d2ed32bab8b09774692f7b8316&expiry=1736785870&token=c24dc4d2b066309d36db157ef03e5a20
-#EXTINF:-1,CA  BBC EARTH
-http://iptv.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=c5ee670a6062574035fba4c79e03b3fd&expiry=1736785870&token=d0f28579829ced2c82f0707ed66b9678
-#EXTINF:-1,UK SKY SPORTS ARENA FHD
-http://iptv.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=87e2efcf0573031862bb62f1bce3c478&expiry=1736785870&token=f4279dfbed46995fd64eaad8fcdf5759
-#EXTINF:-1,UK SKY SPORTS MAIN EVENT HD
-http://iptv.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=66f37a9184ff0439162eca7aae004c34&expiry=1736785870&token=e72ab3eacbb04ea0923a5889c1091be8
-#EXTINF:-1,CA BBC World News
-http://iptv.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=3a6ac0ad27562fd0bdeeffbc727931cc&expiry=1736785870&token=7ee678b434331592540b8982a473e6ab
-#EXTINF:-1,UFC
-http://iptv.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=41706a9a7fe8ff430a18c6e8388206b1&expiry=1736785870&token=ad2618e32b689b9899ce5b999346078d
-#EXTINF:-1,US UFC  HD
-http://iptv.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=71d27ffb21c54fccb2696f100943f985&expiry=1736785870&token=1049a7b4ca0520219aba00945d222436
-#EXTINF:-1,UK SKY CINEMA ACTION FHD
-http://iptv.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=d434db40c2c29be1588c79af203b3b6f&expiry=1736785870&token=8178117e1495617eacb4c47dfc37fc19
-#EXTINF:-1,UK MOVIES SKY CINEMA DRAMA
-http://iptv.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=f5bbf2ca4c73e3a3f812fe01bca3610f&expiry=1736785870&token=7b57aaea6d74432623f790fd5c494e6e
-#EXTINF:-1,UK Sky Cinema Scifi  Horror FHD
-http://iptv.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=c87cd384e62ce0b5d618b4b12974688d&expiry=1736785870&token=b1ddf401709212773e6c8c7559205254
-#EXTINF:-1,UK MOVIES SKY COMEDY
-http://iptv.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=68ce1327a3884d08ff97e2eb0a309562&expiry=1736785870&token=7d2bcc8f252973000bfca17a2ce454a2
-#EXTINF:-1,UK MOVIES SKY CRIME THRILLER
-http://iptv.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=4312a2eefdd31210980b4021508e1177&expiry=1736785870&token=5a12be34bd3b4acb7f3ec2a1db808a80
-#EXTINF:-1,UK MOVIES SKY GREATS
-http://iptv.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=f2c7674eda14a72745f305bd4e7d9e12&expiry=1736785870&token=1bc3ef42b95ea21b65a484345eda2e46
-#EXTINF:-1,UK BBC NEWS
-http://iptv.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=1a3884893e2942013359eae8e6859295&expiry=1736785870&token=c01011812085ac7263db460ccefa187d
-#EXTINF:-1,UKBBC One
-http://iptv.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=0e898bc2e099f682f080897f03984ac8&expiry=1736785870&token=4cfe9b40c3fe0b875eab82170bd6d158
-#EXTINF:-1,UKBBC One Scotland
-http://iptv.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=f704ba15568ebb8c3b15d98aa93db330&expiry=1736785870&token=f71c3c05fd889dc84b5d63a778af4621
-#EXTINF:-1,UK BBC TWO HD
-http://iptv.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=feda805f1abd0825dd9c4c463c13ab6f&expiry=1736785870&token=8bc0360a5f416f2e2fae6dd9023b60c0
-#EXTINF:-1,UKCBBC
-http://iptv.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=81b0cf4571ed0f89bbc95e6ff1900359&expiry=1736785870&token=db305a99ab5501ac3f711ca308ea9ee4
-#EXTINF:-1,UKSky Cinema Animation
-http://iptv.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=3f63a23ee05205c3a1d2c9762e796632&expiry=1736785870&token=eb304e464b12ba342db2d304ddfd28ae
-#EXTINF:-1,UKSky Cinema Family
-http://iptv.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=39d0091ba4ec68bc568b538783b951eb&expiry=1736785870&token=dcf06a268766a9492ffc18d0233cb68d
-#EXTINF:-1,UKSky Cinema Premier
-http://iptv.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=d8db169cd8d4ecfcd67e300fe9b33389&expiry=1736785870&token=f394d948dd8aa1b823b2866403107605
-#EXTINF:-1,UK Sky Cinema Comedy
-http://iptv.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=3e769ab19fb09683d4dfe35b244f4e17&expiry=1736785870&token=6e756799591dd581e8c57b70c2f3ee06
-#EXTINF:-1,UK SKY NEWS
-http://iptv.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=63515a0d3116d38af83854fc1186bcf7&expiry=1736785870&token=6bf76b7065efd9fcef9855a61b0e708d
-#EXTINF:-1,UKSky Sports Action
-http://iptv.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=f6f508eb2823abfdc5bafba0d2037ad6&expiry=1736785870&token=049a6e37a4107bdb2cd137e3bd029d49
-#EXTINF:-1,UKSky Sports Arena
-http://iptv.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=961264ace064387ab75de5b01cf8abef&expiry=1736785870&token=3bd553ff7b55d19a3c756ec21d33132b
-#EXTINF:-1,UK Sky Sports F FHD D
-http://iptv.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=f25a8fdf0363f5a3716891d72044e634&expiry=1736785870&token=66d63d416ecec8c48c3f5e45519968a6
-#EXTINF:-1,UK Sky Sports Golf FHD
-http://iptv.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=2b5086deb67ea3d1efed2c4b1477ceba&expiry=1736785870&token=aa800c2eb7f053260661140ab5f06d04
-#EXTINF:-1,UKSky Sports Main Event
-http://iptv.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=7aa768557d6bceb4a184f70f1cc32304&expiry=1736785870&token=ebfcca9b45bd664799fe55b64ea8d09c
-#EXTINF:-1,UK Sky Sports Mix FHD D
-http://iptv.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=e10d69ad6816ef57e9db4919c428b2da&expiry=1736785870&token=1a561a1e2b0a3b3e0bac30012023654b
-#EXTINF:-1,UKSky Sports News
-http://iptv.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=e1e1221627c1eced2ed677c5ec0bc8e2&expiry=1736785870&token=4ce2e58d730e26611925e8c1c8b17335
-#EXTINF:-1,UK SKY SciFI FHD D
-http://iptv.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=42498e54f347f344e465c66723da67cb&expiry=1736785870&token=8e29f50b59589e0cead22fc90dd69265
-#EXTINF:-1,UK Sky Sports Cricket FHD D
-http://iptv.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=55e35bab5ca6456c81484c64a69a647f&expiry=1736785870&token=f04f1ccf8effaf7f7ded4ee072bf93dd
-#EXTINF:-1,UK Sky Sports F FHD
-http://iptv.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=57c686d8f2f5668dd97119bab9dd396e&expiry=1736785870&token=217add25af913c4c7723593034510b74
-#EXTINF:-1,UK SKY SP RACING FHD
-http://iptv.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=09a9cb59a6de1decd0656193f23ececd&expiry=1736785870&token=c6b5b695b8f438f452d769cdb0cc4f18
-#EXTINF:-1,US BBC America
-http://iptv.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=1c1465160bd15e3732cd490255d4119a&expiry=1736785870&token=f43200c6e904576e074ce2c04d64ac6f
-#EXTINF:-1,CA  BBC EARTH
-http://iptv.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=b0d35539faa12c3253ba9e534115c817&expiry=1736785870&token=1cfdcbcdd3412bc168bc64f32c34a02b
-#EXTINF:-1,UK SKY SPORTS ARENA FHD
-http://iptv.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=b1883a9acc602c5a5d79c1cb3996f56a&expiry=1736785870&token=d293d96d7b176bfc45e5c84b1e9347e1
-#EXTINF:-1,UK SKY SPORTS MAIN EVENT HD
-http://iptv.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=04ec8cbf7f6f862621953d3bac181cc7&expiry=1736785870&token=37923e7afd2027dec0d053b6fc64d7f3
-#EXTINF:-1,CA BBC World News
-http://iptv.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=b9d9ea010370df56fe795d57fbd9b2f7&expiry=1736785870&token=8985098c362f5db0834ae28c58227c57
-#EXTINF:-1,UFC
-http://iptv.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=39a6f1d101bfed4ff97f3543672745ba&expiry=1736785870&token=f7866af787279edcea2c9def2522a66d
-#EXTINF:-1,US UFC  HD
-http://iptv.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=47e00bb13906bcb3e403e8450bea2f81&expiry=1736785870&token=35085ec0cd0ac12f00d4c1e3b70eb2f0
-#EXTINF:-1,UK SKY CINEMA ACTION FHD
-http://iptv.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=0aa563fc19f56c7c25aa6a2c57b4e218&expiry=1736785870&token=2a5d89875ea7709c2558055f4deb9cc3
-#EXTINF:-1,UK MOVIES SKY CINEMA DRAMA
-http://iptv.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=8aa289fc6b5f86258eff5d338c481d4f&expiry=1736785870&token=be1ffa676a9f7e1825f12c6e5bd60315
-#EXTINF:-1,UK Sky Cinema Scifi  Horror FHD
-http://iptv.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=83bbbbc43780d3ee57c071fbce6dc8b6&expiry=1736785870&token=dd1f579d4bc382534713ce31a75a52af
-#EXTINF:-1,UK MOVIES SKY COMEDY
-http://iptv.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=f78f926685de2905cb942962db381152&expiry=1736785870&token=cae830bdce523623d0f9789da1e9a1be
-#EXTINF:-1,UK MOVIES SKY CRIME THRILLER
-http://iptv.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=2c21f01298280b29c83dbd46af1527a1&expiry=1736785870&token=839c48d52279c33c77e2bb59aa56a750
-#EXTINF:-1,UK MOVIES SKY GREATS
-http://iptv.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=cd0f0fa7a54b3bd49de87c157ba2a125&expiry=1736785870&token=e760586ad7fb2a02a18420812719fb51
-#EXTINF:-1,UK BBC NEWS
-http://iptv.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=09c51d19b4abd4ec043a65f59d315162&expiry=1736785870&token=316913027f9d30d644da942ea162d67c
-#EXTINF:-1,UKBBC One
-http://iptv.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=d0410b72ad30d8753d4439d33579b785&expiry=1736785870&token=f2e28cd3a3ad4d91031355330ee51287
-#EXTINF:-1,UKBBC One Scotland
-http://iptv.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=ce4b9151503a7e5801bfcb4b1a0aede5&expiry=1736785870&token=90a28ee4a1cd010fb17bf3aeb2234a75
-#EXTINF:-1,UK BBC TWO HD
-http://iptv.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=f22f7be8a639b06fe33690a7b777996b&expiry=1736785870&token=f891719d064f76c2410fcb1e760509f4
-#EXTINF:-1,UKCBBC
-http://iptv.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=5c5ebc2bfe45fa19b016daf7311286be&expiry=1736785870&token=df031c2f4d27e932a4d812fd3fa4e8dc
-#EXTINF:-1,UKSky Cinema Animation
-http://iptv.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=bde29f5b5a2175608e99cabdb132627f&expiry=1736785870&token=e586f0fae58e80730722e747473951b3
-#EXTINF:-1,UKSky Cinema Family
-http://iptv.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=5cfe0b01d04123969c1031c722b5dff1&expiry=1736785870&token=8f8d42d51ede8cb8ea8eafbf31a555f0
-#EXTINF:-1,UKSky Cinema Premier
-http://iptv.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=f73859af4131d8ad52809f84f3c5b2c3&expiry=1736785870&token=00e35b996343888ea5943aba84eb27d8
-#EXTINF:-1,UK Sky Cinema Comedy
-http://iptv.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=eefe358e40161f4c9802ddedaf34a6dd&expiry=1736785870&token=00364fade8f05c90f189fae1b9e9e986
-#EXTINF:-1,UK SKY NEWS
-http://iptv.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=dc391c872d29bea825e9c956d5942885&expiry=1736785870&token=447612cbfa8432b93798f78831237794
-#EXTINF:-1,UKSky Sports Action
-http://iptv.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=d74f8538f2f3f60dde9c872d610b70dd&expiry=1736785870&token=e80e82242f0943377417f11aa664f937
-#EXTINF:-1,UKSky Sports Arena
-http://iptv.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=304d2c08fff63b9c85add9786eda138d&expiry=1736785870&token=1c27106b843598699c2e1ff8180e63b1
-#EXTINF:-1,UK Sky Sports F FHD D
-http://iptv.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=b3f59caebf65f7fecccb0a86885846df&expiry=1736785870&token=5f3b2200bd8d373f62ba0ff263222e2b
-#EXTINF:-1,UK Sky Sports Golf FHD
-http://iptv.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=4cab056a7767bf5cbbee4f3e37a5ae6d&expiry=1736785870&token=fda9867a75358e1661c859bceaaa906e
-#EXTINF:-1,UKSky Sports Main Event
-http://iptv.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=56601390c37a7e122d7f6475dc8564a3&expiry=1736785870&token=6973be681cf9227fbafa6a9e11d9be85
-#EXTINF:-1,UK Sky Sports Mix FHD D
-http://iptv.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=6d1a8887e600b8f1a31291761adff115&expiry=1736785870&token=f2f942560d5eedea14d492a93db2a84f
-#EXTINF:-1,UKSky Sports News
-http://iptv.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=f8032e3cab57fa39a1844587eace694d&expiry=1736785870&token=db3392c76579bd66b708933c1b2511b2
-#EXTINF:-1,UK SKY SciFI FHD D
-http://iptv.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=4507bda56fee0736f47aa0d699bfa211&expiry=1736785870&token=f719898bb5f65e15620804545eb07f94
-#EXTINF:-1,UK Sky Sports Cricket FHD D
-http://iptv.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=921c7dd85aea78834d6929c94a323d05&expiry=1736785870&token=bba0a5fa22deecb1d3e37f623659d81a
-#EXTINF:-1,UK Sky Sports F FHD
-http://iptv.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=1ff35ee6f92e0916e485155f716d57c3&expiry=1736785870&token=157e85d724e4c12b0bd05c00de6d53bd
-#EXTINF:-1,UK SKY SP RACING FHD
-http://iptv.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=f9464eb2425c72ea2740c83e62fc10b3&expiry=1736785870&token=1432f8b936abc79f9872dc95aec14e5d
-#EXTINF:-1,US BBC America
-http://iptv.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=2088ea35a552e4a3a1d73dd96561fade&expiry=1736785870&token=4002a8d2b6e0d18d4592335541d58530
-#EXTINF:-1,CA  BBC EARTH
-http://iptv.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=f963168e0dc99d9598ee7683723d8d86&expiry=1736785870&token=c92ae4ca867a954a1b0f757293c5f6e6
-#EXTINF:-1,UK SKY SPORTS ARENA FHD
-http://iptv.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=db9feb676dc7de92b6fd7c58f17b1eff&expiry=1736785870&token=1069ac80a445000dd57990f817413ae6
-#EXTINF:-1,UK SKY SPORTS MAIN EVENT HD
-http://iptv.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=b6075112f77a6bbd6bf08aa5b58c142d&expiry=1736785870&token=3df32c43416497bc6f138ddc6ae0e42f
-#EXTINF:-1,CA BBC World News
-http://iptv.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=345c2922362d6278af1a069e6135bcc8&expiry=1736785870&token=ca86a7f6862003c3a7971f77f9328bf2
-#EXTINF:-1,UFC
-http://iptv.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=771fbbad8cd174044bfa23398cc1d03b&expiry=1736785870&token=d4594550170d7a02fca8f1ac5f657bb2
-#EXTINF:-1,US UFC  HD
-http://iptv.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=ac1224d5b1f4f005a7fe9305de9f61a1&expiry=1736785870&token=348486ff18e56ce254e26a815fdb9845
-#EXTINF:-1,UFC FIGHT PASS
-http://iptv.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=3b4d9060346f81ace32db89243298b43&expiry=1736785870&token=e986fdca0cc68e8eeca3ae23504931b4
-#EXTINF:-1,UFC PPV
-http://iptv.hk3.345888.xyz.cdn.cloudflare.net/live1.php?channel=bacb80a6a230abb9d342d99fbe37ff2b&expiry=1736785870&token=c3baa6b83d044175c49f907c9a06bf88
+#EXTINF:-1,CNN BRASIL K
+https://kong.pp.ua/iptv/live1.php?channel=63b0ca7fb9e602304be0c0704ddaa3ec&expiry=1736800180&token=40e80e86f07068f16ca0451db14de2ab
+#EXTINF:-1,CNN BRASIL HDR
+https://kong.pp.ua/iptv/live1.php?channel=d80e2472921abac7d095b00a1070bb54&expiry=1736800180&token=5cdada6384ec72717c5ac03e1179b566
+#EXTINF:-1,CNN ESPANHOL
+https://kong.pp.ua/iptv/live1.php?channel=ce166a2ee35c2199de01d2878469d7e1&expiry=1736800180&token=ad1f5045d76e809b88cdaa46f918c9c3
+#EXTINF:-1,CNN INTERNACIONAL K
+https://kong.pp.ua/iptv/live1.php?channel=7a09a24be22b6a3ff2b23f682b56cf63&expiry=1736800180&token=252613a7e2e07701a8af55e04990c936
+#EXTINF:-1,CNN BRASIL K
+https://kong.pp.ua/iptv/live1.php?channel=411d38bc193a63761be3c1421a0794b6&expiry=1736800180&token=a1269f8bd3f94033190ccc84d03c777b
+#EXTINF:-1,CNN BRASIL HDR
+https://kong.pp.ua/iptv/live1.php?channel=502dd1a4becfced8fef144b859d515e6&expiry=1736800180&token=632d34d29ef6c445afa1f66f2a69c934
+#EXTINF:-1,CNN ESPANHOL
+https://kong.pp.ua/iptv/live1.php?channel=860bd1bfb7d96b4aa86d998f61535cff&expiry=1736800180&token=a0e5a92471efa48c5330cc0d9e115490
+#EXTINF:-1,CNN INTERNACIONAL K
+https://kong.pp.ua/iptv/live1.php?channel=49edf351b05a9649f90e966a0a56ae7c&expiry=1736800180&token=d0736511f62ed53d3e8af24d5e5faafa
+#EXTINF:-1,CNN BRASIL K
+https://kong.pp.ua/iptv/live1.php?channel=da153c007c5320555c5ccf98149ca898&expiry=1736800180&token=4c21410f2874f5e84fe075778110b414
+#EXTINF:-1,CNN BRASIL HDR
+https://kong.pp.ua/iptv/live1.php?channel=83ed186584e9c9da0667fdf720fe7cc4&expiry=1736800180&token=66a455571eecfebf75d1500d82526565
+#EXTINF:-1,CNN ESPANHOL
+https://kong.pp.ua/iptv/live1.php?channel=017106b624d98d8228306b0b1efe764a&expiry=1736800180&token=81a670307aa2ee3db2f4d9c838e9e660
+#EXTINF:-1,CNN INTERNACIONAL K
+https://kong.pp.ua/iptv/live1.php?channel=619e8548bfae6fda8ed3ddb8abb59da1&expiry=1736800180&token=ee1d289345b11b24b1e1dd04201458f7
+#EXTINF:-1,CNN BRASIL K
+https://kong.pp.ua/iptv/live1.php?channel=5ef639ca093d0b906a2fd9e72dbbdaa9&expiry=1736800180&token=3e96e08405dd388e9b680280d5ea7b3a
+#EXTINF:-1,CNN BRASIL HDR
+https://kong.pp.ua/iptv/live1.php?channel=c54bc2117c932cf5981e2894320d2e10&expiry=1736800180&token=4973031a18a7e450b0b0de992118fea9
+#EXTINF:-1,CNN ESPANHOL
+https://kong.pp.ua/iptv/live1.php?channel=bdab341b17652d2d5ee568a9348693c5&expiry=1736800180&token=4ecfddfdad2e493f8d1ac5b5647522e1
+#EXTINF:-1,CNN INTERNACIONAL K
+https://kong.pp.ua/iptv/live1.php?channel=be8d112a4e435f0c9aa4dc981256403a&expiry=1736800180&token=4172567c23b1041f12d750d7f2e67d92
