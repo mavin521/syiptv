@@ -1,89 +1,89 @@
 #EXTM3U
 #EXTINF:-1,Potplayer,Tivimate,OTT navigator可用，其它软件自行测试
 https://raw.githubusercontent.com/mavin521/syiptv/main/123/1.m3u8
-#EXTINF:-1,CNN BRASIL K
-https://kong.pp.ua/iptv/live1.php?channel=63b0ca7fb9e602304be0c0704ddaa3ec&expiry=1738951843&token=caa5eb3942202252066c7fc1f9ec8b53
+#EXTINF:-1,CNN BRASIL
+https://kong.pp.ua/iptv/live1.php?channel=63b0ca7fb9e602304be0c0704ddaa3ec&expiry=1738989064&token=529e50eff8432bdffe977fa00416518b
 #EXTINF:-1,CNN BRASIL HDR
-https://kong.pp.ua/iptv/live1.php?channel=d80e2472921abac7d095b00a1070bb54&expiry=1738951843&token=48f180de025ef81fd45c9262e87fb85c
+https://kong.pp.ua/iptv/live1.php?channel=d80e2472921abac7d095b00a1070bb54&expiry=1738989064&token=1b94fcb0ad374dbb686c010d67ad305d
 #EXTINF:-1,CNN ESPANHOL
-https://kong.pp.ua/iptv/live1.php?channel=ce166a2ee35c2199de01d2878469d7e1&expiry=1738951843&token=87d409da52b07b3fa2189d28ffc55d12
-#EXTINF:-1,CNN INTERNACIONAL K
-https://kong.pp.ua/iptv/live1.php?channel=7a09a24be22b6a3ff2b23f682b56cf63&expiry=1738951843&token=7d880b9edfcfc51c56b0c7cc9516c94b
+https://kong.pp.ua/iptv/live1.php?channel=ce166a2ee35c2199de01d2878469d7e1&expiry=1738989064&token=36278e7080617180f56d775fd761f878
+#EXTINF:-1,CNN INTERNACIONAL
+https://kong.pp.ua/iptv/live1.php?channel=7a09a24be22b6a3ff2b23f682b56cf63&expiry=1738989064&token=80ebac4102105ec81de083c375c3412c
 #EXTINF:-1,CNN
-https://kong.pp.ua/iptv/live1.php?channel=c2612c5469958783e8c002153fcb325f&expiry=1738951843&token=f0edec29c96462bbe4e612089287f0d1
+https://kong.pp.ua/iptv/live1.php?channel=c2612c5469958783e8c002153fcb325f&expiry=1738989064&token=2834f097a2ba2fc25bedb1b46a747098
 #EXTINF:-1,CNN
-https://kong.pp.ua/iptv/live1.php?channel=f96ce48479045667d5d52eefdf8c6162&expiry=1738951843&token=cbe857b704c4ae8ec648c4797deeaebf
+https://kong.pp.ua/iptv/live1.php?channel=f96ce48479045667d5d52eefdf8c6162&expiry=1738989064&token=4a8d5417641d52012a541f1eb7be298e
 #EXTINF:-1,CNN
-https://kong.pp.ua/iptv/live1.php?channel=6179cf561b46b87792162b718715d1a4&expiry=1738951843&token=d55719dcf771e7b9cfc60376693aba10
+https://kong.pp.ua/iptv/live1.php?channel=6179cf561b46b87792162b718715d1a4&expiry=1738989064&token=7d9e8e640d407bf0de1824eba64cd527
 #EXTINF:-1,Sky Sports Action
-https://kong.pp.ua/iptv/live1.php?channel=ee0465b90756e4f14e15fdbb8e7de544&expiry=1738951843&token=8548212aa23b4a092b4b493a3234d3a1
+https://kong.pp.ua/iptv/live1.php?channel=ee0465b90756e4f14e15fdbb8e7de544&expiry=1738989064&token=886141b4f6f778e52ab13addaa4f7fe1
 #EXTINF:-1,Sky Sports Arena
-https://kong.pp.ua/iptv/live1.php?channel=657f6b5ebf6e43ab1720bf84cd79732e&expiry=1738951843&token=525f8150f0bf2b2483d7b4814da5243e
-#EXTINF:-1,Sky Sports F FHD
-https://kong.pp.ua/iptv/live1.php?channel=c4db05b45446f6bc58c6ad19f5aa6896&expiry=1738951843&token=8443cde4b8d954e3af76629b5a59df67
+https://kong.pp.ua/iptv/live1.php?channel=657f6b5ebf6e43ab1720bf84cd79732e&expiry=1738989064&token=b15b43ad02f2c41693ca6e07cacaa897
+#EXTINF:-1,Sky Sports F1 FHD
+https://kong.pp.ua/iptv/live1.php?channel=c4db05b45446f6bc58c6ad19f5aa6896&expiry=1738989064&token=8303a3e86a8ce509be4102fee522a91e
 #EXTINF:-1,Sky Sports Golf FHD
-https://kong.pp.ua/iptv/live1.php?channel=95b57164b14b4a412c4eb2f1e90976b5&expiry=1738951843&token=e089782f7baf76834e7c68b8ef49aadc
+https://kong.pp.ua/iptv/live1.php?channel=95b57164b14b4a412c4eb2f1e90976b5&expiry=1738989064&token=ac6573c465e3789dfdcae160f6547997
 #EXTINF:-1,Sky Sports Main Event
-https://kong.pp.ua/iptv/live1.php?channel=f1a0cf4b71828fdf9747c0e08fe73cab&expiry=1738951843&token=f90e3e21381f43972e9de74296be601f
+https://kong.pp.ua/iptv/live1.php?channel=f1a0cf4b71828fdf9747c0e08fe73cab&expiry=1738989064&token=0433d72af60b5ae884364a197b246001
 #EXTINF:-1,Sky Sports Mix FHD
-https://kong.pp.ua/iptv/live1.php?channel=3bc0e0ea3c31e249da4cd5a256d39133&expiry=1738951843&token=c0478f07fac05c584d5f2110c62d6c26
+https://kong.pp.ua/iptv/live1.php?channel=3bc0e0ea3c31e249da4cd5a256d39133&expiry=1738989064&token=0cc92bd4b4d7f5a5e56a26a6297a73dc
 #EXTINF:-1,Sky Sports News
-https://kong.pp.ua/iptv/live1.php?channel=f49a2aa8306ae93d025ad1dd85cec89a&expiry=1738951843&token=25c1808010f881f41ed5e9de1a1ac9b5
+https://kong.pp.ua/iptv/live1.php?channel=f49a2aa8306ae93d025ad1dd85cec89a&expiry=1738989064&token=8310075327b85572d5a0dc38bb22230d
 #EXTINF:-1,Sky Sports Cricket FHD
-https://kong.pp.ua/iptv/live1.php?channel=81e2bfd28a665802070d948f28218b8b&expiry=1738951843&token=261c2e75418f875f007c58563edb5823
-#EXTINF:-1,Sky Sports F FHD
-https://kong.pp.ua/iptv/live1.php?channel=7b8f5a72b16e29bc3dfe159c86b5fecb&expiry=1738951843&token=153a3fb1706bd09aeae0916c4ecbf35a
+https://kong.pp.ua/iptv/live1.php?channel=81e2bfd28a665802070d948f28218b8b&expiry=1738989064&token=cd9e1f198ae72358d427cb6850bae6d4
+#EXTINF:-1,Sky Sports F1 FHD
+https://kong.pp.ua/iptv/live1.php?channel=7b8f5a72b16e29bc3dfe159c86b5fecb&expiry=1738989064&token=6f9ea2af18b20322e511e410e8d77eee
 #EXTINF:-1,CNN
-https://kong.pp.ua/iptv/live1.php?channel=cd2c9406a8124733ceaf85f41dfcd53a&expiry=1738951843&token=e37c49b5ab7f42de623fab5e4d6fa024
+https://kong.pp.ua/iptv/live1.php?channel=cd2c9406a8124733ceaf85f41dfcd53a&expiry=1738989064&token=f3cad1543a79c26c6955b000aa7baab1
 #EXTINF:-1,CNN
-https://kong.pp.ua/iptv/live1.php?channel=8a22d21464a4753376ddbf27f1482e55&expiry=1738951843&token=2ce4b6e80917d6e996bd6e3623bbd5a6
+https://kong.pp.ua/iptv/live1.php?channel=8a22d21464a4753376ddbf27f1482e55&expiry=1738989064&token=9e31eb35f92caf0e0f4e3c801544c511
 #EXTINF:-1,SKY SPORTS ARENA FHD
-https://kong.pp.ua/iptv/live1.php?channel=ecd97fad9a91dae622c95429879b2c83&expiry=1738951843&token=8684cc56bb4b5f422bb1f546954bcd42
+https://kong.pp.ua/iptv/live1.php?channel=ecd97fad9a91dae622c95429879b2c83&expiry=1738989064&token=4f3da288acee7fa19226f0dce7b335ba
 #EXTINF:-1,SKY SPORTS MAIN EVENT HD
-https://kong.pp.ua/iptv/live1.php?channel=19e621e91d0b6331df0419739cd5da95&expiry=1738951843&token=9674dac0b4766d75c5aab1313b3230f9
-#EXTINF:-1,CNN BRASIL K
-https://kong.pp.ua/iptv/live1.php?channel=411d38bc193a63761be3c1421a0794b6&expiry=1738951843&token=aea5a9bc6c46ff0797804acab6bc656f
+https://kong.pp.ua/iptv/live1.php?channel=19e621e91d0b6331df0419739cd5da95&expiry=1738989064&token=9a033dcfb570bdf5543b81f81f6208d8
+#EXTINF:-1,CNN BRASIL
+https://kong.pp.ua/iptv/live1.php?channel=411d38bc193a63761be3c1421a0794b6&expiry=1738989064&token=5cec70b19e0feab6c920fa29d2a12e72
 #EXTINF:-1,CNN BRASIL HDR
-https://kong.pp.ua/iptv/live1.php?channel=502dd1a4becfced8fef144b859d515e6&expiry=1738951843&token=8bfd6c035caeca019a2b064e359bb339
+https://kong.pp.ua/iptv/live1.php?channel=502dd1a4becfced8fef144b859d515e6&expiry=1738989064&token=46d61c8d84c005aa96176a04fe603737
 #EXTINF:-1,CNN ESPANHOL
-https://kong.pp.ua/iptv/live1.php?channel=860bd1bfb7d96b4aa86d998f61535cff&expiry=1738951843&token=d789cc86fcb06915e46ab638b564a22c
-#EXTINF:-1,CNN INTERNACIONAL K
-https://kong.pp.ua/iptv/live1.php?channel=49edf351b05a9649f90e966a0a56ae7c&expiry=1738951843&token=2a567109d8251890bd7dbf4096340e67
-#EXTINF:-1,CNN BRASIL K
-https://kong.pp.ua/iptv/live1.php?channel=da153c007c5320555c5ccf98149ca898&expiry=1738951843&token=5526163547f82d5ab3813dacf07d2f58
+https://kong.pp.ua/iptv/live1.php?channel=860bd1bfb7d96b4aa86d998f61535cff&expiry=1738989064&token=626d79e8beb718199559a07fc52ffc79
+#EXTINF:-1,CNN INTERNACIONAL
+https://kong.pp.ua/iptv/live1.php?channel=49edf351b05a9649f90e966a0a56ae7c&expiry=1738989064&token=2a3aebaaed9db7ea73a6af902d9e4da9
+#EXTINF:-1,CNN BRASIL
+https://kong.pp.ua/iptv/live1.php?channel=da153c007c5320555c5ccf98149ca898&expiry=1738989064&token=6fc22695d2c1b097c2a14c43854415c6
 #EXTINF:-1,CNN BRASIL HDR
-https://kong.pp.ua/iptv/live1.php?channel=83ed186584e9c9da0667fdf720fe7cc4&expiry=1738951843&token=d4f8914ae63ac98baaa6f1dfadd35ad0
+https://kong.pp.ua/iptv/live1.php?channel=83ed186584e9c9da0667fdf720fe7cc4&expiry=1738989064&token=1f6fa5b29b934bb9e748652fbfa9c2d1
 #EXTINF:-1,CNN ESPANHOL
-https://kong.pp.ua/iptv/live1.php?channel=017106b624d98d8228306b0b1efe764a&expiry=1738951843&token=54cc91d45ef519a9d8791d48a024a033
-#EXTINF:-1,CNN INTERNACIONAL K
-https://kong.pp.ua/iptv/live1.php?channel=619e8548bfae6fda8ed3ddb8abb59da1&expiry=1738951843&token=fc7706e83f90ed37c646131dc53a142c
+https://kong.pp.ua/iptv/live1.php?channel=017106b624d98d8228306b0b1efe764a&expiry=1738989064&token=c5eb2edc8af03208bede36891d984bc7
+#EXTINF:-1,CNN INTERNACIONAL 4K
+https://kong.pp.ua/iptv/live1.php?channel=619e8548bfae6fda8ed3ddb8abb59da1&expiry=1738989064&token=309b8d8e50fd5a90e85bef8a99d02054
 #EXTINF:-1,Sky Sports Action
-https://kong.pp.ua/iptv/live1.php?channel=0d5efd89f060cdf91ffbeb5b95c6c636&expiry=1738951843&token=0bdec6c57b255bf1f2fe34fb0849869c
+https://kong.pp.ua/iptv/live1.php?channel=0d5efd89f060cdf91ffbeb5b95c6c636&expiry=1738989064&token=b33a3d538db2dcee0ac1d62e82efb9ae
 #EXTINF:-1,Sky Sports Arena
-https://kong.pp.ua/iptv/live1.php?channel=f86221c992449ccd564d45375b8baf4f&expiry=1738951843&token=81f94575f31c283a514cc71b63b4b061
-#EXTINF:-1,Sky Sports F FHD
-https://kong.pp.ua/iptv/live1.php?channel=4bc8b05b7d3cfb2acb7b6748e9bd9e8f&expiry=1738951843&token=38bd345dc6ab1dae0687df10397df74b
+https://kong.pp.ua/iptv/live1.php?channel=f86221c992449ccd564d45375b8baf4f&expiry=1738989064&token=fcc0f2bf462d38ef8e16b3b5af846cb9
+#EXTINF:-1,Sky Sports F1 FHD
+https://kong.pp.ua/iptv/live1.php?channel=4bc8b05b7d3cfb2acb7b6748e9bd9e8f&expiry=1738989064&token=bd0bdfdec907517db7bc010f0d9fa496
 #EXTINF:-1,Sky Sports Golf FHD
-https://kong.pp.ua/iptv/live1.php?channel=a3ebbcd35f5ebc300b8f4fcb9586ca28&expiry=1738951843&token=e1e44c6e2fb4dcfb63ba0ec17698e77c
+https://kong.pp.ua/iptv/live1.php?channel=a3ebbcd35f5ebc300b8f4fcb9586ca28&expiry=1738989064&token=bc3a9afe9f1bf16e9838ec3388624d1f
 #EXTINF:-1,Sky Sports Main Event
-https://kong.pp.ua/iptv/live1.php?channel=777aed5a74d3f11d40fbfbca8a432b7a&expiry=1738951843&token=706fe785466edf54245c104ae6657adc
+https://kong.pp.ua/iptv/live1.php?channel=777aed5a74d3f11d40fbfbca8a432b7a&expiry=1738989064&token=e15772969b835515804653b29147851a
 #EXTINF:-1,Sky Sports Mix FHD
-https://kong.pp.ua/iptv/live1.php?channel=3c864ac1d90bd414153889aa2fe3539f&expiry=1738951843&token=a6d943d35c4204d64698ad23e1afc96d
+https://kong.pp.ua/iptv/live1.php?channel=3c864ac1d90bd414153889aa2fe3539f&expiry=1738989064&token=23c6336df2faa00175f8da42cab62e1b
 #EXTINF:-1,Sky Sports News
-https://kong.pp.ua/iptv/live1.php?channel=75fdad715352a9666b7683aa994e2a62&expiry=1738951843&token=ea6245702075a9e82ab4bb35ed55513e
+https://kong.pp.ua/iptv/live1.php?channel=75fdad715352a9666b7683aa994e2a62&expiry=1738989064&token=febc9ce8fb4591b54243d5e71fbf5482
 #EXTINF:-1,Sky Sports Cricket FHD
-https://kong.pp.ua/iptv/live1.php?channel=1402990db67fa797ab3492ccdfc8ba66&expiry=1738951843&token=add15603f421956f93a2a9948dcbff5f
+https://kong.pp.ua/iptv/live1.php?channel=1402990db67fa797ab3492ccdfc8ba66&expiry=1738989064&token=b2498f43dd85b17eca3b7ee6024417dd
 #EXTINF:-1,Sky Sports F FHD
-https://kong.pp.ua/iptv/live1.php?channel=6447a00537a808a1630b70fa42cdedec&expiry=1738951843&token=e6cb2e1cf0b53f178aae55bc9232107b
+https://kong.pp.ua/iptv/live1.php?channel=6447a00537a808a1630b70fa42cdedec&expiry=1738989064&token=a898fb8e3a7e0ca9ae88c4ccd0f04f61
 #EXTINF:-1,SKY SPORTS ARENA FHD
-https://kong.pp.ua/iptv/live1.php?channel=47a8b2d99763f7fa2f5b7ca8d9cfc12a&expiry=1738951843&token=ca28d011e03f3e50ceeaa6a1d3dcc698
+https://kong.pp.ua/iptv/live1.php?channel=47a8b2d99763f7fa2f5b7ca8d9cfc12a&expiry=1738989064&token=7b6046775019b6a0625c5d883a6ec8cd
 #EXTINF:-1,SKY SPORTS MAIN EVENT HD
-https://kong.pp.ua/iptv/live1.php?channel=05dcd932b4c4644818061dd2663832c7&expiry=1738951843&token=11544ad90ed444cfb4a2a953b028de37
+https://kong.pp.ua/iptv/live1.php?channel=05dcd932b4c4644818061dd2663832c7&expiry=1738989064&token=1b51e134bb3cd36af8a74f9c86925841
 #EXTINF:-1,Sky Sports Golf FHD
-https://kong.pp.ua/iptv/live1.php?channel=ed90190a7476fc71b53fb6901b037098&expiry=1738951843&token=0e2d2a8d02613a0ca7c865336b9ed1cc
+https://kong.pp.ua/iptv/live1.php?channel=ed90190a7476fc71b53fb6901b037098&expiry=1738989064&token=e7ea65b1227c8a978886ae7966ba8897
 #EXTINF:-1,Sky Sports Main Event
-https://kong.pp.ua/iptv/live1.php?channel=bcbe8f73eaa7151ad42f146aa993b406&expiry=1738951843&token=6f35052abf90c3a971a77e522f8f3544
-#EXTINF:-1,UKSky Sports News
-https://kong.pp.ua/iptv/live1.php?channel=409fbf40e410b49f19d6d1e6d9d90fcf&expiry=1738951843&token=d52fc52df84aa7a3c1cb70be7612f50b
+https://kong.pp.ua/iptv/live1.php?channel=bcbe8f73eaa7151ad42f146aa993b406&expiry=1738989064&token=121ca5525b87cf05604f884b556aa278
+#EXTINF:-1,UK  Sky Sports News
+https://kong.pp.ua/iptv/live1.php?channel=409fbf40e410b49f19d6d1e6d9d90fcf&expiry=1738989064&token=7d678f3d80c675dd173d95a6efc8199e
 #EXTINF:-1,Sky Sports Cricket FHD
-https://kong.pp.ua/iptv/live1.php?channel=7fe10ef8d7bc3680f9b6c3856fedfbd3&expiry=1738951843&token=e271ec1d9342346a94abea2a55ecfde0
+https://kong.pp.ua/iptv/live1.php?channel=7fe10ef8d7bc3680f9b6c3856fedfbd3&expiry=1738989064&token=7e26415548bce859dbdf86aecaab5da5
