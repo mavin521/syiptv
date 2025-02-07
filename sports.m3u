@@ -1,47 +1,227 @@
 #EXTM3U
 #EXTINF:-1,Potplayer,Tivimate,OTT navigator可用，其它软件自行测试
 https://raw.githubusercontent.com/mavin521/syiptv/main/123/1.m3u8
-#EXTINF:-1,Sky Sports Action
-https://kong.pp.ua/iptv/live.php?channel=ee0465b90756e4f14e15fdbb8e7de544&expiry=1738945802&token=fbdac38990fb2c122e7dead45e47f0f5
-#EXTINF:-1,Sky Sports Arena
-https://kong.pp.ua/iptv/live.php?channel=657f6b5ebf6e43ab1720bf84cd79732e&expiry=1738945802&token=3b7d9924be6e145a9936f2e62be48e36
-#EXTINF:-1,Sky Sports F1 FHD D
-https://kong.pp.ua/iptv/live.php?channel=c4db05b45446f6bc58c6ad19f5aa6896&expiry=1738945802&token=72cbf21833e0edb0365615cecdc4852f
-#EXTINF:-1,Sky Sports Golf FHD
-https://kong.pp.ua/iptv/live.php?channel=95b57164b14b4a412c4eb2f1e90976b5&expiry=1738945802&token=dcf4df167caaaaea2bb1de257502ba2e
-#EXTINF:-1,Sky Sports Main Event
-https://kong.pp.ua/iptv/live.php?channel=f1a0cf4b71828fdf9747c0e08fe73cab&expiry=1738945802&token=d08248222f02b22a0dabcc5a755eba1d
-#EXTINF:-1,Sky Sports Mix FHD D
-https://kong.pp.ua/iptv/live.php?channel=3bc0e0ea3c31e249da4cd5a256d39133&expiry=1738945802&token=07ca6f8e77572f2acd37d44c2cc27148
-#EXTINF:-1,Sky Sports News
-https://kong.pp.ua/iptv/live.php?channel=f49a2aa8306ae93d025ad1dd85cec89a&expiry=1738945802&token=e8db8ec9777fb7cd3027f8d87e8fa277
-#EXTINF:-1,Sky Sports Cricket FHD D
-https://kong.pp.ua/iptv/live.php?channel=81e2bfd28a665802070d948f28218b8b&expiry=1738945802&token=1e6d08fb9fa15b78a44b3e7f3b41e66a
-#EXTINF:-1,Sky Sports F1 FHD
-https://kong.pp.ua/iptv/live.php?channel=7b8f5a72b16e29bc3dfe159c86b5fecb&expiry=1738945802&token=4d3b6c5a63be4b58dc10921d48e52963
-#EXTINF:-1,SKY SPORTS ARENA FHD
-https://kong.pp.ua/iptv/live.php?channel=ecd97fad9a91dae622c95429879b2c83&expiry=1738945802&token=0b6fb2a102f94111ba73e9d14fb5b186
-#EXTINF:-1,SKY SPORTS MAIN EVENT HD
-https://kong.pp.ua/iptv/live.php?channel=19e621e91d0b6331df0419739cd5da95&expiry=1738945802&token=5e79316a052c0502f68f2ea5739fcbdf
-#EXTINF:-1,Sky Sports Action
-https://kong.pp.ua/iptv/live.php?channel=d0bace8ff40dc8cb56d97e0a79c7c1cc&expiry=1738945802&token=34e49b7dfee6aeb95e7447cff12ed25c
-#EXTINF:-1,Sky Sports Arena
-https://kong.pp.ua/iptv/live.php?channel=bd8f0e03a39e809314245b21d948a623&expiry=1738945802&token=61181ccfb146d5a03c88a63f1cdb8c32
-#EXTINF:-1,Sky Sports F1 FHD D
-https://kong.pp.ua/iptv/live.php?channel=6d3788d41aca2f0bf456045817f55f5b&expiry=1738945802&token=d6e6f3922057246df45c9147dc3f312c
-#EXTINF:-1,Sky Sports Golf FHD
-https://kong.pp.ua/iptv/live.php?channel=ed90190a7476fc71b53fb6901b037098&expiry=1738945802&token=2b46ec8cbc1bec5819d84449a28c2480
-#EXTINF:-1,Sky Sports Main Event
-https://kong.pp.ua/iptv/live.php?channel=bcbe8f73eaa7151ad42f146aa993b406&expiry=1738945802&token=09d828c35873106a5d8f92cfac77d0a0
-#EXTINF:-1,Sky Sports Mix FHD D
-https://kong.pp.ua/iptv/live.php?channel=5d8dfc8954031ab287df84d60ef49f9c&expiry=1738945802&token=74e46b4d8a0ef4ebfa5efd60215e99b9
-#EXTINF:-1,Sky Sports News
-https://kong.pp.ua/iptv/live.php?channel=409fbf40e410b49f19d6d1e6d9d90fcf&expiry=1738945802&token=e3f017d3645a184f495dca031b15d8ee
-#EXTINF:-1,Sky Sports Cricket FHD D
-https://kong.pp.ua/iptv/live.php?channel=7fe10ef8d7bc3680f9b6c3856fedfbd3&expiry=1738945802&token=ecff4d981765e81ef17a384b73d7e653
+#EXTINF:-1,CA TVA SPORTS
+https://kong.pp.ua/iptv/live.php?channel=eff268e6666685b0c016a4fd7ed2b26a&expiry=1738953334&token=9d652e6615de5a0dba56b3585b4e2fe0
+#EXTINF:-1,CA Sportsnet East
+https://kong.pp.ua/iptv/live.php?channel=2278dfadb8c8fa9afa7884812f4bab74&expiry=1738953334&token=2c7dc2e989192c3ad2e19a206b5f090b
+#EXTINF:-1,CA Sportsnet One
+https://kong.pp.ua/iptv/live.php?channel=8311de3244086e1566686a65d4d6c159&expiry=1738953334&token=a31535d3f4ecd362b18fc3401c2c4fa5
+#EXTINF:-1,CA Ginx esports TV
+https://kong.pp.ua/iptv/live.php?channel=660bcbe9cb89ad56404ee3e45fd59b7f&expiry=1738953334&token=673b4fe2d0b1320fe23d9fc34341a4b6
+#EXTINF:-1,CA Sportsnet  HD
+https://kong.pp.ua/iptv/live.php?channel=59da56dad417a4185c8a4f1973883f63&expiry=1738953334&token=185db977b5e8667b1c45023f343d364c
+#EXTINF:-1,CA Sportsnet  HD
+https://kong.pp.ua/iptv/live.php?channel=e153f210a1a275abff2fd2db6976a5c5&expiry=1738953334&token=54ba34b0449151d3d47ff48e84e27c74
+#EXTINF:-1,CA Sportsnet East HD F
+https://kong.pp.ua/iptv/live.php?channel=668edfcb1ec322a7a2a85e47b27445ae&expiry=1738953334&token=f7c820cc0fa528ef9ff1c0ea60ed18c1
+#EXTINF:-1,CA Sportsnet One FHD
+https://kong.pp.ua/iptv/live.php?channel=ee7aa846775cf1e25f4aba1fb156734d&expiry=1738953334&token=e95b3f017bab7e834c9300216b70187e
+#EXTINF:-1,CA Sportsnet One HD
+https://kong.pp.ua/iptv/live.php?channel=dea3cf23f8dda760e3692aa04de686e3&expiry=1738953334&token=984dfce09a108b18bf40f279141bd55e
+#EXTINF:-1,CA Sportsnet Ontario
+https://kong.pp.ua/iptv/live.php?channel=a1d71fa2c29c4dd9536f16aded8abfc1&expiry=1738953334&token=1e0cc9ee66f61b2c3ff72b01b0a6e4e3
+#EXTINF:-1,CA Sportsnet Ontario HD
+https://kong.pp.ua/iptv/live.php?channel=b56bf7861abfd59ef3af0aacbb807dc4&expiry=1738953334&token=624b8fd9f7df3f72226dd5a0e59b3ceb
+#EXTINF:-1,CA Sportsnet Ontario FHD
+https://kong.pp.ua/iptv/live.php?channel=994af90d443789ff7e6c88292fba0270&expiry=1738953334&token=31ac91767b9d10d7b277d518c07bbc84
+#EXTINF:-1,CA Sportsnet Pacific FHD
+https://kong.pp.ua/iptv/live.php?channel=e22c18653a213848dc23ff32d9b848cc&expiry=1738953334&token=a7f887d1503b5dfb96c8a91efe72ecda
+#EXTINF:-1,CA Sportsnet Pacific HD
+https://kong.pp.ua/iptv/live.php?channel=18124e29acc6b44724953ce24549dc60&expiry=1738953334&token=042c49169d6843d5556a41cb1ead2515
+#EXTINF:-1,CA Sportsnet West FHD
+https://kong.pp.ua/iptv/live.php?channel=3062a90ac2712331bbe291e2143252d3&expiry=1738953334&token=be12137fa6392b9efa32ae80da16249c
+#EXTINF:-1,CA SPORTSNET WEST
+https://kong.pp.ua/iptv/live.php?channel=7b0a3869799e6feb19021c137f39f43d&expiry=1738953334&token=3974a65a392230492bd2d0c9e4c0089a
+#EXTINF:-1,CA Sportsnet World HD
+https://kong.pp.ua/iptv/live.php?channel=9e86cfb61e198678cd852a49bbdd69c8&expiry=1738953334&token=fc0119135482c955a22d3627970cf65e
+#EXTINF:-1,CA FR TVA Sports
+https://kong.pp.ua/iptv/live.php?channel=b7c24d8fc5520e7b24eff7f7f0a3a655&expiry=1738953334&token=c67b9d39c458688f2f843d767486517f
+#EXTINF:-1,US FOX Sports
+https://kong.pp.ua/iptv/live.php?channel=a22abebdf798ba8fa868dbadf0229b91&expiry=1738953334&token=71d6d8733a58a71ad859b88cbf6989a9
+#EXTINF:-1,UK EuroSport
+https://kong.pp.ua/iptv/live.php?channel=2ff12a14f091275043ed51cffb8e5219&expiry=1738953334&token=ac9ccd28c175e2c498bf0d1409759cab
+#EXTINF:-1,US CBS Sports Network HD
+https://kong.pp.ua/iptv/live.php?channel=736ceb517bf37a432b85e203b545c1b0&expiry=1738953334&token=66690455cd0da803395b351c656203ab
+#EXTINF:-1,US ESPNU College Sports
+https://kong.pp.ua/iptv/live.php?channel=e1cfa6345c8640c07a1b8aeaad1effa5&expiry=1738953334&token=04dbf1a73d0e24395cbe926bcd3e922c
+#EXTINF:-1,US Fox Sports
+https://kong.pp.ua/iptv/live.php?channel=6a5c2c6e28eaf679064c222a552f53ff&expiry=1738953334&token=ea1a7dae78b82b1e46d92cb2ecd95df4
+#EXTINF:-1,US Fox Sports
+https://kong.pp.ua/iptv/live.php?channel=631730cec0bb3be3402c249c8bee076b&expiry=1738953334&token=9118741a160afbbb1bafa4bc7d5680db
+#EXTINF:-1,CAR SPORTSMAX
+https://kong.pp.ua/iptv/live.php?channel=617db37779f923b597c3bf649d97996e&expiry=1738953334&token=1d5f6b6fdf1fdd9cf1e950ea6f663e65
+#EXTINF:-1,Star TV Sports
+https://kong.pp.ua/iptv/live.php?channel=51958793cfe6e5a7a2dc6e8dbe299921&expiry=1738953334&token=3e6e2f9076bc3fc253876cb5c2c78b98
+#EXTINF:-1,Star TV Sports
+https://kong.pp.ua/iptv/live.php?channel=7d1a0cbd574f2e33545091b836d60df6&expiry=1738953334&token=3faa76e244007e70cbdca19d801bda92
+#EXTINF:-1,PT SPORT TV  FHD
+https://kong.pp.ua/iptv/live.php?channel=bb9ad40ade0da255ec72cc880a376f8b&expiry=1738953334&token=73f3c25893b0f26dc5359cdd71da41b3
+#EXTINF:-1,PT SPORT TV  HD
+https://kong.pp.ua/iptv/live.php?channel=9558894011acb1da1f633944bc5d4645&expiry=1738953334&token=fc8084b8a47a2e1887af399777af1406
+#EXTINF:-1,PT SPORT TV  HD
+https://kong.pp.ua/iptv/live.php?channel=68dfeabe3cffd7813cf546208051e2f2&expiry=1738953334&token=b6dd5e2a1755c38979b159d4fdb9403e
+#EXTINF:-1,PT SPORT TV  FHD
+https://kong.pp.ua/iptv/live.php?channel=d29eeae29d22fc3362f0917f05855ce8&expiry=1738953334&token=67b658751b43ad6c088fc36636ad082e
+#EXTINF:-1,PT ELEVEN SPORTS  HD
+https://kong.pp.ua/iptv/live.php?channel=260ae3d9837b0d4a8ca38b7d0c9a32d3&expiry=1738953334&token=71f19f8969800ce891f9820ff00fe804
+#EXTINF:-1,PT ELEVEN SPORTS  HD
+https://kong.pp.ua/iptv/live.php?channel=b889301f0db737fd4433af692002a573&expiry=1738953334&token=ffddbc1a938ffcdecc64b23f93d0d742
+#EXTINF:-1,PT ELEVEN SPORTS  HD
+https://kong.pp.ua/iptv/live.php?channel=df5b1470ba6abc00d5c2774c628afde4&expiry=1738953334&token=9c782442c0f3052437ef41e67b98ec6a
+#EXTINF:-1,US FOX Sports
+https://kong.pp.ua/iptv/live.php?channel=9eaac0310263d0d3c20f8b1c84903563&expiry=1738953334&token=8c68d666f93ee1022fd9233810e89c1e
+#EXTINF:-1,US Bally Sports Florida
+https://kong.pp.ua/iptv/live.php?channel=7ce0279e1be7db704f70e5a1b823e338&expiry=1738953334&token=d76f78381d39b7ca67b62218c23b47d9
+#EXTINF:-1,Sportsnet
+https://kong.pp.ua/iptv/live.php?channel=de713332f99c89968d1b46d844eebf91&expiry=1738953334&token=6be0c4d060e137cea599c5a59746920b
+#EXTINF:-1,UK EuroSport
+https://kong.pp.ua/iptv/live.php?channel=ccfd810388bab833496e2bbd84d2e4c1&expiry=1738953334&token=20edd1beeff6052ee49532889c583ba9
+#EXTINF:-1,UK Sky Sports Action
+https://kong.pp.ua/iptv/live.php?channel=0d5efd89f060cdf91ffbeb5b95c6c636&expiry=1738953334&token=d4bb5099ea5a9a04d5be7c69232b64da
+#EXTINF:-1,UK Sky Sports Arena
+https://kong.pp.ua/iptv/live.php?channel=f86221c992449ccd564d45375b8baf4f&expiry=1738953334&token=290aca14c472ab1a80e01045ab9e5bd0
 #EXTINF:-1,UK Sky Sports F FHD
-https://kong.pp.ua/iptv/live.php?channel=43394eb4d6ea492b476c6c0164af54e1&expiry=1738945802&token=947de9990821f6241f7bd12c2ff6ed7a
+https://kong.pp.ua/iptv/live.php?channel=4bc8b05b7d3cfb2acb7b6748e9bd9e8f&expiry=1738953334&token=d087b4f071aed3bf455f23f4a1fc69fe
+#EXTINF:-1,UK Sky Sports Golf FHD
+https://kong.pp.ua/iptv/live.php?channel=a3ebbcd35f5ebc300b8f4fcb9586ca28&expiry=1738953334&token=9c7a06ebdbd887e83c7dc00e1d1b01f9
+#EXTINF:-1,UK Sky Sports Main Event
+https://kong.pp.ua/iptv/live.php?channel=777aed5a74d3f11d40fbfbca8a432b7a&expiry=1738953334&token=ddf76b84cb83eaa4bce5248371036855
+#EXTINF:-1,UK Sky Sports Mix FHD
+https://kong.pp.ua/iptv/live.php?channel=3c864ac1d90bd414153889aa2fe3539f&expiry=1738953334&token=496dd598153e72c90a353f4fb5a24479
+#EXTINF:-1,UK Sky Sports News
+https://kong.pp.ua/iptv/live.php?channel=75fdad715352a9666b7683aa994e2a62&expiry=1738953334&token=68357f1c9bbe56ed37d9f0b0874eed59
+#EXTINF:-1,UK Sky Sports Cricket FHD
+https://kong.pp.ua/iptv/live.php?channel=1402990db67fa797ab3492ccdfc8ba66&expiry=1738953334&token=5263367a2d85935ae36017245ebb2729
+#EXTINF:-1,UK Sky Sports F1
+https://kong.pp.ua/iptv/live.php?channel=6447a00537a808a1630b70fa42cdedec&expiry=1738953334&token=7a9db925117fc715b0f82a7eddd1144f
+#EXTINF:-1,US Bally Sports Southeast
+https://kong.pp.ua/iptv/live.php?channel=806d9ecb5b7a1f5fb00131686fc798c8&expiry=1738953334&token=090ee210c81cc32b7a133a5e5acaf1bb
+#EXTINF:-1,US NBC Sports Network
+https://kong.pp.ua/iptv/live.php?channel=ed0d62ceb1ccb8fa46c010f91ef7df01&expiry=1738953334&token=c65a672c1fc9cd1fc22236a9be68760c
+#EXTINF:-1,US Bally Sports Detroit
+https://kong.pp.ua/iptv/live.php?channel=34df14f367c4d86e90a40481b5a9744d&expiry=1738953334&token=37ce07bff0d9c1c30e85ea027213d49e
+#EXTINF:-1,US Bally Sports Midwest
+https://kong.pp.ua/iptv/live.php?channel=121ee1307fa786da6cec1d57f4a0931c&expiry=1738953334&token=c1a9afb877ae63a461e74d13b3dc2102
+#EXTINF:-1,US Bally Sports Oklahoma
+https://kong.pp.ua/iptv/live.php?channel=31090f72b3b75bf0dadbdba8940d6a9f&expiry=1738953334&token=918c85e91a3b2a328c568e69992831cb
+#EXTINF:-1,US Bally Sports Southeast
+https://kong.pp.ua/iptv/live.php?channel=26055d052c5e670bd7d81597d5d3be95&expiry=1738953334&token=850fbbadcedebb0d014d985721890cf1
+#EXTINF:-1,US Bally Sports Southwest
+https://kong.pp.ua/iptv/live.php?channel=90605d900466c89dec6b241225890be5&expiry=1738953334&token=9a9a2b229b10c750b7463f1c7b904014
+#EXTINF:-1,US Bally Sports West
+https://kong.pp.ua/iptv/live.php?channel=0db22cda8673561485ee8401ae33a797&expiry=1738953334&token=b2e4014580ddb4790cd123b5b9346637
+#EXTINF:-1,US FanDuel Sports Wisconsin
+https://kong.pp.ua/iptv/live.php?channel=dab1aceccdf37ff0fc4fa11123e5245b&expiry=1738953334&token=a3b62c9cbbb6f2272747ab35fb8f74bd
+#EXTINF:-1,PT Eleven Sports  FHD
+https://kong.pp.ua/iptv/live.php?channel=0bd1ee1dcd22bbdbdda5980b061725b1&expiry=1738953334&token=5faa241b8d9bab350b35cfff708a390b
+#EXTINF:-1,US Bally Sports North
+https://kong.pp.ua/iptv/live.php?channel=60be623155d0f796c9fb9b03b8995d21&expiry=1738953334&token=ad62ca5fc9d37b4f624cf8a2d5b6a983
+#EXTINF:-1,US Bally Sports
+https://kong.pp.ua/iptv/live.php?channel=f4e14092d890b79ac046002c68a72e79&expiry=1738953334&token=5e87e80432f4e8938b9bba3d51525578
+#EXTINF:-1,US Bally Sports Ohio A
+https://kong.pp.ua/iptv/live.php?channel=a0c0da11430903b7eec3479cd4fae214&expiry=1738953334&token=6e34c3efc928e2037f729c01fb631008
+#EXTINF:-1,US NBC Sports Bay Area
+https://kong.pp.ua/iptv/live.php?channel=fb14bd7406041d0bfeab74f66c62026e&expiry=1738953334&token=47e6485b6fee3b4ef285535233c7bf17
+#EXTINF:-1,US NBC Sports Boston
+https://kong.pp.ua/iptv/live.php?channel=8d26f72ccd51fdc6e243bc8d9581b859&expiry=1738953334&token=189734a5bccbd0871d7172dfe0a5630b
+#EXTINF:-1,US NBC Sports California
+https://kong.pp.ua/iptv/live.php?channel=972a29fc8933643c6be8449e38b7a85d&expiry=1738953334&token=dd5f63af64da76decef86004ce884679
+#EXTINF:-1,US NBC Sports Chicago
+https://kong.pp.ua/iptv/live.php?channel=ea933353832aa453da52cb41571acd8c&expiry=1738953334&token=d130cac0e6d7c726ac326d1b890f9d9c
+#EXTINF:-1,US NBC Sports Network FHD
+https://kong.pp.ua/iptv/live.php?channel=fc777c1b8b0b036faa124c22d3bc7731&expiry=1738953334&token=90513887f8360c7f3745f48f6484763e
+#EXTINF:-1,US NBC Sports Philly
+https://kong.pp.ua/iptv/live.php?channel=b445e40e7a4ac3009d30a464b165acbf&expiry=1738953334&token=d33de2e6d7d769710844138fed0f91e0
+#EXTINF:-1,US NBC Sports Washington F
+https://kong.pp.ua/iptv/live.php?channel=9528187deb2b6cd35ad8f962052555a5&expiry=1738953334&token=4062e4315c1f3365b7e387fba76d9e8d
+#EXTINF:-1,US Spectrum SportsNet LA Dodgers HD
+https://kong.pp.ua/iptv/live.php?channel=dd3a70e909c12b7c49c23c920940899b&expiry=1738953334&token=20efad14b5ae89a830974aafc5272dde
+#EXTINF:-1,US Spectrum SportsNet Lakers FHD
+https://kong.pp.ua/iptv/live.php?channel=a98a5614c6a9b5f24d21d2ee0b0f27db&expiry=1738953334&token=92dcbef171a288e9043d54e809fa709b
+#EXTINF:-1,US Spectrum SportsNet Lakers FHD
+https://kong.pp.ua/iptv/live.php?channel=1edca2e074266a068a4599a9610451d8&expiry=1738953334&token=80e60bb1973b7c6dc27a5fb42b9d3098
+#EXTINF:-1,US Altitude Sports HD
+https://kong.pp.ua/iptv/live.php?channel=d704eaad4b4188373cdc7c37288ebb61&expiry=1738953334&token=0a6694d07e610578ff92dc646925b5df
+#EXTINF:-1,US CBS Sports Network HD
+https://kong.pp.ua/iptv/live.php?channel=196aa194d2bf2149e84005eea5d808b7&expiry=1738953334&token=9005f739b17f71b0f8c63d5f549811a7
+#EXTINF:-1,US ESPNU College Sports
+https://kong.pp.ua/iptv/live.php?channel=9c60348bb7c48fb8f33af3ac1168eb7d&expiry=1738953334&token=efb91f62a8c164c6acd88a2053aa8321
+#EXTINF:-1,US Fox Sports
+https://kong.pp.ua/iptv/live.php?channel=f5f8616e105c2de614fe703b3155179a&expiry=1738953334&token=bb5f8fdf3e43919bfd945cb224c52b42
+#EXTINF:-1,US Fox Sports  A
+https://kong.pp.ua/iptv/live.php?channel=678dc13a40bc92a89aec29ac9449a3f9&expiry=1738953334&token=76d04570df48f4198b188fe4058f05b3
+#EXTINF:-1,US Bally Sports North A
+https://kong.pp.ua/iptv/live.php?channel=84827e2abb983da746d91596e4827ea0&expiry=1738953334&token=644cff43c706e5ab94555997dfc539f9
+#EXTINF:-1,US Bally Sports Carolinas A
+https://kong.pp.ua/iptv/live.php?channel=8b0f08f7caa1891a369a2ca77e735cd3&expiry=1738953334&token=54b77d4528f3c4860eab780efcd5ffd4
+#EXTINF:-1,US Bally Sports South
+https://kong.pp.ua/iptv/live.php?channel=490c53dba7ef5d680328d6d399f30fb1&expiry=1738953334&token=140c1ca17316be6305bd963293cf528a
+#EXTINF:-1,US Bally Sports South A
+https://kong.pp.ua/iptv/live.php?channel=f80c55751290655726f88ddd31987fdf&expiry=1738953334&token=e89dec620f67ee6c14fe29d6d83dfe89
+#EXTINF:-1,US Marquee Sports Network HD A
+https://kong.pp.ua/iptv/live.php?channel=cd7cc83b6a033661fb7370577d6f5538&expiry=1738953334&token=0c4979d0d3d7e998cc2fd3313e770120
+#EXTINF:-1,US Sportsnet New York SNY A
+https://kong.pp.ua/iptv/live.php?channel=d7e46a22db988cba519d5fa29a106e38&expiry=1738953334&token=23f5c259c2bf5193c077060f0432bfad
+#EXTINF:-1,US Sportsman Channel A
+https://kong.pp.ua/iptv/live.php?channel=53faedc755edd2e38c6a9d653cf7f995&expiry=1738953334&token=7fd955f52d1f8778d9317f1d617390bf
+#EXTINF:-1,US Bally Sports Sun
+https://kong.pp.ua/iptv/live.php?channel=b225c7981819ae7c7e7f7bfba1e4b78e&expiry=1738953334&token=a566439bb07da5f5982169ad18a4c8cd
+#EXTINF:-1,CAR SPORTSMAX
+https://kong.pp.ua/iptv/live.php?channel=d649f9c2502fcdd32b85ac0671b9bbc0&expiry=1738953334&token=10f80e6fa32f1cd50cd6ad0bd7281ebb
+#EXTINF:-1,Star TV Sports
+https://kong.pp.ua/iptv/live.php?channel=ccb54c4e87ba9dde14a3f744853eff55&expiry=1738953334&token=78e86a85f010e99145069280d377cc78
+#EXTINF:-1,Star TV Sports
+https://kong.pp.ua/iptv/live.php?channel=08533d571d7642677d6dca892d747a59&expiry=1738953334&token=e43d2871205bd01437f996880a257678
 #EXTINF:-1,UK SKY SPORTS ARENA FHD
-https://kong.pp.ua/iptv/live.php?channel=d9e52d6036c320fff415ecd77b1277cf&expiry=1738945802&token=ebecb67c4a32aad69822539404d700c0
+https://kong.pp.ua/iptv/live.php?channel=47a8b2d99763f7fa2f5b7ca8d9cfc12a&expiry=1738953334&token=2c6b1119337891a8f88fc7c580369552
 #EXTINF:-1,UK SKY SPORTS MAIN EVENT HD
-https://kong.pp.ua/iptv/live.php?channel=513a81aa47b72dd5bc6ab7b8a341dfff&expiry=1738945802&token=504c37efcafed4b39ac093335fceba5d
+https://kong.pp.ua/iptv/live.php?channel=05dcd932b4c4644818061dd2663832c7&expiry=1738953334&token=0c8f2dfce933452fc7b4a0995075f0d6
+#EXTINF:-1,AMAZON ESPORTES
+https://kong.pp.ua/iptv/live.php?channel=ab4ceefd6ad5197be26d7b4cf35dc773&expiry=1738953334&token=7c6feb91e80d5dc0bcea6cba033dbdec
+#EXTINF:-1,AMAZON ESPORTES
+https://kong.pp.ua/iptv/live.php?channel=669111ab85ae0a214b0d175ebebe0b0b&expiry=1738953334&token=8fcf0cbdbac68c20ecc722a7f1f07ca5
+#EXTINF:-1,AMAZON ESPORTES
+https://kong.pp.ua/iptv/live.php?channel=e13a4653cd4cace253909ca363b8742b&expiry=1738953334&token=0bfa1687635c9930837aec067ef54d89
+#EXTINF:-1,AMAZON ESPORTES
+https://kong.pp.ua/iptv/live.php?channel=5df4228bc617e2c56f374c7e0ecd1a3b&expiry=1738953334&token=d25b1fd323125c6408b57b829a646f69
+#EXTINF:-1,BAND SPORTS
+https://kong.pp.ua/iptv/live.php?channel=746f29d43a25415a8fefa99eb01231e5&expiry=1738953334&token=33b92a5bc510ad06bfd505edeb16a002
+#EXTINF:-1,BAND SPORTS HD
+https://kong.pp.ua/iptv/live.php?channel=b93ecb3ade74b33f0658d2f345ce1434&expiry=1738953334&token=aa2c2d16338eb55385e25eb81034a0aa
+#EXTINF:-1,BEIN SPORTS
+https://kong.pp.ua/iptv/live.php?channel=29867b5f3b08644193feb8f677eb1d9b&expiry=1738953334&token=1db8ec3880114c5989c5d3095d4aa928
+#EXTINF:-1,BEIN SPORTS
+https://kong.pp.ua/iptv/live.php?channel=74afb59e9c50a9a89a169ced8840eeef&expiry=1738953334&token=d4a7b30c2e45136d81864c2cb72f42aa
+#EXTINF:-1,BEIN SPORTS
+https://kong.pp.ua/iptv/live.php?channel=3945ff9c678270b2a6afb7ee97cdbcfd&expiry=1738953334&token=85209ea418275062991a05323afc92ef
+#EXTINF:-1,BEIN SPORTS
+https://kong.pp.ua/iptv/live.php?channel=40387a1821c08561cb7882540708ed0e&expiry=1738953334&token=0cf77dc7cdaa304745115d8a261d0eb1
+#EXTINF:-1,BEIN SPORTS
+https://kong.pp.ua/iptv/live.php?channel=b2a1e05f8e7142fe2a88d160ef83dca0&expiry=1738953334&token=2154d3a4da9541ecbd3a83585253ff48
+#EXTINF:-1,BEIN SPORTS
+https://kong.pp.ua/iptv/live.php?channel=4407d06a99c4d33f518608d276388165&expiry=1738953334&token=c7854156cd8a100f70de76a18cf5e20c
+#EXTINF:-1,BEIN SPORTS
+https://kong.pp.ua/iptv/live.php?channel=c49bea8ae30a95233e5013c9fb9b8911&expiry=1738953334&token=cee857dfa15d65fdec2ff6c1b33ba100
+#EXTINF:-1,NSPORTS  HD
+https://kong.pp.ua/iptv/live.php?channel=8e6cad389ae41eb6a50f1374ad35bb63&expiry=1738953334&token=c3ebe5bb451574430f20236ceb4bd6d5
+#EXTINF:-1,NSPORTS  HD
+https://kong.pp.ua/iptv/live.php?channel=77a224911cdaf6e9effae6267226bb40&expiry=1738953334&token=f10de8e682c3845108c250ef162e2156
+#EXTINF:-1,PAY PER VIEW ESPORTES
+https://kong.pp.ua/iptv/live.php?channel=642a4a430010d987d550b15520292fa6&expiry=1738953334&token=d8d4dcaab3f4c1f20475cf609612c9b9
+#EXTINF:-1,SPORTV
+https://kong.pp.ua/iptv/live.php?channel=2eb68d0255f16c9b792d489b9a1843c2&expiry=1738953334&token=a63bdd085039a07d2cf19e483eff1867
+#EXTINF:-1,SPORTV  HDR
+https://kong.pp.ua/iptv/live.php?channel=204ddac9a235be06eb5fb81c25500602&expiry=1738953334&token=f8c119482e855a6419d32a0507f62238
+#EXTINF:-1,SPORTV  HDR
+https://kong.pp.ua/iptv/live.php?channel=6d098dc9cd5329bc56d2a27fc8ad9fe4&expiry=1738953334&token=40a3a93f3184d3b24067099a993e9f16
+#EXTINF:-1,SPORTV
+https://kong.pp.ua/iptv/live.php?channel=fd8c033fec0a053d93e6f471ebf7307e&expiry=1738953334&token=8e5fec0641a5d0a57e62f79555d25461
+#EXTINF:-1,SPORTV  HDR
+https://kong.pp.ua/iptv/live.php?channel=af02aa8daf0802722f983071b939dd22&expiry=1738953334&token=a8c4eff0bfe16f7e87aa9683f4be659a
+#EXTINF:-1,SPORTV
+https://kong.pp.ua/iptv/live.php?channel=355330742543ad3aa64c48f16743819b&expiry=1738953334&token=cd2948e84d9a70276f0a3107effa0e01
+#EXTINF:-1,PREMIERE SPORTS K
+https://kong.pp.ua/iptv/live.php?channel=f1a9d34ef67edf5388c04f0dba30909d&expiry=1738953334&token=7f08d4af28236e9101a9b508ff7ade02
+#EXTINF:-1,FOX SPORTS
+https://kong.pp.ua/iptv/live.php?channel=a40e5be2a0393e3629cb17b5cd8c2a42&expiry=1738953334&token=f389427f9bae90f14a3b5810632a8d9a
