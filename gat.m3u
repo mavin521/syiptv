@@ -1,16 +1,16 @@
 #EXTM3U
 #EXTINF:-1, CMusic
-https://stream1.freetv.fun/qmusic-1.m3u8
-#EXTINF:-1, CMusic
 https://stream1.freetv.fun/rmusic-1.m3u8
 #EXTINF:-1, CMusic
 https://stream1.freetv.fun/4music-1.m3u8
+#EXTINF:-1, CMusic
+https://stream1.freetv.fun/qmusic-1.m3u8
 #EXTINF:-1, Lifetime(TW)
 https://stream1.freetv.fun/time-line-1.m3u8
 #EXTINF:-1, Lifetime(TW)
 https://stream1.freetv.fun/lifetime-east-2.m3u8
 #EXTINF:-1, Lifetime(TW)
-https://stream1.freetv.fun/lifetime-17.m3u8
+https://stream1.freetv.fun/lifetime-9.ctv
 #EXTINF:-1, ROCK Entertainment
 https://stream1.freetv.fun/rock-entertainment--wj-1.ctv
 #EXTINF:-1, ROCK Entertainment
@@ -18,9 +18,13 @@ https://stream1.freetv.fun/rock-entertainment--c-1.ctv
 #EXTINF:-1, TVBS歡樂臺HD
 https://stream1.freetv.fun/tvbshuan-le-4.m3u8
 #EXTINF:-1, TVBS歡樂臺HD
-https://stream1.freetv.fun/tvbshuan-le-8.m3u8
-#EXTINF:-1, TVBS歡樂臺HD
 https://stream1.freetv.fun/tvbshuan-le-1.m3u8
+#EXTINF:-1, TVBS歡樂臺HD
+https://stream1.freetv.fun/tvbshuan-le-6.ctv
+#EXTINF:-1, TVBS歡樂臺HD[geo-blocked]
+https://stream1.freetv.fun/tvbshuan-le-8.m3u8
+#EXTINF:-1, TVBS歡樂臺HD[geo-blocked]
+https://stream1.freetv.fun/tvbshuan-le-3.ctv
 #EXTINF:-1, 中天娛樂HD
 https://stream1.freetv.fun/zhong-tian-yu-le---wj-1.ctv
 #EXTINF:-1, 中天娛樂HD
@@ -39,8 +43,8 @@ https://stream1.freetv.fun/ba-da-di-yi---wj-1.ctv
 https://stream1.freetv.fun/ba-da-di-yi---c-1.ctv
 #EXTINF:-1, 國家地理頻道
 https://stream1.freetv.fun/guo-jia-di-li---wj-1.ctv
-#EXTINF:-1, 民視綜藝
-https://stream1.freetv.fun/min-shi-zong-yi-1.ctv
+#EXTINF:-1, 緯來日本
+https://stream1.freetv.fun/wei-lai-ri-ben-8.ctv
 #EXTINF:-1, BBC Lifestyle(TW)
 https://stream1.freetv.fun/bbc-lifestyle--3-1.ctv
 #EXTINF:-1, BBC Lifestyle(TW)[geo-blocked]
@@ -48,31 +52,35 @@ https://stream1.freetv.fun/bbc-lifestyle--s-1.m3u8
 #EXTINF:-1, FUN探索娛樂
 https://stream1.freetv.fun/tan-suo-ya-zhou---wj-1.ctv
 #EXTINF:-1, TVBS Asia
+https://stream1.freetv.fun/tvbs-asia--wj-1.ctv
+#EXTINF:-1, TVBS Asia
 https://stream1.freetv.fun/tvbs-asia--r-1.m3u8
 #EXTINF:-1, TVBS Asia
 https://stream1.freetv.fun/tvbs-asia-6.m3u8
-#EXTINF:-1, TVBS Asia
-https://stream1.freetv.fun/tvbs-asia--wj-1.ctv
-#EXTINF:-1, TVBS HD
-https://stream1.freetv.fun/tvbs-5.ctv
 #EXTINF:-1, TVBS HD
 https://stream1.freetv.fun/tvbs--wj-1.ctv
 #EXTINF:-1, TVBS HD
 https://stream1.freetv.fun/tvbs--c-1.ctv
 #EXTINF:-1, TVBS HD[geo-blocked]
 https://stream1.freetv.fun/tvbs-9.m3u8
+#EXTINF:-1, UDN TV
+https://stream1.freetv.fun/edn-tv-1.m3u8
 #EXTINF:-1, rollor
 https://stream1.freetv.fun/roll-1.m3u8
 #EXTINF:-1, 三立綜合
 https://stream1.freetv.fun/san-li-zong-he---wj-1.ctv
 #EXTINF:-1, 三立綜合
+https://stream1.freetv.fun/san-li-zong-he-1.ctv
+#EXTINF:-1, 三立綜合
 https://stream1.freetv.fun/san-li-zong-he---c-1.ctv
-#EXTINF:-1, 三立臺灣台[geo-blocked]
+#EXTINF:-1, 三立臺灣台
 https://stream1.freetv.fun/san-li-tai-wan-3.ctv
 #EXTINF:-1, 三立臺灣台
 https://stream1.freetv.fun/san-li-tai-wan---wj-1.ctv
 #EXTINF:-1, 三立臺灣台
 https://stream1.freetv.fun/san-li-tai-wan---c-1.ctv
+#EXTINF:-1, 三立臺灣台[geo-blocked]
+https://stream1.freetv.fun/san-li-tai-wan-5.m3u8
 #EXTINF:-1, 中天亞洲FHD
 https://stream1.freetv.fun/zhong-tian-ya-zhou-7.m3u8
 #EXTINF:-1, 中天亞洲FHD
@@ -86,8 +94,6 @@ https://stream1.freetv.fun/zhong-tian-zong-he---wj-1.ctv
 #EXTINF:-1, 中天綜合HD
 https://stream1.freetv.fun/zhong-tian-zong-he---c-1.ctv
 #EXTINF:-1, 中視HD
-https://stream1.freetv.fun/zhong-shi-8.m3u8
-#EXTINF:-1, 中視HD
 https://stream1.freetv.fun/zhong-shi---c-1.ctv
 #EXTINF:-1, 中視經典
 https://stream1.freetv.fun/zhong-shi-jing-dian---wj-1.ctv
@@ -98,17 +104,17 @@ https://stream1.freetv.fun/ba-da-zong-he-1.m3u8
 #EXTINF:-1, 八大綜合
 https://stream1.freetv.fun/ba-da-zong-he-4.m3u8
 #EXTINF:-1, 八大綜合
-https://stream1.freetv.fun/ba-da-zong-he---wj-1.ctv
+https://stream1.freetv.fun/ba-da-zong-he-2.ctv
 #EXTINF:-1, 公視2[geo-blocked]
 https://stream1.freetv.fun/gong-shi-2--c-1.ctv
 #EXTINF:-1, 公視HD
 https://stream1.freetv.fun/gong-shi---wj-1.ctv
 #EXTINF:-1, 公視HD[geo-blocked]
 https://stream1.freetv.fun/gong-shi---c-1.ctv
-#EXTINF:-1, 台視HD[geo-blocked]
-https://stream1.freetv.fun/tai-shi-6.ctv
-#EXTINF:-1, 台視HD[geo-blocked]
+#EXTINF:-1, 台視HD
 https://stream1.freetv.fun/tai-shi---c-1.ctv
+#EXTINF:-1, 台視HD
+https://stream1.freetv.fun/tai-shi-6.ctv
 #EXTINF:-1, 國會頻道1
 https://stream1.freetv.fun/guo-hui--1-5.m3u8
 #EXTINF:-1, 國會頻道2
@@ -117,10 +123,6 @@ https://stream1.freetv.fun/guo-hui--2-2.m3u8
 https://stream1.freetv.fun/dong-sen-zong-he---wj-1.ctv
 #EXTINF:-1, 東森綜合
 https://stream1.freetv.fun/dong-sen-zong-he-3.ctv
-#EXTINF:-1, 東森綜合
-https://stream1.freetv.fun/dong-sen-zong-he---c-1.ctv
-#EXTINF:-1, 東森綜合[geo-blocked]
-https://stream1.freetv.fun/dong-sen-zong-he-4.m3u8
 #EXTINF:-1, 東森綜合[geo-blocked]
 https://stream1.freetv.fun/dong-sen-zong-he-1.ctv
 #EXTINF:-1, 東森美洲
@@ -128,15 +130,15 @@ https://stream1.freetv.fun/dong-sen-mei-zhou-2-1.m3u8
 #EXTINF:-1, 東森衛視
 https://stream1.freetv.fun/dong-sen-mei-zhou-xin-wen-1.m3u8
 #EXTINF:-1, 東森超視
-https://stream1.freetv.fun/dong-sen-chao-shi-9.m3u8
-#EXTINF:-1, 東森超視
 https://stream1.freetv.fun/dong-sen-chao-shi-10.m3u8
+#EXTINF:-1, 東森超視
+https://stream1.freetv.fun/dong-sen-chao-shi-9.m3u8
 #EXTINF:-1, 民視[geo-blocked]
 https://stream1.freetv.fun/min-shi-10.m3u8
+#EXTINF:-1, 民視HD[geo-blocked]
+https://stream1.freetv.fun/min-shi-7.ctv
 #EXTINF:-1, 民視HD
 https://stream1.freetv.fun/min-shi---wj-1.ctv
-#EXTINF:-1, 民視HD
-https://stream1.freetv.fun/min-shi---c-1.ctv
 #EXTINF:-1, 民視HD
 https://stream1.freetv.fun/min-shi---0-1.ctv
 #EXTINF:-1, 民視第一台
@@ -147,10 +149,10 @@ https://stream1.freetv.fun/min-shi-di-yi---wj-1.ctv
 https://stream1.freetv.fun/min-shi-di-yi-4.ctv
 #EXTINF:-1, 民視第一臺
 https://stream1.freetv.fun/min-shi-di-yi-2.m3u8
+#EXTINF:-1, 民視臺灣台[geo-blocked]
+https://stream1.freetv.fun/min-shi-tai-wan-7.ctv
 #EXTINF:-1, 民視臺灣台
 https://stream1.freetv.fun/min-shi-tai-wan---wj-1.ctv
-#EXTINF:-1, 民視臺灣台
-https://stream1.freetv.fun/min-shi-tai-wan---c-1.ctv
 #EXTINF:-1, 民視臺灣臺
 https://stream1.freetv.fun/min-shi-tai-wan---0-1.ctv
 #EXTINF:-1, 緯來精彩[geo-blocked]
@@ -159,30 +161,32 @@ https://stream1.freetv.fun/wei-lai-jing-cai-1.m3u8
 https://stream1.freetv.fun/wei-lai-zong-he-3.m3u8
 #EXTINF:-1, 緯來育樂[geo-blocked]
 https://stream1.freetv.fun/wei-lai-yu-le-2.ctv
-#EXTINF:-1, 緯來育樂[geo-blocked]
-https://stream1.freetv.fun/wei-lai-yu-le-6.ctv
-#EXTINF:-1, 臺視綜合[geo-blocked]
+#EXTINF:-1, 臺視綜合
 https://stream1.freetv.fun/tai-shi-zong-he---c-1.ctv
+#EXTINF:-1, 華視
+https://stream1.freetv.fun/hua-shi-4.ctv
 #EXTINF:-1, 華視HD
 https://stream1.freetv.fun/hua-shi---wj-1.ctv
 #EXTINF:-1, 華視HD
-https://stream1.freetv.fun/hua-shi-5.ctv
-#EXTINF:-1, 華視HD
 https://stream1.freetv.fun/hua-shi---c-1.ctv
+#EXTINF:-1, 華視HD
+https://stream1.freetv.fun/hua-shi-5.ctv
 #EXTINF:-1, 靖天國際
 https://stream1.freetv.fun/jing-tian-guo-ji-1.m3u8
 #EXTINF:-1, 靖天國際
 https://stream1.freetv.fun/jing-tian-guo-ji---wj-1.ctv
 #EXTINF:-1, 靖天國際
+https://stream1.freetv.fun/jing-tian-guo-ji---c-1.ctv
+#EXTINF:-1, 靖天國際[geo-blocked]
 https://stream1.freetv.fun/jing-tian-guo-ji-5.ctv
+#EXTINF:-1, 靖天國際[geo-blocked]
+https://stream1.freetv.fun/jing-tian-guo-ji-4.ctv
 #EXTINF:-1, CN卡通頻道[geo-blocked]
 https://stream1.freetv.fun/cnqia-tong-2.ctv
 #EXTINF:-1, CN卡通頻道
 https://stream1.freetv.fun/cnqia-tong---wj-1.ctv
 #EXTINF:-1, DreamWorks(TW)[geo-blocked]
 https://stream1.freetv.fun/dreamworks--s-1.m3u8
-#EXTINF:-1, DreamWorks(TW)
-https://stream1.freetv.fun/dreamworks--c-1.ctv
 #EXTINF:-1, 東森幼幼
 https://stream1.freetv.fun/dong-sen-you-you-yoyo-tv--wj-1.ctv
 #EXTINF:-1, 東森幼幼臺
@@ -200,7 +204,7 @@ https://stream1.freetv.fun/bbc-earth-14.m3u8
 #EXTINF:-1, BBC Earth(tw)
 https://stream1.freetv.fun/bbc-earth-10.m3u8
 #EXTINF:-1, BBC Earth(tw)
-https://stream1.freetv.fun/bbc-earth--wj-1.ctv
+https://stream1.freetv.fun/bbc-earth--3-1.ctv
 #EXTINF:-1, BBC Earth(tw)[geo-blocked]
 https://stream1.freetv.fun/bbc-earth--s-1.m3u8
 #EXTINF:-1, DISCOVERY HD WORLD
@@ -218,7 +222,7 @@ https://stream1.freetv.fun/hgtv-8.m3u8
 #EXTINF:-1, HGTV(TW)
 https://stream1.freetv.fun/hgtv-10.m3u8
 #EXTINF:-1, HGTV(TW)
-https://stream1.freetv.fun/hgtv-9.ctv
+https://stream1.freetv.fun/hgtv--wj-1.ctv
 #EXTINF:-1, HGTV(TW)[geo-blocked]
 https://stream1.freetv.fun/hgtv--s-1.m3u8
 #EXTINF:-1, Love Nature
@@ -232,17 +236,15 @@ https://stream1.freetv.fun/love-nature-21.m3u8
 #EXTINF:-1, Smithsonian Channel
 https://stream1.freetv.fun/smithsonian-channel-selects-1.m3u8
 #EXTINF:-1, Smithsonian Channel
-https://stream1.freetv.fun/smithsonian-channel-2.ctv
-#EXTINF:-1, Smithsonian Channel
 https://stream1.freetv.fun/smithsonian-channel-1.ctv
+#EXTINF:-1, Smithsonian Channel
+https://stream1.freetv.fun/smithsonian-channel-2.ctv
 #EXTINF:-1, TLC 旅遊臺
 https://stream1.freetv.fun/tlclu-you-sheng-huo---wj-1.ctv
 #EXTINF:-1, TLC 旅遊臺
 https://stream1.freetv.fun/tlclu-you-sheng---0-1.ctv
-#EXTINF:-1, EYE TV戲劇
+#EXTINF:-1, EYE TV戲劇[geo-blocked]
 https://stream1.freetv.fun/eyetvxi-ju---c-1.ctv
-#EXTINF:-1, EYE TV戲劇
-https://stream1.freetv.fun/eyexi-ju---wj-1.ctv
 #EXTINF:-1, HBO Asia臺灣地區頻道
 https://stream1.freetv.fun/hbo-asia--c-1.ctv
 #EXTINF:-1, Hollywood
@@ -253,14 +255,16 @@ https://stream1.freetv.fun/young-hollywood-1.m3u8
 https://stream1.freetv.fun/made-in-hollywood-2.m3u8
 #EXTINF:-1, Star Movies Gold
 https://stream1.freetv.fun/gold-star-1.m3u8
-#EXTINF:-1, 三立戲劇
+#EXTINF:-1, 三立戲劇[geo-blocked]
 https://stream1.freetv.fun/san-li-xi-ju-2.m3u8
+#EXTINF:-1, 三立戲劇[geo-blocked]
+https://stream1.freetv.fun/san-li-xi-ju-3.m3u8
 #EXTINF:-1, 三立戲劇
 https://stream1.freetv.fun/san-li-xi-ju---wj-1.ctv
 #EXTINF:-1, 三立戲劇
 https://stream1.freetv.fun/san-li-xi-ju-4.ctv
-#EXTINF:-1, 三立戲劇[geo-blocked]
-https://stream1.freetv.fun/san-li-xi-ju-3.m3u8
+#EXTINF:-1, 三立戲劇
+https://stream1.freetv.fun/san-li-xi-ju---c-1.ctv
 #EXTINF:-1, 八大戲劇HD
 https://stream1.freetv.fun/ba-da-xi-ju---wj-1.ctv
 #EXTINF:-1, 八大戲劇HD
@@ -268,35 +272,25 @@ https://stream1.freetv.fun/ba-da-xi-ju---c-1.ctv
 #EXTINF:-1, 好萊塢電影
 https://stream1.freetv.fun/hao-lai-wu-dian-ying-1.m3u8
 #EXTINF:-1, 好萊塢電影
-https://stream1.freetv.fun/hao-lai-dian-ying-1.m3u8
+https://stream1.freetv.fun/hao-lai-wu-dian-ying-4.ctv
 #EXTINF:-1, 好萊塢電影
-https://stream1.freetv.fun/hao-lai-wu-dian-ying---wj-1.ctv
+https://stream1.freetv.fun/hao-lai-dian-ying-1.m3u8
 #EXTINF:-1, 愛爾達影劇臺
 https://stream1.freetv.fun/ai-er-da-ying-ju---wj-1.ctv
-#EXTINF:-1, 愛爾達影劇臺
-https://stream1.freetv.fun/ai-er-da-ying-ju---c-1.ctv
 #EXTINF:-1, 成龍專輯
 https://stream1.freetv.fun/cheng-long-1.m3u8
 #EXTINF:-1, 東森戲劇
 https://stream1.freetv.fun/dong-sen-xi-ju---wj-1.ctv
-#EXTINF:-1, 東森戲劇
-https://stream1.freetv.fun/dong-sen-xi-ju---c-1.ctv
 #EXTINF:-1, 東森洋片[geo-blocked]
 https://stream1.freetv.fun/dong-sen-yang-pian-6.ctv
 #EXTINF:-1, 東森洋片
 https://stream1.freetv.fun/dong-sen-yang-pian-1.m3u8
 #EXTINF:-1, 東森洋片
 https://stream1.freetv.fun/dong-sen-yang-pian---wj-1.ctv
-#EXTINF:-1, 東森洋片
-https://stream1.freetv.fun/dong-sen-yang-pian---c-1.ctv
-#EXTINF:-1, 東森電影[geo-blocked]
-https://stream1.freetv.fun/dong-sen-dian-ying-2.m3u8
 #EXTINF:-1, 東森電影[geo-blocked]
 https://stream1.freetv.fun/dong-sen-dian-ying-6.ctv
 #EXTINF:-1, 東森電影
 https://stream1.freetv.fun/dong-sen-dian-ying---wj-1.ctv
-#EXTINF:-1, 東森電影
-https://stream1.freetv.fun/dong-sen-dian-ying---c-1.ctv
 #EXTINF:-1, 經典電影臺
 https://stream1.freetv.fun/jing-dian-dian-ying-5.ctv
 #EXTINF:-1, 緯來電影
@@ -304,9 +298,11 @@ https://stream1.freetv.fun/wei-lai-dian-ying-1.m3u8
 #EXTINF:-1, 美亞電影台[TW]
 https://stream1.freetv.fun/mei-ya-dian-ying-6.m3u8
 #EXTINF:-1, 美亞電影台[TW]
-https://stream1.freetv.fun/mei-ya-dian-ying-5.m3u8
-#EXTINF:-1, 美亞電影台[TW]
 https://stream1.freetv.fun/mei-ya-dian-ying-7.m3u8
+#EXTINF:-1, 美亞電影台[TW]
+https://stream1.freetv.fun/mei-ya-dian-ying-1.ctv
+#EXTINF:-1, 美亞電影台[TW][geo-blocked]
+https://stream1.freetv.fun/mei-ya-dian-ying-10.ctv
 #EXTINF:-1, 華藝MBC綜合臺
 https://stream1.freetv.fun/hua-yi-zong---wj-1.ctv
 #EXTINF:-1, 靖天戲劇[geo-blocked]
@@ -318,7 +314,7 @@ https://stream1.freetv.fun/jing-tian-ying-hua-1.ctv
 #EXTINF:-1, 靖天映畫[geo-blocked]
 https://stream1.freetv.fun/jing-tian-ying-hua-2.ctv
 #EXTINF:-1, 靖天映畫[geo-blocked]
-https://stream1.freetv.fun/jing-tian-ying-hua-5.ctv
+https://stream1.freetv.fun/jing-tian-ying-hua-3.ctv
 #EXTINF:-1, 龍華偶像
 https://stream1.freetv.fun/long-hua-ou-xiang-2.m3u8
 #EXTINF:-1, 龍華偶像
@@ -336,15 +332,11 @@ https://stream1.freetv.fun/long-hua-ri-han-4.m3u8
 #EXTINF:-1, 龍華洋片[geo-blocked]
 https://stream1.freetv.fun/long-hua-yang-pian---c-1.ctv
 #EXTINF:-1, 龍華經典
-https://stream1.freetv.fun/long-hua-jing-dian-2.m3u8
-#EXTINF:-1, 龍華經典
 https://stream1.freetv.fun/long-hua-jing-dian---c-1.ctv
 #EXTINF:-1, 龍華電影
-https://stream1.freetv.fun/long-hua-dian-ying-9.m3u8
+https://stream1.freetv.fun/long-hua-dian-ying-3.ctv
 #EXTINF:-1, 龍華電影
 https://stream1.freetv.fun/long-hua-dian-ying---wj-1.ctv
-#EXTINF:-1, 龍華電影
-https://stream1.freetv.fun/long-hua-dian-ying-3.ctv
 #EXTINF:-1, 龍華電影[geo-blocked]
 https://stream1.freetv.fun/long-hua-dian-ying-6.ctv
 #EXTINF:-1, CHANNEL [V]
@@ -357,6 +349,8 @@ https://stream1.freetv.fun/akaal-channel-1.m3u8
 https://stream1.freetv.fun/expo-channel-1.m3u8
 #EXTINF:-1, CHANNEL [V][geo-blocked]
 https://stream1.freetv.fun/lego-channel-1.m3u8
+#EXTINF:-1, CHANNEL [V][geo-blocked]
+https://stream1.freetv.fun/rama-channel-1.m3u8
 #EXTINF:-1, TVBS News[geo-blocked]
 https://stream1.freetv.fun/tvbs-news-1.m3u8
 #EXTINF:-1, TVBS新聞HD
@@ -364,7 +358,7 @@ https://stream1.freetv.fun/tvbsxin-wen-7.m3u8
 #EXTINF:-1, TVBS新聞HD
 https://stream1.freetv.fun/tvbsxin-wen---wj-1.ctv
 #EXTINF:-1, TVBS新聞HD
-https://stream1.freetv.fun/tvbsxin-wen-1.ctv
+https://stream1.freetv.fun/tvbsxin-wen---c-1.ctv
 #EXTINF:-1, Taiwan Plus
 https://stream1.freetv.fun/taiwan-plus-1.m3u8
 #EXTINF:-1, Taiwan Plus[geo-blocked]
@@ -380,45 +374,35 @@ https://stream1.freetv.fun/zhong-tian-xin-wen-6.m3u8
 #EXTINF:-1, 中天新聞FHD
 https://stream1.freetv.fun/zhong-tian-xin-wen---wj-1.ctv
 #EXTINF:-1, 中天新聞FHD
-https://stream1.freetv.fun/zhong-tian-xin-wen---0-1.ctv
+https://stream1.freetv.fun/zhong-tian-xin-wen-1.ctv
 #EXTINF:-1, 中天新聞FHD
 https://stream1.freetv.fun/zhong-tian-xin-wen---c-1.ctv
 #EXTINF:-1, 中天新聞FHD[geo-blocked]
 https://stream1.freetv.fun/zhong-tian-xin-wen-7.m3u8
-#EXTINF:-1, 中天新聞FHD[geo-blocked]
-https://stream1.freetv.fun/zhong-tian-xin-wen-5.ctv
-#EXTINF:-1, 中視新聞FHD
-https://stream1.freetv.fun/zhong-shi-xin-wen-8.m3u8
 #EXTINF:-1, 中視新聞FHD
 https://stream1.freetv.fun/zhong-shi-xin-wen---0-1.ctv
-#EXTINF:-1, 中視新聞FHD[geo-blocked]
-https://stream1.freetv.fun/zhong-shi-xin-wen-1.ctv
 #EXTINF:-1, 中視新聞臺
 https://stream1.freetv.fun/zhong-shi-xin-wen---wj-1.ctv
 #EXTINF:-1, 中視新聞臺
 https://stream1.freetv.fun/zhong-shi-xin-wen---c-1.ctv
-#EXTINF:-1, 台視新聞FHD[geo-blocked]
-https://stream1.freetv.fun/tai-shi-xin-wen-2.ctv
+#EXTINF:-1, 台視新聞FHD
+https://stream1.freetv.fun/tai-shi-xin-wen-7.ctv
 #EXTINF:-1, 台視新聞FHD
 https://stream1.freetv.fun/tai-shi-xin-wen---wj-1.ctv
 #EXTINF:-1, 台視新聞FHD
 https://stream1.freetv.fun/tai-shi-xin-wen-19.m3u8
-#EXTINF:-1, 台視新聞FHD
-https://stream1.freetv.fun/tai-shi-xin-wen-17.m3u8
 #EXTINF:-1, 大立電視臺
 https://stream1.freetv.fun/da-li-dian-shi-2.m3u8
 #EXTINF:-1, 寰宇新聞
 https://stream1.freetv.fun/huan-yu-xin-wen---c-1.ctv
 #EXTINF:-1, 寰宇新聞[geo-blocked]
 https://stream1.freetv.fun/huan-yu-xin-wen-1.m3u8
-#EXTINF:-1, 寰宇新聞FHD
-https://stream1.freetv.fun/huan-yu-xin-wen---wj-1.ctv
-#EXTINF:-1, 寰宇財經
-https://stream1.freetv.fun/huan-yu-cai-jing---0-1.ctv
 #EXTINF:-1, 寰宇財經
 https://stream1.freetv.fun/huan-yu-cai-jing---wj-1.ctv
 #EXTINF:-1, 寰宇財經
 https://stream1.freetv.fun/huan-yu-cai-jing---c-1.ctv
+#EXTINF:-1, 寰宇財經
+https://stream1.freetv.fun/huan-yu-cai-jing---0-1.ctv
 #EXTINF:-1, 年代新聞HD[geo-blocked]
 https://stream1.freetv.fun/nian-dai-xin-wen-4.m3u8
 #EXTINF:-1, 年代新聞HD
@@ -435,24 +419,18 @@ https://stream1.freetv.fun/dong-sen-xin-wen-4.m3u8
 https://stream1.freetv.fun/dong-sen-xin-wen---wj-1.ctv
 #EXTINF:-1, 東森新聞臺
 https://stream1.freetv.fun/dong-sen-xin-wen-1.m3u8
-#EXTINF:-1, 東森新聞臺
-https://stream1.freetv.fun/dong-sen-xin-wen---c-1.ctv
 #EXTINF:-1, 東森財經新聞
 https://stream1.freetv.fun/dong-sen-cai-jing-xin-wen---wj-1.ctv
-#EXTINF:-1, 東森財經新聞
-https://stream1.freetv.fun/dong-sen-cai-jing-xin-wen---c-1.ctv
 #EXTINF:-1, 東森財經新聞
 https://stream1.freetv.fun/dong-sen-cai-jing-xin-wen---0-1.ctv
 #EXTINF:-1, 民視新聞 HD
 https://stream1.freetv.fun/min-shi-xin-wen-19.m3u8
 #EXTINF:-1, 民視新聞 HD
 https://stream1.freetv.fun/min-shi-xin-wen---wj-1.ctv
-#EXTINF:-1, 民視新聞 HD
-https://stream1.freetv.fun/min-shi-xin-wen---c-1.ctv
-#EXTINF:-1, 民視新聞HD
-https://stream1.freetv.fun/min-shi-xin-wen-12.m3u8
 #EXTINF:-1, 民視新聞HD
 https://stream1.freetv.fun/min-shi-xin-wen-13.m3u8
+#EXTINF:-1, 民視新聞HD
+https://stream1.freetv.fun/min-shi-xin-wen-12.m3u8
 #EXTINF:-1, 民視新聞HD
 https://stream1.freetv.fun/min-shi-xin-wen-10.ctv
 #EXTINF:-1, 臺視新聞臺
@@ -461,10 +439,6 @@ https://stream1.freetv.fun/tai-shi-xin-wen-12.m3u8
 https://stream1.freetv.fun/tai-shi-xin-wen-4.m3u8
 #EXTINF:-1, 臺視新聞臺
 https://stream1.freetv.fun/tai-shi-xin-wen-21.m3u8
-#EXTINF:-1, 華視新聞FHD
-https://stream1.freetv.fun/hua-shi-xin-wen-4.ctv
-#EXTINF:-1, 華視新聞FHD
-https://stream1.freetv.fun/hua-shi-xin-wen-5.ctv
 #EXTINF:-1, 靖天資訊[geo-blocked]
 https://stream1.freetv.fun/jing-tian-zi-xun-4.ctv
 #EXTINF:-1, 靖天資訊[geo-blocked]
@@ -472,11 +446,11 @@ https://stream1.freetv.fun/jing-tian-zi-xun-3.ctv
 #EXTINF:-1, 靖天資訊[geo-blocked]
 https://stream1.freetv.fun/jing-tian-zi-xun-1.ctv
 #EXTINF:-1, 非凡新聞HD
+https://stream1.freetv.fun/fei-fan-xin-wen-3.m3u8
+#EXTINF:-1, 非凡新聞HD
 https://stream1.freetv.fun/fei-fan-xin-wen---wj-1.ctv
 #EXTINF:-1, 非凡新聞HD
 https://stream1.freetv.fun/fei-fan-xin-wen-4.ctv
-#EXTINF:-1, 非凡新聞HD
-https://stream1.freetv.fun/fei-fan-xin-wen---c-1.ctv
 #EXTINF:-1, 115新天地民俗臺
 https://stream1.freetv.fun/xin-jiang---bing-tuan-ba-shi-shi-he-zi-jing-ji-sheng-huo-1.m3u8
 #EXTINF:-1, AFN(TW)[geo-blocked]
@@ -487,8 +461,6 @@ https://stream1.freetv.fun/afn--3-1.ctv
 https://stream1.freetv.fun/afn--c-1.ctv
 #EXTINF:-1, EYE TV旅遊
 https://stream1.freetv.fun/eyelu-you---wj-1.ctv
-#EXTINF:-1, EYE TV旅遊
-https://stream1.freetv.fun/eyetvlu-you---c-1.ctv
 #EXTINF:-1, Food Network(TW)
 https://stream1.freetv.fun/food-network-3.m3u8
 #EXTINF:-1, Food Network(TW)
@@ -508,20 +480,20 @@ https://stream1.freetv.fun/pet-club-tv-1.m3u8
 #EXTINF:-1, 亞洲旅遊臺
 https://stream1.freetv.fun/ya-zhou-lu-you---wj-1.ctv
 #EXTINF:-1, 亞洲旅遊臺
-https://stream1.freetv.fun/ya-zhou-lu-you---c-1.ctv
-#EXTINF:-1, 亞洲旅遊臺
 https://stream1.freetv.fun/ya-zhou-lu-you-3.ctv
+#EXTINF:-1, 亞洲旅遊臺
+https://stream1.freetv.fun/ya-zhou-lu-you---c-1.ctv
 #EXTINF:-1, 人間衛視
 https://stream1.freetv.fun/ren-jian-wei-shi-3.m3u8
 #EXTINF:-1, 人間衛視
 https://stream1.freetv.fun/ren-jian-wei-shi-5.m3u8
 #EXTINF:-1, 人間衛視
-https://stream1.freetv.fun/ren-jian-wei-shi-10.ctv
+https://stream1.freetv.fun/ren-jian-wei-shi-12.m3u8
 #EXTINF:-1, 創世電視
 https://stream1.freetv.fun/chuang-shi-dian-shi-1.m3u8
 #EXTINF:-1, 唯心電視
 https://stream1.freetv.fun/wei-xin-dian-shi-5.m3u8
-#EXTINF:-1, 大愛
+#EXTINF:-1, 大愛[geo-blocked]
 https://stream1.freetv.fun/da-ai-1--c-1.ctv
 #EXTINF:-1, 大愛2
 https://stream1.freetv.fun/da-ai-2tai---wj-2.ctv
@@ -539,26 +511,18 @@ https://stream1.freetv.fun/hao-xiao-xi-1-1.m3u8
 https://stream1.freetv.fun/sheng-ming-dian-shi-2.m3u8
 #EXTINF:-1, 美食星球
 https://stream1.freetv.fun/mei-shi-xing-qiu---wj-1.ctv
-#EXTINF:-1, 美食星球
-https://stream1.freetv.fun/mei-shi-xing-qiu---c-1.ctv
 #EXTINF:-1, DAZN 1(TW)
 https://stream1.freetv.fun/dazn-ringside-2.m3u8
 #EXTINF:-1, DAZN 1(TW)
 https://stream1.freetv.fun/dazn-combat-1.m3u8
 #EXTINF:-1, DAZN 1(TW)
 https://stream1.freetv.fun/dazn-ringside-1.m3u8
-#EXTINF:-1, ELTA體育1
-https://stream1.freetv.fun/ai-er-da-ti-yu--1--0-1.ctv
-#EXTINF:-1, ELTA體育2
+#EXTINF:-1, ELTA體育2[geo-blocked]
 https://stream1.freetv.fun/eltaai-er-da-ti-yu-2--c-1.ctv
-#EXTINF:-1, ELTA體育2
-https://stream1.freetv.fun/ai-er-da-ti-yu--2--0-1.ctv
-#EXTINF:-1, ELTA體育2(備用)[geo-blocked]
+#EXTINF:-1, ELTA體育2(備用)
 https://stream1.freetv.fun/cctv4mei-zhou-5.ctv
-#EXTINF:-1, ELTA體育3
+#EXTINF:-1, ELTA體育3[geo-blocked]
 https://stream1.freetv.fun/eltaai-er-da-ti-yu-3--c-1.ctv
-#EXTINF:-1, ELTA體育3
-https://stream1.freetv.fun/ai-er-da-ti-yu--3--0-1.ctv
 #EXTINF:-1, ELTA體育4(備用)
 https://stream1.freetv.fun/delta-tv-1.m3u8
 #EXTINF:-1, ELTA體育4(備用)
@@ -589,12 +553,14 @@ https://stream1.freetv.fun/bo-si-gao-qiu--1--0-1.ctv
 https://stream1.freetv.fun/bo-si-gao-qiu--2--0-1.ctv
 #EXTINF:-1, 緯來體育
 https://stream1.freetv.fun/wei-lai-ti-yu-1.m3u8
+#EXTINF:-1, 緯來體育
+https://stream1.freetv.fun/wei-lai-ti-yu-8.ctv
 #EXTINF:-1, 澳視綜藝
 https://stream1.freetv.fun/ao-men-zong-yi-1.m3u8
 #EXTINF:-1, 澳視綜藝
-https://stream1.freetv.fun/ao-shi-zong-yi-2.m3u8
-#EXTINF:-1, 澳視綜藝[geo-blocked]
 https://stream1.freetv.fun/ao-shi-zong-yi-1.m3u8
+#EXTINF:-1, 澳視綜藝
+https://stream1.freetv.fun/ao-shi-zong-yi-2.m3u8
 #EXTINF:-1, 澳視葡文[geo-blocked]
 https://stream1.freetv.fun/ao-shi-pu-wen-2.m3u8
 #EXTINF:-1, 澳視葡文
@@ -611,7 +577,7 @@ https://stream1.freetv.fun/ch-ng-ao-shi-ao-men-1.m3u8
 https://stream1.freetv.fun/ao-shi-ao-men-1.m3u8
 #EXTINF:-1, 澳視澳門[geo-blocked]
 https://stream1.freetv.fun/ao-shi-ao-men-6.m3u8
-#EXTINF:-1, 澳門蓮花[geo-blocked]
+#EXTINF:-1, 澳門蓮花
 https://stream1.freetv.fun/ao-men-lian-hua-1.m3u8
 #EXTINF:-1, 澳視資訊
 https://stream1.freetv.fun/ao-shi-zi-xun-1.m3u8
@@ -647,14 +613,16 @@ https://stream1.freetv.fun/atv-plus-3.m3u8
 https://stream1.freetv.fun/atv-plus-2.m3u8
 #EXTINF:-1, TVB Plus[geo-blocked]
 https://stream1.freetv.fun/tvb-plus-1.m3u8
+#EXTINF:-1, TVB娛樂新聞(MAS)
+https://stream1.freetv.fun/tvbyu-le-xin-wen-7.ctv
 #EXTINF:-1, ViuTV HD[geo-blocked]
 https://stream1.freetv.fun/vpitv-1.m3u8
 #EXTINF:-1, ViuTV HD
 https://stream1.freetv.fun/viutv-6.m3u8
 #EXTINF:-1, ViuTV HD
-https://stream1.freetv.fun/viutv-7.m3u8
+https://stream1.freetv.fun/viutv-10.ctv
 #EXTINF:-1, ViuTV HD
-https://stream1.freetv.fun/viutv1-1.m3u8
+https://stream1.freetv.fun/viutv-7.m3u8
 #EXTINF:-1, ViuTVsix
 https://stream1.freetv.fun/viutvsix-2.m3u8
 #EXTINF:-1, ViuTVsix
@@ -663,10 +631,12 @@ https://stream1.freetv.fun/viutvsix-4.m3u8
 https://stream1.freetv.fun/viutvsix--wj-1.ctv
 #EXTINF:-1, 星空衛視[geo-blocked]
 https://stream1.freetv.fun/xing-kong-wei-shi-2.ctv
-#EXTINF:-1, 星空衛視[geo-blocked]
+#EXTINF:-1, 星空衛視
 https://stream1.freetv.fun/xing-kong-wei-shi-7.m3u8
 #EXTINF:-1, 星空衛視
 https://stream1.freetv.fun/xing-kong-wei-shi-13.m3u8
+#EXTINF:-1, 港臺電視31[geo-blocked]
+https://stream1.freetv.fun/gang-tai-dian-shi-31-2.ctv
 #EXTINF:-1, 香港衛視文藝臺
 https://stream1.freetv.fun/xiang-gang-wei-shi-wen-yi-1.m3u8
 #EXTINF:-1, ATV WORLD
@@ -674,15 +644,11 @@ https://stream1.freetv.fun/tvri-world-3.m3u8
 #EXTINF:-1, Now TV
 https://stream1.freetv.fun/now-tv-1.m3u8
 #EXTINF:-1, 翡翠台
-https://stream1.freetv.fun/fei-cui-15.ctv
-#EXTINF:-1, 翡翠台
 https://stream1.freetv.fun/fei-cui-11.ctv
 #EXTINF:-1, 翡翠台
-https://stream1.freetv.fun/fei-cui-14.ctv
-#EXTINF:-1, 翡翠台[geo-blocked]
 https://stream1.freetv.fun/fei-cui-22.m3u8
-#EXTINF:-1, 翡翠台[geo-blocked]
-https://stream1.freetv.fun/fei-cui-1.m3u8
+#EXTINF:-1, 翡翠台
+https://stream1.freetv.fun/fei-cui-14.ctv
 #EXTINF:-1, 鳳凰衛視FHD[geo-blocked]
 https://stream1.freetv.fun/feng-huang-wei-shi-xiang-gang-6.m3u8
 #EXTINF:-1, 鳳凰衛視FHD
@@ -690,29 +656,31 @@ https://stream1.freetv.fun/feng-huang-wei-shi-xiang-gang-3.m3u8
 #EXTINF:-1, 鳳凰衛視FHD
 https://stream1.freetv.fun/feng-huang-wei-shi-6.m3u8
 #EXTINF:-1, 鳳凰衛視FHD
-https://stream1.freetv.fun/feng-huang-wei-shi---0-1.ctv
+https://stream1.freetv.fun/feng-huang-wei-shi-3.ctv
 #EXTINF:-1, 鳳凰衛視中文
 https://stream1.freetv.fun/feng-huang-wei-shi-zhong-wen-3.m3u8
 #EXTINF:-1, 鳳凰衛視中文
 https://stream1.freetv.fun/feng-huang-zhong-wen-8.m3u8
 #EXTINF:-1, 鳳凰衛視中文
-https://stream1.freetv.fun/feng-huang-zhong-wen-3.ctv
-#EXTINF:-1, 鳳凰衛視中文[geo-blocked]
 https://stream1.freetv.fun/feng-huang-wei-shi-10.m3u8
 #EXTINF:-1, 鳳凰香港[geo-blocked]
 https://stream1.freetv.fun/feng-huang-xiang-gang-12.ctv
 #EXTINF:-1, 鳳凰香港
 https://stream1.freetv.fun/feng-huang-xiang-gang-6.m3u8
 #EXTINF:-1, 鳳凰香港
-https://stream1.freetv.fun/feng-huang-xiang-gang-2.ctv
+https://stream1.freetv.fun/feng-huang-xiang-gang--gao-qing-1.ctv
 #EXTINF:-1, 鳳凰香港
-https://stream1.freetv.fun/feng-huang-xiang-gang---wj-1.ctv
+https://stream1.freetv.fun/feng-huang-xiang-gang-2.ctv
 #EXTINF:-1, Animax(HK)
 https://stream1.freetv.fun/cctv-5-ti-yu-sai-shi-8.m3u8
 #EXTINF:-1, Animax(HK)
 https://stream1.freetv.fun/cctv-5-ti-yu-sai-shi-9.m3u8
 #EXTINF:-1, Animax(HK)
 https://stream1.freetv.fun/cctv-5-ti-yu-sai-shi-10.m3u8
+#EXTINF:-1, Animax(HK)[geo-blocked]
+https://stream1.freetv.fun/animax-5.m3u8
+#EXTINF:-1, Animax(HK)[geo-blocked]
+https://stream1.freetv.fun/animax--a-1.m3u8
 #EXTINF:-1, Discovery Kids
 https://stream1.freetv.fun/discoverykidstamil-1.m3u8
 #EXTINF:-1, 陽光衛視[geo-blocked]
@@ -720,25 +688,25 @@ https://stream1.freetv.fun/yang-guang-wei-shi-1.m3u8
 #EXTINF:-1, AXN(HK)
 https://stream1.freetv.fun/axn--wj-2.ctv
 #EXTINF:-1, AXN(HK)
-https://stream1.freetv.fun/axn--3-1.ctv
-#EXTINF:-1, AXN(HK)
 https://stream1.freetv.fun/axn--wj-1.ctv
-#EXTINF:-1, AXN(HK)[geo-blocked]
-https://stream1.freetv.fun/axn--c-1.ctv
+#EXTINF:-1, AXN(HK)
+https://stream1.freetv.fun/axn--3-1.ctv
 #EXTINF:-1, MOVIE MOVIE
 https://stream1.freetv.fun/mytime-movie-network-4.m3u8
 #EXTINF:-1, MOVIE MOVIE
 https://stream1.freetv.fun/mytime-movie-network-2.m3u8
 #EXTINF:-1, MOVIE MOVIE
 https://stream1.freetv.fun/movies-1.m3u8
-#EXTINF:-1, Popc[geo-blocked]
+#EXTINF:-1, Popc
 https://stream1.freetv.fun/popc-3.m3u8
 #EXTINF:-1, Popc
+https://stream1.freetv.fun/popc-2.m3u8
+#EXTINF:-1, Popc[geo-blocked]
 https://stream1.freetv.fun/popc--a-1.m3u8
 #EXTINF:-1, TVB亞洲劇
-https://stream1.freetv.fun/tvbsya-zhou-14.m3u8
-#EXTINF:-1, TVB亞洲劇
 https://stream1.freetv.fun/tvbsya-zhou-15.m3u8
+#EXTINF:-1, TVB亞洲劇
+https://stream1.freetv.fun/tvbsya-zhou-14.m3u8
 #EXTINF:-1, TVB亞洲劇
 https://stream1.freetv.fun/tvbsya-zhou-8.m3u8
 #EXTINF:-1, TVB星河(粵)
@@ -747,11 +715,9 @@ https://stream1.freetv.fun/tvbxing-he-7.ctv
 https://stream1.freetv.fun/tvbxing-he-4.ctv
 #EXTINF:-1, TVB華劇
 https://stream1.freetv.fun/tvbxing-he-5.m3u8
-#EXTINF:-1, TVB黃金翡翠台
-https://stream1.freetv.fun/tvbfei-cui-2.ctv
-#EXTINF:-1, 亞洲電影[geo-blocked]
+#EXTINF:-1, 亞洲電影
 https://stream1.freetv.fun/gong-fu-dian-ying-1.m3u8
-#EXTINF:-1, 周星馳專輯[geo-blocked]
+#EXTINF:-1, 周星馳專輯
 https://stream1.freetv.fun/zhou-xing-chi-1.m3u8
 #EXTINF:-1, 周潤發專輯
 https://stream1.freetv.fun/zhou-run-fa-1.m3u8
@@ -759,39 +725,37 @@ https://stream1.freetv.fun/zhou-run-fa-1.m3u8
 https://stream1.freetv.fun/ming-zhu-4.m3u8
 #EXTINF:-1, 明珠
 https://stream1.freetv.fun/ming-zhu-8.m3u8
-#EXTINF:-1, 明珠臺(備)
-https://stream1.freetv.fun/ming-zhu-3.m3u8
+#EXTINF:-1, 明珠
+https://stream1.freetv.fun/ming-zhu-9.ctv
 #EXTINF:-1, 明珠臺(備)[geo-blocked]
 https://stream1.freetv.fun/ming-zhu-10.m3u8
 #EXTINF:-1, 美亞電影台[HK]
-https://stream1.freetv.fun/mei-ya-dian-ying-tai---a-1.m3u8
-#EXTINF:-1, 美亞電影台[HK]
 https://stream1.freetv.fun/mei-ya-dian-ying---wj-1.ctv
+#EXTINF:-1, 美亞電影台[HK][geo-blocked]
+https://stream1.freetv.fun/mei-ya-dian-ying-tai---a-1.m3u8
 #EXTINF:-1, 鳳凰電影
 https://stream1.freetv.fun/feng-huang-dian-ying-4.m3u8
 #EXTINF:-1, CCTV1(RTHK33)
-https://stream1.freetv.fun/cctv1--0-1.ctv
-#EXTINF:-1, CCTV1(RTHK33)
-https://stream1.freetv.fun/cctv1-34.ctv
+https://stream1.freetv.fun/cctv1-61.m3u8
 #EXTINF:-1, CCTV1(RTHK33)
 https://stream1.freetv.fun/cctv-1-11.ctv
+#EXTINF:-1, CCTV1(RTHK33)
+https://stream1.freetv.fun/cctv1-78.ctv
 #EXTINF:-1, CCTV1(RTHK33)[geo-blocked]
-https://stream1.freetv.fun/cctv1-61.m3u8
-#EXTINF:-1, CCTV1(RTHK33)[geo-blocked]
-https://stream1.freetv.fun/cctv1--n-1.ctv
+https://stream1.freetv.fun/cctv1-34.ctv
 #EXTINF:-1, HOY TV
 https://stream1.freetv.fun/koy-tv-1.ctv
 #EXTINF:-1, HOY資訊台
 https://stream1.freetv.fun/hoyzi-xun-1.m3u8
 #EXTINF:-1, RTHK32[geo-blocked]
-https://stream1.freetv.fun/rthk32-4.m3u8
-#EXTINF:-1, RTHK32
 https://stream1.freetv.fun/rthk32-1.m3u8
 #EXTINF:-1, RTHK32
 https://stream1.freetv.fun/hk32-1.m3u8
 #EXTINF:-1, RTHK32
 https://stream1.freetv.fun/rthk32-3.m3u8
-#EXTINF:-1, TVB無線衛星新聞
+#EXTINF:-1, RTHK32
+https://stream1.freetv.fun/rthk32--wj-1.ctv
+#EXTINF:-1, TVB無線衛星新聞[geo-blocked]
 https://stream1.freetv.fun/tvbwu-xian-xin-wen-3.ctv
 #EXTINF:-1, 無線新聞台
 https://stream1.freetv.fun/wu-xian-xin-wen-4.m3u8
@@ -802,17 +766,17 @@ https://stream1.freetv.fun/wu-xian-xin-wen-13.ctv
 #EXTINF:-1, 無線新聞臺[geo-blocked]
 https://stream1.freetv.fun/wu-xian-xin-wen-9.m3u8
 #EXTINF:-1, 鳳凰資訊HD
+https://stream1.freetv.fun/feng-huang-zi-xun---wj-1.ctv
+#EXTINF:-1, 鳳凰資訊HD
 https://stream1.freetv.fun/feng-huang-zi-xun--gao-qing-1.ctv
 #EXTINF:-1, 鳳凰資訊HD
 https://stream1.freetv.fun/feng-huang-zi-xun-22.m3u8
-#EXTINF:-1, 鳳凰資訊HD
-https://stream1.freetv.fun/feng-huang-zi-xun---wj-1.ctv
 #EXTINF:-1, snaap!
 https://stream1.freetv.fun/snap-1.m3u8
 #EXTINF:-1, 星空衛視國際頻道[geo-blocked]
 https://stream1.freetv.fun/xing-kong-guo-ji-1.m3u8
-#EXTINF:-1, 有線18臺[geo-blocked]
-https://stream1.freetv.fun/xiang-gang-you-xian-18-2.ctv
+#EXTINF:-1, 有線18臺
+https://stream1.freetv.fun/xiang-gang-you-xian-18-4.ctv
 #EXTINF:-1, 甄子丹影視
 https://stream1.freetv.fun/zhen-zi-dan-1.m3u8
 #EXTINF:-1, 耀才財經臺
@@ -841,9 +805,9 @@ https://stream1.freetv.fun/bbc-earth--3-1.ctv
 https://stream1.freetv.fun/bbc-earth--wj-1.ctv
 #EXTINF:-1, [HD]bbc earth lifestyle *wj
 https://stream1.freetv.fun/bbc-earth-lifestyle--wj-2.ctv
-#EXTINF:-1, [SD]bbc earth
+#EXTINF:-1, [HD]bbc earth
 https://stream1.freetv.fun/bbc-earth-10.m3u8
-#EXTINF:-1, [BD]bbc lifestyle *3
+#EXTINF:-1, [HD]bbc lifestyle *3
 https://stream1.freetv.fun/bbc-lifestyle--3-1.ctv
 #EXTINF:-1, [HD]bbc lifestyle(tw) *s[geo-blocked]
 https://stream1.freetv.fun/bbc-lifestyle--s-1.m3u8
@@ -885,7 +849,7 @@ https://stream1.freetv.fun/lego-channel-1.m3u8
 https://stream1.freetv.fun/mo-channel-1.m3u8
 #EXTINF:-1, [SD]pursuit channel
 https://stream1.freetv.fun/pursuit-channel-1.m3u8
-#EXTINF:-1, [BD]rama channel
+#EXTINF:-1, [BD]rama channel[geo-blocked]
 https://stream1.freetv.fun/rama-channel-1.m3u8
 #EXTINF:-1, [BD]stou channel
 https://stream1.freetv.fun/stou-channel-1.m3u8
@@ -913,8 +877,6 @@ https://stream1.freetv.fun/green-channel-2.m3u8
 https://stream1.freetv.fun/green-channel-1.m3u8
 #EXTINF:-1, [BD]kurd channel
 https://stream1.freetv.fun/kurd-channel-1.m3u8
-#EXTINF:-1, [SD]corfu channel
-https://stream1.freetv.fun/corfu-channel-1.m3u8
 #EXTINF:-1, [HD]maya channel
 https://stream1.freetv.fun/maya-channel-1.m3u8
 #EXTINF:-1, [SD]golf channel =
@@ -953,7 +915,7 @@ https://stream1.freetv.fun/dazn-ringside-1.m3u8
 https://stream1.freetv.fun/discovery-world--3-1.ctv
 #EXTINF:-1, [HD]discovery world *s[geo-blocked]
 https://stream1.freetv.fun/discovery-world--s-1.m3u8
-#EXTINF:-1, [HD]discovery(tw) *s[geo-blocked]
+#EXTINF:-1, [SD]discovery(tw) *s[geo-blocked]
 https://stream1.freetv.fun/discovery--s-1.m3u8
 #EXTINF:-1, [BD]discovery
 https://stream1.freetv.fun/discovery-3.m3u8
@@ -961,30 +923,20 @@ https://stream1.freetv.fun/discovery-3.m3u8
 https://stream1.freetv.fun/discovery--wj-1.ctv
 #EXTINF:-1, [SD]dreamworks(tw) *s[geo-blocked]
 https://stream1.freetv.fun/dreamworks--s-1.m3u8
-#EXTINF:-1, [BD]dreamworks *c
-https://stream1.freetv.fun/dreamworks--c-1.ctv
-#EXTINF:-1, [HD]愛爾達體育 1 *0
-https://stream1.freetv.fun/ai-er-da-ti-yu--1--0-1.ctv
-#EXTINF:-1, [HD]愛爾達體育 2 *0
-https://stream1.freetv.fun/ai-er-da-ti-yu--2--0-1.ctv
-#EXTINF:-1, [HD]elta爱尔达体育2 *c
+#EXTINF:-1, [HD]elta爱尔达体育2 *c[geo-blocked]
 https://stream1.freetv.fun/eltaai-er-da-ti-yu-2--c-1.ctv
-#EXTINF:-1, [VGA]cctv4美洲[geo-blocked]
+#EXTINF:-1, [VGA]cctv4美洲
 https://stream1.freetv.fun/cctv4mei-zhou-5.ctv
-#EXTINF:-1, [HD]愛爾達體育 3 *0
-https://stream1.freetv.fun/ai-er-da-ti-yu--3--0-1.ctv
-#EXTINF:-1, [HD]elta爱尔达体育3 *c
+#EXTINF:-1, [HD]elta爱尔达体育3 *c[geo-blocked]
 https://stream1.freetv.fun/eltaai-er-da-ti-yu-3--c-1.ctv
 #EXTINF:-1, [HD]delta tv
 https://stream1.freetv.fun/delta-tv-1.m3u8
 #EXTINF:-1, [HD]delta tv
 https://stream1.freetv.fun/delta-tv-3.m3u8
-#EXTINF:-1, [HD]eyetv戏剧 *c
+#EXTINF:-1, [HD]eyetv戏剧 *c[geo-blocked]
 https://stream1.freetv.fun/eyetvxi-ju---c-1.ctv
 #EXTINF:-1, [HD]eye 旅遊 *wj
 https://stream1.freetv.fun/eyelu-you---wj-1.ctv
-#EXTINF:-1, [HD]eyetv旅游 *c
-https://stream1.freetv.fun/eyetvlu-you---c-1.ctv
 #EXTINF:-1, [HD]eleven sports1 *wj
 https://stream1.freetv.fun/eleven-sports1--wj-1.ctv
 #EXTINF:-1, [HD]探索亞洲 *wj
@@ -997,7 +949,7 @@ https://stream1.freetv.fun/food-network-8.m3u8
 https://stream1.freetv.fun/food-network-16.m3u8
 #EXTINF:-1, [BD]food network[geo-blocked]
 https://stream1.freetv.fun/food-network-4.m3u8
-#EXTINF:-1, [SD]food network(tw) *s[geo-blocked]
+#EXTINF:-1, [BD]food network(tw) *s[geo-blocked]
 https://stream1.freetv.fun/food-network--s-1.m3u8
 #EXTINF:-1, [BD]food network *wj
 https://stream1.freetv.fun/food-network--wj-1.ctv
@@ -1025,12 +977,12 @@ https://stream1.freetv.fun/hgtv--c-1.ctv
 https://stream1.freetv.fun/hollywood-5.m3u8
 #EXTINF:-1, [BD]young hollywood
 https://stream1.freetv.fun/young-hollywood-1.m3u8
+#EXTINF:-1, [BD]young hollywood
+https://stream1.freetv.fun/young-hollywood-3.m3u8
 #EXTINF:-1, [BD]hollywood movies *c
 https://stream1.freetv.fun/hollywood-movies--c-1.ctv
 #EXTINF:-1, [HD]made in hollywood
 https://stream1.freetv.fun/made-in-hollywood-2.m3u8
-#EXTINF:-1, [VGA]young hollywood
-https://stream1.freetv.fun/young-hollywood-3.m3u8
 #EXTINF:-1, [HD]time line
 https://stream1.freetv.fun/time-line-1.m3u8
 #EXTINF:-1, [HD]lifetime east
@@ -1043,7 +995,7 @@ https://stream1.freetv.fun/lifetime-3.ctv
 https://stream1.freetv.fun/lifetime-11.ctv
 #EXTINF:-1, [SD]lifetime(tw)-
 https://stream1.freetv.fun/lifetime-6.ctv
-#EXTINF:-1, [HD]lifetime
+#EXTINF:-1, [BD]lifetime
 https://stream1.freetv.fun/lifetime-17.m3u8
 #EXTINF:-1, [BD]love nature en espanol
 https://stream1.freetv.fun/love-nature-en-espanol-1.m3u8
@@ -1053,7 +1005,7 @@ https://stream1.freetv.fun/love-nature-14.m3u8
 https://stream1.freetv.fun/love-nature-12.m3u8
 #EXTINF:-1, [VGA]love nature *3
 https://stream1.freetv.fun/love-nature--3-1.ctv
-#EXTINF:-1, [HD]love nature[geo-blocked]
+#EXTINF:-1, [SD]love nature[geo-blocked]
 https://stream1.freetv.fun/love-nature-21.m3u8
 #EXTINF:-1, [HD]unife tv
 https://stream1.freetv.fun/unife-tv-2.m3u8
@@ -1085,8 +1037,6 @@ https://stream1.freetv.fun/tvb-asia--c-1.ctv
 https://stream1.freetv.fun/tvbs-asia--r-1.m3u8
 #EXTINF:-1, [BD]tvbs asia
 https://stream1.freetv.fun/tvbs-asia-6.m3u8
-#EXTINF:-1, [BD]tvbs
-https://stream1.freetv.fun/tvbs-5.ctv
 #EXTINF:-1, [BD]tvbs *wj
 https://stream1.freetv.fun/tvbs--wj-1.ctv
 #EXTINF:-1, [BD]tvbs *c
@@ -1106,9 +1056,11 @@ https://stream1.freetv.fun/tvbsxin-wen-7.m3u8
 #EXTINF:-1, [BD]tvbs欢乐
 https://stream1.freetv.fun/tvbshuan-le-4.m3u8
 #EXTINF:-1, [BD]tvbs欢乐
-https://stream1.freetv.fun/tvbshuan-le-8.m3u8
-#EXTINF:-1, [BD]tvbs欢乐
 https://stream1.freetv.fun/tvbshuan-le-1.m3u8
+#EXTINF:-1, [BD]tvbs欢乐
+https://stream1.freetv.fun/tvbshuan-le-6.ctv
+#EXTINF:-1, [BD]tvbs欢乐[geo-blocked]
+https://stream1.freetv.fun/tvbshuan-le-8.m3u8
 #EXTINF:-1, [BD]tvbs欢乐 *c
 https://stream1.freetv.fun/tvbshuan-le---c-1.ctv
 #EXTINF:-1, [BD]tvbs 歡樂 *wj
@@ -1117,30 +1069,36 @@ https://stream1.freetv.fun/tvbshuan-le---wj-1.ctv
 https://stream1.freetv.fun/taiwan-plus-1.m3u8
 #EXTINF:-1, [BD]taiwan plus tv[geo-blocked]
 https://stream1.freetv.fun/taiwan-plus-tv-1.m3u8
+#EXTINF:-1, [BD]edn tv
+https://stream1.freetv.fun/edn-tv-1.m3u8
 #EXTINF:-1, [BD]roll
 https://stream1.freetv.fun/roll-1.m3u8
 #EXTINF:-1, [BD]inews新聞 *0
 https://stream1.freetv.fun/inewsxin-wen---0-1.ctv
 #EXTINF:-1, [BD]inews新聞 *wj
 https://stream1.freetv.fun/inewsxin-wen---wj-1.ctv
-#EXTINF:-1, [HD]三立戏剧
+#EXTINF:-1, [HD]三立戏剧[geo-blocked]
 https://stream1.freetv.fun/san-li-xi-ju-2.m3u8
-#EXTINF:-1, [HD]三立戏剧
-https://stream1.freetv.fun/san-li-xi-ju-4.ctv
 #EXTINF:-1, [HD]三立戏剧[geo-blocked]
 https://stream1.freetv.fun/san-li-xi-ju-3.m3u8
+#EXTINF:-1, [HD]三立戏剧
+https://stream1.freetv.fun/san-li-xi-ju-4.ctv
 #EXTINF:-1, [HD]三立戏剧 *c
 https://stream1.freetv.fun/san-li-xi-ju---c-1.ctv
 #EXTINF:-1, [HD]三立戲劇 *wj
 https://stream1.freetv.fun/san-li-xi-ju---wj-1.ctv
 #EXTINF:-1, [BD]三立新闻[geo-blocked]
 https://stream1.freetv.fun/san-li-xin-wen-4.ctv
+#EXTINF:-1, [HD]三立综合
+https://stream1.freetv.fun/san-li-zong-he-1.ctv
 #EXTINF:-1, [HD]三立综合 *c
 https://stream1.freetv.fun/san-li-zong-he---c-1.ctv
 #EXTINF:-1, [HD]三立綜合 *wj
 https://stream1.freetv.fun/san-li-zong-he---wj-1.ctv
-#EXTINF:-1, [HD]三立台湾[geo-blocked]
+#EXTINF:-1, [BD]三立台湾
 https://stream1.freetv.fun/san-li-tai-wan-3.ctv
+#EXTINF:-1, [BD]三立台湾[geo-blocked]
+https://stream1.freetv.fun/san-li-tai-wan-5.m3u8
 #EXTINF:-1, [BD]三立台灣 *wj
 https://stream1.freetv.fun/san-li-tai-wan---wj-1.ctv
 #EXTINF:-1, [BD]三立台湾 *c
@@ -1149,6 +1107,8 @@ https://stream1.freetv.fun/san-li-tai-wan---c-1.ctv
 https://stream1.freetv.fun/zhong-tian-ya-zhou-7.m3u8
 #EXTINF:-1, [HD]中天亚洲
 https://stream1.freetv.fun/zhong-tian-ya-zhou-5.m3u8
+#EXTINF:-1, [HD]中天亚洲
+https://stream1.freetv.fun/zhong-tian-ya-zhou-9.ctv
 #EXTINF:-1, [HD]中天亞洲 *0
 https://stream1.freetv.fun/zhong-tian-ya-zhou---0-1.ctv
 #EXTINF:-1, [HD]中天亞洲 *wj
@@ -1167,26 +1127,22 @@ https://stream1.freetv.fun/zhong-tian-yu-le---wj-1.ctv
 https://stream1.freetv.fun/zhong-tian-yu-le---c-1.ctv
 #EXTINF:-1, [BD]中天新闻[geo-blocked]
 https://stream1.freetv.fun/zhong-tian-xin-wen-6.m3u8
-#EXTINF:-1, [BD]中天新闻[geo-blocked]
-https://stream1.freetv.fun/zhong-tian-xin-wen-7.m3u8
+#EXTINF:-1, [HD]中天新闻
+https://stream1.freetv.fun/zhong-tian-xin-wen-1.ctv
 #EXTINF:-1, [HD]中天新聞 *0
 https://stream1.freetv.fun/zhong-tian-xin-wen---0-1.ctv
 #EXTINF:-1, [HD]中天新聞 *wj
 https://stream1.freetv.fun/zhong-tian-xin-wen---wj-1.ctv
 #EXTINF:-1, [HD]中天新闻 *c
 https://stream1.freetv.fun/zhong-tian-xin-wen---c-1.ctv
+#EXTINF:-1, [HD]中天新闻[geo-blocked]
+https://stream1.freetv.fun/zhong-tian-xin-wen-7.m3u8
 #EXTINF:-1, [BD]中天綜合 *wj
 https://stream1.freetv.fun/zhong-tian-zong-he---wj-1.ctv
 #EXTINF:-1, [BD]中天综合 *c
 https://stream1.freetv.fun/zhong-tian-zong-he---c-1.ctv
-#EXTINF:-1, [HD]中视[geo-blocked]
-https://stream1.freetv.fun/zhong-shi-10.ctv
 #EXTINF:-1, [HD]中视 *c
 https://stream1.freetv.fun/zhong-shi---c-1.ctv
-#EXTINF:-1, [HD]中视
-https://stream1.freetv.fun/zhong-shi-8.m3u8
-#EXTINF:-1, [HD]中视新闻
-https://stream1.freetv.fun/zhong-shi-xin-wen-8.m3u8
 #EXTINF:-1, [HD]中視新聞 *0
 https://stream1.freetv.fun/zhong-shi-xin-wen---0-1.ctv
 #EXTINF:-1, [HD]中視新聞 *wj
@@ -1206,7 +1162,7 @@ https://stream1.freetv.fun/ren-jian-wei-shi-3.m3u8
 #EXTINF:-1, [HD]人间卫视
 https://stream1.freetv.fun/ren-jian-wei-shi-5.m3u8
 #EXTINF:-1, [HD]人间卫视
-https://stream1.freetv.fun/ren-jian-wei-shi-12.m3u8
+https://stream1.freetv.fun/ren-jian-wei-shi-10.ctv
 #EXTINF:-1, [BD]人间卫视
 https://stream1.freetv.fun/ren-jian-wei-shi-11.m3u8
 #EXTINF:-1, [BD]信吉电视
@@ -1225,6 +1181,8 @@ https://stream1.freetv.fun/ba-da-di-yi---c-1.ctv
 https://stream1.freetv.fun/ba-da-zong-he-1.m3u8
 #EXTINF:-1, [BD]八大综合
 https://stream1.freetv.fun/ba-da-zong-he-4.m3u8
+#EXTINF:-1, [BD]八大综合
+https://stream1.freetv.fun/ba-da-zong-he-2.ctv
 #EXTINF:-1, [BD]八大綜合 *wj
 https://stream1.freetv.fun/ba-da-zong-he---wj-1.ctv
 #EXTINF:-1, [BD]八大综合 *c
@@ -1257,12 +1215,10 @@ https://stream1.freetv.fun/bo-si-yun-dong-2-1.m3u8
 https://stream1.freetv.fun/bo-si-yun-dong-2--c-1.ctv
 #EXTINF:-1, [HD]博斯高球 1 *0
 https://stream1.freetv.fun/bo-si-gao-qiu--1--0-1.ctv
-#EXTINF:-1, [HD]博斯高球 2 *0
-https://stream1.freetv.fun/bo-si-gao-qiu--2--0-1.ctv
-#EXTINF:-1, [HD]台视[geo-blocked]
-https://stream1.freetv.fun/tai-shi-6.ctv
-#EXTINF:-1, [HD]台视 *c[geo-blocked]
+#EXTINF:-1, [HD]台视 *c
 https://stream1.freetv.fun/tai-shi---c-1.ctv
+#EXTINF:-1, [HD]台视新闻
+https://stream1.freetv.fun/tai-shi-xin-wen-2.ctv
 #EXTINF:-1, [HD]台視新聞 *wj
 https://stream1.freetv.fun/tai-shi-xin-wen---wj-1.ctv
 #EXTINF:-1, [HD]台视新闻 *c
@@ -1279,7 +1235,7 @@ https://stream1.freetv.fun/guo-jia-di-li---wj-1.ctv
 https://stream1.freetv.fun/guo-hui--1-5.m3u8
 #EXTINF:-1, [HD]國會 2
 https://stream1.freetv.fun/guo-hui--2-2.m3u8
-#EXTINF:-1, [HD]大爱1 *c
+#EXTINF:-1, [HD]大爱1 *c[geo-blocked]
 https://stream1.freetv.fun/da-ai-1--c-1.ctv
 #EXTINF:-1, [BD]大愛2台 *wj
 https://stream1.freetv.fun/da-ai-2tai---wj-2.ctv
@@ -1307,8 +1263,8 @@ https://stream1.freetv.fun/hao-xiao-xi-1-1.m3u8
 https://stream1.freetv.fun/huan-yu-xin-wen---c-1.ctv
 #EXTINF:-1, [BD]寰宇新聞[geo-blocked]
 https://stream1.freetv.fun/huan-yu-xin-wen-1.m3u8
-#EXTINF:-1, [HD]寰宇新聞 *wj
-https://stream1.freetv.fun/huan-yu-xin-wen---wj-1.ctv
+#EXTINF:-1, [HD]寰宇新闻[geo-blocked]
+https://stream1.freetv.fun/huan-yu-xin-wen-4.ctv
 #EXTINF:-1, [VGA]寰宇財經 *0
 https://stream1.freetv.fun/huan-yu-cai-jing---0-1.ctv
 #EXTINF:-1, [VGA]寰宇財經 *wj
@@ -1325,9 +1281,7 @@ https://stream1.freetv.fun/nian-dai-xin-wen---c-1.ctv
 https://stream1.freetv.fun/nian-dai-xin-wen-5.ctv
 #EXTINF:-1, [HD]愛爾達影劇 *wj
 https://stream1.freetv.fun/ai-er-da-ying-ju---wj-1.ctv
-#EXTINF:-1, [HD]爱尔达影剧 *c
-https://stream1.freetv.fun/ai-er-da-ying-ju---c-1.ctv
-#EXTINF:-1, [SD]成龙
+#EXTINF:-1, [HD]成龙
 https://stream1.freetv.fun/cheng-long-1.m3u8
 #EXTINF:-1, [HD]亚洲新闻
 https://stream1.freetv.fun/ya-zhou-xin-wen-1.m3u8
@@ -1337,20 +1291,14 @@ https://stream1.freetv.fun/dong-sen-you-you-yoyo-tv--wj-1.ctv
 https://stream1.freetv.fun/dong-sen-you-you-yoyo--c-1.ctv
 #EXTINF:-1, [BD]東森戲劇 *wj
 https://stream1.freetv.fun/dong-sen-xi-ju---wj-1.ctv
-#EXTINF:-1, [BD]东森戏剧 *c
-https://stream1.freetv.fun/dong-sen-xi-ju---c-1.ctv
 #EXTINF:-1, [BD]东森新闻台
 https://stream1.freetv.fun/dong-sen-xin-wen-4.m3u8
 #EXTINF:-1, [BD]東森新聞 *wj
 https://stream1.freetv.fun/dong-sen-xin-wen---wj-1.ctv
 #EXTINF:-1, [BD]東森新聞
 https://stream1.freetv.fun/dong-sen-xin-wen-1.m3u8
-#EXTINF:-1, [BD]东森新闻 *c
-https://stream1.freetv.fun/dong-sen-xin-wen---c-1.ctv
 #EXTINF:-1, [BD]东森洋片[geo-blocked]
 https://stream1.freetv.fun/dong-sen-yang-pian-6.ctv
-#EXTINF:-1, [BD]东森洋片 *c
-https://stream1.freetv.fun/dong-sen-yang-pian---c-1.ctv
 #EXTINF:-1, [BD]東森洋片
 https://stream1.freetv.fun/dong-sen-yang-pian-1.m3u8
 #EXTINF:-1, [BD]東森洋片 *wj
@@ -1359,12 +1307,8 @@ https://stream1.freetv.fun/dong-sen-yang-pian---wj-1.ctv
 https://stream1.freetv.fun/dong-sen-zong-he-3.ctv
 #EXTINF:-1, [BD]东森综合[geo-blocked]
 https://stream1.freetv.fun/dong-sen-zong-he-1.ctv
-#EXTINF:-1, [BD]东森综合[geo-blocked]
-https://stream1.freetv.fun/dong-sen-zong-he-4.m3u8
 #EXTINF:-1, [BD]東森綜合 *wj
 https://stream1.freetv.fun/dong-sen-zong-he---wj-1.ctv
-#EXTINF:-1, [BD]东森综合 *c
-https://stream1.freetv.fun/dong-sen-zong-he---c-1.ctv
 #EXTINF:-1, [BD]东森美洲2
 https://stream1.freetv.fun/dong-sen-mei-zhou-2-1.m3u8
 #EXTINF:-1, [BD]东森美洲新闻台
@@ -1373,34 +1317,26 @@ https://stream1.freetv.fun/dong-sen-mei-zhou-xin-wen-1.m3u8
 https://stream1.freetv.fun/dong-sen-cai-jing-xin-wen---wj-1.ctv
 #EXTINF:-1, [HD]東森財經新聞 *0
 https://stream1.freetv.fun/dong-sen-cai-jing-xin-wen---0-1.ctv
-#EXTINF:-1, [HD]东森财经新闻 *c
-https://stream1.freetv.fun/dong-sen-cai-jing-xin-wen---c-1.ctv
 #EXTINF:-1, [BD]东森超视
 https://stream1.freetv.fun/dong-sen-chao-shi-10.m3u8
 #EXTINF:-1, [BD]东森超视
 https://stream1.freetv.fun/dong-sen-chao-shi-9.m3u8
 #EXTINF:-1, [BD]东森电影[geo-blocked]
-https://stream1.freetv.fun/dong-sen-dian-ying-2.m3u8
-#EXTINF:-1, [BD]东森电影[geo-blocked]
 https://stream1.freetv.fun/dong-sen-dian-ying-6.ctv
 #EXTINF:-1, [BD]東森電影 *wj
 https://stream1.freetv.fun/dong-sen-dian-ying---wj-1.ctv
-#EXTINF:-1, [BD]东森电影 *c
-https://stream1.freetv.fun/dong-sen-dian-ying---c-1.ctv
 #EXTINF:-1, [BD]民視[geo-blocked]
 https://stream1.freetv.fun/min-shi-10.m3u8
+#EXTINF:-1, [HD]民视[geo-blocked]
+https://stream1.freetv.fun/min-shi-7.ctv
 #EXTINF:-1, [HD]民視 *0
 https://stream1.freetv.fun/min-shi---0-1.ctv
 #EXTINF:-1, [HD]民視 *wj
 https://stream1.freetv.fun/min-shi---wj-1.ctv
-#EXTINF:-1, [HD]民视 *c
-https://stream1.freetv.fun/min-shi---c-1.ctv
 #EXTINF:-1, [BD]民視新聞
 https://stream1.freetv.fun/min-shi-xin-wen-19.m3u8
 #EXTINF:-1, [BD]民視新聞 *wj
 https://stream1.freetv.fun/min-shi-xin-wen---wj-1.ctv
-#EXTINF:-1, [BD]民视新闻 *c
-https://stream1.freetv.fun/min-shi-xin-wen---c-1.ctv
 #EXTINF:-1, [BD]民视新闻
 https://stream1.freetv.fun/min-shi-xin-wen-13.m3u8
 #EXTINF:-1, [BD]民视新闻
@@ -1417,44 +1353,44 @@ https://stream1.freetv.fun/min-shi-di-yi---wj-1.ctv
 https://stream1.freetv.fun/min-shi-di-yi-2.m3u8
 #EXTINF:-1, [HD]民视综艺
 https://stream1.freetv.fun/min-shi-zong-yi-1.ctv
+#EXTINF:-1, [HD]民视台湾[geo-blocked]
+https://stream1.freetv.fun/min-shi-tai-wan-7.ctv
 #EXTINF:-1, [HD]民視台灣 *wj
 https://stream1.freetv.fun/min-shi-tai-wan---wj-1.ctv
-#EXTINF:-1, [HD]民视台湾 *c
-https://stream1.freetv.fun/min-shi-tai-wan---c-1.ctv
-#EXTINF:-1, [HD]民視台灣 *0
-https://stream1.freetv.fun/min-shi-tai-wan---0-1.ctv
 #EXTINF:-1, [BD]生命電視
 https://stream1.freetv.fun/sheng-ming-dian-shi-2.m3u8
 #EXTINF:-1, [HD]经典电影
 https://stream1.freetv.fun/jing-dian-dian-ying-5.ctv
+#EXTINF:-1, [BD]纬来日本
+https://stream1.freetv.fun/wei-lai-ri-ben-8.ctv
+#EXTINF:-1, [HD]纬来日本[geo-blocked]
+https://stream1.freetv.fun/wei-lai-ri-ben-1.ctv
 #EXTINF:-1, [HD]纬来精彩[geo-blocked]
 https://stream1.freetv.fun/wei-lai-jing-cai-1.m3u8
 #EXTINF:-1, [BD]纬来综合
 https://stream1.freetv.fun/wei-lai-zong-he-3.m3u8
-#EXTINF:-1, [HD]纬来育乐[geo-blocked]
-https://stream1.freetv.fun/wei-lai-yu-le-6.ctv
 #EXTINF:-1, [BD]纬来育乐[geo-blocked]
 https://stream1.freetv.fun/wei-lai-yu-le-2.ctv
 #EXTINF:-1, [BD]纬来电影
 https://stream1.freetv.fun/wei-lai-dian-ying-1.m3u8
 #EXTINF:-1, [HD]緯來體育
 https://stream1.freetv.fun/wei-lai-ti-yu-1.m3u8
-#EXTINF:-1, [HD]美亚电影
-https://stream1.freetv.fun/mei-ya-dian-ying-6.m3u8
-#EXTINF:-1, [HD]美亚电影
-https://stream1.freetv.fun/mei-ya-dian-ying-5.m3u8
+#EXTINF:-1, [BD]纬来体育
+https://stream1.freetv.fun/wei-lai-ti-yu-8.ctv
 #EXTINF:-1, [HD]美亚电影
 https://stream1.freetv.fun/mei-ya-dian-ying-1.ctv
-#EXTINF:-1, [HD]美亚电影[geo-blocked]
-https://stream1.freetv.fun/mei-ya-dian-ying-2.ctv
+#EXTINF:-1, [HD]美亚电影
+https://stream1.freetv.fun/mei-ya-dian-ying-8.ctv
+#EXTINF:-1, [BD]美亚电影
+https://stream1.freetv.fun/mei-ya-dian-ying-6.m3u8
 #EXTINF:-1, [BD]美亞電影台
 https://stream1.freetv.fun/mei-ya-dian-ying-7.m3u8
+#EXTINF:-1, [SD]-美亚电影[geo-blocked]
+https://stream1.freetv.fun/mei-ya-dian-ying-10.ctv
 #EXTINF:-1, [HD]美亚电影 *c
 https://stream1.freetv.fun/mei-ya-dian-ying---c-1.ctv
 #EXTINF:-1, [HD]美食星球 *wj
 https://stream1.freetv.fun/mei-shi-xing-qiu---wj-1.ctv
-#EXTINF:-1, [HD]美食星球 *c
-https://stream1.freetv.fun/mei-shi-xing-qiu---c-1.ctv
 #EXTINF:-1, [BD]台視新聞
 https://stream1.freetv.fun/tai-shi-xin-wen-12.m3u8
 #EXTINF:-1, [BD]台視新聞
@@ -1463,18 +1399,20 @@ https://stream1.freetv.fun/tai-shi-xin-wen-4.m3u8
 https://stream1.freetv.fun/tai-shi-xin-wen---0-1.ctv
 #EXTINF:-1, [BD]台视新聞
 https://stream1.freetv.fun/tai-shi-xin-wen-21.m3u8
-#EXTINF:-1, [HD]台视综合 *c[geo-blocked]
+#EXTINF:-1, [HD]台视综合 *c
 https://stream1.freetv.fun/tai-shi-zong-he---c-1.ctv
+#EXTINF:-1, [HD]台视财经
+https://stream1.freetv.fun/tai-shi-cai-jing-3.ctv
 #EXTINF:-1, [BD]華藝綜 *wj
 https://stream1.freetv.fun/hua-yi-zong---wj-1.ctv
+#EXTINF:-1, [HD]华视
+https://stream1.freetv.fun/hua-shi-4.ctv
 #EXTINF:-1, [BD]華視 *wj
 https://stream1.freetv.fun/hua-shi---wj-1.ctv
 #EXTINF:-1, [BD]华视 *c
 https://stream1.freetv.fun/hua-shi---c-1.ctv
 #EXTINF:-1, [BD]華視
 https://stream1.freetv.fun/hua-shi-5.ctv
-#EXTINF:-1, [HD]华视新闻
-https://stream1.freetv.fun/hua-shi-xin-wen-4.ctv
 #EXTINF:-1, [HD]靖天卡通
 https://stream1.freetv.fun/jing-tian-qia-tong-1.m3u8
 #EXTINF:-1, [HD]靖天卡通 *wj
@@ -1483,7 +1421,7 @@ https://stream1.freetv.fun/jing-tian-qia-tong---wj-1.ctv
 https://stream1.freetv.fun/jing-tian-qia-tong---c-1.ctv
 #EXTINF:-1, [HD]靖天国际
 https://stream1.freetv.fun/jing-tian-guo-ji-1.m3u8
-#EXTINF:-1, [HD]靖天国际
+#EXTINF:-1, [HD]靖天国际[geo-blocked]
 https://stream1.freetv.fun/jing-tian-guo-ji-5.ctv
 #EXTINF:-1, [HD]靖天國際 *wj
 https://stream1.freetv.fun/jing-tian-guo-ji---wj-1.ctv
@@ -1498,23 +1436,27 @@ https://stream1.freetv.fun/jing-tian-ying-hua-1.ctv
 #EXTINF:-1, [BD]靖天映画[geo-blocked]
 https://stream1.freetv.fun/jing-tian-ying-hua-2.ctv
 #EXTINF:-1, [BD]靖天映画[geo-blocked]
-https://stream1.freetv.fun/jing-tian-ying-hua-5.ctv
-#EXTINF:-1, [BD]靖天资讯[geo-blocked]
-https://stream1.freetv.fun/jing-tian-zi-xun-1.ctv
+https://stream1.freetv.fun/jing-tian-ying-hua-3.ctv
 #EXTINF:-1, [BD]靖天资讯[geo-blocked]
 https://stream1.freetv.fun/jing-tian-zi-xun-4.ctv
 #EXTINF:-1, [BD]靖天资讯[geo-blocked]
 https://stream1.freetv.fun/jing-tian-zi-xun-3.ctv
+#EXTINF:-1, [BD]靖天资讯[geo-blocked]
+https://stream1.freetv.fun/jing-tian-zi-xun-1.ctv
+#EXTINF:-1, [BD]非凡新闻
+https://stream1.freetv.fun/fei-fan-xin-wen-3.m3u8
 #EXTINF:-1, [BD]非凡新闻
 https://stream1.freetv.fun/fei-fan-xin-wen-4.ctv
 #EXTINF:-1, [BD]非凡新聞 *wj
 https://stream1.freetv.fun/fei-fan-xin-wen---wj-1.ctv
-#EXTINF:-1, [BD]非凡新闻 *c
-https://stream1.freetv.fun/fei-fan-xin-wen---c-1.ctv
 #EXTINF:-1, [BD]龙华偶像
 https://stream1.freetv.fun/long-hua-ou-xiang-2.m3u8
+#EXTINF:-1, [BD]龙华偶像
+https://stream1.freetv.fun/long-hua-ou-xiang-1.ctv
 #EXTINF:-1, [HD]龙华偶像
 https://stream1.freetv.fun/long-hua-ou-xiang-4.m3u8
+#EXTINF:-1, [HD]龙华偶像
+https://stream1.freetv.fun/long-hua-ou-xiang-3.ctv
 #EXTINF:-1, [HD]龍華偶像 *wj
 https://stream1.freetv.fun/long-hua-ou-xiang---wj-1.ctv
 #EXTINF:-1, [HD]龙华偶像 *c
@@ -1535,14 +1477,12 @@ https://stream1.freetv.fun/long-hua-xi-ju---c-1.ctv
 https://stream1.freetv.fun/long-hua-ri-han-4.m3u8
 #EXTINF:-1, [HD]龙华洋片 *c[geo-blocked]
 https://stream1.freetv.fun/long-hua-yang-pian---c-1.ctv
-#EXTINF:-1, [BD]龙华经典
-https://stream1.freetv.fun/long-hua-jing-dian-2.m3u8
 #EXTINF:-1, [HD]龙华经典 *c
 https://stream1.freetv.fun/long-hua-jing-dian---c-1.ctv
-#EXTINF:-1, [BD]龙华电影
-https://stream1.freetv.fun/long-hua-dian-ying-9.m3u8
 #EXTINF:-1, [HD]龙华电影
 https://stream1.freetv.fun/long-hua-dian-ying-3.ctv
+#EXTINF:-1, [HD]龙华电影[geo-blocked]
+https://stream1.freetv.fun/long-hua-dian-ying-6.ctv
 #EXTINF:-1, [HD]龍華電影 *wj
 https://stream1.freetv.fun/long-hua-dian-ying---wj-1.ctv
 #EXTINF:-1, [BD]澳视澳门
@@ -1555,16 +1495,16 @@ https://stream1.freetv.fun/ao-shi-ao-men-6.m3u8
 https://stream1.freetv.fun/ao-shi-ao-men-1.m3u8
 #EXTINF:-1, [BD]澳門綜藝
 https://stream1.freetv.fun/ao-men-zong-yi-1.m3u8
-#EXTINF:-1, [BD]澳视综艺[geo-blocked]
+#EXTINF:-1, [BD]澳视综艺
 https://stream1.freetv.fun/ao-shi-zong-yi-1.m3u8
 #EXTINF:-1, [BD]澳视综艺
 https://stream1.freetv.fun/ao-shi-zong-yi-2.m3u8
 #EXTINF:-1, [BD]澳视葡文[geo-blocked]
 https://stream1.freetv.fun/ao-shi-pu-wen-2.m3u8
-#EXTINF:-1, [BD]澳视葡文
-https://stream1.freetv.fun/ao-shi-pu-wen-3.m3u8
 #EXTINF:-1, [BD]澳視葡文
 https://stream1.freetv.fun/ao-shi-pu-wen-1.m3u8
+#EXTINF:-1, [BD]澳视葡文
+https://stream1.freetv.fun/ao-shi-pu-wen-3.m3u8
 #EXTINF:-1, [BD]澳视资讯
 https://stream1.freetv.fun/ao-shi-zi-xun-1.m3u8
 #EXTINF:-1, [BD]ช่อง 澳視體育
@@ -1575,7 +1515,7 @@ https://stream1.freetv.fun/ao-shi-ti-yu-2.m3u8
 https://stream1.freetv.fun/ao-men-ti-yu-1.m3u8
 #EXTINF:-1, [BD]澳門MACAU
 https://stream1.freetv.fun/ao-men-macau-2.m3u8
-#EXTINF:-1, [SD]澳门莲花[geo-blocked]
+#EXTINF:-1, [SD]澳门莲花
 https://stream1.freetv.fun/ao-men-lian-hua-1.m3u8
 #EXTINF:-1, [BD]澳門資訊
 https://stream1.freetv.fun/ao-men-zi-xun-3.m3u8
