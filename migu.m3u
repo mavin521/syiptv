@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTINF:-1,咪咕1
-https://stream1.freetv.fun/ipv6-mi-gu-zong-he-ti-yu-1.m3u8
-#EXTINF:-1,咪咕2
-https://stream1.freetv.fun/a9ae1b21f60de18d871ea391f01733c6d3e81840087b403eed5925ccb0974693.m3u8
-#EXTINF:-1,咪咕3
-https://stream1.freetv.fun/571459fe5d4bb33bc50e11a72bf01fcd04038dd55f83be4dd5bdb7e403933241.m3u8
-#EXTINF:-1,咪咕4
 https://stream1.freetv.fun/96b7aeed3e94a0ad02692ce5eca0c784f5d5882a6391ba171fe6ac8c8ed824e7.m3u8
+#EXTINF:-1,咪咕2
+https://stream1.freetv.fun/571459fe5d4bb33bc50e11a72bf01fcd04038dd55f83be4dd5bdb7e403933241.m3u8
+#EXTINF:-1,咪咕3
+https://stream1.freetv.fun/ipv6-mi-gu-zong-he-ti-yu-1.m3u8
+#EXTINF:-1,咪咕4
+https://stream1.freetv.fun/a9ae1b21f60de18d871ea391f01733c6d3e81840087b403eed5925ccb0974693.m3u8
