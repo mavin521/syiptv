@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTINF:-1,咪咕1
-https://stream1.freetv.fun/mi-gu-ti-yu-36-1.m3u8
-#EXTINF:-1,咪咕2
-https://stream1.freetv.fun/4f39d18345c794d72125c4e348e372f59537414aaca06501c9cd8d41556c11f9.m3u8
-#EXTINF:-1,咪咕3
-https://stream1.freetv.fun/22df665e423e86409a831095cb241b171822233ca307c63e9047bce7f428c19b.m3u8
-#EXTINF:-1,咪咕4
 https://stream1.freetv.fun/mi-gu-ti-yu-35-1.m3u8
+#EXTINF:-1,咪咕2
+https://stream1.freetv.fun/mi-gu-ti-yu-36-1.m3u8
+#EXTINF:-1,咪咕3
+https://stream1.freetv.fun/4f39d18345c794d72125c4e348e372f59537414aaca06501c9cd8d41556c11f9.m3u8
+#EXTINF:-1,咪咕4
+https://stream1.freetv.fun/22df665e423e86409a831095cb241b171822233ca307c63e9047bce7f428c19b.m3u8
