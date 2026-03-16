@@ -9,8 +9,6 @@ https://t.freetv.fun/live/lifetime-5.m3u8
 https://t.freetv.fun/live/rock-entertainment-6.m3u8
 #EXTINF:-1, 八大第1臺HD
 https://t.freetv.fun/live/ba-da-di-1-b.m3u8
-#EXTINF:-1, 民視綜藝臺
-https://t.freetv.fun/live/min-shi-zong-yi.php
 #EXTINF:-1, 金光布袋戲
 https://t.freetv.fun/live/jin-guang-bu-dai-xi-5.m3u8
 #EXTINF:-1, 金光布袋戲
@@ -24,9 +22,9 @@ https://t.freetv.fun/live/tvbs-asia.m3u8
 #EXTINF:-1, UDN TV
 https://t.freetv.fun/live/tudn.m3u8
 #EXTINF:-1, rollor
-https://t.freetv.fun/live/gun-dong-li-rollor-5.m3u8
-#EXTINF:-1, rollor
 https://t.freetv.fun/live/roll.m3u8
+#EXTINF:-1, rollor
+https://t.freetv.fun/live/gun-dong-li-rollor-5.m3u8
 #EXTINF:-1, 中天亞洲FHD
 https://t.freetv.fun/live/zhong-tian-ya-zhou-b.m3u8
 #EXTINF:-1, 中天綜合HD
@@ -49,16 +47,14 @@ https://t.freetv.fun/live/zhong-shi-jing-dian.m3u8
 https://t.freetv.fun/live/zhong-shi-jing-cai.m3u8
 #EXTINF:-1, 八大綜合
 https://t.freetv.fun/live/ba-da-zong-he-b.m3u8
-#EXTINF:-1, 八大綜合
-https://t.freetv.fun/live/ba-da-zong-he.m3u8
 #EXTINF:-1, 公視
 https://t.freetv.fun/live/gong-shi-b.m3u8
 #EXTINF:-1, 公視HD
 https://t.freetv.fun/live/gong-shi-1.m3u8
 #EXTINF:-1, 公視HD
-https://t.freetv.fun/live/xiao-gong-shi.m3u8
-#EXTINF:-1, 公視HD
 https://t.freetv.fun/live/gong-shi.m3u8
+#EXTINF:-1, 公視HD
+https://t.freetv.fun/live/xiao-gong-shi.m3u8
 #EXTINF:-1, 公視臺語臺
 https://t.freetv.fun/live/gong-shi-tai-yu.m3u8
 #EXTINF:-1, 原住民電視
@@ -69,32 +65,24 @@ https://t.freetv.fun/live/tai-shi-1.m3u8
 https://t.freetv.fun/live/guo-hui-2-14.m3u8
 #EXTINF:-1, 東森綜合
 https://t.freetv.fun/live/dong-sen-zong-he-b.m3u8
-#EXTINF:-1, 東森綜合
-https://t.freetv.fun/live/dong-sen-zong-he.m3u8
+#EXTINF:-1, 東森美洲
+https://t.freetv.fun/live/dong-sen-mei-zhou-2.m3u8
 #EXTINF:-1, 東森美洲
 https://t.freetv.fun/live/dong-sen-mei-zhou.m3u8
 #EXTINF:-1, 東森美洲
 https://t.freetv.fun/live/dong-sen-mei-zhou-1.m3u8
-#EXTINF:-1, 東森美洲
-https://t.freetv.fun/live/dong-sen-mei-zhou-2.m3u8
 #EXTINF:-1, 東森衛視
 https://t.freetv.fun/live/dong-sen-mei-zhou-xin-wen-tai.m3u8
 #EXTINF:-1, 東森超視
 https://t.freetv.fun/live/dong-sen-chao-shi-34-5.m3u8
 #EXTINF:-1, 東森超視
-https://t.freetv.fun/live/dong-sen-chao-shi-34-5-2.m3u8
-#EXTINF:-1, 東森超視
 https://t.freetv.fun/live/dong-sen-chao-shi-34-5-1.m3u8
+#EXTINF:-1, 東森超視
+https://t.freetv.fun/live/dong-sen-chao-shi-34-5-2.m3u8
 #EXTINF:-1, 民視HD
 https://t.freetv.fun/live/min-shi.m3u8
-#EXTINF:-1, 民視HD
-https://t.freetv.fun/live/min-shi-1.php
-#EXTINF:-1, 民視第一台
-https://t.freetv.fun/live/min-shi-di-yi-1.m3u8
 #EXTINF:-1, 民視第一台
 https://t.freetv.fun/live/min-shi-di-yi.m3u8
-#EXTINF:-1, 民視第一台
-https://t.freetv.fun/live/min-shi-di-yi-b.m3u8
 #EXTINF:-1, 民視臺灣台
 https://t.freetv.fun/live/min-shi-tai-wan-2.m3u8
 #EXTINF:-1, 民視臺灣台
@@ -105,10 +93,10 @@ https://t.freetv.fun/live/min-shi-tai-wan-2.m3u8
 https://t.freetv.fun/live/tai-shi-zong-he.m3u8
 #EXTINF:-1, 華視HD
 https://t.freetv.fun/live/hua-shi-1.m3u8
-#EXTINF:-1, 華視HD
-https://t.freetv.fun/live/hua-shi-2.ts
 #EXTINF:-1, 華視HD[geo-blocked]
 https://t.freetv.fun/live/hua-shi-17.m3u8
+#EXTINF:-1, 華視HD[geo-blocked]
+https://t.freetv.fun/live/hua-shi-2.ts
 #EXTINF:-1, 華視教育文化
 https://t.freetv.fun/live/hua-shi-jiao-yu-ti-yu-wen-hua.m3u8
 #EXTINF:-1, DreamWorks(TW)
@@ -132,47 +120,43 @@ https://t.freetv.fun/live/discovery-world.m3u8
 #EXTINF:-1, Discovery(TW)
 https://t.freetv.fun/live/discovery-1.m3u8
 #EXTINF:-1, Discovery(TW)
-https://t.freetv.fun/live/discovery.m3u8
-#EXTINF:-1, Discovery(TW)
 https://t.freetv.fun/live/discovery-id.m3u8
+#EXTINF:-1, Discovery(TW)
+https://t.freetv.fun/live/discovery-h-h.m3u8
 #EXTINF:-1, HGTV(TW)
 https://t.freetv.fun/live/ch-ng-hgtv.m3u8
 #EXTINF:-1, Love Nature
 https://t.freetv.fun/live/love-nature.m3u8
 #EXTINF:-1, Love Nature
-https://t.freetv.fun/live/love-nature-1.m3u8
-#EXTINF:-1, Love Nature
 https://t.freetv.fun/live/love-nature-2.m3u8
+#EXTINF:-1, Love Nature
+https://t.freetv.fun/live/love-nature-1.m3u8
+#EXTINF:-1, Love Nature[geo-blocked]
+https://t.freetv.fun/live/love-nature-7.m3u8
 #EXTINF:-1, Smithsonian Channel
 https://t.freetv.fun/live/smithsonian-channel-selects-1.m3u8
 #EXTINF:-1, Smithsonian Channel
-https://t.freetv.fun/live/smithsonian-channel-selects-1.m3u8
+https://t.freetv.fun/live/smithsonian-channel-selects-1-1.m3u8
 #EXTINF:-1, Smithsonian Channel
-https://t.freetv.fun/live/smithsonian-channel-pluto-tv-1.m3u8
-#EXTINF:-1, Hollywood
-https://t.freetv.fun/live/hollywood.m3u8
+https://t.freetv.fun/live/smithsonian-channel-pluto-tv.m3u8
 #EXTINF:-1, Hollywood
 https://t.freetv.fun/live/young-hollywood.m3u8
 #EXTINF:-1, Hollywood
 https://t.freetv.fun/live/hollywood-1.m3u8
+#EXTINF:-1, Hollywood
+https://t.freetv.fun/live/mix-hollywood.m3u8
 #EXTINF:-1, ROCK Stream
 https://t.freetv.fun/live/rock-2.m3u8
 #EXTINF:-1, Star Movies Gold
 https://t.freetv.fun/live/gold-star.m3u8
 #EXTINF:-1, 三立戲劇[geo-blocked]
 https://t.freetv.fun/live/san-li-xi-ju.php
-#EXTINF:-1, 八大戲劇HD
-https://t.freetv.fun/live/ba-da-xi-ju.m3u8
-#EXTINF:-1, 東森電影[geo-blocked]
+#EXTINF:-1, 東森電影
 https://t.freetv.fun/live/dong-sen-dian-ying.m3u8
 #EXTINF:-1, 經典電影臺
-https://t.freetv.fun/live/jing-dian-xiang-gang-dian-ying.m3u8
+https://t.freetv.fun/live/jing-dian-dian-ying-5.m3u8
 #EXTINF:-1, 經典電影臺
 https://t.freetv.fun/live/jing-dian-xiang-gang-dian-ying-1.m3u8
-#EXTINF:-1, 經典電影臺
-https://t.freetv.fun/live/jing-dian-dian-ying-5.m3u8
-#EXTINF:-1, 美亞電影台[TW]
-https://t.freetv.fun/live/mei-ya-dian-ying-1.flv
 #EXTINF:-1, 龍華偶像
 https://t.freetv.fun/live/long-hua-ou-xiang-b.m3u8
 #EXTINF:-1, 龍華日韓
@@ -184,19 +168,17 @@ https://t.freetv.fun/live/long-hua-dian-ying-b.m3u8
 #EXTINF:-1, CHANNEL [V]
 https://t.freetv.fun/live/tennis-channel-5.m3u8
 #EXTINF:-1, CHANNEL [V]
-https://t.freetv.fun/live/light-channel.m3u8
-#EXTINF:-1, CHANNEL [V]
 https://t.freetv.fun/live/light-channel-2.m3u8
+#EXTINF:-1, CHANNEL [V]
+https://t.freetv.fun/live/channel-s.m3u8
 #EXTINF:-1, SBN全球財經
 https://t.freetv.fun/live/sbnquan-qiu-cai-jing-5.m3u8
-#EXTINF:-1, TVBS新聞HD[geo-blocked]
-https://t.freetv.fun/live/tvbsxin-wen.php
 #EXTINF:-1, 三立INEWS HD
 https://t.freetv.fun/live/san-li-inews-10.m3u8
 #EXTINF:-1, 三立INEWS HD[geo-blocked]
 https://t.freetv.fun/live/san-li-inews-11.m3u8
-#EXTINF:-1, 中天新聞FHD[geo-blocked]
-https://t.freetv.fun/live/zhong-tian-xin-wen-1.m3u8
+#EXTINF:-1, 中天新聞FHD
+https://t.freetv.fun/live/zhong-tian-xin-wen-3.m3u8
 #EXTINF:-1, 中天新聞FHD[geo-blocked]
 https://t.freetv.fun/live/zhong-tian-xin-wen-22.m3u8
 #EXTINF:-1, 中視新聞FHD
@@ -204,9 +186,9 @@ https://t.freetv.fun/live/zhong-shi-xin-wen.m3u8
 #EXTINF:-1, 中視新聞臺[geo-blocked]
 https://t.freetv.fun/live/zhong-shi-xin-wen-1-1.m3u8
 #EXTINF:-1, 中視新聞臺[geo-blocked]
-https://t.freetv.fun/live/zhong-shi-xin-wen-1.m3u8
-#EXTINF:-1, 中視新聞臺
 https://t.freetv.fun/live/zhong-shi-xin-wen-12.m3u8
+#EXTINF:-1, 中視新聞臺[geo-blocked]
+https://t.freetv.fun/live/zhong-shi-xin-wen-2.m3u8
 #EXTINF:-1, 台視新聞FHD
 https://t.freetv.fun/live/tai-shi-xin-wen-1.m3u8
 #EXTINF:-1, 台視新聞FHD
@@ -222,39 +204,41 @@ https://t.freetv.fun/live/min-shi-xin-wen-1.m3u8
 #EXTINF:-1, 民視新聞HD
 https://t.freetv.fun/live/min-shi-xin-wen.m3u8
 #EXTINF:-1, 臺視新聞臺
+https://t.freetv.fun/live/tai-shi-xin-wen.m3u8
+#EXTINF:-1, 臺視新聞臺
 https://t.freetv.fun/live/tai-shi-xin-wen-2.m3u8
 #EXTINF:-1, 臺視新聞臺
 https://t.freetv.fun/live/tai-shi-xin-wen-1-2.m3u8
-#EXTINF:-1, 臺視新聞臺
-https://t.freetv.fun/live/tai-shi-xin-wen-2-1.m3u8
 #EXTINF:-1, 臺視財經臺
 https://t.freetv.fun/live/tai-shi-cai-jing.m3u8
 #EXTINF:-1, 華視新聞資訊
 https://t.freetv.fun/live/hua-shi-xin-wen-zi-xun.m3u8
 #EXTINF:-1, 鏡新聞
-https://t.freetv.fun/live/jing-xin-wen-1.m3u8
-#EXTINF:-1, 鏡新聞
 https://t.freetv.fun/live/jing-xin-wen.m3u8
+#EXTINF:-1, 鏡新聞
+https://t.freetv.fun/live/jing-xin-wen-1.m3u8
 #EXTINF:-1, Food Network(TW)
 https://t.freetv.fun/live/food-network-1.m3u8
 #EXTINF:-1, Food Network(TW)
-https://t.freetv.fun/live/chef-vs-chef-by-food-network.m3u8
+https://t.freetv.fun/live/ch-ng-food-network.m3u8
 #EXTINF:-1, Food Network(TW)
+https://t.freetv.fun/live/chef-vs-chef-by-food-network.m3u8
+#EXTINF:-1, Food Network(TW)[geo-blocked]
 https://t.freetv.fun/live/home-cooking-by-food-network.m3u8
 #EXTINF:-1, Food Network(TW)[geo-blocked]
 https://t.freetv.fun/live/food-network-3.m3u8
 #EXTINF:-1, LiveABC互動英語
 https://t.freetv.fun/live/liveabchu-dong-ying-yu-5.m3u8
 #EXTINF:-1, NICE TV
-https://t.freetv.fun/live/unife-tv-1.m3u8
-#EXTINF:-1, NICE TV
 https://t.freetv.fun/live/unife-tv.m3u8
+#EXTINF:-1, NICE TV
+https://t.freetv.fun/live/unife-tv-1.m3u8
 #EXTINF:-1, PET CLUB TV
 https://t.freetv.fun/live/ch-ng-pet-club.m3u8
 #EXTINF:-1, PET CLUB TV
 https://t.freetv.fun/live/pet-club-tv-1.m3u8
 #EXTINF:-1, PET CLUB TV
-https://t.freetv.fun/live/prikoly-1-pet-club.m3u8
+https://t.freetv.fun/live/pet-club-tv-2.m3u8
 #EXTINF:-1, TITV
 https://t.freetv.fun/live/ttv.m3u8
 #EXTINF:-1, 亞洲旅遊臺[geo-blocked]
@@ -262,9 +246,9 @@ https://t.freetv.fun/live/ya-zhou-lu-you-21.m3u8
 #EXTINF:-1, 人間衛視
 https://t.freetv.fun/live/ren-jian-wei-shi-7.m3u8
 #EXTINF:-1, 人間衛視
-https://t.freetv.fun/live/ren-jian-wei-shi-3.m3u
-#EXTINF:-1, 人間衛視
 https://t.freetv.fun/live/ren-jian-wei-shi.m3u
+#EXTINF:-1, 人間衛視
+https://t.freetv.fun/live/ren-jian-wei-shi-3.m3u
 #EXTINF:-1, 好訊息[geo-blocked]
 https://t.freetv.fun/live/hao-xiao-xi-16.m3u8
 #EXTINF:-1, 好訊息 2[geo-blocked]
@@ -274,45 +258,41 @@ https://t.freetv.fun/live/hao-xiao-xi-2-11.m3u8
 #EXTINF:-1, DAZN 1(TW)
 https://t.freetv.fun/live/dazn-combat.m3u8
 #EXTINF:-1, DAZN 1(TW)
-https://t.freetv.fun/live/dazn-ringside-1.m3u8
-#EXTINF:-1, DAZN 1(TW)
 https://t.freetv.fun/live/dazn-ringside.m3u8
+#EXTINF:-1, DAZN 1(TW)
+https://t.freetv.fun/live/dazn-ringside-1.m3u8
 #EXTINF:-1, ELTA生活旅遊
 https://t.freetv.fun/live/eltasheng-huo-lu-you-5.m3u8
-#EXTINF:-1, ELTA體育2(備用)
-https://t.freetv.fun/live/cctv4mei-zhou.m3u8
 #EXTINF:-1, ELTA體育4(備用)
 https://t.freetv.fun/live/delta-tv-1.m3u8
 #EXTINF:-1, 博斯網球
 https://t.freetv.fun/live/bo-si-wang-qiu.m3u8
 #EXTINF:-1, C+頻道
-https://t.freetv.fun/live/icc-plus.m3u8
-#EXTINF:-1, C+頻道
 https://t.freetv.fun/live/c-plus.m3u8
 #EXTINF:-1, C+頻道
-https://t.freetv.fun/live/icons-unearthed-plus.m3u8
+https://t.freetv.fun/live/icc-plus.m3u8
+#EXTINF:-1, C+頻道
+https://t.freetv.fun/live/illiuzion-plus-2.m3u8
 #EXTINF:-1, C+頻道[geo-blocked]
-https://t.freetv.fun/live/fifa-plus-women.m3u8
-#EXTINF:-1, C+頻道[geo-blocked]
-https://t.freetv.fun/live/fifa-plus-united-states.m3u8
+https://t.freetv.fun/live/society-plus.m3u8
 #EXTINF:-1, C+頻道[geo-blocked]
 https://t.freetv.fun/live/fifa-plus-portuguese.m3u8
+#EXTINF:-1, C+頻道[geo-blocked]
+https://t.freetv.fun/live/fifa-plus-women.m3u8
 #EXTINF:-1, TVB Plus[geo-blocked]
 https://t.freetv.fun/live/tvb-plus.m3u8
 #EXTINF:-1, TVB Plus
-https://t.freetv.fun/live/tvb-plus-1.m3u8
+https://t.freetv.fun/live/tvb-plus-2.m3u8
 #EXTINF:-1, TVB Plus
 https://t.freetv.fun/live/tvb-plus-3.m3u8
 #EXTINF:-1, TVB Plus
-https://t.freetv.fun/live/tv-puls.m3u8
-#EXTINF:-1, TVB娛樂新聞(MAS)
-https://t.freetv.fun/live/tvbyu-le-xin-wen.flv
-#EXTINF:-1, ViuTV HD
-https://t.freetv.fun/live/viutv-7.m3u8
+https://t.freetv.fun/live/tvb-plus-5.m3u8
 #EXTINF:-1, ViuTV HD
 https://t.freetv.fun/live/viutv.m3u8
 #EXTINF:-1, ViuTV HD
-https://t.freetv.fun/live/viutv6gao-qing.m3u8
+https://t.freetv.fun/live/viutvgao-qing.m3u8
+#EXTINF:-1, ViuTV HD
+https://t.freetv.fun/live/viutv-plus.m3u8
 #EXTINF:-1, ViuTVsix
 https://t.freetv.fun/live/viutvsix.m3u8
 #EXTINF:-1, ViuTVsix
@@ -328,17 +308,11 @@ https://t.freetv.fun/live/fei-cui-5.m3u8
 #EXTINF:-1, 翡翠台
 https://t.freetv.fun/live/fei-cui-7.m3u8
 #EXTINF:-1, 鳳凰衛視中文
-https://t.freetv.fun/live/feng-huang-zhong-wen.m3u8
-#EXTINF:-1, 鳳凰衛視中文
 https://t.freetv.fun/live/feng-huang-zhong-wen-sg.m3u8
 #EXTINF:-1, 鳳凰衛視中文
-https://t.freetv.fun/live/feng-huang-zhong-wen-1.flv
-#EXTINF:-1, 鳳凰衛視中文[geo-blocked]
-https://t.freetv.fun/live/feng-huang-zhong-wen-2.m3u8
+https://t.freetv.fun/live/feng-huang-zhong-wen.m3u8
 #EXTINF:-1, 鳳凰香港
 https://t.freetv.fun/live/feng-huang-xiang-gang-sg.m3u8
-#EXTINF:-1, 鳳凰香港
-https://t.freetv.fun/live/feng-huang-xiang-gang.flv
 #EXTINF:-1, Animax(HK)
 https://t.freetv.fun/live/animax-2.m3u8
 #EXTINF:-1, Discovery Kids
@@ -346,57 +320,47 @@ https://t.freetv.fun/live/discovery-kids-1.m3u8
 #EXTINF:-1, MOVIE MOVIE
 https://t.freetv.fun/live/mytime-movie-network-2.m3u8
 #EXTINF:-1, MOVIE MOVIE
-https://t.freetv.fun/live/paramount-movie-channel-1.m3u8
+https://t.freetv.fun/live/paramount-movie-channel.m3u8
 #EXTINF:-1, MOVIE MOVIE
-https://t.freetv.fun/live/mytime-movie-network-3.m3u8
-#EXTINF:-1, MOVIE MOVIE[geo-blocked]
-https://t.freetv.fun/live/genie-k-movie-1.m3u8
+https://t.freetv.fun/live/paramount-movie-channel-1.m3u8
 #EXTINF:-1, MOVIE MOVIE[geo-blocked]
 https://t.freetv.fun/live/genie-k-movie.m3u8
-#EXTINF:-1, NOW 星影臺
-https://t.freetv.fun/live/nowxing-ying.m3u8
-#EXTINF:-1, NOW爆谷台
-https://t.freetv.fun/live/nowbao-gu.m3u8
+#EXTINF:-1, MOVIE MOVIE[geo-blocked]
+https://t.freetv.fun/live/genie-k-movie-1.m3u8
 #EXTINF:-1, Popc[geo-blocked]
 https://t.freetv.fun/live/popc.m3u8
 #EXTINF:-1, TVB亞洲劇
-https://t.freetv.fun/live/tvbsya-zhou-1.m3u8
-#EXTINF:-1, TVB亞洲劇
 https://t.freetv.fun/live/tvbsya-zhou-2.m3u8
 #EXTINF:-1, TVB亞洲劇
-https://t.freetv.fun/live/tvbsya-zhou-4.m3u8
+https://t.freetv.fun/live/tvbsya-zhou.m3u8
+#EXTINF:-1, TVB亞洲劇
+https://t.freetv.fun/live/tvbsya-zhou-1.m3u8
 #EXTINF:-1, TVB星河(粵)
 https://t.freetv.fun/live/tvbxing-he.m3u8
 #EXTINF:-1, TVB星河(粵)
 https://t.freetv.fun/live/tvbxing-he-1.m3u8
 #EXTINF:-1, TVB星河(粵)
-https://t.freetv.fun/live/tvbxing-he-2.m3u8
+https://t.freetv.fun/live/tvbxing-he-4.m3u8
 #EXTINF:-1, TVB華劇
 https://t.freetv.fun/live/tvb-fei-cui-tai-sg.m3u8
-#EXTINF:-1, TVB黃金翡翠台
-https://t.freetv.fun/live/tvbfei-cui.flv
-#EXTINF:-1, TVB黃金翡翠台
-https://t.freetv.fun/live/tvbfei-cui-1.php
-#EXTINF:-1, TVB黃金翡翠台
-https://t.freetv.fun/live/tvbfei-cui-2.php
 #EXTINF:-1, 明珠
 https://t.freetv.fun/live/ming-zhu-tai-gao-qing.m3u8
 #EXTINF:-1, 明珠
 https://t.freetv.fun/live/ming-zhu-4.php
 #EXTINF:-1, 明珠臺(備)
+https://t.freetv.fun/live/ming-zhu-3.m3u8
+#EXTINF:-1, 明珠臺(備)
 https://t.freetv.fun/live/ming-zhu-1.m3u8
 #EXTINF:-1, 明珠臺(備)
-https://t.freetv.fun/live/ming-zhu.php
-#EXTINF:-1, 明珠臺(備)
 https://t.freetv.fun/live/ming-zhu-2.m3u8
-#EXTINF:-1, CCTV1(RTHK33)
-https://t.freetv.fun/live/cctv1zong-he.m3u8
 #EXTINF:-1, CCTV1(RTHK33)
 https://t.freetv.fun/live/cctv1-4.m3u8
 #EXTINF:-1, CCTV1(RTHK33)
 https://t.freetv.fun/live/cctv-1hd.m3u8
+#EXTINF:-1, CCTV1(RTHK33)
+https://t.freetv.fun/live/cctv1zong-he-1.m3u8
 #EXTINF:-1, CCTV1(RTHK33)[geo-blocked]
-https://t.freetv.fun/live/cctv-01.php
+https://t.freetv.fun/live/cctv-1gao-qing-1.m3u8
 #EXTINF:-1, HOY TV[geo-blocked]
 https://t.freetv.fun/live/hoy-tv.php
 #EXTINF:-1, HOY TV
@@ -407,16 +371,12 @@ https://t.freetv.fun/live/hoy-77-sg.m3u8
 https://t.freetv.fun/live/gang-tai-dian-shi-32gao-qing.m3u8
 #EXTINF:-1, 無線新聞台
 https://t.freetv.fun/live/wu-xian-xin-wen.m3u8
-#EXTINF:-1, 無線新聞台
-https://t.freetv.fun/live/wu-xian-xin-wen-1.flv
 #EXTINF:-1, 無線新聞台[geo-blocked]
 https://t.freetv.fun/live/wu-xian-xin-wen-2.m3u8
-#EXTINF:-1, 鳳凰資訊HD
-https://t.freetv.fun/live/feng-huang-zi-xun-1.flv
-#EXTINF:-1, 鳳凰資訊HD[geo-blocked]
-https://t.freetv.fun/live/feng-huang-zi-xun.m3u8
 #EXTINF:-1, 鳳凰資訊HD[geo-blocked]
 https://t.freetv.fun/live/feng-huang-zi-xun-2.php
+#EXTINF:-1, 鳳凰資訊HD[geo-blocked]
+https://t.freetv.fun/live/feng-huang-zi-xun-6.php
 #EXTINF:-1, snaap!
 https://t.freetv.fun/live/snap.m3u8
 #EXTINF:-1, 劇集1臺[geo-blocked]
@@ -440,9 +400,9 @@ https://t.freetv.fun/live/bbc-lifestyle-asia.m3u8
 #EXTINF:-1, [BD]tennis channel
 https://t.freetv.fun/live/tennis-channel-5.m3u8
 #EXTINF:-1, [VGA]light channel
-https://t.freetv.fun/live/light-channel.m3u8
-#EXTINF:-1, [VGA]light channel
 https://t.freetv.fun/live/light-channel-2.m3u8
+#EXTINF:-1, [VGA]light channel
+https://t.freetv.fun/live/light-channel.m3u8
 #EXTINF:-1, [HD]channel s
 https://t.freetv.fun/live/channel-s.m3u8
 #EXTINF:-1, [SD]tennis channel
@@ -499,18 +459,18 @@ https://t.freetv.fun/live/cizui-an-zhen-cha-4.m3u8
 https://t.freetv.fun/live/qmusic-1.m3u8
 #EXTINF:-1, [SD]dazn combat
 https://t.freetv.fun/live/dazn-combat.m3u8
-#EXTINF:-1, [SD]dazn combat
-https://t.freetv.fun/live/dazn-combat-2.m3u8
 #EXTINF:-1, [SD]dazn ringside
 https://t.freetv.fun/live/dazn-ringside.m3u8
 #EXTINF:-1, [SD]dazn ringside
 https://t.freetv.fun/live/dazn-ringside-1.m3u8
-#EXTINF:-1, [SD]dazn ringside
-https://t.freetv.fun/live/dazn-ringside-3.m3u8
 #EXTINF:-1, [BD]dazn ringside
 https://t.freetv.fun/live/dazn-ringside-2.m3u8
 #EXTINF:-1, [BD]dazn combat
 https://t.freetv.fun/live/dazn-combat-1.m3u8
+#EXTINF:-1, [HD]dazn combat
+https://t.freetv.fun/live/dazn-combat-2.m3u8
+#EXTINF:-1, [HD]dazn ringside
+https://t.freetv.fun/live/dazn-ringside-3.m3u8
 #EXTINF:-1, [HD]discovery world
 https://t.freetv.fun/live/discovery-world.m3u8
 #EXTINF:-1, [BD]discovery
@@ -529,8 +489,6 @@ https://t.freetv.fun/live/discovery-theater.m3u8
 https://t.freetv.fun/live/dreamworks-7.m3u8
 #EXTINF:-1, [BD]elta生活旅遊
 https://t.freetv.fun/live/eltasheng-huo-lu-you-5.m3u8
-#EXTINF:-1, [BD]cctv4美洲
-https://t.freetv.fun/live/cctv4mei-zhou.m3u8
 #EXTINF:-1, [HD]delta tv
 https://t.freetv.fun/live/delta-tv-1.m3u8
 #EXTINF:-1, [BD]fun探索娛樂
@@ -550,9 +508,9 @@ https://t.freetv.fun/live/ch-ng-hgtv.m3u8
 #EXTINF:-1, [SD]hollywood
 https://t.freetv.fun/live/hollywood.m3u8
 #EXTINF:-1, [SD]hollywood
-https://t.freetv.fun/live/hollywood-1.m3u8
-#EXTINF:-1, [SD]hollywood
 https://t.freetv.fun/live/hollywood-2.m3u8
+#EXTINF:-1, [SD]hollywood
+https://t.freetv.fun/live/hollywood-1.m3u8
 #EXTINF:-1, [BD]young hollywood
 https://t.freetv.fun/live/young-hollywood.m3u8
 #EXTINF:-1, [HD]mix hollywood
@@ -597,7 +555,7 @@ https://t.freetv.fun/live/smithsonian-channel-selects-1.m3u8
 https://t.freetv.fun/live/smithsonian-channel-selects-1.m3u8
 #EXTINF:-1, [HD]smithsonian channel selects
 https://t.freetv.fun/live/smithsonian-channel-selects-1-1.m3u8
-#EXTINF:-1, [SD]smithsonian channel pluto tv
+#EXTINF:-1, [HD]smithsonian channel pluto tv
 https://t.freetv.fun/live/smithsonian-channel-pluto-tv.m3u8
 #EXTINF:-1, [HD]smithsonian channel pluto tv
 https://t.freetv.fun/live/smithsonian-channel-pluto-tv-1.m3u8
@@ -607,9 +565,7 @@ https://t.freetv.fun/live/gold-star.m3u8
 https://t.freetv.fun/live/ttv.m3u8
 #EXTINF:-1, [BD]tvbs-asia
 https://t.freetv.fun/live/tvbs-asia.m3u8
-#EXTINF:-1, [BD]tvbs新聞
-https://t.freetv.fun/live/tvbsxin-wen.php
-#EXTINF:-1, [SD]tudn
+#EXTINF:-1, [BD]tudn
 https://t.freetv.fun/live/tudn.m3u8
 #EXTINF:-1, [BD]roll
 https://t.freetv.fun/live/roll.m3u8
@@ -624,7 +580,7 @@ https://t.freetv.fun/live/san-li-xi-ju.php
 #EXTINF:-1, [BD]中天亚洲 *b
 https://t.freetv.fun/live/zhong-tian-ya-zhou-b.m3u8
 #EXTINF:-1, [BD]中天新闻
-https://t.freetv.fun/live/zhong-tian-xin-wen-1.m3u8
+https://t.freetv.fun/live/zhong-tian-xin-wen-3.m3u8
 #EXTINF:-1, [BD]中天新聞
 https://t.freetv.fun/live/zhong-tian-xin-wen-22.m3u8
 #EXTINF:-1, [BD]中天综合
@@ -644,11 +600,11 @@ https://t.freetv.fun/live/zhong-shi-16.m3u8
 #EXTINF:-1, [BD]中视新闻
 https://t.freetv.fun/live/zhong-shi-xin-wen.m3u8
 #EXTINF:-1, [BD]中視新聞
+https://t.freetv.fun/live/zhong-shi-xin-wen-2.m3u8
+#EXTINF:-1, [BD]中視新聞
 https://t.freetv.fun/live/zhong-shi-xin-wen-1-1.m3u8
 #EXTINF:-1, [BD]中視新聞
 https://t.freetv.fun/live/zhong-shi-xin-wen-12.m3u8
-#EXTINF:-1, [BD]中視新聞
-https://t.freetv.fun/live/zhong-shi-xin-wen-1.m3u8
 #EXTINF:-1, [BD]中视经典
 https://t.freetv.fun/live/zhong-shi-jing-dian.m3u8
 #EXTINF:-1, [BD]中视菁采
@@ -661,12 +617,8 @@ https://t.freetv.fun/live/ren-jian-wei-shi.m3u
 https://t.freetv.fun/live/ren-jian-wei-shi-3.m3u
 #EXTINF:-1, [BD]人間衛視
 https://t.freetv.fun/live/ren-jian-wei-shi-7.m3u8
-#EXTINF:-1, [BD]八大戏剧
-https://t.freetv.fun/live/ba-da-xi-ju.m3u8
 #EXTINF:-1, [SD]八大第1 *b
 https://t.freetv.fun/live/ba-da-di-1-b.m3u8
-#EXTINF:-1, [BD]八大综合
-https://t.freetv.fun/live/ba-da-zong-he.m3u8
 #EXTINF:-1, [SD]八大综合 *b
 https://t.freetv.fun/live/ba-da-zong-he-b.m3u8
 #EXTINF:-1, [SD]公视 *b
@@ -687,7 +639,7 @@ https://t.freetv.fun/live/yuan-zhu-min-zu-dian-shi-5.m3u8
 https://t.freetv.fun/live/tai-shi-1.m3u8
 #EXTINF:-1, [BD]台视新闻
 https://t.freetv.fun/live/tai-shi-xin-wen-1.m3u8
-#EXTINF:-1, [HD]台视新闻
+#EXTINF:-1, [BD]台视新闻
 https://t.freetv.fun/live/tai-shi-xin-wen-1-1.m3u8
 #EXTINF:-1, [HD]國會 2
 https://t.freetv.fun/live/guo-hui-2-14.m3u8
@@ -703,8 +655,6 @@ https://t.freetv.fun/live/huan-yu-xin-wen-21.m3u8
 https://t.freetv.fun/live/huan-yu-xin-wen-tai-wan-16.m3u8
 #EXTINF:-1, [BD]寰宇財經
 https://t.freetv.fun/live/huan-yu-cai-jing-10.m3u8
-#EXTINF:-1, [BD]东森综合
-https://t.freetv.fun/live/dong-sen-zong-he.m3u8
 #EXTINF:-1, [SD]东森综合 *b
 https://t.freetv.fun/live/dong-sen-zong-he-b.m3u8
 #EXTINF:-1, [BD]东森美洲2
@@ -727,20 +677,12 @@ https://t.freetv.fun/live/dong-sen-chao-shi-34-5-2.m3u8
 https://t.freetv.fun/live/dong-sen-dian-ying.m3u8
 #EXTINF:-1, [BD]民视
 https://t.freetv.fun/live/min-shi.m3u8
-#EXTINF:-1, [BD]民视
-https://t.freetv.fun/live/min-shi-1.php
 #EXTINF:-1, [BD]民視新聞
 https://t.freetv.fun/live/min-shi-xin-wen-1.m3u8
 #EXTINF:-1, [BD]民视新闻
 https://t.freetv.fun/live/min-shi-xin-wen.m3u8
 #EXTINF:-1, [BD]民视第一
 https://t.freetv.fun/live/min-shi-di-yi.m3u8
-#EXTINF:-1, [BD]民视第一
-https://t.freetv.fun/live/min-shi-di-yi-1.m3u8
-#EXTINF:-1, [SD]民视第一 *b
-https://t.freetv.fun/live/min-shi-di-yi-b.m3u8
-#EXTINF:-1, [BD]民視綜藝
-https://t.freetv.fun/live/min-shi-zong-yi.php
 #EXTINF:-1, [BD]民视台湾
 https://t.freetv.fun/live/min-shi-tai-wan-2.m3u8
 #EXTINF:-1, [BD]民视台湾
@@ -751,14 +693,10 @@ https://t.freetv.fun/live/min-shi-tai-wan-2.m3u8
 https://t.freetv.fun/live/jing-xuan-dong-man-5.m3u8
 #EXTINF:-1, [BD]經典卡通
 https://t.freetv.fun/live/jing-dian-qia-tong-5.m3u8
-#EXTINF:-1, [BD]经典香港电影
-https://t.freetv.fun/live/jing-dian-xiang-gang-dian-ying.m3u8
 #EXTINF:-1, [BD]經典電影
 https://t.freetv.fun/live/jing-dian-dian-ying-5.m3u8
-#EXTINF:-1, [HD]经典香港电影
+#EXTINF:-1, [VGA]经典香港电影
 https://t.freetv.fun/live/jing-dian-xiang-gang-dian-ying-1.m3u8
-#EXTINF:-1, [BD]美亚电影
-https://t.freetv.fun/live/mei-ya-dian-ying-1.flv
 #EXTINF:-1, [BD]台视新聞
 https://t.freetv.fun/live/tai-shi-xin-wen.m3u8
 #EXTINF:-1, [BD]台視新聞
