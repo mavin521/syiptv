@@ -1,15 +1,7 @@
 #EXTM3U
-#EXTINF:-1, C+頻道
-https://t.freetv.fun/live/robot-wars-by-mech-plus.m3u8
-#EXTINF:-1, C+頻道
-https://t.freetv.fun/live/enisei-plus-4-1.m3u8
-#EXTINF:-1, KIX[HK]
-https://t.freetv.fun/live/kix-vt.m3u8
-#EXTINF:-1, ViuTVsix
-https://t.freetv.fun/live/viutvsix-b.m3u8
-#EXTINF:-1, Popc
-https://t.freetv.fun/live/popc-z.m3u8
-#EXTINF:-1, 無線新聞台
-https://t.freetv.fun/live/wu-xian-xin-wen-3.m3u8
-#EXTINF:-1, ASN HD
-https://t.freetv.fun/live/awsn.m3u8
+#EXTINF:-1, CCTV1(RTHK33)
+https://t.freetv.fun/live/cctv1-zong-he-1.m3u8
+#EXTINF:-1, CCTV1(RTHK33)
+https://t.freetv.fun/live/cctv1-zong-he.m3u8
+#EXTINF:-1, CCTV1(RTHK33)
+https://t.freetv.fun/live/cctv-1gao-qing.php
