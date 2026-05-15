@@ -1,7 +1,17 @@
 #EXTM3U
+#EXTINF:-1, 星空衛視
+https://t.freetv.fun/live/xing-kong-wei-shi.m3u8
+#EXTINF:-1, Animax(HK)
+https://t.freetv.fun/live/cctv-8dian-shi-ju.m3u8
+#EXTINF:-1, Animax(HK)
+https://t.freetv.fun/live/cctv-12she-hui-yu-fa.m3u8
+#EXTINF:-1, Animax(HK)
+https://t.freetv.fun/live/cctv-5ti-yu.m3u8
+#EXTINF:-1, 明珠臺(備)
+https://t.freetv.fun/live/ming-zhu.m3u8
+#EXTINF:-1, CCTV1(RTHK33)
+https://t.freetv.fun/live/cctv-1gao-qing.m3u8
 #EXTINF:-1, CCTV1(RTHK33)
 https://t.freetv.fun/live/cctv1-zong-he-1.m3u8
 #EXTINF:-1, CCTV1(RTHK33)
 https://t.freetv.fun/live/cctv1-zong-he.m3u8
-#EXTINF:-1, CCTV1(RTHK33)
-https://t.freetv.fun/live/cctv-1gao-qing.php
