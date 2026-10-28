@@ -1,201 +1,111 @@
 #EXTM3U
 #EXTINF:-1,Potplayer,Tivimate,OTT navigator可用，其它软件自行测试
 https://raw.githubusercontent.com/mavin521/syiptv/main/123/1.m3u8
-#EXTINF:-1,CA TVA SPORTS
-https://kong.pp.ua/iptv/live.php?channel=eff268e6666685b0c016a4fd7ed2b26a&expiry=1793205002&token=ce00ac5cde07d044687002bb68338ccf
-#EXTINF:-1,CA Sportsnet East
-https://kong.pp.ua/iptv/live.php?channel=2278dfadb8c8fa9afa7884812f4bab74&expiry=1793205002&token=9d59e4d9fe4fe640a87893a0121bced6
-#EXTINF:-1,CA Sportsnet One
-https://kong.pp.ua/iptv/live.php?channel=8311de3244086e1566686a65d4d6c159&expiry=1793205002&token=50f2def9b8e4ee5e206e25881e915bcc
-#EXTINF:-1,CA Ginx esports TV
-https://kong.pp.ua/iptv/live.php?channel=660bcbe9cb89ad56404ee3e45fd59b7f&expiry=1793205002&token=54450c00b476c343a1fdebdea2d25ade
-#EXTINF:-1,CA Sportsnet  HD
-https://kong.pp.ua/iptv/live.php?channel=59da56dad417a4185c8a4f1973883f63&expiry=1793205002&token=1aa07dfe702d612a4f2219ea928d020b
-#EXTINF:-1,CA Sportsnet  HD
-https://kong.pp.ua/iptv/live.php?channel=e153f210a1a275abff2fd2db6976a5c5&expiry=1793205002&token=efedf3407636b61468ed05056fe7ff73
-#EXTINF:-1,CA Sportsnet East HD F
-https://kong.pp.ua/iptv/live.php?channel=668edfcb1ec322a7a2a85e47b27445ae&expiry=1793205002&token=2ac0758e76ebb24b911a434dae21c167
-#EXTINF:-1,CA Sportsnet One FHD
-https://kong.pp.ua/iptv/live.php?channel=ee7aa846775cf1e25f4aba1fb156734d&expiry=1793205002&token=b16e158fc1ff26b9525e4ccf9390da7a
-#EXTINF:-1,CA Sportsnet One HD
-https://kong.pp.ua/iptv/live.php?channel=dea3cf23f8dda760e3692aa04de686e3&expiry=1793205002&token=9316e3f18b02fd7bbdffc528fb040305
-#EXTINF:-1,CA Sportsnet Ontario
-https://kong.pp.ua/iptv/live.php?channel=a1d71fa2c29c4dd9536f16aded8abfc1&expiry=1793205002&token=b5381236617ac3df4c2f3407342b9ef2
-#EXTINF:-1,CA Sportsnet Ontario HD
-https://kong.pp.ua/iptv/live.php?channel=b56bf7861abfd59ef3af0aacbb807dc4&expiry=1793205002&token=890e55095cfcef58bd7d71162b9eefb9
-#EXTINF:-1,CA Sportsnet Ontario FHD
-https://kong.pp.ua/iptv/live.php?channel=994af90d443789ff7e6c88292fba0270&expiry=1793205002&token=47c6d7c0d9f71120a577006bbac00338
-#EXTINF:-1,CA Sportsnet Pacific FHD
-https://kong.pp.ua/iptv/live.php?channel=e22c18653a213848dc23ff32d9b848cc&expiry=1793205002&token=14f30439f52480b3f8ded0de63535c8e
-#EXTINF:-1,CA Sportsnet Pacific HD
-https://kong.pp.ua/iptv/live.php?channel=18124e29acc6b44724953ce24549dc60&expiry=1793205002&token=2c1e485b78b63fc6f93966e3e4170eaf
-#EXTINF:-1,CA Sportsnet West FHD
-https://kong.pp.ua/iptv/live.php?channel=3062a90ac2712331bbe291e2143252d3&expiry=1793205002&token=4f59ab0b33fac30b6ffb8522760e467d
-#EXTINF:-1,CA SPORTSNET WEST
-https://kong.pp.ua/iptv/live.php?channel=7b0a3869799e6feb19021c137f39f43d&expiry=1793205002&token=ec5ca6c017b0d4b4c4bc51e8fda4a3ba
-#EXTINF:-1,CA Sportsnet World HD
-https://kong.pp.ua/iptv/live.php?channel=9e86cfb61e198678cd852a49bbdd69c8&expiry=1793205002&token=9203f7960810155235854e70201b2f42
-#EXTINF:-1,CA FR TVA Sports
-https://kong.pp.ua/iptv/live.php?channel=b7c24d8fc5520e7b24eff7f7f0a3a655&expiry=1793205002&token=7df441bd32bef2cfaad6f3727fee75c8
-#EXTINF:-1,US FOX Sports
-https://kong.pp.ua/iptv/live.php?channel=a22abebdf798ba8fa868dbadf0229b91&expiry=1793205002&token=d2f54ed538cc3ac271030726ea15a027
-#EXTINF:-1,UK EuroSport
-https://kong.pp.ua/iptv/live.php?channel=2ff12a14f091275043ed51cffb8e5219&expiry=1793205002&token=91244c6c75ceb4ee4eb4cf8de0400825
-#EXTINF:-1,US CBS Sports Network HD
-https://kong.pp.ua/iptv/live.php?channel=736ceb517bf37a432b85e203b545c1b0&expiry=1793205002&token=dd1fa0ec95e6ad45d3241454daa0e318
-#EXTINF:-1,US ESPNU College Sports
-https://kong.pp.ua/iptv/live.php?channel=e1cfa6345c8640c07a1b8aeaad1effa5&expiry=1793205002&token=73abec670e2d077069ed959ed347d9b3
-#EXTINF:-1,US Fox Sports
-https://kong.pp.ua/iptv/live.php?channel=6a5c2c6e28eaf679064c222a552f53ff&expiry=1793205002&token=e2da3e5157dd55936107e20bd1bc3d48
-#EXTINF:-1,US Fox Sports
-https://kong.pp.ua/iptv/live.php?channel=631730cec0bb3be3402c249c8bee076b&expiry=1793205002&token=9bb17583979b2b9d5f2238d659706cf6
-#EXTINF:-1,CAR SPORTSMAX
-https://kong.pp.ua/iptv/live.php?channel=617db37779f923b597c3bf649d97996e&expiry=1793205002&token=1dfcb090a889c90edff6f88ef8c66097
-#EXTINF:-1,Star TV Sports
-https://kong.pp.ua/iptv/live.php?channel=51958793cfe6e5a7a2dc6e8dbe299921&expiry=1793205002&token=96d38b13a389c0c718825abe81ed986f
-#EXTINF:-1,Star TV Sports
-https://kong.pp.ua/iptv/live.php?channel=7d1a0cbd574f2e33545091b836d60df6&expiry=1793205002&token=c4c4483608bb59ce5a81a52ad361cd47
-#EXTINF:-1,PT SPORT TV  FHD
-https://kong.pp.ua/iptv/live.php?channel=bb9ad40ade0da255ec72cc880a376f8b&expiry=1793205002&token=d87e8829633a082714299f8a7e459a20
-#EXTINF:-1,PT SPORT TV  HD
-https://kong.pp.ua/iptv/live.php?channel=9558894011acb1da1f633944bc5d4645&expiry=1793205002&token=add74490c8211c9c724909e81e6a57f9
-#EXTINF:-1,PT SPORT TV  HD
-https://kong.pp.ua/iptv/live.php?channel=68dfeabe3cffd7813cf546208051e2f2&expiry=1793205002&token=174d9efa480623cad55d8eeea8dc53f7
-#EXTINF:-1,PT SPORT TV  FHD
-https://kong.pp.ua/iptv/live.php?channel=d29eeae29d22fc3362f0917f05855ce8&expiry=1793205002&token=d60bf0f2c4482f7b6ffd335ba674f26e
-#EXTINF:-1,PT ELEVEN SPORTS  HD
-https://kong.pp.ua/iptv/live.php?channel=260ae3d9837b0d4a8ca38b7d0c9a32d3&expiry=1793205002&token=4a2189f40dbc6d39da0a4790064b12bd
-#EXTINF:-1,PT ELEVEN SPORTS  HD
-https://kong.pp.ua/iptv/live.php?channel=b889301f0db737fd4433af692002a573&expiry=1793205002&token=da78f3671fa10479818d274ea7938b4d
-#EXTINF:-1,PT ELEVEN SPORTS  HD
-https://kong.pp.ua/iptv/live.php?channel=df5b1470ba6abc00d5c2774c628afde4&expiry=1793205002&token=135b45fbf27e1875529b27d2485bbb80
-#EXTINF:-1,US FOX Sports
-https://kong.pp.ua/iptv/live.php?channel=9eaac0310263d0d3c20f8b1c84903563&expiry=1793205002&token=1954e10202320c9ecac4055638443cfb
-#EXTINF:-1,US Bally Sports Florida
-https://kong.pp.ua/iptv/live.php?channel=7ce0279e1be7db704f70e5a1b823e338&expiry=1793205002&token=5193ffc295a8e807a744644b931b3a52
-#EXTINF:-1,Sportsnet
-https://kong.pp.ua/iptv/live.php?channel=de713332f99c89968d1b46d844eebf91&expiry=1793205002&token=7bb21b58f7d9d6866cff1fb789db4349
-#EXTINF:-1,UK EuroSport
-https://kong.pp.ua/iptv/live.php?channel=ccfd810388bab833496e2bbd84d2e4c1&expiry=1793205002&token=3c103e5edfbee7352c624320349f4a6a
-#EXTINF:-1,UK Sky Sports Action
-https://kong.pp.ua/iptv/live.php?channel=0d5efd89f060cdf91ffbeb5b95c6c636&expiry=1793205002&token=5abd58cce66c26e77ecc0f1841ef731f
-#EXTINF:-1,UK Sky Sports Arena
-https://kong.pp.ua/iptv/live.php?channel=f86221c992449ccd564d45375b8baf4f&expiry=1793205002&token=3f207c6c83220adcd90ca57243649107
-#EXTINF:-1,UK Sky Sports F1 FHD
-https://kong.pp.ua/iptv/live.php?channel=4bc8b05b7d3cfb2acb7b6748e9bd9e8f&expiry=1793205002&token=db99bf76bdebd6335b99c21043e657e5
-#EXTINF:-1,UK Sky Sports Golf FHD
-https://kong.pp.ua/iptv/live.php?channel=a3ebbcd35f5ebc300b8f4fcb9586ca28&expiry=1793205002&token=1f31c0680c7c7997dd9619f458c64a3d
-#EXTINF:-1,UK Sky Sports Main Event
-https://kong.pp.ua/iptv/live.php?channel=777aed5a74d3f11d40fbfbca8a432b7a&expiry=1793205002&token=d76c7e0cb2025d25fe2f83c174a2efc3
-#EXTINF:-1,UK Sky Sports Mix FHD
-https://kong.pp.ua/iptv/live.php?channel=3c864ac1d90bd414153889aa2fe3539f&expiry=1793205002&token=1a47979a529f92fafa134c5fa4c44fd0
-#EXTINF:-1,UK Sky Sports News
-https://kong.pp.ua/iptv/live.php?channel=75fdad715352a9666b7683aa994e2a62&expiry=1793205002&token=6ab84350c957d3a31577fd47dfd894c4
-#EXTINF:-1,UK Sky Sports Cricket FHD
-https://kong.pp.ua/iptv/live.php?channel=1402990db67fa797ab3492ccdfc8ba66&expiry=1793205002&token=8a1e11955bc1586f398f60319cc5e5ec
-#EXTINF:-1,UK Sky Sports F1
-https://kong.pp.ua/iptv/live.php?channel=6447a00537a808a1630b70fa42cdedec&expiry=1793205002&token=220f7fc7c3c0f454158b317252178cda
-#EXTINF:-1,US Bally Sports Southeast
-https://kong.pp.ua/iptv/live.php?channel=806d9ecb5b7a1f5fb00131686fc798c8&expiry=1793205002&token=ecf51e23bc6be0ad990f14ab402217b2
-#EXTINF:-1,US NBC Sports Network
-https://kong.pp.ua/iptv/live.php?channel=ed0d62ceb1ccb8fa46c010f91ef7df01&expiry=1793205002&token=e81a370b99e9076170f947091abcbc2b
-#EXTINF:-1,US Bally Sports Detroit
-https://kong.pp.ua/iptv/live.php?channel=34df14f367c4d86e90a40481b5a9744d&expiry=1793205002&token=7240a71e139c6c85c9efe5d1b3ff14bd
-#EXTINF:-1,US Bally Sports Midwest
-https://kong.pp.ua/iptv/live.php?channel=121ee1307fa786da6cec1d57f4a0931c&expiry=1793205002&token=12669fbdb58c3dd6f9b8fab0dfb2cc3a
-#EXTINF:-1,US Bally Sports Oklahoma
-https://kong.pp.ua/iptv/live.php?channel=31090f72b3b75bf0dadbdba8940d6a9f&expiry=1793205002&token=42cdf44ff7aba9ba9866c50598cdeeec
-#EXTINF:-1,US Bally Sports Southeast
-https://kong.pp.ua/iptv/live.php?channel=26055d052c5e670bd7d81597d5d3be95&expiry=1793205002&token=f0cf14da702ec92a533a0981f1100b3b
-#EXTINF:-1,US Bally Sports Southwest
-https://kong.pp.ua/iptv/live.php?channel=90605d900466c89dec6b241225890be5&expiry=1793205002&token=c612e6256c3f3ef7d981a0877da5d6c9
-#EXTINF:-1,US Bally Sports West
-https://kong.pp.ua/iptv/live.php?channel=0db22cda8673561485ee8401ae33a797&expiry=1793205002&token=34ecbd2c268bec1c47ef9db024db80ea
-#EXTINF:-1,US FanDuel Sports Wisconsin
-https://kong.pp.ua/iptv/live.php?channel=dab1aceccdf37ff0fc4fa11123e5245b&expiry=1793205002&token=a6c395735e6e524e7a358fb60281ee34
-#EXTINF:-1,PT Eleven Sports  FHD
-https://kong.pp.ua/iptv/live.php?channel=0bd1ee1dcd22bbdbdda5980b061725b1&expiry=1793205002&token=5824fbf65b652f91948fba9c002aa4a0
-#EXTINF:-1,US Bally Sports North
-https://kong.pp.ua/iptv/live.php?channel=60be623155d0f796c9fb9b03b8995d21&expiry=1793205002&token=3534dc0073190852d25a2f6d07d1a101
-#EXTINF:-1,US Bally Sports
-https://kong.pp.ua/iptv/live.php?channel=f4e14092d890b79ac046002c68a72e79&expiry=1793205002&token=a9c571d25727bfd75e5dcceecfe822f0
-#EXTINF:-1,US Bally Sports Ohio
-https://kong.pp.ua/iptv/live.php?channel=a0c0da11430903b7eec3479cd4fae214&expiry=1793205002&token=ef11e15e7f3a5127929e270a7b9ba909
-#EXTINF:-1,US NBC Sports Bay Area
-https://kong.pp.ua/iptv/live.php?channel=fb14bd7406041d0bfeab74f66c62026e&expiry=1793205002&token=2efb71b53924ba9b6dfe8cd59046f072
-#EXTINF:-1,US NBC Sports Boston
-https://kong.pp.ua/iptv/live.php?channel=8d26f72ccd51fdc6e243bc8d9581b859&expiry=1793205002&token=ba369bd3bf8feaa110fd8563cc5d5469
-#EXTINF:-1,US NBC Sports California
-https://kong.pp.ua/iptv/live.php?channel=972a29fc8933643c6be8449e38b7a85d&expiry=1793205002&token=0d352eef8396bbe33730d976ce660cd4
-#EXTINF:-1,US NBC Sports Chicago
-https://kong.pp.ua/iptv/live.php?channel=ea933353832aa453da52cb41571acd8c&expiry=1793205002&token=97913fb26592b46686e5dc94195d9b80
-#EXTINF:-1,US NBC Sports Network FHD
-https://kong.pp.ua/iptv/live.php?channel=fc777c1b8b0b036faa124c22d3bc7731&expiry=1793205002&token=80a69f2230e988139753955b90ebdee7
-#EXTINF:-1,US NBC Sports Philly
-https://kong.pp.ua/iptv/live.php?channel=b445e40e7a4ac3009d30a464b165acbf&expiry=1793205002&token=3d8f8b050f97c39a1ecd8d42c960cc2e
-#EXTINF:-1,US NBC Sports Washington F
-https://kong.pp.ua/iptv/live.php?channel=9528187deb2b6cd35ad8f962052555a5&expiry=1793205002&token=23da5c31aa41c0b18ad5426157a1d727
-#EXTINF:-1,US Spectrum SportsNet LA Dodgers HD
-https://kong.pp.ua/iptv/live.php?channel=dd3a70e909c12b7c49c23c920940899b&expiry=1793205002&token=d55c9177fa6a18a9609a9847b8e5cc40
-#EXTINF:-1,US Spectrum SportsNet Lakers FHD
-https://kong.pp.ua/iptv/live.php?channel=a98a5614c6a9b5f24d21d2ee0b0f27db&expiry=1793205002&token=05e9011abef60cd1a749299dcab129aa
-#EXTINF:-1,US Spectrum SportsNet Lakers FHD
-https://kong.pp.ua/iptv/live.php?channel=1edca2e074266a068a4599a9610451d8&expiry=1793205002&token=ff0e9cf6e5a5e0ff78131c79fa3cbddb
-#EXTINF:-1,US Altitude Sports HD
-https://kong.pp.ua/iptv/live.php?channel=d704eaad4b4188373cdc7c37288ebb61&expiry=1793205002&token=3aa618ff3a84232594352877f1da33d8
-#EXTINF:-1,US CBS Sports Network HD
-https://kong.pp.ua/iptv/live.php?channel=196aa194d2bf2149e84005eea5d808b7&expiry=1793205002&token=c4ea49bb826216549e2b521097b754d9
-#EXTINF:-1,US ESPNU College Sports
-https://kong.pp.ua/iptv/live.php?channel=9c60348bb7c48fb8f33af3ac1168eb7d&expiry=1793205002&token=6b56e24eb4f73fcb6aba49ab46b97ffc
-#EXTINF:-1,US Fox Sports
-https://kong.pp.ua/iptv/live.php?channel=f5f8616e105c2de614fe703b3155179a&expiry=1793205002&token=fabc4093f67d4c681c2e9b175c5390db
-#EXTINF:-1,US Fox Sports
-https://kong.pp.ua/iptv/live.php?channel=678dc13a40bc92a89aec29ac9449a3f9&expiry=1793205002&token=a4e52a10798e98027c004c19f62d60fc
-#EXTINF:-1,US Bally Sports North A
-https://kong.pp.ua/iptv/live.php?channel=84827e2abb983da746d91596e4827ea0&expiry=1793205002&token=c8386bd9612e96f45285c72fa2a56309
-#EXTINF:-1,US Bally Sports Carolinas
-https://kong.pp.ua/iptv/live.php?channel=8b0f08f7caa1891a369a2ca77e735cd3&expiry=1793205002&token=a406b93de4162d3db347c3c676150f03
-#EXTINF:-1,US Bally Sports South
-https://kong.pp.ua/iptv/live.php?channel=490c53dba7ef5d680328d6d399f30fb1&expiry=1793205002&token=1bc454a10bdbc6990bf2f08d466a8fb6
-#EXTINF:-1,US Bally Sports South
-https://kong.pp.ua/iptv/live.php?channel=f80c55751290655726f88ddd31987fdf&expiry=1793205002&token=b9cd7b8d9c4044bdbe49b2ee12e3849e
-#EXTINF:-1,US Marquee Sports Network HD
-https://kong.pp.ua/iptv/live.php?channel=cd7cc83b6a033661fb7370577d6f5538&expiry=1793205002&token=274eb8f54e87bdade087d6f7a6795477
-#EXTINF:-1,US Sportsnet New York SNY
-https://kong.pp.ua/iptv/live.php?channel=d7e46a22db988cba519d5fa29a106e38&expiry=1793205002&token=1d46dc70b429bdfa023a4678772d9aaf
-#EXTINF:-1,US Sportsman Channel
-https://kong.pp.ua/iptv/live.php?channel=53faedc755edd2e38c6a9d653cf7f995&expiry=1793205002&token=dc46b33ab533b59e40a6dae19e34bcb2
-#EXTINF:-1,US Bally Sports Sun
-https://kong.pp.ua/iptv/live.php?channel=b225c7981819ae7c7e7f7bfba1e4b78e&expiry=1793205002&token=292b6e671a3c2af5663de6a4f8284742
-#EXTINF:-1,CAR SPORTSMAX
-https://kong.pp.ua/iptv/live.php?channel=d649f9c2502fcdd32b85ac0671b9bbc0&expiry=1793205002&token=37954394a583446234bdba9bb09e39e1
-#EXTINF:-1,Star TV Sports
-https://kong.pp.ua/iptv/live.php?channel=ccb54c4e87ba9dde14a3f744853eff55&expiry=1793205002&token=c3bdbcb2b8fc7d3907e4773a29b166c1
-#EXTINF:-1,Star TV Sports
-https://kong.pp.ua/iptv/live.php?channel=08533d571d7642677d6dca892d747a59&expiry=1793205002&token=f68a74d4b302f88fd04f0430b0ab87ca
-#EXTINF:-1,UK SKY SPORTS ARENA FHD
-https://kong.pp.ua/iptv/live.php?channel=47a8b2d99763f7fa2f5b7ca8d9cfc12a&expiry=1793205002&token=06ff8af9a8c938f5736030cc45168d4b
-#EXTINF:-1,UK SKY SPORTS MAIN EVENT HD
-https://kong.pp.ua/iptv/live.php?channel=05dcd932b4c4644818061dd2663832c7&expiry=1793205002&token=42a929ab4cdb33d9301c2c1b7058bc2d
-#EXTINF:-1,NSPORTS  HD
-https://kong.pp.ua/iptv/live.php?channel=8e6cad389ae41eb6a50f1374ad35bb63&expiry=1793205002&token=2fda066e0c612b98fb21d10955627129
-#EXTINF:-1,NSPORTS  HD
-https://kong.pp.ua/iptv/live.php?channel=77a224911cdaf6e9effae6267226bb40&expiry=1793205002&token=3c19e6d45f594209c1c727843b229a2a
-#EXTINF:-1,PAY PER VIEW ESPORTES
-https://kong.pp.ua/iptv/live.php?channel=642a4a430010d987d550b15520292fa6&expiry=1793205002&token=c9739ef4fdda99cee38911b529c2d7cc
-#EXTINF:-1,SPORTV
-https://kong.pp.ua/iptv/live.php?channel=2eb68d0255f16c9b792d489b9a1843c2&expiry=1793205002&token=f4e0210f08e35664300c15b59412f77c
-#EXTINF:-1,SPORTV  HDR
-https://kong.pp.ua/iptv/live.php?channel=204ddac9a235be06eb5fb81c25500602&expiry=1793205002&token=92e7f0e8f3cefb960c0ae17bcc348b76
-#EXTINF:-1,SPORTV  HDR
-https://kong.pp.ua/iptv/live.php?channel=6d098dc9cd5329bc56d2a27fc8ad9fe4&expiry=1793205002&token=5567af5da41178f0bcb0d0642c6f2b69
-#EXTINF:-1,SPORTV
-https://kong.pp.ua/iptv/live.php?channel=fd8c033fec0a053d93e6f471ebf7307e&expiry=1793205002&token=0c41df346386231fe419fb616e59ba98
-#EXTINF:-1,SPORTV  HDR
-https://kong.pp.ua/iptv/live.php?channel=af02aa8daf0802722f983071b939dd22&expiry=1793205002&token=4d3e8c93ee1a7452a70b394961535785
-#EXTINF:-1,SPORTV
-https://kong.pp.ua/iptv/live.php?channel=355330742543ad3aa64c48f16743819b&expiry=1793205002&token=7969418dc59f40efe014c6ed8e0b9fc4
-#EXTINF:-1,PREMIERE SPORTS
-https://kong.pp.ua/iptv/live.php?channel=f1a9d34ef67edf5388c04f0dba30909d&expiry=1793205002&token=2046bd93801e8bdcf867f8f1a86e8a0f
-#EXTINF:-1,FOX SPORTS
-https://kong.pp.ua/iptv/live.php?channel=a40e5be2a0393e3629cb17b5cd8c2a42&expiry=1793205002&token=82a0252713f5f97ab8727bc1fcce246d
+#EXTINF:-1 group-title="体育" tvg-name="CCTV5体育",CCTV5体育
+http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv5hdnew/1200/index.m3u8?msisdn=d3dbce3904ada424bca3ec88520d3d2e&mdspid=&spid=699004&netType=0&sid=5500516171&pid=2028597139&timestamp=20261028125027&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=641886683&ParentNodeID=-99&assertID=5500516171&client_ip=39.103.182.111&SecurityKey=20261028125027&promotionId=&mvid=5102048712&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=2da8c06bcd2036bbbe6b97d97aaf340d&ddCalcu=d20dv4aa38wfcaa0a67b9cdd7290b366ebbb&sv=10004&ct=android
+#EXTINF:-1 group-title="体育" tvg-name="DraftKings Network (1080p)",DraftKings Network (1080p)
+https://na.linear.zype.com/e0bd0e23-a958-4e43-8164-4f2fef8876a8/fd3614bd-90bf-4530-a277-65ae3a1720c8-zype/live.m3u8
+#EXTINF:-1 group-title="体育" tvg-name="ESPN 2 Latin America (1080p)",ESPN 2 Latin America (1080p)
+https://barinaslive1.boldmss.com/ESPN_2/ESPN_2.isml/ESPN_2.m3u8
+#EXTINF:-1 group-title="体育" tvg-name="ESPN 3 Latin America (1080p)",ESPN 3 Latin America (1080p)
+https://barinaslive1.boldmss.com/ESPN_3/ESPN_3.isml/ESPN_3.m3u8
+#EXTINF:-1 group-title="体育" tvg-name="ESPN 4 Latin America (1080p)",ESPN 4 Latin America (1080p)
+https://barinaslive1.boldmss.com/ESPN_4/ESPN_4.isml/ESPN_4.m3u8
+#EXTINF:-1 group-title="体育" tvg-name="ESPN 5 Latin America (1080p)",ESPN 5 Latin America (1080p)
+https://barinaslive1.boldmss.com/ESPN_5/ESPN_5.isml/ESPN_5.m3u8
+#EXTINF:-1 group-title="体育" tvg-name="ESPN 6 Latin America (1080p)",ESPN 6 Latin America (1080p)
+https://barinaslive1.boldmss.com/ESPN_6/ESPN_6.isml/ESPN_6.m3u8
+#EXTINF:-1 group-title="体育" tvg-name="ESPN 7 Latin America (1080p)",ESPN 7 Latin America (1080p)
+https://barinaslive1.boldmss.com/ESPN_7/ESPN_7.isml/ESPN_7.m3u8
+#EXTINF:-1 group-title="体育" tvg-name="ESPN Latin America (1080p)",ESPN Latin America (1080p)
+https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.m3u8
+#EXTINF:-1 group-title="体育" tvg-name="ESPN8: The Ocho (1080p)",ESPN8: The Ocho (1080p)
+https://d3b6q2ou5kp8ke.cloudfront.net/ESPNTheOcho.m3u8
+#EXTINF:-1 group-title="体育" tvg-name="FITE 24/7 (1080p)",FITE 24/7 (1080p)
+https://d3d85c7qkywguj.cloudfront.net/scheduler/scheduleMaster/263.m3u8
+#EXTINF:-1 group-title="体育" tvg-name="FightBox",FightBox
+https://webtvstream.bhtelecom.ba/fightbox.m3u8
+#EXTINF:-1 group-title="体育" tvg-name="FloRacing (1080p)",FloRacing (1080p)
+https://amg02278-amg02278c1-flosports-worldwide-7592.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="体育" tvg-name="Fox Sports News (1080p)",Fox Sports News (1080p)
+https://skynewsau-live-premium.akamaized.net/hls/live/2105307/foxsportsnews/live_1080p.m3u8
+#EXTINF:-1 group-title="体育" tvg-name="Fubo Sports Network (1080p)",Fubo Sports Network (1080p)
+https://dnf08l6u6uxnz.cloudfront.net/master.m3u8
+#EXTINF:-1 group-title="体育" tvg-name="Golf Channel",Golf Channel
+https://dash4.antik.sk/live/test_golf_channel/playlist.m3u8
+#EXTINF:-1 group-title="体育" tvg-name="Jiangsu Sports & Leisure Channel (576p)",Jiangsu Sports & Leisure Channel (576p)
+http://183.207.248.71/gitv/live1/G_JSTY/G_JSTY
+#EXTINF:-1 group-title="体育" tvg-name="L'Equipe (1080p)",L'Equipe (1080p)
+https://dq37unyetkpcz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-m04j89j7k5gtp/LEquipe_FR.m3u8
+#EXTINF:-1 group-title="体育" tvg-name="M Sports (1080p)",M Sports (1080p)
+https://cdn.rabta.stream/M-Sports/index.m3u8
+#EXTINF:-1 group-title="体育" tvg-name="M4 Sport (1080p)",M4 Sport (1080p)
+http://88.212.7.14/live/uatlmvixrr/index.m3u8
+#EXTINF:-1 group-title="体育" tvg-name="More Than Sports TV (1080p)",More Than Sports TV (1080p)
+https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
+#EXTINF:-1 group-title="体育" tvg-name="NBC Sports NOW (1080p)",NBC Sports NOW (1080p)
+https://d4whmvwm0rdvi.cloudfront.net/10007/99993008/hls/master.m3u8?ads.xumo_channelId=99993008
+#EXTINF:-1 group-title="体育" tvg-name="NHL AntenaPlay",NHL AntenaPlay
+https://live4dai.antenaplay.ro/live2_sdi03/live2_sdi03_600k.m3u8
+#EXTINF:-1 group-title="体育" tvg-name="NHL Network (1080p)",NHL Network (1080p)
+https://nhl-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="体育" tvg-name="Real Madrid TV (726p)",Real Madrid TV (726p)
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
+#EXTINF:-1 group-title="体育" tvg-name="Real Madrid TV English",Real Madrid TV English
+http://88.212.15.50/live/real_madrid_tv/index.m3u8
+#EXTINF:-1 group-title="体育" tvg-name="Red Bull TV AU (1080p)",Red Bull TV AU (1080p)
+https://db34cc6127ac459db55cab5f97cd66b9.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-680-WORBAUENFAST-WHALETVPLUS/680/whaletvplus/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="体育" tvg-name="Red Bull TV BR (1080p)",Red Bull TV BR (1080p)
+https://d03ae6b5c6724c24867e97a3dc04934a.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1026-WORBBRPTFAST-WHALETVPLUS/1026/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="体育" tvg-name="Red Bull TV DE (1080p)",Red Bull TV DE (1080p)
+https://46cfeb23c7f74853bba7a256655a3119.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-582-WORBDACHDEFAST-WHALETVPLUS/582/whaletvplus/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="体育" tvg-name="Red Bull TV ES (1080p)",Red Bull TV ES (1080p)
+https://886bd3fbc782459f8de7555d32d7e9ce.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-957-WORBLATAMESFAST-WHALETVPLUS/957/whaletvplus/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="体育" tvg-name="Red Bull TV SD (1080p)",Red Bull TV SD (1080p)
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1 group-title="体育" tvg-name="Red Bull TV UK (1080p)",Red Bull TV UK (1080p)
+https://1a3566cb46914c5499fbc86fbc4ac87e.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-932-WORBUKENFAST-WHALETVPLUS/932/whaletvplus/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="体育" tvg-name="Red Bull TV US (1080p)",Red Bull TV US (1080p)
+https://0b73ace69ebb45eaa249bb87837cb958.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-644-WORBUSENFAST-LG_US/644/lgtv/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="体育" tvg-name="Sky Racing 1 (720p)",Sky Racing 1 (720p)
+https://636ffd31f0e12.streamlock.net/RacingStream1/RacingStream1/playlist.m3u8
+#EXTINF:-1 group-title="体育" tvg-name="Sport (Slovakia) (1080p)",Sport (Slovakia) (1080p)
+http://88.212.15.50/live/test_rtvs_sport_hevc/playlist.m3u8
+#EXTINF:-1 group-title="体育" tvg-name="Sport (Uzbekistan)",Sport (Uzbekistan)
+https://stream8.cinerama.uz/1004/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="体育" tvg-name="Sports Television (720p) [Not 24/7]",Sports Television (720p) [Not 24/7]
+https://live.koryocdn.org/sports/index.m3u8
+#EXTINF:-1 group-title="体育" tvg-name="SportsGrid (1080p)",SportsGrid (1080p)
+https://sportsgrid-tribal.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="体育" tvg-name="Star Sports 2 Telugu HD (576p)",Star Sports 2 Telugu HD (576p)
+https://real-vk.proxy.nellaiiptv.com/SDMEDIA/index.m3u8
+#EXTINF:-1 group-title="体育" tvg-name="TR Sport (480p)",TR Sport (480p)
+https://livetr.teleromagna.it/mia/live/playlist.m3u8
+#EXTINF:-1 group-title="体育" tvg-name="TVS Classic Sports (360p)",TVS Classic Sports (360p)
+https://rpn.bozztv.com/gusa/gusa-tvs/index.m3u8
+#EXTINF:-1 group-title="体育" tvg-name="TVS Pinball Network (480p)",TVS Pinball Network (480p)
+https://rpn.bozztv.com/gusa/gusa-TVSCartoonNetwork/index.m3u8
+#EXTINF:-1 group-title="体育" tvg-name="TVS Sports (720p) [Not 24/7]",TVS Sports (720p) [Not 24/7]
+https://rpn.bozztv.com/gusa/gusa-tvssports/index.m3u8
+#EXTINF:-1 group-title="体育" tvg-name="TVS Sports Bureau (720p)",TVS Sports Bureau (720p)
+https://rpn.bozztv.com/gusa/gusa-tvssportsbureau/index.m3u8
+#EXTINF:-1 group-title="体育" tvg-name="TVS Women Sports (720p)",TVS Women Sports (720p)
+https://rpn.bozztv.com/gusa/gusa-tvswsn/index.m3u8
+#EXTINF:-1 group-title="体育" tvg-name="Women's Sports Network (1080p)",Women's Sports Network (1080p)
+https://d39accvx65hq9o.cloudfront.net/Womens_Sports_Network.m3u8
+#EXTINF:-1 group-title="体育" tvg-name="beIN SPORTS XTRA (1080p)",beIN SPORTS XTRA (1080p)
+https://bein-xtra-bein.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="体育" tvg-name="beIN SPORTS XTRA en Espanol (1080p)",beIN SPORTS XTRA en Espanol (1080p)
+https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8
+#EXTINF:-1 group-title="体育" tvg-name="viju+ Sport (576p)",viju+ Sport (576p)
+http://stream.mcquack.net/333/index.m3u8
+#EXTINF:-1 group-title="体育" tvg-name="体育休闲频道",体育休闲频道
+http://gslbmgsplive.miguvideo.com/wd_r2/jstv/jstiyu/600/index.m3u8?msisdn=1029ecf704641fcce750d9b8f3d20fed&mdspid=&spid=699067&netType=0&sid=5500260554&pid=2028597139&timestamp=20261028125050&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=626064707&ParentNodeID=-99&assertID=5500260554&client_ip=39.103.188.159&SecurityKey=20261028125050&promotionId=&mvid=5100186459&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=d39c8e677c4829299f876eefb62125eb&ddCalcu=bde3v59a2cx18a2e66b7f7ece4687289f299&sv=10004&ct=android
+#EXTINF:-1 group-title="体育" tvg-name="广东体育",广东体育
+https://epg.pw/stream/7b470f9fc5c305db0c8622117b7b25ca00eb35ba3e93e865cf0ff9df5c736681.m3u8
+#EXTINF:-1 group-title="体育" tvg-name="精品体育",精品体育
+https://epg.pw/stream/866a097a0907c9832440f8df38272dd555abf05200dfbafcc137e214c9b30ca7.m3u8
+#EXTINF:-1 group-title="体育" tvg-name="纬来体育",纬来体育
+https://epg.pw/stream/4f18dfe0593db5c686eb64ae8edaf2a9202d4d46bdc9bbde2cee27708e12ea01.m3u8
+#EXTINF:-1 group-title="体育" tvg-name="陕西体育休闲频道",陕西体育休闲频道
+http://gslbmgsplive.miguvideo.com/migu/kailu/sxtyxx/51/20250804/index.m3u8?msisdn=f85d67e68f70a7efcd514b69f41824d3&mdspid=&spid=600572&netType=0&sid=5910022189&pid=2028597139&timestamp=20261028125056&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=956909356&ParentNodeID=-99&assertID=5910022189&client_ip=39.103.188.159&SecurityKey=20261028125056&promotionId=&mvid=5900006712&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=4930315e3681d6bd148d4381fc0590d1&ddCalcu=14d9v03a90b53a01c5fe13863841dd864b1d&sv=10004&ct=android
