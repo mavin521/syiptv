@@ -5,40 +5,106 @@ https://raw.githubusercontent.com/mavin521/syiptv/main/123/1.m3u8
 http://223.110.243.172/PLTV/3/224/3221227166/index.m3u8
 #EXTINF:-1 group-title="体育" tvg-name="DraftKings Network (1080p)",DraftKings Network (1080p)
 https://na.linear.zype.com/e0bd0e23-a958-4e43-8164-4f2fef8876a8/fd3614bd-90bf-4530-a277-65ae3a1720c8-zype/live.m3u8
+#EXTINF:-1 group-title="体育" tvg-name="ESPN 2 Latin America (1080p)",ESPN 2 Latin America (1080p)
+https://barinaslive1.boldmss.com/ESPN_2/ESPN_2.isml/ESPN_2.m3u8
+#EXTINF:-1 group-title="体育" tvg-name="ESPN 3 Latin America (1080p)",ESPN 3 Latin America (1080p)
+https://barinaslive1.boldmss.com/ESPN_3/ESPN_3.isml/ESPN_3.m3u8
+#EXTINF:-1 group-title="体育" tvg-name="ESPN 4 Latin America (1080p)",ESPN 4 Latin America (1080p)
+https://barinaslive1.boldmss.com/ESPN_4/ESPN_4.isml/ESPN_4.m3u8
+#EXTINF:-1 group-title="体育" tvg-name="ESPN 5 Latin America (1080p)",ESPN 5 Latin America (1080p)
+https://barinaslive1.boldmss.com/ESPN_5/ESPN_5.isml/ESPN_5.m3u8
+#EXTINF:-1 group-title="体育" tvg-name="ESPN 6 Latin America (1080p)",ESPN 6 Latin America (1080p)
+https://barinaslive1.boldmss.com/ESPN_6/ESPN_6.isml/ESPN_6.m3u8
+#EXTINF:-1 group-title="体育" tvg-name="ESPN 7 Latin America (1080p)",ESPN 7 Latin America (1080p)
+https://barinaslive1.boldmss.com/ESPN_7/ESPN_7.isml/ESPN_7.m3u8
+#EXTINF:-1 group-title="体育" tvg-name="ESPN Latin America (1080p)",ESPN Latin America (1080p)
+https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.m3u8
+#EXTINF:-1 group-title="体育" tvg-name="ESPN8: The Ocho (1080p)",ESPN8: The Ocho (1080p)
+https://d3b6q2ou5kp8ke.cloudfront.net/ESPNTheOcho.m3u8
 #EXTINF:-1 group-title="体育" tvg-name="FITE 24/7 (1080p)",FITE 24/7 (1080p)
 https://d3d85c7qkywguj.cloudfront.net/scheduler/scheduleMaster/263.m3u8
+#EXTINF:-1 group-title="体育" tvg-name="FightBox",FightBox
+https://webtvstream.bhtelecom.ba/fightbox.m3u8
+#EXTINF:-1 group-title="体育" tvg-name="FloRacing (1080p)",FloRacing (1080p)
+https://amg02278-amg02278c1-flosports-worldwide-7592.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="体育" tvg-name="Fox Sports News (1080p)",Fox Sports News (1080p)
+https://skynewsau-live-premium.akamaized.net/hls/live/2105307/foxsportsnews/live_1080p.m3u8
 #EXTINF:-1 group-title="体育" tvg-name="Fubo Sports Network (1080p)",Fubo Sports Network (1080p)
 https://dnf08l6u6uxnz.cloudfront.net/master.m3u8
+#EXTINF:-1 group-title="体育" tvg-name="Golf Channel",Golf Channel
+https://dash4.antik.sk/live/test_golf_channel/playlist.m3u8
+#EXTINF:-1 group-title="体育" tvg-name="HTV Sports (1080i)",HTV Sports (1080i)
+https://vmttv.dpdns.org/tv360/?id=htv-the-thao
 #EXTINF:-1 group-title="体育" tvg-name="Jiangsu Sports & Leisure Channel (576p)",Jiangsu Sports & Leisure Channel (576p)
 http://183.207.248.71/gitv/live1/G_JSTY/G_JSTY
+#EXTINF:-1 group-title="体育" tvg-name="L'Equipe (1080p)",L'Equipe (1080p)
+https://dq37unyetkpcz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-m04j89j7k5gtp/LEquipe_FR.m3u8
+#EXTINF:-1 group-title="体育" tvg-name="M4 Sport (1080p)",M4 Sport (1080p)
+http://88.212.7.14/live/uatlmvixrr/index.m3u8
+#EXTINF:-1 group-title="体育" tvg-name="MRTV Sports [Not 24/7]",MRTV Sports [Not 24/7]
+https://mrtvott.com/cache/MRTV-SPORT/master.m3u8
+#EXTINF:-1 group-title="体育" tvg-name="More Than Sports TV (1080p)",More Than Sports TV (1080p)
+https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
 #EXTINF:-1 group-title="体育" tvg-name="NBC Sports NOW (1080p)",NBC Sports NOW (1080p)
 https://d4whmvwm0rdvi.cloudfront.net/10007/99993008/hls/master.m3u8?ads.xumo_channelId=99993008
+#EXTINF:-1 group-title="体育" tvg-name="NHL AntenaPlay",NHL AntenaPlay
+https://live4dai.antenaplay.ro/live2_sdi03/live2_sdi03_600k.m3u8
 #EXTINF:-1 group-title="体育" tvg-name="NHL Network (1080p)",NHL Network (1080p)
 https://nhl-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="体育" tvg-name="Real Madrid TV (726p)",Real Madrid TV (726p)
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
+#EXTINF:-1 group-title="体育" tvg-name="Real Madrid TV English",Real Madrid TV English
+http://88.212.15.50/live/real_madrid_tv/index.m3u8
+#EXTINF:-1 group-title="体育" tvg-name="Red Bull TV AU (1080p)",Red Bull TV AU (1080p)
+https://db34cc6127ac459db55cab5f97cd66b9.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-680-WORBAUENFAST-WHALETVPLUS/680/whaletvplus/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="体育" tvg-name="Red Bull TV BR (1080p)",Red Bull TV BR (1080p)
+https://d03ae6b5c6724c24867e97a3dc04934a.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1026-WORBBRPTFAST-WHALETVPLUS/1026/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="体育" tvg-name="Red Bull TV DE (1080p)",Red Bull TV DE (1080p)
+https://46cfeb23c7f74853bba7a256655a3119.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-582-WORBDACHDEFAST-WHALETVPLUS/582/whaletvplus/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="体育" tvg-name="Red Bull TV ES (1080p)",Red Bull TV ES (1080p)
+https://886bd3fbc782459f8de7555d32d7e9ce.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-957-WORBLATAMESFAST-WHALETVPLUS/957/whaletvplus/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="体育" tvg-name="Red Bull TV SD (1080p)",Red Bull TV SD (1080p)
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 group-title="体育" tvg-name="Red Bull TV UK (1080p)",Red Bull TV UK (1080p)
 https://1a3566cb46914c5499fbc86fbc4ac87e.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-932-WORBUKENFAST-WHALETVPLUS/932/whaletvplus/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="体育" tvg-name="Red Bull TV US (1080p)",Red Bull TV US (1080p)
 https://0b73ace69ebb45eaa249bb87837cb958.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-644-WORBUSENFAST-LG_US/644/lgtv/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="体育" tvg-name="Sky Racing 1 (720p)",Sky Racing 1 (720p)
+https://636ffd31f0e12.streamlock.net/RacingStream1/RacingStream1/playlist.m3u8
 #EXTINF:-1 group-title="体育" tvg-name="Sky Sports 24",Sky Sports 24
 https://content.uplynk.com/channel/ff809e6d9ec34109abfb333f0d4444b5.m3u8
+#EXTINF:-1 group-title="体育" tvg-name="SporTV 2 (1080p)",SporTV 2 (1080p)
+http://195.178.110.110/sportv2/index.m3u8
+#EXTINF:-1 group-title="体育" tvg-name="SporTV 3 (1080p)",SporTV 3 (1080p)
+http://195.178.110.110/sportv3/index.m3u8
+#EXTINF:-1 group-title="体育" tvg-name="Sport (Slovakia) (1080p)",Sport (Slovakia) (1080p)
+http://88.212.15.50/live/test_rtvs_sport_hevc/playlist.m3u8
+#EXTINF:-1 group-title="体育" tvg-name="Sport (Uzbekistan)",Sport (Uzbekistan)
+https://stream8.cinerama.uz/1004/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="体育" tvg-name="Sports Television (720p) [Not 24/7]",Sports Television (720p) [Not 24/7]
+https://live.koryocdn.org/sports/index.m3u8
 #EXTINF:-1 group-title="体育" tvg-name="SportsGrid (1080p)",SportsGrid (1080p)
 https://sportsgrid-tribal.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="体育" tvg-name="Star Sports 2 Telugu HD (576p)",Star Sports 2 Telugu HD (576p)
+https://real-vk.proxy.nellaiiptv.com/SDMEDIA/index.m3u8
+#EXTINF:-1 group-title="体育" tvg-name="TR Sport (480p)",TR Sport (480p)
+https://livetr.teleromagna.it/mia/live/playlist.m3u8
 #EXTINF:-1 group-title="体育" tvg-name="TVS Classic Sports (360p)",TVS Classic Sports (360p)
 https://rpn.bozztv.com/gusa/gusa-tvs/index.m3u8
-#EXTINF:-1 group-title="体育" tvg-name="TVS Pinball Network (480p)",TVS Pinball Network (480p)
-https://rpn.bozztv.com/gusa/gusa-TVSCartoonNetwork/index.m3u8
 #EXTINF:-1 group-title="体育" tvg-name="TVS Sports (720p) [Not 24/7]",TVS Sports (720p) [Not 24/7]
 https://rpn.bozztv.com/gusa/gusa-tvssports/index.m3u8
 #EXTINF:-1 group-title="体育" tvg-name="TVS Sports Bureau (720p)",TVS Sports Bureau (720p)
 https://rpn.bozztv.com/gusa/gusa-tvssportsbureau/index.m3u8
 #EXTINF:-1 group-title="体育" tvg-name="TVS Women Sports (720p)",TVS Women Sports (720p)
 https://rpn.bozztv.com/gusa/gusa-tvswsn/index.m3u8
-#EXTINF:-1 group-title="体育" tvg-name="Women's Sports Network (1080p)",Women's Sports Network (1080p)
-https://d39accvx65hq9o.cloudfront.net/Womens_Sports_Network.m3u8
+#EXTINF:-1 group-title="体育" tvg-name="TyC Sports (1080p)",TyC Sports (1080p)
+https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
 #EXTINF:-1 group-title="体育" tvg-name="beIN SPORTS XTRA (1080p)",beIN SPORTS XTRA (1080p)
 https://bein-xtra-bein.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="体育" tvg-name="beIN SPORTS XTRA en Espanol (1080p)",beIN SPORTS XTRA en Espanol (1080p)
 https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8
+#EXTINF:-1 group-title="体育" tvg-name="viju+ Sport (576p)",viju+ Sport (576p)
+http://stream.mcquack.net/333/index.m3u8
 #EXTINF:-1 group-title="体育" tvg-name="体育休闲频道",体育休闲频道
 http://gslbmgsplive.miguvideo.com/wd_r2/jstv/jstiyu/600/index.m3u8?msisdn=3ebbe518dc1f2d1a2e12161242356b7b&mdspid=&spid=699067&netType=0&sid=5500260554&pid=2028597139&timestamp=20261028215050&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=626064707&ParentNodeID=-99&assertID=5500260554&client_ip=39.103.182.111&SecurityKey=20261028215050&promotionId=&mvid=5100186459&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=75f13354a5419e7b2f8a64f3fff3e552&ddCalcu=2755v5fae1x33af3f5f43af54461a98ef72b&sv=10004&ct=android
 #EXTINF:-1 group-title="体育" tvg-name="山东体育休闲广播",山东体育休闲广播

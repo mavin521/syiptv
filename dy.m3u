@@ -1,0 +1,57 @@
+#EXTM3U
+#EXTINF:-1,Potplayer,Tivimate,OTT navigator可用，其它软件自行测试
+https://raw.githubusercontent.com/mavin521/syiptv/main/123/1.m3u8
+#EXTINF:-1 group-title="电影" tvg-name="CHC影迷电影",CHC影迷电影
+http://gslbmgsplive.miguvideo.com/migu/kailu/chcymdy/51/20250415/index.m3u8?msisdn=e98b5f8c6226ce93a1d107c97617aef4&mdspid=&spid=699004&netType=0&sid=5910022176&pid=2028597139&timestamp=20261028215108&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=952383261&ParentNodeID=-99&assertID=5910022176&client_ip=39.103.182.111&SecurityKey=20261028215108&promotionId=&mvid=5900006704&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=c633efda1b328a0dfa6997bf530fa3e1&ddCalcu=1ce6v33aa3afea0f3d5af1bb7392986aa0fd&sv=10004&ct=android
+#EXTINF:-1 group-title="电影" tvg-name="Harbin Movie Channel",Harbin Movie Channel
+https://stream.hrbtv.net/yspd/playlist.m3u8
+#EXTINF:-1 group-title="电影" tvg-name="MovieSphere UK (1080p)",MovieSphere UK (1080p)
+https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="电影" tvg-name="Rakuten TV Action Movies UK (1080p)",Rakuten TV Action Movies UK (1080p)
+https://54045f0c40fd442c8b06df076aaf1e85.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6065/master.m3u8
+#EXTINF:-1 group-title="电影" tvg-name="Rakuten TV Comedy Movies UK (1080p)",Rakuten TV Comedy Movies UK (1080p)
+https://9be783d652cd4b099cf63e1dc134c4a3.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6181/master.m3u8
+#EXTINF:-1 group-title="电影" tvg-name="Rakuten TV Drama Movies UK (1080p)",Rakuten TV Drama Movies UK (1080p)
+https://fee09fd665814f51b939b6d106cf5f66.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6093/master.m3u8
+#EXTINF:-1 group-title="电影" tvg-name="Rakuten TV Family Movies UK (1080p)",Rakuten TV Family Movies UK (1080p)
+https://e3207568b726401995c25670faaf32e4.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6203/master.m3u8
+#EXTINF:-1 group-title="电影" tvg-name="Rakuten TV Top Movies UK (1080p)",Rakuten TV Top Movies UK (1080p)
+https://0145451975a64b35866170fd2e8fa486.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5987/master.m3u8
+#EXTINF:-1 group-title="电影" tvg-name="上虞文化影院",上虞文化影院
+http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8
+#EXTINF:-1 group-title="电影" tvg-name="上视东方影视",上视东方影视
+http://gslbmgsplive.miguvideo.com/wd_r4/dfl/dianshijuhd/1200/index.m3u8?msisdn=596e8b44ff666fe1c59a968f81abd58f&mdspid=&spid=699212&netType=0&sid=5500002274&pid=2028597139&timestamp=20261028215049&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=617290047&ParentNodeID=-99&assertID=5500002274&client_ip=39.103.188.159&SecurityKey=20261028215049&promotionId=&mvid=5100001715&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=cc2c5eb75db8545d84f98f220fec5d7a&ddCalcu=ac7cvd2a5ccc5aeefb07252dfb8895f4458d&sv=10004&ct=android
+#EXTINF:-1 group-title="电影" tvg-name="东阳影视生活",东阳影视生活
+http://l.cztvcloud.com/channels/lantian/SXdongyang1/720p.m3u8
+#EXTINF:-1 group-title="电影" tvg-name="动作电影",动作电影
+http://ott.mobaibox.com/PLTV/3/224/3221227606/index.m3u8
+#EXTINF:-1 group-title="电影" tvg-name="南方影视",南方影视
+http://gslbmgsplive.miguvideo.com/wd_r1/2018/nfmedia/nfys/1000/index.m3u8?msisdn=b07828d168c34f0beb561a66e93de88d&mdspid=&spid=699054&netType=0&sid=2206173738&pid=2028597139&timestamp=20261028215109&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=614961829&ParentNodeID=-99&assertID=2206173738&client_ip=39.103.188.159&SecurityKey=20261028215109&promotionId=&mvid=2206173738&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=27651361f0f4b66f7e0543d2d734d38d&ddCalcu=d287v36ad5k41a3376d12fd03f445b06e67f&sv=10004&ct=android
+#EXTINF:-1 group-title="电影" tvg-name="句容影视频道",句容影视频道
+http://jrlive.jrntv.com/live/_definst_/yingshis/playlist.m3u8
+#EXTINF:-1 group-title="电影" tvg-name="句容影院",句容影院
+http://jrlive.jrntv.com/live/_definst_/yingshis/chunklist_w1994429382.m3u8?zjiangsd
+#EXTINF:-1 group-title="电影" tvg-name="句容影院频道",句容影院频道
+http://jrlive.jrntv.com/live/_definst_/yingshis/playlist.m3u8?zjiangsd
+#EXTINF:-1 group-title="电影" tvg-name="平泉影视频道",平泉影视频道
+https://jwcdnqx.hebyun.com.cn/live/pqys/1500k/tzwj_video.m3u8
+#EXTINF:-1 group-title="电影" tvg-name="新片放映厅",新片放映厅
+http://gslbmgsplive.miguvideo.com/wd-virtuallive5100030975-150/index.m3u8?msisdn=05c830595618abf32ce6b2edce25a476&mdspid=&spid=800033&netType=0&sid=5500035175&pid=2028597139&timestamp=20261028215108&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=619495952&ParentNodeID=-99&assertID=5500035175&client_ip=39.103.188.159&SecurityKey=20261028215108&promotionId=&mvid=5100030975&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=521c4103c9f817adc645f99e56c12cb5&ddCalcu=55b2vc1a2cl14ac16053ec999ff851476acd&sv=10004&ct=android
+#EXTINF:-1 group-title="电影" tvg-name="明星大片",明星大片
+http://ott.mobaibox.com/PLTV/3/224/3221227594/index.m3u8
+#EXTINF:-1 group-title="电影" tvg-name="淮安影院娱乐",淮安影院娱乐
+http://live1.habctv.com/ysylsl/sd/live.m3u8?zjiangsd
+#EXTINF:-1 group-title="电影" tvg-name="烟台影视频道",烟台影视频道
+http://live.yantaitv.cn/live/e9f1d9045d474c31884d13fa4ffbbd16/a4a9b3704d854756907845107cc56129-1.m3u8
+#EXTINF:-1 group-title="电影" tvg-name="精品电影 (1080p)",精品电影 (1080p)
+http://183.207.248.71/cntv/live1/jdianying/jdianying
+#EXTINF:-1 group-title="电影" tvg-name="绍兴文化影视",绍兴文化影视
+http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
+#EXTINF:-1 group-title="电影" tvg-name="绍兴文化影院",绍兴文化影院
+http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8?zzhed
+#EXTINF:-1 group-title="电影" tvg-name="经典香港电影",经典香港电影
+http://gslbmgsplive.miguvideo.com/wd_r2/virtuallive/5100180869/150/index.m3u8?msisdn=263998dad1b40b4b3abf369fb0e9b918&mdspid=&spid=800033&netType=0&sid=5500242089&pid=2028597139&timestamp=20261028215108&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=625703337&ParentNodeID=-99&assertID=5500242089&client_ip=39.103.182.111&SecurityKey=20261028215108&promotionId=&mvid=5100180869&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=94e24a830819a050cb89e817b41b3fc6&ddCalcu=69c4vfea32bb4a1a48b3701881e99a80b5c0&sv=10004&ct=android
+#EXTINF:-1 group-title="电影" tvg-name="韩国电影1",韩国电影1
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=595
+#EXTINF:-1 group-title="电影" tvg-name="韩国电影2",韩国电影2
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=743
