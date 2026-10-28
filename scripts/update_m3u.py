@@ -148,6 +148,12 @@ def main() -> int:
         if target:
             buckets[target].append((info, url))
 
+    # Avoid replacing existing playlists with promo-only files if classification unexpectedly fails.
+    candidate_count = sum(len(items) for items in buckets.values())
+    if candidate_count == 0:
+        print("ERROR: no entries matched the configured categories; keeping existing playlists.", file=sys.stderr)
+        return 1
+
     # Check each candidate URL once, concurrently. A successful HTTP response is not proof of playback.
     all_urls = list(dict.fromkeys(url for items in buckets.values() for _, url in items))
     status: dict[str, bool] = {}
@@ -155,6 +161,10 @@ def main() -> int:
         futures = {pool.submit(reachable, url): url for url in all_urls}
         for future in concurrent.futures.as_completed(futures):
             status[futures[future]] = future.result()
+
+    if not any(status.values()):
+        print("ERROR: all candidate URLs failed HTTP checks; keeping existing playlists.", file=sys.stderr)
+        return 1
 
     stamp = dt.datetime.now(dt.timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
     files = {"live": "live.m3u", "gat": "gat.m3u", "migu": "migu.m3u", "sports": "sports.m3u"}
