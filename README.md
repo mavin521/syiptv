@@ -1,9 +1,11 @@
 ## 订阅列表
 
-- [live.m3u（大陆频道）](https://raw.githubusercontent.com/mavin521/syiptv/main/live.m3u)
+- [iptv_mainstream.m3u（汇总：全部主流分类）](https://raw.githubusercontent.com/mavin521/syiptv/main/iptv_mainstream.m3u)
+- [live.m3u（大陆 + 美英及其他）](https://raw.githubusercontent.com/mavin521/syiptv/main/live.m3u)
 - [gat.m3u（香港、澳门、台湾频道）](https://raw.githubusercontent.com/mavin521/syiptv/main/gat.m3u)
-- [migu.m3u（咪咕体育）](https://raw.githubusercontent.com/mavin521/syiptv/main/migu.m3u)
+- [migu.m3u（咪咕）](https://raw.githubusercontent.com/mavin521/syiptv/main/migu.m3u)
 - [sports.m3u（综合体育）](https://raw.githubusercontent.com/mavin521/syiptv/main/sports.m3u)
+- [dy.m3u（电影轮播）](https://raw.githubusercontent.com/mavin521/syiptv/main/dy.m3u)
 
 也可使用 jsDelivr CDN，例如：
 `https://cdn.jsdelivr.net/gh/mavin521/syiptv@main/live.m3u`
