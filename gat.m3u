@@ -1,12 +1,12 @@
 #EXTM3U
 #EXTINF:-1,Potplayer,Tivimate,OTT navigator可用，其它软件自行测试
 https://raw.githubusercontent.com/mavin521/syiptv/main/123/1.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-name="RTHK TV 31 (1080p) [Geo-blocked]",RTHK TV 31 (1080p) [Geo-blocked]
-https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
 #EXTINF:-1 group-title="港澳台" tvg-name="TVBS-Asia (1080p)",TVBS-Asia (1080p)
 http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 #EXTINF:-1 group-title="港澳台" tvg-name="Taiwan Indigenous TV (720p)",Taiwan Indigenous TV (720p)
 https://streamipcfapp.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-name="Viutv",Viutv
+https://10.fast.hidns.vip/163189/viu/
 #EXTINF:-1 group-title="港澳台" tvg-name="三立新闻",三立新闻
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
 #EXTINF:-1 group-title="港澳台" tvg-name="东森超视",东森超视
@@ -14,8 +14,10 @@ http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
 #EXTINF:-1 group-title="港澳台" tvg-name="凤凰香港",凤凰香港
 https://epg.pw/stream/5f16dc7fc8aaaed3205516c63e4a8c24bca9dbba1181684244729cf574505b0e.m3u8
 #EXTINF:-1 group-title="港澳台" tvg-name="明珠台",明珠台
-http://cdn9.163189.xyz/smt1.1.php?id=pearl_twn
+http://r.jdshipin.com/jUx8K
 #EXTINF:-1 group-title="港澳台" tvg-name="福建漳州醉美沙滩翡翠湾",福建漳州醉美沙滩翡翠湾
 https://gcalic.v.myalicdn.com/gc/fcw03_1/index.m3u8
 #EXTINF:-1 group-title="港澳台" tvg-name="翡翠台",翡翠台
 http://r.jdshipin.com/62WM7
+#EXTINF:-1 group-title="港澳台" tvg-name="香港卫视",香港卫视
+https://piccpndali.v.myalicdn.com/audio/xianggangweishi_2.m3u8
