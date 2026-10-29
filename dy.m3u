@@ -5,18 +5,32 @@ https://raw.githubusercontent.com/mavin521/syiptv/main/123/1.m3u8
 https://d1j2u714xk898n.cloudfront.net/scheduler/scheduleMaster/145.m3u8
 #EXTINF:-1 group-title="电影" tvg-name="30A TV Classic Movies (720p)",30A TV Classic Movies (720p)
 https://30a-tv.com/feeds/pzaz/30atvmovies.m3u8
+#EXTINF:-1 group-title="电影" tvg-name="70s Cinema",70s Cinema
+https://jmp2.uk/plu-5f4d878d3d19b30007d2e782.m3u8
 #EXTINF:-1 group-title="电影" tvg-name="ABN Bible Movies Channel (720p)",ABN Bible Movies Channel (720p)
 https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
+#EXTINF:-1 group-title="电影" tvg-name="BET Cinema",BET Cinema
+https://jmp2.uk/plu-58af4c093a41ca9d4ecabe96.m3u8
+#EXTINF:-1 group-title="电影" tvg-name="BET Comedy Movies",BET Comedy Movies
+https://jmp2.uk/plu-68c32d88f56983aba40052bd.m3u8
 #EXTINF:-1 group-title="电影" tvg-name="CHC影迷电影",CHC影迷电影
-http://gslbmgsplive.miguvideo.com/migu/kailu/chcymdy/51/20250415/index.m3u8?msisdn=528784019b6376c9da0479de4c52ecd7&mdspid=&spid=699004&netType=0&sid=5910022176&pid=2028597139&timestamp=20261029065110&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=952383261&ParentNodeID=-99&assertID=5910022176&client_ip=39.103.182.111&SecurityKey=20261029065110&promotionId=&mvid=5900006704&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=5933bcafcecc47eff98d4166a0d61472&ddCalcu=2579v43a13a6badc0aaf6c6e1c4cd4879eff&sv=10004&ct=android
+http://gslbmgsplive.miguvideo.com/migu/kailu/chcymdy/51/20250415/index.m3u8?msisdn=c0b5c1b3f1602cb18ba00caff15cc9d6&mdspid=&spid=699004&netType=0&sid=5910022176&pid=2028597139&timestamp=20261030065115&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=952383261&ParentNodeID=-99&assertID=5910022176&client_ip=39.103.182.111&SecurityKey=20261030065115&promotionId=&mvid=5900006704&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=77fa2265dcacbbad1981bb4f9b1a9e44&ddCalcu=4747vefa9aaa2a12b695fd4cbabc1b8b9a1d&sv=10004&ct=android
 #EXTINF:-1 group-title="电影" tvg-name="Classic Cinema (240p) [Not 24/7]",Classic Cinema (240p) [Not 24/7]
 https://rpn.bozztv.com/gusa/gusa-classiccinema/index.m3u8
+#EXTINF:-1 group-title="电影" tvg-name="Classic Movie Westerns",Classic Movie Westerns
+https://jmp2.uk/plu-61f33318210549000806a530.m3u8
+#EXTINF:-1 group-title="电影" tvg-name="Classic Movies Channel",Classic Movies Channel
+https://jmp2.uk/plu-561c5b0dada51f8004c4d855.m3u8
 #EXTINF:-1 group-title="电影" tvg-name="EBS Cinema (720p)",EBS Cinema (720p)
 https://rpn.bozztv.com/ebstv/ebscinema/index.m3u8
+#EXTINF:-1 group-title="电影" tvg-name="Girlfriends Films",Girlfriends Films
+https://jmp2.uk/plu-66ba1e4446762a000855cd87.m3u8
 #EXTINF:-1 group-title="电影" tvg-name="Gravitas Movies (1080p)",Gravitas Movies (1080p)
 https://d6dg3ebeih71x.cloudfront.net/Gravitas_Movies.m3u8
 #EXTINF:-1 group-title="电影" tvg-name="Harbin Movie Channel",Harbin Movie Channel
 https://stream.hrbtv.net/yspd/playlist.m3u8
+#EXTINF:-1 group-title="电影" tvg-name="Kids Movie Club",Kids Movie Club
+https://jmp2.uk/plu-5db0ad56edc89300090d2ebb.m3u8
 #EXTINF:-1 group-title="电影" tvg-name="MovieSphere (1080p)",MovieSphere (1080p)
 https://amg00353-lionsgatestudio-moviesphere-xumo-zh5u0.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="电影" tvg-name="MovieSphere Gold WFXT (1080p)",MovieSphere Gold WFXT (1080p)
@@ -25,10 +39,24 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionmystery-ta
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="电影" tvg-name="MyTime Movie Network (United Kingdom) (1080p)",MyTime Movie Network (United Kingdom) (1080p)
 https://appletree-mytimeuk-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="电影" tvg-name="MyTime Movie Network East (1080p)",MyTime Movie Network East (1080p)
+https://appletree-mytimeau-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="电影" tvg-name="NEW K.MOVIES (1080p)",NEW K.MOVIES (1080p)
 https://ads.its-newid.net/api/manifest.m3u8?ads.service_id=GB1700007PK&channel_id=newid_343&tp=samsung_tvplus
 #EXTINF:-1 group-title="电影" tvg-name="NewTV动作电影",NewTV动作电影
 http://ott.mobaibox.com/PLTV/3/224/3221227606/index.m3u8
+#EXTINF:-1 group-title="电影" tvg-name="Pluto TV Anime Movies",Pluto TV Anime Movies
+https://jmp2.uk/plu-67ed8f7e443f0671bc2b2368.m3u8
+#EXTINF:-1 group-title="电影" tvg-name="Pluto TV Crime Movies",Pluto TV Crime Movies
+https://jmp2.uk/plu-5f4d8594eb979c0007706de7.m3u8
+#EXTINF:-1 group-title="电影" tvg-name="Pluto TV Cult Films (Germany)",Pluto TV Cult Films (Germany)
+https://jmp2.uk/plu-5c5c31f2f21b553c1f673fb0.m3u8
+#EXTINF:-1 group-title="电影" tvg-name="Pluto TV Cult Films (United States)",Pluto TV Cult Films (United States)
+https://jmp2.uk/plu-5c665db3e6c01b72c4977bc2.m3u8
+#EXTINF:-1 group-title="电影" tvg-name="Pluto TV Family Movie Club",Pluto TV Family Movie Club
+https://jmp2.uk/plu-5dc3fc6b9133f500099c7d98.m3u8
+#EXTINF:-1 group-title="电影" tvg-name="Pluto TV Movies GB",Pluto TV Movies GB
+https://jmp2.uk/plu-5ad8d3a31b95267e225e4e09.m3u8
 #EXTINF:-1 group-title="电影" tvg-name="Rakuten TV Action Movies UK (1080p)",Rakuten TV Action Movies UK (1080p)
 https://54045f0c40fd442c8b06df076aaf1e85.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6065/master.m3u8
 #EXTINF:-1 group-title="电影" tvg-name="Rakuten TV Comedy Movies UK (1080p)",Rakuten TV Comedy Movies UK (1080p)
@@ -49,20 +77,20 @@ https://rpn.bozztv.com/gusa/gusa-tvsNostalgiaMovies/index.m3u8
 https://rpn.bozztv.com/gusa/gusa-tvswesternmovies/index.m3u8
 #EXTINF:-1 group-title="电影" tvg-name="Whiplash Cinema (480p)",Whiplash Cinema (480p)
 https://cdn.whiplash.cc/whiplash-cinema/index.m3u8
-#EXTINF:-1 group-title="电影" tvg-name="上虞文化影视",上虞文化影视
-http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8
 #EXTINF:-1 group-title="电影" tvg-name="上虞文化影院",上虞文化影院
 http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8?zzhed
 #EXTINF:-1 group-title="电影" tvg-name="东阳影视生活",东阳影视生活
 http://l.cztvcloud.com/channels/lantian/SXdongyang1/720p.m3u8
 #EXTINF:-1 group-title="电影" tvg-name="句容影视频道",句容影视频道
 http://jrlive.jrntv.com/live/_definst_/yingshis/playlist.m3u8
+#EXTINF:-1 group-title="电影" tvg-name="句容影院",句容影院
+http://jrlive.jrntv.com/live/_definst_/yingshis/chunklist_w1994429382.m3u8?zjiangsd
 #EXTINF:-1 group-title="电影" tvg-name="句容影院频道",句容影院频道
 http://jrlive.jrntv.com/live/_definst_/yingshis/playlist.m3u8?zjiangsd
 #EXTINF:-1 group-title="电影" tvg-name="平泉影视频道",平泉影视频道
 https://jwcdnqx.hebyun.com.cn/live/pqys/1500k/tzwj_video.m3u8
 #EXTINF:-1 group-title="电影" tvg-name="新片放映厅",新片放映厅
-http://gslbmgsplive.miguvideo.com/wd-virtuallive5100030975-150/index.m3u8?msisdn=f239505482f512606363ca56a013dde1&mdspid=&spid=800033&netType=0&sid=5500035175&pid=2028597139&timestamp=20261029065110&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=619495952&ParentNodeID=-99&assertID=5500035175&client_ip=39.103.182.111&SecurityKey=20261029065110&promotionId=&mvid=5100030975&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=edea8827111f6c991c0fc0dd615cae93&ddCalcu=3e9dveeaaalc8a581267d1d101cff60cc919&sv=10004&ct=android
+http://gslbmgsplive.miguvideo.com/wd-virtuallive5100030975-150/index.m3u8?msisdn=ccde47fb3f60d97cc27cbf57ae267a9c&mdspid=&spid=800033&netType=0&sid=5500035175&pid=2028597139&timestamp=20261030065115&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=619495952&ParentNodeID=-99&assertID=5500035175&client_ip=39.103.182.111&SecurityKey=20261030065115&promotionId=&mvid=5100030975&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=77997afa22a6d29a1332d43e0895273d&ddCalcu=d737v79a29l57a9a8f0ae2324ad62d32391a&sv=10004&ct=android
 #EXTINF:-1 group-title="电影" tvg-name="明星大片",明星大片
 http://ott.mobaibox.com/PLTV/3/224/3221227594/index.m3u8
 #EXTINF:-1 group-title="电影" tvg-name="淮安影院娱乐",淮安影院娱乐
@@ -76,6 +104,4 @@ http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
 #EXTINF:-1 group-title="电影" tvg-name="绍兴文化影院",绍兴文化影院
 http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8?zzhed
 #EXTINF:-1 group-title="电影" tvg-name="经典香港电影",经典香港电影
-http://gslbmgsplive.miguvideo.com/wd_r2/virtuallive/5100180869/150/index.m3u8?msisdn=3644051708fe452dfea7ab891c1624ea&mdspid=&spid=800033&netType=0&sid=5500242089&pid=2028597139&timestamp=20261029065110&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=625703337&ParentNodeID=-99&assertID=5500242089&client_ip=39.103.188.159&SecurityKey=20261029065110&promotionId=&mvid=5100180869&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=329487af0cb771b95ac8fe2d44ec5122&ddCalcu=2322v19a54bc8ae74a4fd02cebf787c1ab59&sv=10004&ct=android
-#EXTINF:-1 group-title="电影" tvg-name="黑莓电影",黑莓电影
-https://epg.pw/stream/ffcb6572863f0745a7369fbd9d901f1dfd0ab8fab8bad8bebb4e01c90b303c47.m3u8
+http://gslbmgsplive.miguvideo.com/wd_r2/virtuallive/5100180869/150/index.m3u8?msisdn=e0d5ba1b711fe24ecbd6e01d7df7eef2&mdspid=&spid=800033&netType=0&sid=5500242089&pid=2028597139&timestamp=20261030065115&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=625703337&ParentNodeID=-99&assertID=5500242089&client_ip=39.103.188.159&SecurityKey=20261030065115&promotionId=&mvid=5100180869&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=1914e7f62f52c48bdaf6e03c4f3b9f11&ddCalcu=1119vf1a94bbea37ff46c23f05e26cf4a8db&sv=10004&ct=android

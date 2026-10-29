@@ -1,10 +1,20 @@
 #EXTM3U
 #EXTINF:-1,Potplayer,Tivimate,OTT navigator可用，其它软件自行测试
 https://raw.githubusercontent.com/mavin521/syiptv/main/123/1.m3u8
+#EXTINF:-1 group-title="体育" tvg-name="CBS Sports HQ (720p)",CBS Sports HQ (720p)
+https://jmp2.uk/plu-5e9f2c05172a0f0007db4786.m3u8
 #EXTINF:-1 group-title="体育" tvg-name="CCTV-5体育 (1080p)",CCTV-5体育 (1080p)
 http://223.110.243.172/PLTV/3/224/3221227166/index.m3u8
+#EXTINF:-1 group-title="体育" tvg-name="DAZN Combat (684p)",DAZN Combat (684p)
+https://jmp2.uk/plu-64d626ac9b414d000820e2fc.m3u8
+#EXTINF:-1 group-title="体育" tvg-name="DAZN Darts x Pluto TV",DAZN Darts x Pluto TV
+https://jmp2.uk/plu-64b67f0424ade50008a3be17.m3u8
+#EXTINF:-1 group-title="体育" tvg-name="DAZN Heldinnen x Pluto TV",DAZN Heldinnen x Pluto TV
+https://jmp2.uk/plu-64afe50c5dc16600087f3227.m3u8
 #EXTINF:-1 group-title="体育" tvg-name="DraftKings Network (1080p)",DraftKings Network (1080p)
 https://na.linear.zype.com/e0bd0e23-a958-4e43-8164-4f2fef8876a8/fd3614bd-90bf-4530-a277-65ae3a1720c8-zype/live.m3u8
+#EXTINF:-1 group-title="体育" tvg-name="ESPN (United States) (432p)",ESPN (United States) (432p)
+http://tvsen7.aynascope.net/espn/index.m3u8
 #EXTINF:-1 group-title="体育" tvg-name="ESPN 2 Latin America (1080p)",ESPN 2 Latin America (1080p)
 https://barinaslive1.boldmss.com/ESPN_2/ESPN_2.isml/ESPN_2.m3u8
 #EXTINF:-1 group-title="体育" tvg-name="ESPN 3 Latin America (1080p)",ESPN 3 Latin America (1080p)
@@ -27,6 +37,8 @@ https://d3d85c7qkywguj.cloudfront.net/scheduler/scheduleMaster/263.m3u8
 https://webtvstream.bhtelecom.ba/fightbox.m3u8
 #EXTINF:-1 group-title="体育" tvg-name="FloRacing (1080p)",FloRacing (1080p)
 https://amg02278-amg02278c1-flosports-worldwide-7592.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="体育" tvg-name="Fox Sports 2 (United States) (720p)",Fox Sports 2 (United States) (720p)
+https://tvsen7.aynascope.net/foxsports2/index.m3u8
 #EXTINF:-1 group-title="体育" tvg-name="Fox Sports News (1080p)",Fox Sports News (1080p)
 https://skynewsau-live-premium.akamaized.net/hls/live/2105307/foxsportsnews/live_1080p.m3u8
 #EXTINF:-1 group-title="体育" tvg-name="Fubo Sports Network (1080p)",Fubo Sports Network (1080p)
@@ -39,18 +51,36 @@ https://vmttv.dpdns.org/tv360/?id=htv-the-thao
 http://183.207.248.71/gitv/live1/G_JSTY/G_JSTY
 #EXTINF:-1 group-title="体育" tvg-name="L'Equipe (1080p)",L'Equipe (1080p)
 https://dq37unyetkpcz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-m04j89j7k5gtp/LEquipe_FR.m3u8
+#EXTINF:-1 group-title="体育" tvg-name="M Sports (1080p)",M Sports (1080p)
+https://cdn.rabta.stream/M-Sports/index.m3u8
 #EXTINF:-1 group-title="体育" tvg-name="M4 Sport (1080p)",M4 Sport (1080p)
 http://88.212.7.14/live/uatlmvixrr/index.m3u8
+#EXTINF:-1 group-title="体育" tvg-name="MLB (720p)",MLB (720p)
+https://jmp2.uk/plu-5e66968a70f34c0007d050be.m3u8
 #EXTINF:-1 group-title="体育" tvg-name="MRTV Sports [Not 24/7]",MRTV Sports [Not 24/7]
 https://mrtvott.com/cache/MRTV-SPORT/master.m3u8
 #EXTINF:-1 group-title="体育" tvg-name="More Than Sports TV (1080p)",More Than Sports TV (1080p)
 https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
 #EXTINF:-1 group-title="体育" tvg-name="NBC Sports NOW (1080p)",NBC Sports NOW (1080p)
 https://d4whmvwm0rdvi.cloudfront.net/10007/99993008/hls/master.m3u8?ads.xumo_channelId=99993008
+#EXTINF:-1 group-title="体育" tvg-name="NFL Channel (720p)",NFL Channel (720p)
+https://jmp2.uk/plu-5ced7d5df64be98e07ed47b6.m3u8
 #EXTINF:-1 group-title="体育" tvg-name="NHL AntenaPlay",NHL AntenaPlay
 https://live4dai.antenaplay.ro/live2_sdi03/live2_sdi03_600k.m3u8
 #EXTINF:-1 group-title="体育" tvg-name="NHL Network (1080p)",NHL Network (1080p)
 https://nhl-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="体育" tvg-name="Pluto TV E-Sports",Pluto TV E-Sports
+https://jmp2.uk/plu-5ff3934600d4c7000733ff49.m3u8
+#EXTINF:-1 group-title="体育" tvg-name="Pluto TV Esportes",Pluto TV Esportes
+https://jmp2.uk/plu-5f32d2db0af67400077f29c4.m3u8
+#EXTINF:-1 group-title="体育" tvg-name="Pluto TV Sport (Germany)",Pluto TV Sport (Germany)
+https://jmp2.uk/plu-608030eff4b6f70007e1684c.m3u8
+#EXTINF:-1 group-title="体育" tvg-name="Pluto TV Sport (Sweden)",Pluto TV Sport (Sweden)
+https://jmp2.uk/plu-62cd74e38f6f0d000798cd93.m3u8
+#EXTINF:-1 group-title="体育" tvg-name="Pluto TV Sport (Sweden) DK",Pluto TV Sport (Sweden) DK
+https://jmp2.uk/plu-6357f3de3643ba0007bc0b50.m3u8
+#EXTINF:-1 group-title="体育" tvg-name="Pluto TV Sport (Sweden) NO",Pluto TV Sport (Sweden) NO
+https://jmp2.uk/plu-6357f33cb51d2d00077927c6.m3u8
 #EXTINF:-1 group-title="体育" tvg-name="Real Madrid TV (726p)",Real Madrid TV (726p)
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 #EXTINF:-1 group-title="体育" tvg-name="Real Madrid TV English",Real Madrid TV English
@@ -95,8 +125,6 @@ https://rpn.bozztv.com/gusa/gusa-tvssports/index.m3u8
 https://rpn.bozztv.com/gusa/gusa-tvssportsbureau/index.m3u8
 #EXTINF:-1 group-title="体育" tvg-name="TVS Women Sports (720p)",TVS Women Sports (720p)
 https://rpn.bozztv.com/gusa/gusa-tvswsn/index.m3u8
-#EXTINF:-1 group-title="体育" tvg-name="TyC Sports (1080p)",TyC Sports (1080p)
-https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
 #EXTINF:-1 group-title="体育" tvg-name="Women's Sports Network (1080p)",Women's Sports Network (1080p)
 https://d39accvx65hq9o.cloudfront.net/Womens_Sports_Network.m3u8
 #EXTINF:-1 group-title="体育" tvg-name="beIN SPORTS XTRA (1080p)",beIN SPORTS XTRA (1080p)
@@ -106,16 +134,12 @@ https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8
 #EXTINF:-1 group-title="体育" tvg-name="viju+ Sport (576p)",viju+ Sport (576p)
 http://stream.mcquack.net/333/index.m3u8
 #EXTINF:-1 group-title="体育" tvg-name="体育休闲频道",体育休闲频道
-http://gslbmgsplive.miguvideo.com/wd_r2/jstv/jstiyu/600/index.m3u8?msisdn=a3a49313fd2026af98ecd2c7f97eeac5&mdspid=&spid=699067&netType=0&sid=5500260554&pid=2028597139&timestamp=20261029065055&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=626064707&ParentNodeID=-99&assertID=5500260554&client_ip=39.103.188.159&SecurityKey=20261029065055&promotionId=&mvid=5100186459&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=1537e3a893f7900fd5d75d63b7bae3d6&ddCalcu=61d5v33ae7xaeab37ab83963df5779d050df&sv=10004&ct=android
+http://gslbmgsplive.miguvideo.com/wd_r2/jstv/jstiyu/600/index.m3u8?msisdn=1a70605dce2f71d53fda3d0b3500f2e2&mdspid=&spid=699067&netType=0&sid=5500260554&pid=2028597139&timestamp=20261030065059&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=626064707&ParentNodeID=-99&assertID=5500260554&client_ip=39.103.182.111&SecurityKey=20261030065059&promotionId=&mvid=5100186459&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=daccc18453c5ecb02f7b0fd1508e7f78&ddCalcu=8d7avfca7cxeca81085415d3fc05be7cfb20&sv=10004&ct=android
 #EXTINF:-1 group-title="体育" tvg-name="山东体育休闲广播",山东体育休闲广播
 http://satellitepull.cnr.cn/live/wxsdtyxxgb/playlist.m3u8
-#EXTINF:-1 group-title="体育" tvg-name="广东体育",广东体育
-https://epg.pw/stream/7b470f9fc5c305db0c8622117b7b25ca00eb35ba3e93e865cf0ff9df5c736681.m3u8
 #EXTINF:-1 group-title="体育" tvg-name="精品体育",精品体育
 http://ott.mobaibox.com/PLTV/3/224/3221227615/index.m3u8
-#EXTINF:-1 group-title="体育" tvg-name="纬来体育",纬来体育
-https://epg.pw/stream/4f18dfe0593db5c686eb64ae8edaf2a9202d4d46bdc9bbde2cee27708e12ea01.m3u8
 #EXTINF:-1 group-title="体育" tvg-name="陕西体育休闲频道",陕西体育休闲频道
-http://gslbmgsplive.miguvideo.com/migu/kailu/sxtyxx/51/20250804/index.m3u8?msisdn=7ce681ff46507f0e307c336bb8a596c1&mdspid=&spid=600572&netType=0&sid=5910022189&pid=2028597139&timestamp=20261029065101&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=956909356&ParentNodeID=-99&assertID=5910022189&client_ip=39.103.188.159&SecurityKey=20261029065101&promotionId=&mvid=5900006712&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=26ebe674310af845b2de02e35696e04f&ddCalcu=f246v0eaebb6ea96675433e1200aefd824b5&sv=10004&ct=android
+http://gslbmgsplive.miguvideo.com/migu/kailu/sxtyxx/51/20250804/index.m3u8?msisdn=dc579b5bc01a495b267ab12e3f589bfa&mdspid=&spid=600572&netType=0&sid=5910022189&pid=2028597139&timestamp=20261030065106&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=956909356&ParentNodeID=-99&assertID=5910022189&client_ip=39.103.188.159&SecurityKey=20261030065106&promotionId=&mvid=5900006712&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=223efb486346268b9c32af516f268473&ddCalcu=3272v43a8eb6fa2bf4681653f4a62236c89b&sv=10004&ct=android
 #EXTINF:-1 group-title="体育" tvg-name="青岛音乐体育广播",青岛音乐体育广播
 http://satellitepull.cnr.cn/live/wxlnwygb/playlist.m3u8
