@@ -7,6 +7,8 @@ https://stream1.antenaplay.ro/as/AS.ro/chunklist.m3u8
 https://jmp2.uk/plu-5e9f2c05172a0f0007db4786.m3u8
 #EXTINF:-1 group-title="体育" tvg-name="CCTV-5体育 (1080p)",CCTV-5体育 (1080p)
 http://223.110.243.172/PLTV/3/224/3221227166/index.m3u8
+#EXTINF:-1 group-title="体育" tvg-name="Canal+ Sport (1080p) [Geo-blocked]",Canal+ Sport (1080p) [Geo-blocked]
+http://tv.streambox.fr/live/testlivestream/testlivestream/31.m3u8
 #EXTINF:-1 group-title="体育" tvg-name="DAZN Combat (684p)",DAZN Combat (684p)
 https://jmp2.uk/plu-64d626ac9b414d000820e2fc.m3u8
 #EXTINF:-1 group-title="体育" tvg-name="DAZN Darts x Pluto TV",DAZN Darts x Pluto TV
@@ -31,9 +33,9 @@ https://barinaslive1.boldmss.com/ESPN_7/ESPN_7.isml/ESPN_7.m3u8
 https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.m3u8
 #EXTINF:-1 group-title="体育" tvg-name="ESPN8: The Ocho (1080p)",ESPN8: The Ocho (1080p)
 https://d3b6q2ou5kp8ke.cloudfront.net/ESPNTheOcho.m3u8
-#EXTINF:-1 group-title="体育" tvg-name="Eurosport (720p)",Eurosport (720p)
+#EXTINF:-1 group-title="体育" tvg-name="Eurosport (India) (720p)",Eurosport (India) (720p)
 https://drk6xq0vhn.gpcdn.net/live/euro_sports_hd_abr/index.m3u8
-#EXTINF:-1 group-title="体育" tvg-name="Eurosport HD (1080p)",Eurosport HD (1080p)
+#EXTINF:-1 group-title="体育" tvg-name="Eurosport (India) HD (1080p)",Eurosport (India) HD (1080p)
 https://livetv.shamon-cable.net:8443/Eurosport-HD/index.m3u8
 #EXTINF:-1 group-title="体育" tvg-name="FITE 24/7 (1080p)",FITE 24/7 (1080p)
 https://d3d85c7qkywguj.cloudfront.net/scheduler/scheduleMaster/263.m3u8
@@ -47,6 +49,8 @@ http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/1552.m3u8
 https://skynewsau-live-premium.akamaized.net/hls/live/2105307/foxsportsnews/live_1080p.m3u8
 #EXTINF:-1 group-title="体育" tvg-name="Fubo Sports Network (1080p)",Fubo Sports Network (1080p)
 https://dnf08l6u6uxnz.cloudfront.net/master.m3u8
+#EXTINF:-1 group-title="体育" tvg-name="Golf + (1080p) [Geo-blocked]",Golf + (1080p) [Geo-blocked]
+http://tv.streambox.fr/live/testlivestream/testlivestream/49.m3u8
 #EXTINF:-1 group-title="体育" tvg-name="Golf Channel (Czech Republic)",Golf Channel (Czech Republic)
 https://dash4.antik.sk/live/test_golf_channel/playlist.m3u8
 #EXTINF:-1 group-title="体育" tvg-name="Golf Channel (United States) (576p)",Golf Channel (United States) (576p)
@@ -89,8 +93,6 @@ https://jmp2.uk/plu-62cd74e38f6f0d000798cd93.m3u8
 https://jmp2.uk/plu-6357f3de3643ba0007bc0b50.m3u8
 #EXTINF:-1 group-title="体育" tvg-name="Pluto TV Sport (Sweden) NO",Pluto TV Sport (Sweden) NO
 https://jmp2.uk/plu-6357f33cb51d2d00077927c6.m3u8
-#EXTINF:-1 group-title="体育" tvg-name="Real Madrid TV (726p)",Real Madrid TV (726p)
-https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 #EXTINF:-1 group-title="体育" tvg-name="Real Madrid TV English",Real Madrid TV English
 http://88.212.15.50/live/real_madrid_tv/index.m3u8
 #EXTINF:-1 group-title="体育" tvg-name="Red Bull TV",Red Bull TV
@@ -125,6 +127,8 @@ https://live.koryocdn.org/sports/index.m3u8
 https://sportsgrid-tribal.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="体育" tvg-name="Star Sports 2 Telugu HD (576p)",Star Sports 2 Telugu HD (576p)
 https://real-vk.proxy.nellaiiptv.com/SDMEDIA/index.m3u8
+#EXTINF:-1 group-title="体育" tvg-name="TR Sport (480p)",TR Sport (480p)
+https://livetr.teleromagna.it/mia/live/playlist.m3u8
 #EXTINF:-1 group-title="体育" tvg-name="TVS Classic Sports (360p)",TVS Classic Sports (360p)
 https://rpn.bozztv.com/gusa/gusa-tvs/index.m3u8
 #EXTINF:-1 group-title="体育" tvg-name="TVS Pinball Network (480p)",TVS Pinball Network (480p)
