@@ -19,6 +19,8 @@ https://stream.hrbtv.net/yspd/playlist.m3u8
 https://mmn1.b-cdn.net/hls/MMN-HLS.m3u8
 #EXTINF:-1 group-title="电影" tvg-name="MovieSphere (1080p)",MovieSphere (1080p)
 https://amg00353-lionsgatestudio-moviesphere-xumo-zh5u0.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="电影" tvg-name="MovieSphere Gold WFXT (1080p)",MovieSphere Gold WFXT (1080p)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionmystery-tablo/playlist.m3u8
 #EXTINF:-1 group-title="电影" tvg-name="MovieSphere UK (1080p)",MovieSphere UK (1080p)
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="电影" tvg-name="MyTime Movie Network (United Kingdom) (1080p)",MyTime Movie Network (United Kingdom) (1080p)
@@ -41,6 +43,8 @@ https://e3207568b726401995c25670faaf32e4.mediatailor.eu-west-1.amazonaws.com/v1/
 https://rpn.bozztv.com/gusa/gusa-tvsclassicmovies/index.m3u8
 #EXTINF:-1 group-title="电影" tvg-name="TVS Drive In Movie (360p)",TVS Drive In Movie (360p)
 https://rpn.bozztv.com/gusa/gusa-tvsdriveinmovie/index.m3u8
+#EXTINF:-1 group-title="电影" tvg-name="TVS Nostalgia Movies (480p)",TVS Nostalgia Movies (480p)
+https://rpn.bozztv.com/gusa/gusa-tvsNostalgiaMovies/index.m3u8
 #EXTINF:-1 group-title="电影" tvg-name="TVS Western Movie (270p)",TVS Western Movie (270p)
 https://rpn.bozztv.com/gusa/gusa-tvswesternmovies/index.m3u8
 #EXTINF:-1 group-title="电影" tvg-name="Whiplash Cinema (480p)",Whiplash Cinema (480p)
@@ -51,10 +55,6 @@ http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8?zzhed
 http://l.cztvcloud.com/channels/lantian/SXdongyang1/720p.m3u8
 #EXTINF:-1 group-title="电影" tvg-name="刘德华电影",刘德华电影
 https://live.metshop.top/huya/11342424
-#EXTINF:-1 group-title="电影" tvg-name="功夫电影",功夫电影
-https://live.metshop.top/huya/11352941
-#EXTINF:-1 group-title="电影" tvg-name="古天乐电影",古天乐电影
-https://live.metshop.top/huya/29982675
 #EXTINF:-1 group-title="电影" tvg-name="句容影视频道",句容影视频道
 http://jrlive.jrntv.com/live/_definst_/yingshis/playlist.m3u8
 #EXTINF:-1 group-title="电影" tvg-name="句容影院",句容影院
@@ -69,20 +69,12 @@ https://jwcdnqx.hebyun.com.cn/live/pqys/1500k/tzwj_video.m3u8
 http://3g.dzsm.com/streamer/gy02.m3u8
 #EXTINF:-1 group-title="电影" tvg-name="强森电影",强森电影
 https://live.metshop.top/huya/21059581
-#EXTINF:-1 group-title="电影" tvg-name="怪兽电影",怪兽电影
-https://live.metshop.top/huya/21059577
 #EXTINF:-1 group-title="电影" tvg-name="成龙电影",成龙电影
 https://live.metshop.top/huya/11342386
-#EXTINF:-1 group-title="电影" tvg-name="战争电影",战争电影
-https://live.metshop.top/huya/21059574
 #EXTINF:-1 group-title="电影" tvg-name="明星大片",明星大片
 http://ott.mobaibox.com/PLTV/3/224/3221227594/index.m3u8
-#EXTINF:-1 group-title="电影" tvg-name="李连杰电影",李连杰电影
-https://live.metshop.top/huya/11342390
 #EXTINF:-1 group-title="电影" tvg-name="林正英电影",林正英电影
 https://live.metshop.top/huya/11342421
-#EXTINF:-1 group-title="电影" tvg-name="枪战电影",枪战电影
-https://live.metshop.top/huya/21059579
 #EXTINF:-1 group-title="电影" tvg-name="武侠电影",武侠电影
 https://live.metshop.top/huya/11342427
 #EXTINF:-1 group-title="电影" tvg-name="沈腾电影",沈腾电影
@@ -97,10 +89,22 @@ https://live.metshop.top/huya/11342414
 https://live.metshop.top/huya/11602058
 #EXTINF:-1 group-title="电影" tvg-name="甄子丹电影",甄子丹电影
 https://live.metshop.top/huya/11352935
-#EXTINF:-1 group-title="电影" tvg-name="电影八点档",电影八点档
-http://live.metshop.top/huya/880261?cdn=alicdn
-#EXTINF:-1 group-title="电影" tvg-name="电影战争片",电影战争片
-http://live.metshop.top/huya/21059574?cdn=alicdn
+#EXTINF:-1 group-title="电影" tvg-name="电影丧尸片",电影丧尸片
+http://live.metshop.top/huya/21059578?cdn=alicdn
+#EXTINF:-1 group-title="电影" tvg-name="电影功夫片",电影功夫片
+http://live.metshop.top/huya/11352941?cdn=alicdn
+#EXTINF:-1 group-title="电影" tvg-name="电影动作电影",电影动作电影
+http://live.metshop.top/huya/11602077?cdn=alicdn
+#EXTINF:-1 group-title="电影" tvg-name="电影犯罪片",电影犯罪片
+http://live.metshop.top/huya/11352974?cdn=alicdn
+#EXTINF:-1 group-title="电影" tvg-name="电影蜘蛛侠",电影蜘蛛侠
+http://live.metshop.top/huya/21059599?cdn=alicdn
+#EXTINF:-1 group-title="电影" tvg-name="电影谍战片",电影谍战片
+http://live.metshop.top/huya/21059587?cdn=alicdn
+#EXTINF:-1 group-title="电影" tvg-name="电影贺岁",电影贺岁
+http://live.metshop.top/huya/11601971?cdn=alicdn
+#EXTINF:-1 group-title="电影" tvg-name="电影高分动作",电影高分动作
+http://live.metshop.top/huya/11352884?cdn=alicdn
 #EXTINF:-1 group-title="电影" tvg-name="精品电影 (1080p)",精品电影 (1080p)
 http://183.207.248.71/cntv/live1/jdianying/jdianying
 #EXTINF:-1 group-title="电影" tvg-name="绍兴文化影视",绍兴文化影视
@@ -117,7 +121,3 @@ https://live.metshop.top/huya/11601986
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=595
 #EXTINF:-1 group-title="电影" tvg-name="韩国电影2",韩国电影2
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=743
-#EXTINF:-1 group-title="电影" tvg-name="黄渤电影",黄渤电影
-https://live.metshop.top/huya/11352876
-#EXTINF:-1 group-title="电影" tvg-name="黑莓电影",黑莓电影
-https://epg.pw/stream/ffcb6572863f0745a7369fbd9d901f1dfd0ab8fab8bad8bebb4e01c90b303c47.m3u8
