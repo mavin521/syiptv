@@ -25,8 +25,14 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionmystery-ta
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="电影" tvg-name="MyTime Movie Network (United Kingdom) (1080p)",MyTime Movie Network (United Kingdom) (1080p)
 https://appletree-mytimeuk-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="电影" tvg-name="MyTime Movie Network East (1080p)",MyTime Movie Network East (1080p)
+https://appletree-mytimeau-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="电影" tvg-name="NEW K.MOVIES (1080p)",NEW K.MOVIES (1080p)
+https://ads.its-newid.net/api/manifest.m3u8?ads.service_id=GB1700007PK&channel_id=newid_343&tp=samsung_tvplus
 #EXTINF:-1 group-title="电影" tvg-name="NewTV动作电影",NewTV动作电影
 http://ott.mobaibox.com/PLTV/3/224/3221227606/index.m3u8
+#EXTINF:-1 group-title="电影" tvg-name="Pluto TV Anime Movies",Pluto TV Anime Movies
+https://jmp2.uk/plu-67ed8f7e443f0671bc2b2368.m3u8
 #EXTINF:-1 group-title="电影" tvg-name="Rakuten TV Action Movies UK (1080p)",Rakuten TV Action Movies UK (1080p)
 https://54045f0c40fd442c8b06df076aaf1e85.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6065/master.m3u8
 #EXTINF:-1 group-title="电影" tvg-name="Rakuten TV Comedy Movies UK (1080p)",Rakuten TV Comedy Movies UK (1080p)
@@ -43,8 +49,6 @@ https://rpn.bozztv.com/gusa/gusa-tvsdriveinmovie/index.m3u8
 https://rpn.bozztv.com/gusa/gusa-tvsNostalgiaMovies/index.m3u8
 #EXTINF:-1 group-title="电影" tvg-name="TVS Western Movie (270p)",TVS Western Movie (270p)
 https://rpn.bozztv.com/gusa/gusa-tvswesternmovies/index.m3u8
-#EXTINF:-1 group-title="电影" tvg-name="Whiplash Cinema (480p)",Whiplash Cinema (480p)
-https://cdn.whiplash.cc/whiplash-cinema/index.m3u8
 #EXTINF:-1 group-title="电影" tvg-name="上虞文化影院",上虞文化影院
 http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8?zzhed
 #EXTINF:-1 group-title="电影" tvg-name="东阳影视生活",东阳影视生活
@@ -61,14 +65,10 @@ http://jrlive.jrntv.com/live/_definst_/yingshis/playlist.m3u8
 http://jrlive.jrntv.com/live/_definst_/yingshis/chunklist_w1994429382.m3u8?zjiangsd
 #EXTINF:-1 group-title="电影" tvg-name="句容影院频道",句容影院频道
 http://jrlive.jrntv.com/live/_definst_/yingshis/playlist.m3u8?zjiangsd
-#EXTINF:-1 group-title="电影" tvg-name="周星驰电影",周星驰电影
-https://live.metshop.top/huya/11342412
 #EXTINF:-1 group-title="电影" tvg-name="平泉影视频道",平泉影视频道
 https://jwcdnqx.hebyun.com.cn/live/pqys/1500k/tzwj_video.m3u8
 #EXTINF:-1 group-title="电影" tvg-name="广元影视",广元影视
 http://3g.dzsm.com/streamer/gy02.m3u8
-#EXTINF:-1 group-title="电影" tvg-name="强森电影",强森电影
-https://live.metshop.top/huya/21059581
 #EXTINF:-1 group-title="电影" tvg-name="怪兽电影",怪兽电影
 https://live.metshop.top/huya/21059577
 #EXTINF:-1 group-title="电影" tvg-name="成龙电影",成龙电影
@@ -83,24 +83,26 @@ https://live.metshop.top/huya/11342390
 https://live.metshop.top/huya/11342421
 #EXTINF:-1 group-title="电影" tvg-name="枪战电影",枪战电影
 https://live.metshop.top/huya/21059579
-#EXTINF:-1 group-title="电影" tvg-name="武侠电影",武侠电影
-https://live.metshop.top/huya/11342427
 #EXTINF:-1 group-title="电影" tvg-name="沈腾电影",沈腾电影
 https://live.metshop.top/huya/11601968
 #EXTINF:-1 group-title="电影" tvg-name="烟台影视频道",烟台影视频道
 http://live.yantaitv.cn/live/e9f1d9045d474c31884d13fa4ffbbd16/a4a9b3704d854756907845107cc56129-1.m3u8
 #EXTINF:-1 group-title="电影" tvg-name="狄仁杰电影",狄仁杰电影
 https://live.metshop.top/huya/30080229
-#EXTINF:-1 group-title="电影" tvg-name="玄幻电影",玄幻电影
-https://live.metshop.top/huya/11342414
 #EXTINF:-1 group-title="电影" tvg-name="王晶电影",王晶电影
 https://live.metshop.top/huya/11602058
 #EXTINF:-1 group-title="电影" tvg-name="甄子丹电影",甄子丹电影
 https://live.metshop.top/huya/11352935
+#EXTINF:-1 group-title="电影" tvg-name="电影刘德华",电影刘德华
+http://live.metshop.top/huya/11342424?cdn=alicdn
+#EXTINF:-1 group-title="电影" tvg-name="电影功夫片",电影功夫片
+http://live.metshop.top/huya/11352941?cdn=alicdn
 #EXTINF:-1 group-title="电影" tvg-name="电影嫣然影厅",电影嫣然影厅
 http://live.metshop.top/huya/11601977?cdn=alicdn
-#EXTINF:-1 group-title="电影" tvg-name="电影谍战",电影谍战
-http://live.metshop.top/huya/21059585?cdn=alicdn
+#EXTINF:-1 group-title="电影" tvg-name="电影战争片",电影战争片
+http://live.metshop.top/huya/21059574?cdn=alicdn
+#EXTINF:-1 group-title="电影" tvg-name="电影贺岁",电影贺岁
+http://live.metshop.top/huya/11601971?cdn=alicdn
 #EXTINF:-1 group-title="电影" tvg-name="精品电影 (1080p)",精品电影 (1080p)
 http://183.207.248.71/cntv/live1/jdianying/jdianying
 #EXTINF:-1 group-title="电影" tvg-name="绍兴文化影视",绍兴文化影视
@@ -109,8 +111,6 @@ http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
 http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8?zzhed
 #EXTINF:-1 group-title="电影" tvg-name="罪犯电影",罪犯电影
 https://live.metshop.top/huya/11352962
-#EXTINF:-1 group-title="电影" tvg-name="谍战电影",谍战电影
-https://live.metshop.top/huya/21059585
 #EXTINF:-1 group-title="电影" tvg-name="贺岁电影",贺岁电影
 https://live.metshop.top/huya/11601986
 #EXTINF:-1 group-title="电影" tvg-name="韩国电影1",韩国电影1
