@@ -71,14 +71,14 @@ http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
 http://223.110.236.24/ott.js.chinamobile.com/PLTV/3/224/3221228138/index.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="CETV-3",CETV-3
 http://ott.mobaibox.com/PLTV/3/224/3221227018/index.m3u8
-#EXTINF:-1 group-title="大陆" tvg-name="CGTN",CGTN
-http://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="CGTN·Europe",CGTN·Europe
 https://english-livebkali.cgtn.com/live/doccgtn.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="CGTN俄语",CGTN俄语
 https://0472.org/hls/cgtne.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="CGTN法语",CGTN法语
 http://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd.m3u8
+#EXTINF:-1 group-title="大陆" tvg-name="CGTN纪录",CGTN纪录
+https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="CGTN英语",CGTN英语
 https://0472.org/hls/cgtn.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="CGTN西语",CGTN西语
@@ -206,11 +206,13 @@ https://liveplay.ycrmt.cn/sxgd/lysh.m3u8
 #EXTINF:-1 group-title="美英" tvg-name="Yo! MTV (1080p)",Yo! MTV (1080p)
 https://jmp2.uk/plu-5d14fc31252d35decbc4080b.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="东南卫视",东南卫视
-http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
+http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="东方卫视",东方卫视
 http://bp-resource-dfl.bestv.cn/155/3/video.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="云南交通之声",云南交通之声
 http://satellitepull.cnr.cn/live/wxynjtgb/playlist.m3u8
+#EXTINF:-1 group-title="大陆" tvg-name="云南国际广播",云南国际广播
+http://satellitepull.cnr.cn/live/wxynsegb/playlist.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="云南新闻广播",云南新闻广播
 http://satellitepull.cnr.cn/live/wxynxwgb/playlist.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="云南民族广播",云南民族广播
@@ -219,6 +221,8 @@ http://satellitepull.cnr.cn/live/wxynmzgb/playlist.m3u8
 http://satellitepull.cnr.cn/live/wxynjjgb/playlist.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="云南音乐广播",云南音乐广播
 http://satellitepull.cnr.cn/live/wxynyygb/playlist.m3u8
+#EXTINF:-1 group-title="大陆" tvg-name="人间卫视",人间卫视
+https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="内蒙古农村牧区广播绿野之声",内蒙古农村牧区广播绿野之声
 http://satellitepull.cnr.cn/live/wx32nmglyzs/playlist.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="内蒙古卫视",内蒙古卫视
@@ -255,12 +259,12 @@ http://satellitepull.cnr.cn/live/wxtjws/playlist.m3u8
 http://satellitepull.cnr.cn/live/wxnxws/playlist.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="宁夏新闻广播",宁夏新闻广播
 http://satellitepull.cnr.cn/live/wxnxxwgb/playlist.m3u8
-#EXTINF:-1 group-title="大陆" tvg-name="宁夏音乐广播",宁夏音乐广播
-http://satellitepull.cnr.cn/live/wxnxyygb/playlist.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="安多卫视",安多卫视
 https://liveout.xntv.tv/a65jur/96iln2.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="安徽之声",安徽之声
 http://satellitepull.cnr.cn/live/wxahxxgb/playlist.m3u8
+#EXTINF:-1 group-title="大陆" tvg-name="安徽交通广播",安徽交通广播
+http://satellitepull.cnr.cn/live/wxahjtgb/playlist.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="安徽卫视",安徽卫视
 http://satellitepull.cnr.cn/live/wxahws/playlist.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="安徽戏曲广播·动听995",安徽戏曲广播·动听995
@@ -285,24 +289,20 @@ http://satellitepull.cnr.cn/live/wxsdjjgb/playlist.m3u8
 http://satellitepull.cnr.cn/live/wxsdjtgb/playlist.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="山西卫视",山西卫视
 http://satellitepull.cnr.cn/live/wxssxws/playlist.m3u8
+#EXTINF:-1 group-title="大陆" tvg-name="山西综合广播",山西综合广播
+http://satellitepull.cnr.cn/live/wxssxxwgb/playlist.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="广东卫视",广东卫视
 http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221227476/index.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="广西交通广播",广西交通广播
 http://satellitepull.cnr.cn/live/wx32gxjtgb/playlist.m3u8
-#EXTINF:-1 group-title="大陆" tvg-name="广西北部湾之声",广西北部湾之声
-http://satellitepull.cnr.cn/live/wx32gxdwgb/playlist.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="广西卫视",广西卫视
 https://hlscdn.liangtv.cn/live/de0f97348eb84f62aa6b7d8cf0430770/dd505d87880c478f901f38560ca4d4e6.m3u8
+#EXTINF:-1 group-title="大陆" tvg-name="广西教育广播",广西教育广播
+http://satellitepull.cnr.cn/live/wx32gbjyshgb/playlist.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="广西经济广播·女主播电台",广西经济广播·女主播电台
 http://satellitepull.cnr.cn/live/wx32gxjjgb/playlist.m3u8
-#EXTINF:-1 group-title="大陆" tvg-name="广西综合广播",广西综合广播
-http://satellitepull.cnr.cn/live/wx32gxrmgb/playlist.m3u8
-#EXTINF:-1 group-title="大陆" tvg-name="广西音乐广播",广西音乐广播
-http://satellitepull.cnr.cn/live/wx32gxwygb/playlist.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="延边卫视",延边卫视
 https://srs.iyb983.cn/video/CYS/index.m3u8
-#EXTINF:-1 group-title="大陆" tvg-name="延边新闻广播",延边新闻广播
-http://satellitepull.cnr.cn/live/wxybxwgb/playlist.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="新疆卫视",新疆卫视
 http://satellitepull.cnr.cn/live/wxxjws/playlist.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="新疆新闻广播",新疆新闻广播
@@ -319,8 +319,6 @@ http://satellitepull.cnr.cn/live/wx32jswygb/playlist.m3u8
 http://satellitepull.cnr.cn/live/wx32jsxwgb/playlist.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="江苏新闻综合广播",江苏新闻综合广播
 http://satellitepull.cnr.cn/live/wx32jsxwzhgb/playlist.m3u8
-#EXTINF:-1 group-title="大陆" tvg-name="江苏经典流行音乐广播",江苏经典流行音乐广播
-http://satellitepull.cnr.cn/live/wx32jsjdlxyy/playlist.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="江苏音乐广播",江苏音乐广播
 http://satellitepull.cnr.cn/live/wx32jsyygb/playlist.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="江西卫视",江西卫视
@@ -330,7 +328,7 @@ http://satellitepull.cnr.cn/live/wx32jiangxxwgb/playlist.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="河北交通广播",河北交通广播
 http://satellitepull.cnr.cn/live/wxhebjtgb/playlist.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="河北卫视",河北卫视
-http://event.pull.hebtv.com/jishi/weishi_tingyun.m3u8
+http://satellitepull.cnr.cn/live/wxhebws/playlist.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="河北生活广播",河北生活广播
 http://satellitepull.cnr.cn/live/wxhebshgb/playlist.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="河北经济广播",河北经济广播
@@ -348,7 +346,7 @@ http://satellitepull.cnr.cn/live/wxzjzs/playlist.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="浙江交通之声",浙江交通之声
 http://satellitepull.cnr.cn/live/wxzjjtgb/playlist.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="浙江卫视",浙江卫视
-http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8
+http://satellitepull.cnr.cn/live/wxzjws/playlist.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="浙江城市之声",浙江城市之声
 http://satellitepull.cnr.cn/live/wxzjcszs/playlist.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="浙江旅游之声",浙江旅游之声
@@ -357,12 +355,8 @@ http://satellitepull.cnr.cn/live/wxzj1045/playlist.m3u8
 http://satellitepull.cnr.cn/live/wxzjmsgb/playlist.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="浙江经济广播",浙江经济广播
 http://satellitepull.cnr.cn/live/wxzjjjgb/playlist.m3u8
-#EXTINF:-1 group-title="大陆" tvg-name="浙江钱江",浙江钱江
-http://ali-xwl.cztv.com/live/channel02720Plxw.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="浙江音乐调频·动听968",浙江音乐调频·动听968
 http://satellitepull.cnr.cn/live/wxzj968/playlist.m3u8
-#EXTINF:-1 group-title="大陆" tvg-name="海南交通广播",海南交通广播
-http://satellitepull.cnr.cn/live/wxhainjtgb/playlist.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="海南卫视",海南卫视
 http://satellitepull.cnr.cn/live/wxhainlyws/playlist.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="海南音乐广播",海南音乐广播
@@ -373,6 +367,8 @@ http://satellitepull.cnr.cn/live/wxszws/playlist.m3u8
 http://satellitepull.cnr.cn/live/wxszsjcgb/playlist.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="深圳飞扬971",深圳飞扬971
 http://satellitepull.cnr.cn/live/wxszfy971/playlist.m3u8
+#EXTINF:-1 group-title="大陆" tvg-name="湖北之声",湖北之声
+http://satellitepull.cnr.cn/live/wx32hubzsgb/playlist.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="湖北农村广播",湖北农村广播
 http://satellitepull.cnr.cn/live/wxhebwygb/playlist.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="湖北卫视",湖北卫视
@@ -387,6 +383,8 @@ http://satellitepull.cnr.cn/live/wx32hunxwgb/playlist.m3u8
 http://satellitepull.cnr.cn/live/wxgsws/playlist.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="甘肃新闻综合广播",甘肃新闻综合广播
 http://satellitepull.cnr.cn/live/wxgsxwzhgb/playlist.m3u8
+#EXTINF:-1 group-title="大陆" tvg-name="甘肃经济广播",甘肃经济广播
+http://satellitepull.cnr.cn/live/wxgshhzs/playlist.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="福州音乐广播",福州音乐广播
 http://satellitepull.cnr.cn/live/wx32qhjtyygb/playlist.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="福建东南广播",福建东南广播
@@ -411,8 +409,6 @@ http://satellitepull.cnr.cn/live/wx32gzjjgb/playlist.m3u8
 http://satellitepull.cnr.cn/live/wx32gzwxwzhgb/playlist.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="贵州都市广播",贵州都市广播
 http://satellitepull.cnr.cn/live/wx32gzqcgb/playlist.m3u8
-#EXTINF:-1 group-title="大陆" tvg-name="贵州音乐广播",贵州音乐广播
-http://satellitepull.cnr.cn/live/wx32gzyygb/playlist.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="辽宁之声",辽宁之声
 http://satellitepull.cnr.cn/live/wxlnzhgb/playlist.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="辽宁乡村广播",辽宁乡村广播
@@ -427,6 +423,8 @@ http://satellitepull.cnr.cn/live/wxlnjjtb/playlist.m3u8
 http://satellitepull.cnr.cn/live/wxcqxwgb/playlist.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="重庆卫视",重庆卫视
 http://satellitepull.cnr.cn/live/wxcqws/playlist.m3u8
+#EXTINF:-1 group-title="大陆" tvg-name="重庆都市广播·私家车938",重庆都市广播·私家车938
+http://satellitepull.cnr.cn/live/wxcqdsgb/playlist.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="陕西农村广播",陕西农村广播
 http://satellitepull.cnr.cn/live/wxsxxncgb/playlist.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="陕西卫视",陕西卫视
@@ -438,7 +436,9 @@ http://satellitepull.cnr.cn/live/wxsxxjjgb/playlist.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="陕西音乐广播·快乐988",陕西音乐广播·快乐988
 http://satellitepull.cnr.cn/live/wxsxxqcgb/playlist.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="青海卫视",青海卫视
-http://satellitepull.cnr.cn/live/wx32qhws/playlist.m3u8
+https://hls-qhmh.lanzhousobey.cn/qhmh/mhds.m3u8
+#EXTINF:-1 group-title="大陆" tvg-name="青海新闻综合广播",青海新闻综合广播
+http://satellitepull.cnr.cn/live/wx32qhwxzhgb/playlist.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="青海经济广播",青海经济广播
 http://satellitepull.cnr.cn/live/wx32qhjjgb/playlist.m3u8
 #EXTINF:-1 group-title="美英" tvg-name="韩·TBS",韩·TBS
