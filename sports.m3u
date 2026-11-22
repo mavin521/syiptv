@@ -3,10 +3,12 @@
 https://raw.githubusercontent.com/mavin521/syiptv/main/123/1.m3u8
 #EXTINF:-1 group-title="体育" tvg-name="5Sport",5Sport
 https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5/live.livx/playlist.m3u8
+#EXTINF:-1 group-title="体育" tvg-name="AntenaSport",AntenaSport
+https://stream1.antenaplay.ro/as/AS.ro/chunklist.m3u8
 #EXTINF:-1 group-title="体育" tvg-name="CBS Sports HQ (720p)",CBS Sports HQ (720p)
 https://jmp2.uk/plu-5e9f2c05172a0f0007db4786.m3u8
-#EXTINF:-1 group-title="体育" tvg-name="CCTV-5+ 体育赛事",CCTV-5+ 体育赛事
-https://piccpndali.v.myalicdn.com/audio/cctv5plus_2.m3u8
+#EXTINF:-1 group-title="体育" tvg-name="CCTV-5 体育",CCTV-5 体育
+https://piccpndali.v.myalicdn.com/audio/cctv5_2.m3u8
 #EXTINF:-1 group-title="体育" tvg-name="Canal+ Sport (1080p) [Geo-blocked]",Canal+ Sport (1080p) [Geo-blocked]
 http://tv.streambox.fr/live/testlivestream/testlivestream/31.m3u8
 #EXTINF:-1 group-title="体育" tvg-name="DAZN Combat (684p)",DAZN Combat (684p)
@@ -17,10 +19,10 @@ https://jmp2.uk/plu-64b67f0424ade50008a3be17.m3u8
 https://jmp2.uk/plu-64afe50c5dc16600087f3227.m3u8
 #EXTINF:-1 group-title="体育" tvg-name="DraftKings Network (1080p)",DraftKings Network (1080p)
 https://na.linear.zype.com/e0bd0e23-a958-4e43-8164-4f2fef8876a8/fd3614bd-90bf-4530-a277-65ae3a1720c8-zype/live.m3u8
-#EXTINF:-1 group-title="体育" tvg-name="ESPN Premium",ESPN Premium
-http://45.134.141.161:2200/ARG/ESPN_Premium_Argentina_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="体育" tvg-name="ESPN8: The Ocho (1080p)",ESPN8: The Ocho (1080p)
 https://d3b6q2ou5kp8ke.cloudfront.net/ESPNTheOcho.m3u8
+#EXTINF:-1 group-title="体育" tvg-name="Eurovision Sport (1080p)",Eurovision Sport (1080p)
+https://amg26268-amg26268c34-amgplt0018.playout.now3.amagi.tv/ts-us-e2-n1/playlist/amg26268-amg26268c34-amgplt0018/playlist.m3u8
 #EXTINF:-1 group-title="体育" tvg-name="FITE 24/7 (1080p)",FITE 24/7 (1080p)
 https://d3d85c7qkywguj.cloudfront.net/scheduler/scheduleMaster/263.m3u8
 #EXTINF:-1 group-title="体育" tvg-name="FightBox (720p)",FightBox (720p)
@@ -143,12 +145,8 @@ https://tvsen6.aynaott.com/beinsports/index.m3u8
 http://31.148.5.241/Viasat_Sport/index.m3u8
 #EXTINF:-1 group-title="体育" tvg-name="山东体育休闲广播",山东体育休闲广播
 http://satellitepull.cnr.cn/live/wxsdtyxxgb/playlist.m3u8
-#EXTINF:-1 group-title="体育" tvg-name="广东体育",广东体育
-https://epg.pw/stream/7b470f9fc5c305db0c8622117b7b25ca00eb35ba3e93e865cf0ff9df5c736681.m3u8
 #EXTINF:-1 group-title="体育" tvg-name="精品体育",精品体育
 http://ott.mobaibox.com/PLTV/3/224/3221227615/index.m3u8
-#EXTINF:-1 group-title="体育" tvg-name="纬来体育",纬来体育
-https://epg.pw/stream/ab6df63b64d0cc44a1f4f029ed847a26fa54a7aebd455578fb05a63f02c22f4b.m3u8
 #EXTINF:-1 group-title="体育" tvg-name="陕西体育休闲",陕西体育休闲
 http://gxlive.snrtv.com/sx7-SD.m3u8
 #EXTINF:-1 group-title="体育" tvg-name="青岛音乐体育广播",青岛音乐体育广播

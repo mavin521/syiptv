@@ -29,8 +29,8 @@ https://piccpndali.v.myalicdn.com/audio/cctv6_2.m3u8
 https://piccpndali.v.myalicdn.com/audio/cctv7_2.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="CCTV-8K 超高清",CCTV-8K 超高清
 http://ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
-#EXTINF:-1 group-title="大陆" tvg-name="CCTV13",CCTV13
-http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
+#EXTINF:-1 group-title="大陆" tvg-name="CCTV13新闻",CCTV13新闻
+http://pull-hls-f13.douyinliving.com/media/stream-696852254802838354.m3u8?expire=1795770147&sign=cf21ba2dd6b3294a278573342448c77e&s_anchor=1&arch_hrchy=s2&major_anchor_level=vip&t_id=037-202611201702268251AC6A3D25C702F9A5-vsUPv6
 #EXTINF:-1 group-title="大陆" tvg-name="CCTV1综合",CCTV1综合
 http://play.kankanlive.com/live/1698234869325962.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="CCTV2财经",CCTV2财经
@@ -39,8 +39,8 @@ http://pull-hs-f5.flive.douyincdn.com/media/stream-408627098988315308/index.m3u8
 http://play.kankanlive.com/live/1698423397390920.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="CCTV·风云音乐",CCTV·风云音乐
 http://223.110.236.24/ott.js.chinamobile.com/PLTV/3/224/3221228138/index.m3u8
-#EXTINF:-1 group-title="大陆" tvg-name="CETV-3",CETV-3
-http://ott.mobaibox.com/PLTV/3/224/3221227018/index.m3u8
+#EXTINF:-1 group-title="大陆" tvg-name="CGTN",CGTN
+http://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="CGTN·Europe",CGTN·Europe
 https://english-livebkali.cgtn.com/live/doccgtn.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="CGTN俄语",CGTN俄语
@@ -55,14 +55,12 @@ https://0472.org/hls/cgtnx.m3u8
 https://0472.org/hls/cgtnd.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="CGTN阿语",CGTN阿语
 https://0472.org/hls/cgtna.m3u8
-#EXTINF:-1 group-title="大陆" tvg-name="东南卫视超清",东南卫视超清
-http://by4.nty.tv189.cn/live/tm-dxdnws-4000k.m3u8
+#EXTINF:-1 group-title="大陆" tvg-name="东南卫视",东南卫视
+http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="东方卫视",东方卫视
-http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
+http://by4.nty.tv189.cn/live/tm-xpdfws-4000k.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="云南交通之声",云南交通之声
 http://satellitepull.cnr.cn/live/wxynjtgb/playlist.m3u8
-#EXTINF:-1 group-title="大陆" tvg-name="云南国际广播",云南国际广播
-http://satellitepull.cnr.cn/live/wxynsegb/playlist.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="云南新闻广播",云南新闻广播
 http://satellitepull.cnr.cn/live/wxynxwgb/playlist.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="云南民族广播",云南民族广播
@@ -97,10 +95,10 @@ http://satellitepull.cnr.cn/live/wx32hljxwgb/playlist.m3u8
 http://satellitepull.cnr.cn/live/wxjljtgb/playlist.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="吉林卫视",吉林卫视
 http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
+#EXTINF:-1 group-title="大陆" tvg-name="吉林新闻综合广播",吉林新闻综合广播
+http://satellitepull.cnr.cn/live/wxjlxwzhgb/playlist.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="四川卫视",四川卫视
 http://satellitepull.cnr.cn/live/wxscws/playlist.m3u8
-#EXTINF:-1 group-title="大陆" tvg-name="四川新闻广播",四川新闻广播
-http://satellitepull.cnr.cn/live/wxscjtgb/playlist.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="四川综合广播四川之声",四川综合广播四川之声
 http://satellitepull.cnr.cn/live/wxsczhgb/playlist.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="天津卫视",天津卫视
@@ -140,45 +138,41 @@ http://satellitepull.cnr.cn/live/wxsdjjgb/playlist.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="山东综合广播",山东综合广播
 http://satellitepull.cnr.cn/live/wxsdjtgb/playlist.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="山西卫视",山西卫视
-http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8
-#EXTINF:-1 group-title="大陆" tvg-name="山西综合广播",山西综合广播
-http://satellitepull.cnr.cn/live/wxssxxwgb/playlist.m3u8
+http://satellitepull.cnr.cn/live/wxssxws/playlist.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="广东卫视",广东卫视
-http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221227476/index.m3u8
+http://by4.nty.tv189.cn/live/tm-ysgdws-4000k.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="广西交通广播",广西交通广播
 http://satellitepull.cnr.cn/live/wx32gxjtgb/playlist.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="广西北部湾之声",广西北部湾之声
 http://satellitepull.cnr.cn/live/wx32gxdwgb/playlist.m3u8
-#EXTINF:-1 group-title="大陆" tvg-name="广西卫视",广西卫视
-https://hlscdn.liangtv.cn/live/de0f97348eb84f62aa6b7d8cf0430770/dd505d87880c478f901f38560ca4d4e6.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="广西教育广播",广西教育广播
 http://satellitepull.cnr.cn/live/wx32gbjyshgb/playlist.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="广西经济广播·女主播电台",广西经济广播·女主播电台
 http://satellitepull.cnr.cn/live/wx32gxjjgb/playlist.m3u8
+#EXTINF:-1 group-title="大陆" tvg-name="广西综合广播",广西综合广播
+http://satellitepull.cnr.cn/live/wx32gxrmgb/playlist.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="广西音乐广播",广西音乐广播
 http://satellitepull.cnr.cn/live/wx32gxwygb/playlist.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="延边卫视",延边卫视
-https://srs.iyb983.cn/video/CYS/index.m3u8
+http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8#
 #EXTINF:-1 group-title="大陆" tvg-name="延边新闻广播",延边新闻广播
 http://satellitepull.cnr.cn/live/wxybxwgb/playlist.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="新疆卫视",新疆卫视
 http://satellitepull.cnr.cn/live/wxxjws/playlist.m3u8
-#EXTINF:-1 group-title="大陆" tvg-name="新疆新闻广播",新疆新闻广播
-http://satellitepull.cnr.cn/live/wxxjxwgb/playlist.m3u8
-#EXTINF:-1 group-title="大陆" tvg-name="新疆私家车广播",新疆私家车广播
-http://satellitepull.cnr.cn/live/wxxjsjcgb/playlist.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="新疆音乐广播MixFM1039",新疆音乐广播MixFM1039
 http://satellitepull.cnr.cn/live/wx32jiangxyygb/playlist.m3u8
+#EXTINF:-1 group-title="大陆" tvg-name="江苏交通广播",江苏交通广播
+http://satellitepull.cnr.cn/live/wx32jsjtgb/playlist.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="江苏卫视",江苏卫视
 http://satellitepull.cnr.cn/live/wx32jsws/playlist.m3u8
-#EXTINF:-1 group-title="大陆" tvg-name="江苏文艺广播",江苏文艺广播
-http://satellitepull.cnr.cn/live/wx32jswygb/playlist.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="江苏新闻广播",江苏新闻广播
 http://satellitepull.cnr.cn/live/wx32jsxwgb/playlist.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="江苏新闻综合广播",江苏新闻综合广播
 http://satellitepull.cnr.cn/live/wx32jsxwzhgb/playlist.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="江苏经典流行音乐广播",江苏经典流行音乐广播
 http://satellitepull.cnr.cn/live/wx32jsjdlxyy/playlist.m3u8
+#EXTINF:-1 group-title="大陆" tvg-name="江苏金陵之声",江苏金陵之声
+http://satellitepull.cnr.cn/live/wx32jsqctp/playlist.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="江苏音乐广播",江苏音乐广播
 http://satellitepull.cnr.cn/live/wx32jsyygb/playlist.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="江西卫视",江西卫视
@@ -188,13 +182,13 @@ http://satellitepull.cnr.cn/live/wx32jiangxxwgb/playlist.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="河北交通广播",河北交通广播
 http://satellitepull.cnr.cn/live/wxhebjtgb/playlist.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="河北卫视",河北卫视
-http://event.pull.hebtv.com/jishi/weishi_tingyun.m3u8
+http://satellitepull.cnr.cn/live/wxhebws/playlist.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="河北生活广播",河北生活广播
 http://satellitepull.cnr.cn/live/wxhebshgb/playlist.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="河北经济广播",河北经济广播
 http://satellitepull.cnr.cn/live/wxhebjjgb/playlist.m3u8
-#EXTINF:-1 group-title="大陆" tvg-name="河北综合广播",河北综合广播
-http://satellitepull.cnr.cn/live/wxhebzhgb/playlist.m3u8
+#EXTINF:-1 group-title="大陆" tvg-name="河北音乐广播",河北音乐广播
+http://satellitepull.cnr.cn/live/wxhebyygb/playlist.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="河南农村广播大象资讯台",河南农村广播大象资讯台
 http://satellitepull.cnr.cn/live/wxhnxwgb/playlist.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="河南卫视",河南卫视
@@ -203,8 +197,8 @@ http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
 http://satellitepull.cnr.cn/live/wxzjzs/playlist.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="浙江交通之声",浙江交通之声
 http://satellitepull.cnr.cn/live/wxzjjtgb/playlist.m3u8
-#EXTINF:-1 group-title="大陆" tvg-name="浙江卫视4K",浙江卫视4K
-http://ali-xwl.cztv.com/live/channel4k2160p.m3u8
+#EXTINF:-1 group-title="大陆" tvg-name="浙江卫视",浙江卫视
+http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="浙江城市之声",浙江城市之声
 http://satellitepull.cnr.cn/live/wxzjcszs/playlist.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="浙江旅游之声",浙江旅游之声
@@ -215,8 +209,6 @@ http://satellitepull.cnr.cn/live/wxzjmsgb/playlist.m3u8
 http://satellitepull.cnr.cn/live/wxzjjjgb/playlist.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="浙江音乐调频·动听968",浙江音乐调频·动听968
 http://satellitepull.cnr.cn/live/wxzj968/playlist.m3u8
-#EXTINF:-1 group-title="大陆" tvg-name="海南交通广播",海南交通广播
-http://satellitepull.cnr.cn/live/wxhainjtgb/playlist.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="海南卫视",海南卫视
 http://satellitepull.cnr.cn/live/wxhainlyws/playlist.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="海南音乐广播",海南音乐广播
@@ -233,25 +225,25 @@ http://satellitepull.cnr.cn/live/wx32hubzsgb/playlist.m3u8
 http://satellitepull.cnr.cn/live/wxhebwygb/playlist.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="湖北卫视",湖北卫视
 http://by4.nty.tv189.cn/live/tm-dxhbws-4000k.m3u8
-#EXTINF:-1 group-title="大陆" tvg-name="湖北经典音乐广播",湖北经典音乐广播
-http://satellitepull.cnr.cn/live/wx32hubyygb/playlist.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="湖南卫视",湖南卫视
 http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
+#EXTINF:-1 group-title="大陆" tvg-name="湖南综合广播",湖南综合广播
+http://satellitepull.cnr.cn/live/wx32hunxwgb/playlist.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="甘肃卫视",甘肃卫视
 http://satellitepull.cnr.cn/live/wxgsws/playlist.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="甘肃新闻综合广播",甘肃新闻综合广播
 http://satellitepull.cnr.cn/live/wxgsxwzhgb/playlist.m3u8
+#EXTINF:-1 group-title="大陆" tvg-name="甘肃经济广播",甘肃经济广播
+http://satellitepull.cnr.cn/live/wxgshhzs/playlist.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="福州音乐广播",福州音乐广播
 http://satellitepull.cnr.cn/live/wx32qhjtyygb/playlist.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="福建东南广播",福建东南广播
 http://satellitepull.cnr.cn/live/wx32fjdngb/playlist.m3u8
-#EXTINF:-1 group-title="大陆" tvg-name="福建新闻",福建新闻
+#EXTINF:-1 group-title="大陆" tvg-name="福建新闻广播",福建新闻广播
 http://satellitepull.cnr.cn/live/wx32fjxwgb/playlist.m3u8
-#EXTINF:-1 group-title="大陆" tvg-name="福建经济",福建经济
-http://satellitepull.cnr.cn/live/wx32fjdnjjgb/playlist.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="福建都市广播·私家车987",福建都市广播·私家车987
 http://satellitepull.cnr.cn/live/wx32fjdndsgb/playlist.m3u8
-#EXTINF:-1 group-title="大陆" tvg-name="第一财经",第一财经
+#EXTINF:-1 group-title="大陆" tvg-name="第一财经广播",第一财经广播
 http://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="西藏卫视",西藏卫视
 http://satellitepull.cnr.cn/live/wxxzws/playlist.m3u8
@@ -263,18 +255,24 @@ http://satellitepull.cnr.cn/live/wx32gzgsgb/playlist.m3u8
 http://satellitepull.cnr.cn/live/wx32gzlygb/playlist.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="贵州经济广播",贵州经济广播
 http://satellitepull.cnr.cn/live/wx32gzjjgb/playlist.m3u8
+#EXTINF:-1 group-title="大陆" tvg-name="贵州综合广播",贵州综合广播
+http://satellitepull.cnr.cn/live/wx32gzwxwzhgb/playlist.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="贵州都市广播",贵州都市广播
 http://satellitepull.cnr.cn/live/wx32gzqcgb/playlist.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="贵州音乐广播",贵州音乐广播
 http://satellitepull.cnr.cn/live/wx32gzyygb/playlist.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="辽宁之声",辽宁之声
 http://satellitepull.cnr.cn/live/wxlnzhgb/playlist.m3u8
+#EXTINF:-1 group-title="大陆" tvg-name="辽宁乡村广播",辽宁乡村广播
+http://satellitepull.cnr.cn/live/wxlnxcgb/playlist.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="辽宁交通广播",辽宁交通广播
 http://satellitepull.cnr.cn/live/wxlnjtgb/playlist.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="辽宁卫视",辽宁卫视
 http://satellitepull.cnr.cn/live/wxlnws/playlist.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="辽宁经济广播",辽宁经济广播
 http://satellitepull.cnr.cn/live/wxlnjjtb/playlist.m3u8
+#EXTINF:-1 group-title="大陆" tvg-name="重庆之声",重庆之声
+http://satellitepull.cnr.cn/live/wxcqxwgb/playlist.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="重庆卫视",重庆卫视
 http://satellitepull.cnr.cn/live/wxcqws/playlist.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="陕西农村广播",陕西农村广播
@@ -286,7 +284,7 @@ http://satellitepull.cnr.cn/live/wxsxxxwgb/playlist.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="陕西经济广播·896汽车调频",陕西经济广播·896汽车调频
 http://satellitepull.cnr.cn/live/wxsxxjjgb/playlist.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="陕西音乐广播·快乐988",陕西音乐广播·快乐988
-http://satellitepull.cnr.cn/live/wxsxxqcgb/playlist.m3u8
+http://satellitepull.cnr.cn/live/wxsxxyygb/playlist.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="青海卫视",青海卫视
 http://satellitepull.cnr.cn/live/wx32qhws/playlist.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="青海新闻综合广播",青海新闻综合广播
@@ -297,6 +295,8 @@ http://satellitepull.cnr.cn/live/wx32qhjjgb/playlist.m3u8
 https://idclive.hljtv.com:4430/live/hljws_own.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="黑龙江朝鲜语广播",黑龙江朝鲜语广播
 http://satellitepull.cnr.cn/live/wx32hljcygb/playlist.m3u8
+#EXTINF:-1 group-title="大陆" tvg-name="黑龙江生活广播",黑龙江生活广播
+http://satellitepull.cnr.cn/live/wx32hljgxgb/playlist.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="黑龙江老年少儿广播·爱家调频",黑龙江老年少儿广播·爱家调频
 http://satellitepull.cnr.cn/live/wx32hljajgb/playlist.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="黑龙江音乐广播",黑龙江音乐广播
@@ -309,24 +309,16 @@ https://live.wcetv.com/hls/master-ttvnews.m3u8
 http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 #EXTINF:-1 group-title="港澳台" tvg-name="Taiwan Indigenous TV (720p)",Taiwan Indigenous TV (720p)
 https://streamipcfapp.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-name="Viutv",Viutv
-https://10.fast.hidns.vip/163189/viu/
-#EXTINF:-1 group-title="港澳台" tvg-name="三立新闻",三立新闻
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-name="东森超视",东森超视
-http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-name="凤凰香港",凤凰香港
-https://epg.pw/stream/5f16dc7fc8aaaed3205516c63e4a8c24bca9dbba1181684244729cf574505b0e.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-name="明珠台",明珠台
-http://cdn9.163189.xyz/smt1.1.php?id=pearl_twn
 #EXTINF:-1 group-title="港澳台" tvg-name="香港卫视",香港卫视
 https://piccpndali.v.myalicdn.com/audio/xianggangweishi_2.m3u8
 #EXTINF:-1 group-title="体育" tvg-name="5Sport",5Sport
 https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5/live.livx/playlist.m3u8
+#EXTINF:-1 group-title="体育" tvg-name="AntenaSport",AntenaSport
+https://stream1.antenaplay.ro/as/AS.ro/chunklist.m3u8
 #EXTINF:-1 group-title="体育" tvg-name="CBS Sports HQ (720p)",CBS Sports HQ (720p)
 https://jmp2.uk/plu-5e9f2c05172a0f0007db4786.m3u8
-#EXTINF:-1 group-title="体育" tvg-name="CCTV-5+ 体育赛事",CCTV-5+ 体育赛事
-https://piccpndali.v.myalicdn.com/audio/cctv5plus_2.m3u8
+#EXTINF:-1 group-title="体育" tvg-name="CCTV-5 体育",CCTV-5 体育
+https://piccpndali.v.myalicdn.com/audio/cctv5_2.m3u8
 #EXTINF:-1 group-title="体育" tvg-name="Canal+ Sport (1080p) [Geo-blocked]",Canal+ Sport (1080p) [Geo-blocked]
 http://tv.streambox.fr/live/testlivestream/testlivestream/31.m3u8
 #EXTINF:-1 group-title="体育" tvg-name="DAZN Combat (684p)",DAZN Combat (684p)
@@ -337,10 +329,10 @@ https://jmp2.uk/plu-64b67f0424ade50008a3be17.m3u8
 https://jmp2.uk/plu-64afe50c5dc16600087f3227.m3u8
 #EXTINF:-1 group-title="体育" tvg-name="DraftKings Network (1080p)",DraftKings Network (1080p)
 https://na.linear.zype.com/e0bd0e23-a958-4e43-8164-4f2fef8876a8/fd3614bd-90bf-4530-a277-65ae3a1720c8-zype/live.m3u8
-#EXTINF:-1 group-title="体育" tvg-name="ESPN Premium",ESPN Premium
-http://45.134.141.161:2200/ARG/ESPN_Premium_Argentina_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="体育" tvg-name="ESPN8: The Ocho (1080p)",ESPN8: The Ocho (1080p)
 https://d3b6q2ou5kp8ke.cloudfront.net/ESPNTheOcho.m3u8
+#EXTINF:-1 group-title="体育" tvg-name="Eurovision Sport (1080p)",Eurovision Sport (1080p)
+https://amg26268-amg26268c34-amgplt0018.playout.now3.amagi.tv/ts-us-e2-n1/playlist/amg26268-amg26268c34-amgplt0018/playlist.m3u8
 #EXTINF:-1 group-title="体育" tvg-name="FITE 24/7 (1080p)",FITE 24/7 (1080p)
 https://d3d85c7qkywguj.cloudfront.net/scheduler/scheduleMaster/263.m3u8
 #EXTINF:-1 group-title="体育" tvg-name="FightBox (720p)",FightBox (720p)
@@ -463,12 +455,8 @@ https://tvsen6.aynaott.com/beinsports/index.m3u8
 http://31.148.5.241/Viasat_Sport/index.m3u8
 #EXTINF:-1 group-title="体育" tvg-name="山东体育休闲广播",山东体育休闲广播
 http://satellitepull.cnr.cn/live/wxsdtyxxgb/playlist.m3u8
-#EXTINF:-1 group-title="体育" tvg-name="广东体育",广东体育
-https://epg.pw/stream/7b470f9fc5c305db0c8622117b7b25ca00eb35ba3e93e865cf0ff9df5c736681.m3u8
 #EXTINF:-1 group-title="体育" tvg-name="精品体育",精品体育
 http://ott.mobaibox.com/PLTV/3/224/3221227615/index.m3u8
-#EXTINF:-1 group-title="体育" tvg-name="纬来体育",纬来体育
-https://epg.pw/stream/ab6df63b64d0cc44a1f4f029ed847a26fa54a7aebd455578fb05a63f02c22f4b.m3u8
 #EXTINF:-1 group-title="体育" tvg-name="陕西体育休闲",陕西体育休闲
 http://gxlive.snrtv.com/sx7-SD.m3u8
 #EXTINF:-1 group-title="体育" tvg-name="青岛音乐体育广播",青岛音乐体育广播
@@ -501,8 +489,6 @@ https://n-5-1.eu.cdn-redge.media/livehls/oeu/mt/live/bbc_two/live.livx/playlist.
 https://ciner.daioncdn.net/bloomberght/bloomberght_720p.m3u8
 #EXTINF:-1 group-title="美英" tvg-name="Bloomberg TV",Bloomberg TV
 http://content.uplynk.com/channel/328d1434fb51476cb6567c74d5b2cc70.m3u8
-#EXTINF:-1 group-title="美英" tvg-name="Bloomberg TV+",Bloomberg TV+
-http://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
 #EXTINF:-1 group-title="美英" tvg-name="Bravo (720p)",Bravo (720p)
 http://41.205.93.154/BRAVO/index.m3u8
 #EXTINF:-1 group-title="美英" tvg-name="CBS News 24/7 (720p)",CBS News 24/7 (720p)
@@ -515,6 +501,8 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 https://amg01079-nbcuuk-amg01079c2-samsung-gb-1258.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="美英" tvg-name="CNN (720p)",CNN (720p)
 https://tvsen6.aynaott.com/cnn/index.m3u8
+#EXTINF:-1 group-title="美英" tvg-name="CNN Originals (1080p)",CNN Originals (1080p)
+https://amg01918-cnnus-amg01918c2-vizio-us-9192.playouts.now.amagi.tv/playlist/amg01918-cnnus-cnnoriginals-vizious/playlist.m3u8
 #EXTINF:-1 group-title="美英" tvg-name="CNN en Espanol (1080p)",CNN en Espanol (1080p)
 https://amg00803-cnnfast-amg00803c3-lg-es-5477.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="美英" tvg-name="CSI: Crime Scene Investigation",CSI: Crime Scene Investigation
@@ -623,6 +611,8 @@ https://rpn.bozztv.com/gusa/gusa-tvstravel/index.m3u8
 https://d6ef3usc6d9cl.cloudfront.net/Tastemade_Travel.m3u8
 #EXTINF:-1 group-title="美英" tvg-name="Thai PBS 3",Thai PBS 3
 http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
+#EXTINF:-1 group-title="美英" tvg-name="The Weather Channel (1080p)",The Weather Channel (1080p)
+https://twcprod-live.twc-tv.com/v1/manifest/b4d4d63a49309cc5140171fb2e92485c31be1e9e/DSP_6228e4760505741a116f1ba2_twcprod-live/6bf09ce5-366b-463c-b67e-c4b799f73c3f/4.m3u8
 #EXTINF:-1 group-title="美英" tvg-name="VH1 Queens of Reality",VH1 Queens of Reality
 https://jmp2.uk/plu-66abefe5d2d50d00082c7d12.m3u8
 #EXTINF:-1 group-title="美英" tvg-name="Yichang Sanxia Travel & Life Channel",Yichang Sanxia Travel & Life Channel
@@ -643,8 +633,6 @@ https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
 https://rpn.bozztv.com/gusa/gusa-classiccinema/index.m3u8
 #EXTINF:-1 group-title="电影" tvg-name="EBS Cinema (720p)",EBS Cinema (720p)
 https://rpn.bozztv.com/ebstv/ebscinema/index.m3u8
-#EXTINF:-1 group-title="电影" tvg-name="Girlfriends Films",Girlfriends Films
-https://jmp2.uk/plu-66ba1e4446762a000855cd87.m3u8
 #EXTINF:-1 group-title="电影" tvg-name="Gravitas Movies (1080p)",Gravitas Movies (1080p)
 https://d6dg3ebeih71x.cloudfront.net/Gravitas_Movies.m3u8
 #EXTINF:-1 group-title="电影" tvg-name="Harbin Movie Channel",Harbin Movie Channel
@@ -661,26 +649,30 @@ https://appletree-mytimeuk-rakuten.amagi.tv/playlist.m3u8
 https://appletree-mytimeau-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="电影" tvg-name="NEW K.MOVIES (1080p)",NEW K.MOVIES (1080p)
 https://ads.its-newid.net/api/manifest.m3u8?ads.service_id=GB1700007PK&channel_id=newid_343&tp=samsung_tvplus
-#EXTINF:-1 group-title="电影" tvg-name="NewTV动作电影",NewTV动作电影
-http://ott.mobaibox.com/PLTV/3/224/3221227606/index.m3u8
 #EXTINF:-1 group-title="电影" tvg-name="Rakuten TV Family Movies UK (1080p)",Rakuten TV Family Movies UK (1080p)
 https://e3207568b726401995c25670faaf32e4.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6203/master.m3u8
-#EXTINF:-1 group-title="电影" tvg-name="TVS Classic Movies (288p)",TVS Classic Movies (288p)
-https://rpn.bozztv.com/gusa/gusa-tvsclassicmovies/index.m3u8
+#EXTINF:-1 group-title="电影" tvg-name="TVS Drive In Movie (360p)",TVS Drive In Movie (360p)
+https://rpn.bozztv.com/gusa/gusa-tvsdriveinmovie/index.m3u8
 #EXTINF:-1 group-title="电影" tvg-name="TVS Nostalgia Movies (480p)",TVS Nostalgia Movies (480p)
 https://rpn.bozztv.com/gusa/gusa-tvsNostalgiaMovies/index.m3u8
 #EXTINF:-1 group-title="电影" tvg-name="TVS Western Movie (270p)",TVS Western Movie (270p)
 https://rpn.bozztv.com/gusa/gusa-tvswesternmovies/index.m3u8
+#EXTINF:-1 group-title="电影" tvg-name="Whiplash Cinema (480p)",Whiplash Cinema (480p)
+https://cdn.whiplash.cc/whiplash-cinema/index.m3u8
 #EXTINF:-1 group-title="电影" tvg-name="上虞文化影院",上虞文化影院
-http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8
+http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8?zzhed
 #EXTINF:-1 group-title="电影" tvg-name="东阳影视生活",东阳影视生活
 http://l.cztvcloud.com/channels/lantian/SXdongyang1/720p.m3u8
 #EXTINF:-1 group-title="电影" tvg-name="刘德华电影",刘德华电影
 https://live.metshop.top/huya/11342424
+#EXTINF:-1 group-title="电影" tvg-name="功夫电影",功夫电影
+https://live.metshop.top/huya/11352941
+#EXTINF:-1 group-title="电影" tvg-name="动作电影",动作电影
+http://ott.mobaibox.com/PLTV/3/224/3221227606/index.m3u8
 #EXTINF:-1 group-title="电影" tvg-name="古天乐电影",古天乐电影
 https://live.metshop.top/huya/29982675
 #EXTINF:-1 group-title="电影" tvg-name="句容影视频道",句容影视频道
-http://jrlive.jrntv.com:80/live/yingshi/playlist.m3u8
+http://jrlive.jrntv.com/live/_definst_/yingshis/playlist.m3u8
 #EXTINF:-1 group-title="电影" tvg-name="句容影院",句容影院
 http://jrlive.jrntv.com/live/_definst_/yingshis/chunklist_w1994429382.m3u8?zjiangsd
 #EXTINF:-1 group-title="电影" tvg-name="句容影院频道",句容影院频道
@@ -699,16 +691,18 @@ https://live.metshop.top/huya/21059581
 https://live.metshop.top/huya/21059577
 #EXTINF:-1 group-title="电影" tvg-name="成龙电影",成龙电影
 https://live.metshop.top/huya/11342386
+#EXTINF:-1 group-title="电影" tvg-name="战争电影",战争电影
+https://live.metshop.top/huya/21059574
 #EXTINF:-1 group-title="电影" tvg-name="明星大片",明星大片
 http://ott.mobaibox.com/PLTV/3/224/3221227594/index.m3u8
 #EXTINF:-1 group-title="电影" tvg-name="李连杰电影",李连杰电影
 https://live.metshop.top/huya/11342390
 #EXTINF:-1 group-title="电影" tvg-name="林正英电影",林正英电影
 https://live.metshop.top/huya/11342421
-#EXTINF:-1 group-title="电影" tvg-name="枪战电影",枪战电影
-https://live.metshop.top/huya/21059579
 #EXTINF:-1 group-title="电影" tvg-name="武侠电影",武侠电影
 https://live.metshop.top/huya/11342427
+#EXTINF:-1 group-title="电影" tvg-name="沈腾电影",沈腾电影
+https://live.metshop.top/huya/11601968
 #EXTINF:-1 group-title="电影" tvg-name="烟台影视频道",烟台影视频道
 http://live.yantaitv.cn/live/e9f1d9045d474c31884d13fa4ffbbd16/a4a9b3704d854756907845107cc56129-1.m3u8
 #EXTINF:-1 group-title="电影" tvg-name="狄仁杰电影",狄仁杰电影
@@ -719,26 +713,22 @@ https://live.metshop.top/huya/11342414
 https://live.metshop.top/huya/11602058
 #EXTINF:-1 group-title="电影" tvg-name="甄子丹电影",甄子丹电影
 https://live.metshop.top/huya/11352935
-#EXTINF:-1 group-title="电影" tvg-name="电影丧尸片",电影丧尸片
-http://live.metshop.top/huya/21059578?cdn=alicdn
 #EXTINF:-1 group-title="电影" tvg-name="电影八点档",电影八点档
 http://live.metshop.top/huya/880261?cdn=alicdn
+#EXTINF:-1 group-title="电影" tvg-name="电影功夫片",电影功夫片
+http://live.metshop.top/huya/11352941?cdn=alicdn
 #EXTINF:-1 group-title="电影" tvg-name="电影动作电影",电影动作电影
 http://live.metshop.top/huya/11602077?cdn=alicdn
-#EXTINF:-1 group-title="电影" tvg-name="电影嫣然影厅",电影嫣然影厅
-http://live.metshop.top/huya/11601977?cdn=alicdn
 #EXTINF:-1 group-title="电影" tvg-name="电影战争片",电影战争片
 http://live.metshop.top/huya/21059574?cdn=alicdn
 #EXTINF:-1 group-title="电影" tvg-name="电影搞笑喜剧",电影搞笑喜剧
 http://live.metshop.top/huya/11342423?cdn=alicdn
-#EXTINF:-1 group-title="电影" tvg-name="电影梁家辉",电影梁家辉
-http://live.metshop.top/huya/11342429?cdn=alicdn
-#EXTINF:-1 group-title="电影" tvg-name="电影犯罪片",电影犯罪片
-http://live.metshop.top/huya/11352974?cdn=alicdn
 #EXTINF:-1 group-title="电影" tvg-name="电影蜘蛛侠",电影蜘蛛侠
 http://live.metshop.top/huya/21059599?cdn=alicdn
-#EXTINF:-1 group-title="电影" tvg-name="电影谍战",电影谍战
-http://live.metshop.top/huya/21059585?cdn=alicdn
+#EXTINF:-1 group-title="电影" tvg-name="电影谍战片",电影谍战片
+http://live.metshop.top/huya/21059587?cdn=alicdn
+#EXTINF:-1 group-title="电影" tvg-name="电影贺岁",电影贺岁
+http://live.metshop.top/huya/11601971?cdn=alicdn
 #EXTINF:-1 group-title="电影" tvg-name="电影高分动作",电影高分动作
 http://live.metshop.top/huya/11352884?cdn=alicdn
 #EXTINF:-1 group-title="电影" tvg-name="绍兴文化影视",绍兴文化影视
