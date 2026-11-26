@@ -8,25 +8,25 @@ https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="CCTV-10 科教",CCTV-10 科教
 https://piccpndali.v.myalicdn.com/audio/cctv10_2.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="CCTV-11 戏曲",CCTV-11 戏曲
-http://223.110.236.7/ott.js.chinamobile.com/PLTV/3/224/3221227720/index.m3u8
+https://piccpndali.v.myalicdn.com/audio/cctv11_2.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="CCTV-12 社会与法",CCTV-12 社会与法
 https://piccpndali.v.myalicdn.com/audio/cctv12_2.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="CCTV-14 少儿",CCTV-14 少儿
-http://223.110.235.10/ott.js.chinamobile.com/PLTV/3/224/3221227656/index.m3u8
+https://piccpndali.v.myalicdn.com/audio/cctv14_2.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="CCTV-15 音乐",CCTV-15 音乐
-http://223.110.235.10/ott.js.chinamobile.com/PLTV/3/224/3221227723/index.m3u8
-#EXTINF:-1 group-title="大陆" tvg-name="CCTV-16 奥林匹克 4K",CCTV-16 奥林匹克 4K
-http://223.110.235.9/ott.js.chinamobile.com/TVOD/3/224/3221228168/index.m3u8
+https://piccpndali.v.myalicdn.com/audio/cctv15_2.m3u8
+#EXTINF:-1 group-title="大陆" tvg-name="CCTV-16 奥林匹克",CCTV-16 奥林匹克
+https://piccpndali.v.myalicdn.com/audio/cctv16_2.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="CCTV-17 农业农村",CCTV-17 农业农村
-http://223.110.235.10/ott.js.chinamobile.com/PLTV/3/224/3221227726/index.m3u8
-#EXTINF:-1 group-title="大陆" tvg-name="CCTV-4K UHD",CCTV-4K UHD
-http://223.110.236.8/ott.js.chinamobile.com/PLTV/3/224/3221228242/index.m3u8
+https://piccpndali.v.myalicdn.com/audio/cctv17_2.m3u8
+#EXTINF:-1 group-title="大陆" tvg-name="CCTV-4 中文国际 美洲",CCTV-4 中文国际 美洲
+https://piccpndali.v.myalicdn.com/audio/cctvamerica_2.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="CCTV-6 电影",CCTV-6 电影
 https://piccpndali.v.myalicdn.com/audio/cctv6_2.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="CCTV-7 国防军事",CCTV-7 国防军事
 https://piccpndali.v.myalicdn.com/audio/cctv7_2.m3u8
-#EXTINF:-1 group-title="大陆" tvg-name="CCTV-8K 超高清",CCTV-8K 超高清
-http://ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
+#EXTINF:-1 group-title="大陆" tvg-name="CCTV-8 电视剧",CCTV-8 电视剧
+https://piccpndali.v.myalicdn.com/audio/cctv8_2.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="CCTV13",CCTV13
 http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="CCTV1综合",CCTV1综合
@@ -47,8 +47,6 @@ https://english-livebkali.cgtn.com/live/doccgtn.m3u8
 https://0472.org/hls/cgtne.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="CGTN法语",CGTN法语
 http://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd.m3u8
-#EXTINF:-1 group-title="大陆" tvg-name="CGTN英语",CGTN英语
-https://0472.org/hls/cgtn.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="CGTN西语",CGTN西语
 https://0472.org/hls/cgtnx.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="CGTN记录",CGTN记录
@@ -69,8 +67,6 @@ http://satellitepull.cnr.cn/live/wxynxwgb/playlist.m3u8
 http://satellitepull.cnr.cn/live/wxynmzgb/playlist.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="云南经济广播·私家车电台",云南经济广播·私家车电台
 http://satellitepull.cnr.cn/live/wxynjjgb/playlist.m3u8
-#EXTINF:-1 group-title="大陆" tvg-name="云南音乐广播",云南音乐广播
-http://satellitepull.cnr.cn/live/wxynyygb/playlist.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="人间卫视",人间卫视
 https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="内蒙古农村牧区广播绿野之声",内蒙古农村牧区广播绿野之声
@@ -101,14 +97,14 @@ http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
 http://satellitepull.cnr.cn/live/wxjlxwzhgb/playlist.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="四川卫视",四川卫视
 http://satellitepull.cnr.cn/live/wxscws/playlist.m3u8
+#EXTINF:-1 group-title="大陆" tvg-name="四川新闻广播",四川新闻广播
+http://satellitepull.cnr.cn/live/wxscjtgb/playlist.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="四川综合广播四川之声",四川综合广播四川之声
 http://satellitepull.cnr.cn/live/wxsczhgb/playlist.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="天津卫视",天津卫视
 http://satellitepull.cnr.cn/live/wxtjws/playlist.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="宁夏卫视",宁夏卫视
 http://satellitepull.cnr.cn/live/wxnxws/playlist.m3u8
-#EXTINF:-1 group-title="大陆" tvg-name="宁夏新闻广播",宁夏新闻广播
-http://satellitepull.cnr.cn/live/wxnxxwgb/playlist.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="宁夏音乐广播",宁夏音乐广播
 http://satellitepull.cnr.cn/live/wxnxyygb/playlist.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="安多卫视",安多卫视
@@ -129,12 +125,12 @@ http://satellitepull.cnr.cn/live/wxahlygb/playlist.m3u8
 http://satellitepull.cnr.cn/live/wxahshgb/playlist.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="安徽经济广播",安徽经济广播
 http://satellitepull.cnr.cn/live/wxahjjgb/playlist.m3u8
+#EXTINF:-1 group-title="大陆" tvg-name="山东乡村广播",山东乡村广播
+http://satellitepull.cnr.cn/live/wxsdxcgb/playlist.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="山东卫视",山东卫视
 http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="山东教育卫视",山东教育卫视
 http://livewai.sdetv.com.cn/live/da4ebbb91ee8468db5a9d230a535391f_transios/playlist.m3u8
-#EXTINF:-1 group-title="大陆" tvg-name="山东经济广播",山东经济广播
-http://satellitepull.cnr.cn/live/wxsdjjgb/playlist.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="山东综合广播",山东综合广播
 http://satellitepull.cnr.cn/live/wxsdjtgb/playlist.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="山西卫视",山西卫视
@@ -156,7 +152,7 @@ http://satellitepull.cnr.cn/live/wx32gxrmgb/playlist.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="广西音乐广播",广西音乐广播
 http://satellitepull.cnr.cn/live/wx32gxwygb/playlist.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="延边卫视",延边卫视
-https://srs.iyb983.cn:443/video/CYS/index.m3u8
+https://srs.iyb983.cn/video/CYS/index.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="延边新闻广播",延边新闻广播
 http://satellitepull.cnr.cn/live/wxybxwgb/playlist.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="新疆卫视",新疆卫视
@@ -185,18 +181,12 @@ http://satellitepull.cnr.cn/live/wx32jsyygb/playlist.m3u8
 http://satellitepull.cnr.cn/live/wx32jiangxws/playlist.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="江西综合新闻广播",江西综合新闻广播
 http://satellitepull.cnr.cn/live/wx32jiangxxwgb/playlist.m3u8
-#EXTINF:-1 group-title="大陆" tvg-name="河北交通广播",河北交通广播
-http://satellitepull.cnr.cn/live/wxhebjtgb/playlist.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="河北卫视",河北卫视
 http://event.pull.hebtv.com/jishi/weishi_tingyun.m3u8
-#EXTINF:-1 group-title="大陆" tvg-name="河北生活广播",河北生活广播
-http://satellitepull.cnr.cn/live/wxhebshgb/playlist.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="河北经济广播",河北经济广播
 http://satellitepull.cnr.cn/live/wxhebjjgb/playlist.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="河北综合广播",河北综合广播
 http://satellitepull.cnr.cn/live/wxhebzhgb/playlist.m3u8
-#EXTINF:-1 group-title="大陆" tvg-name="河北音乐广播",河北音乐广播
-http://satellitepull.cnr.cn/live/wxhebyygb/playlist.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="河南农村广播大象资讯台",河南农村广播大象资讯台
 http://satellitepull.cnr.cn/live/wxhnxwgb/playlist.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="河南卫视",河南卫视
@@ -205,8 +195,8 @@ http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
 http://satellitepull.cnr.cn/live/wxzjzs/playlist.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="浙江交通之声",浙江交通之声
 http://satellitepull.cnr.cn/live/wxzjjtgb/playlist.m3u8
-#EXTINF:-1 group-title="大陆" tvg-name="浙江卫视",浙江卫视
-http://ali-xwl.cztv.com/live/channel01720Plxw.m3u8
+#EXTINF:-1 group-title="大陆" tvg-name="浙江卫视4K",浙江卫视4K
+http://ali-xwl.cztv.com/live/channel4k2160p.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="浙江城市之声",浙江城市之声
 http://satellitepull.cnr.cn/live/wxzjcszs/playlist.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="浙江旅游之声",浙江旅游之声
@@ -215,8 +205,8 @@ http://satellitepull.cnr.cn/live/wxzj1045/playlist.m3u8
 http://satellitepull.cnr.cn/live/wxzjmsgb/playlist.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="浙江经济广播",浙江经济广播
 http://satellitepull.cnr.cn/live/wxzjjjgb/playlist.m3u8
-#EXTINF:-1 group-title="大陆" tvg-name="浙江经济生活",浙江经济生活
-http://ali-xwl.cztv.com/live/channel03720Plxw.m3u8
+#EXTINF:-1 group-title="大陆" tvg-name="浙江音乐调频·动听968",浙江音乐调频·动听968
+http://satellitepull.cnr.cn/live/wxzj968/playlist.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="海南交通广播",海南交通广播
 http://satellitepull.cnr.cn/live/wxhainjtgb/playlist.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="海南卫视",海南卫视
@@ -225,6 +215,8 @@ http://satellitepull.cnr.cn/live/wxhainlyws/playlist.m3u8
 http://satellitepull.cnr.cn/live/wxhainyygb/playlist.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="深圳卫视",深圳卫视
 http://satellitepull.cnr.cn/live/wxszws/playlist.m3u8
+#EXTINF:-1 group-title="大陆" tvg-name="深圳生活942",深圳生活942
+http://satellitepull.cnr.cn/live/wxszsjcgb/playlist.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="深圳飞扬971",深圳飞扬971
 http://satellitepull.cnr.cn/live/wxszfy971/playlist.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="湖北之声",湖北之声
@@ -249,6 +241,8 @@ http://satellitepull.cnr.cn/live/wx32qhjtyygb/playlist.m3u8
 http://satellitepull.cnr.cn/live/wx32fjdngb/playlist.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="福建新闻",福建新闻
 http://satellitepull.cnr.cn/live/wx32fjxwgb/playlist.m3u8
+#EXTINF:-1 group-title="大陆" tvg-name="福建海峡卫视",福建海峡卫视
+http://r.jdshipin.com/WtYt3
 #EXTINF:-1 group-title="大陆" tvg-name="福建都市广播·私家车987",福建都市广播·私家车987
 http://satellitepull.cnr.cn/live/wx32fjdndsgb/playlist.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="第一财经",第一财经
@@ -261,10 +255,14 @@ http://satellitepull.cnr.cn/live/wx32gzws/playlist.m3u8
 http://satellitepull.cnr.cn/live/wx32gzgsgb/playlist.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="贵州旅游广播",贵州旅游广播
 http://satellitepull.cnr.cn/live/wx32gzlygb/playlist.m3u8
+#EXTINF:-1 group-title="大陆" tvg-name="贵州经济广播",贵州经济广播
+http://satellitepull.cnr.cn/live/wx32gzjjgb/playlist.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="贵州综合广播",贵州综合广播
 http://satellitepull.cnr.cn/live/wx32gzwxwzhgb/playlist.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="贵州都市广播",贵州都市广播
 http://satellitepull.cnr.cn/live/wx32gzqcgb/playlist.m3u8
+#EXTINF:-1 group-title="大陆" tvg-name="贵州音乐广播",贵州音乐广播
+http://satellitepull.cnr.cn/live/wx32gzyygb/playlist.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="辽宁之声",辽宁之声
 http://satellitepull.cnr.cn/live/wxlnzhgb/playlist.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="辽宁乡村广播",辽宁乡村广播
@@ -273,8 +271,8 @@ http://satellitepull.cnr.cn/live/wxlnxcgb/playlist.m3u8
 http://satellitepull.cnr.cn/live/wxlnjtgb/playlist.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="辽宁卫视",辽宁卫视
 http://satellitepull.cnr.cn/live/wxlnws/playlist.m3u8
-#EXTINF:-1 group-title="大陆" tvg-name="重庆之声",重庆之声
-http://satellitepull.cnr.cn/live/wxcqxwgb/playlist.m3u8
+#EXTINF:-1 group-title="大陆" tvg-name="辽宁经济广播",辽宁经济广播
+http://satellitepull.cnr.cn/live/wxlnjjtb/playlist.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="重庆卫视",重庆卫视
 http://satellitepull.cnr.cn/live/wxcqws/playlist.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="重庆都市广播·私家车938",重庆都市广播·私家车938
@@ -299,6 +297,8 @@ https://idclive.hljtv.com:4430/live/hljws_own.m3u8
 http://satellitepull.cnr.cn/live/wx32hljcygb/playlist.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="黑龙江生活广播",黑龙江生活广播
 http://satellitepull.cnr.cn/live/wx32hljgxgb/playlist.m3u8
+#EXTINF:-1 group-title="大陆" tvg-name="黑龙江老年少儿广播·爱家调频",黑龙江老年少儿广播·爱家调频
+http://satellitepull.cnr.cn/live/wx32hljajgb/playlist.m3u8
 #EXTINF:-1 group-title="大陆" tvg-name="黑龙江音乐广播",黑龙江音乐广播
 http://satellitepull.cnr.cn/live/wx32hljyygb/playlist.m3u8
 #EXTINF:-1 group-title="港澳台" tvg-name="TTV News",TTV News
@@ -307,8 +307,6 @@ https://live.wcetv.com/hls/master-ttvnews.m3u8
 http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 #EXTINF:-1 group-title="港澳台" tvg-name="Taiwan Indigenous TV (720p)",Taiwan Indigenous TV (720p)
 https://streamipcfapp.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-name="Viutv",Viutv
-https://10.fast.hidns.vip/163189/viu/
 #EXTINF:-1 group-title="港澳台" tvg-name="三立新闻",三立新闻
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
 #EXTINF:-1 group-title="港澳台" tvg-name="东森超视",东森超视
@@ -316,7 +314,9 @@ http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
 #EXTINF:-1 group-title="港澳台" tvg-name="凤凰香港",凤凰香港
 https://epg.pw/stream/5f16dc7fc8aaaed3205516c63e4a8c24bca9dbba1181684244729cf574505b0e.m3u8
 #EXTINF:-1 group-title="港澳台" tvg-name="明珠台",明珠台
-http://cdn9.163189.xyz/smt1.1.php?id=pearl_twn
+http://r.jdshipin.com/jUx8K
+#EXTINF:-1 group-title="港澳台" tvg-name="翡翠台",翡翠台
+http://r.jdshipin.com/62WM7
 #EXTINF:-1 group-title="港澳台" tvg-name="香港卫视",香港卫视
 https://piccpndali.v.myalicdn.com/audio/xianggangweishi_2.m3u8
 #EXTINF:-1 group-title="咪咕" tvg-name="CCTV11戏曲",CCTV11戏曲
@@ -403,6 +403,102 @@ http://hlszymgsplive.miguvideo.com:8080/wd_r3/cnr/faxianzhilv/2000/index.m3u8?ms
 http://hlszymgsplive.miguvideo.com:8080/envivo_v/2018/SD/jilin/1000/index.m3u8?msisdn=20260202125358557709ced2d64a319c9a76ea9f961114&mdspid=&spid=600633&netType=0&sid=5910022164&pid=2028597139&timestamp=20260202125358&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=947472500&ParentNodeID=-99&assertID=5910022164&client_ip=47.92.198.45&SecurityKey=20260202125358&promotionId=&mvid=5900004357&mcid=500020&playurlVersion=ZQ-A1-9.1.1.3-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=6b215487d34ed27d0f14a9d58082bf7f&sv=10004&ct=android
 #EXTINF:-1 group-title="咪咕" tvg-name="和美乡途轮播台",和美乡途轮播台
 http://hlszymgsplive.miguvideo.com:8080/migu/virtuallive2/5900002411/51/20210706/index.m3u8?msisdn=202602021254411054289ea00e4af6bcee77eea3af7a33&mdspid=&spid=800033&netType=0&sid=5910019525&pid=2028597139&timestamp=20260202125441&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=713591450&ParentNodeID=-99&assertID=5910019525&client_ip=39.98.67.79&SecurityKey=20260202125441&promotionId=&mvid=5900002421&mcid=500020&playurlVersion=ZQ-A1-9.1.1.3-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=876abda43a1cb096ae90850ad09c2ee1&sv=10004&ct=android
+#EXTINF:-1 group-title="咪咕" tvg-name="咪咕1",咪咕1
+http://[2409:8087:2001:20:2800:0:df6e:eb0e]/ott.mobaibox.com/PLTV/3/224/3221228129/index.m3u8
+#EXTINF:-1 group-title="咪咕" tvg-name="咪咕10",咪咕10
+http://39.135.133.175/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8
+#EXTINF:-1 group-title="咪咕" tvg-name="咪咕12",咪咕12
+http://39.135.134.18/PLTV/88888888/224/3221225611/index.m3u8
+#EXTINF:-1 group-title="咪咕" tvg-name="咪咕13",咪咕13
+http://39.135.134.18/PLTV/88888888/224/3221225613/index.m3u8
+#EXTINF:-1 group-title="咪咕" tvg-name="咪咕14",咪咕14
+http://39.135.134.18/PLTV/88888888/224/3221225619/index.m3u8
+#EXTINF:-1 group-title="咪咕" tvg-name="咪咕15",咪咕15
+http://39.135.134.18/PLTV/88888888/224/3221225620/index.m3u8
+#EXTINF:-1 group-title="咪咕" tvg-name="咪咕16",咪咕16
+http://39.135.134.18/PLTV/88888888/224/3221225639/index.m3u8
+#EXTINF:-1 group-title="咪咕" tvg-name="咪咕17",咪咕17
+http://39.135.134.18/PLTV/88888888/224/3221225641/index.m3u8
+#EXTINF:-1 group-title="咪咕" tvg-name="咪咕18",咪咕18
+http://39.135.134.18/PLTV/88888888/224/3221225643/index.m3u8
+#EXTINF:-1 group-title="咪咕" tvg-name="咪咕19",咪咕19
+http://39.135.134.18/PLTV/88888888/224/3221225645/index.m3u8
+#EXTINF:-1 group-title="咪咕" tvg-name="咪咕2",咪咕2
+http://[2409:8087:2001:20:2800:0:df6e:eb10]/ott.mobaibox.com/PLTV/3/224/3221228193/index.m3u8
+#EXTINF:-1 group-title="咪咕" tvg-name="咪咕20",咪咕20
+http://39.135.134.18/PLTV/88888888/224/3221225647/index.m3u8
+#EXTINF:-1 group-title="咪咕" tvg-name="咪咕21",咪咕21
+http://39.135.134.18/PLTV/88888888/224/3221225648/index.m3u8
+#EXTINF:-1 group-title="咪咕" tvg-name="咪咕22",咪咕22
+http://39.135.134.18/PLTV/88888888/224/3221225649/index.m3u8
+#EXTINF:-1 group-title="咪咕" tvg-name="咪咕23",咪咕23
+http://39.135.134.18/PLTV/88888888/224/3221225650/index.m3u8
+#EXTINF:-1 group-title="咪咕" tvg-name="咪咕24",咪咕24
+http://39.135.134.18/PLTV/88888888/224/3221225652/index.m3u8
+#EXTINF:-1 group-title="咪咕" tvg-name="咪咕25",咪咕25
+http://39.135.134.18/PLTV/88888888/224/3221225653/index.m3u8
+#EXTINF:-1 group-title="咪咕" tvg-name="咪咕26",咪咕26
+http://39.135.134.18/PLTV/88888888/224/3221225654/index.m3u8
+#EXTINF:-1 group-title="咪咕" tvg-name="咪咕27",咪咕27
+http://39.135.134.18/PLTV/88888888/224/3221225658/index.m3u8
+#EXTINF:-1 group-title="咪咕" tvg-name="咪咕28",咪咕28
+http://39.135.134.18/PLTV/88888888/224/3221225660/index.m3u8
+#EXTINF:-1 group-title="咪咕" tvg-name="咪咕29",咪咕29
+http://39.135.134.18/PLTV/88888888/224/3221225662/index.m3u8
+#EXTINF:-1 group-title="咪咕" tvg-name="咪咕3",咪咕3
+http://[2409:8087:2001:20:2800:0:df6e:eb0e]/ott.mobaibox.com/PLTV/3/224/3221228206/index.m3u8
+#EXTINF:-1 group-title="咪咕" tvg-name="咪咕30",咪咕30
+http://39.135.134.18/PLTV/88888888/224/3221225733/index.m3u8
+#EXTINF:-1 group-title="咪咕" tvg-name="咪咕31",咪咕31
+http://39.135.134.18/PLTV/88888888/224/3221225735/index.m3u8
+#EXTINF:-1 group-title="咪咕" tvg-name="咪咕32",咪咕32
+http://39.135.134.18/PLTV/88888888/224/3221225737/index.m3u8
+#EXTINF:-1 group-title="咪咕" tvg-name="咪咕33",咪咕33
+http://39.135.134.18/PLTV/88888888/224/3221225739/index.m3u8
+#EXTINF:-1 group-title="咪咕" tvg-name="咪咕34",咪咕34
+http://39.135.134.18/PLTV/88888888/224/3221225754/index.m3u8
+#EXTINF:-1 group-title="咪咕" tvg-name="咪咕35",咪咕35
+http://39.135.134.18/PLTV/88888888/224/3221225756/index.m3u8
+#EXTINF:-1 group-title="咪咕" tvg-name="咪咕36",咪咕36
+http://39.135.134.18/PLTV/88888888/224/3221225758/index.m3u8
+#EXTINF:-1 group-title="咪咕" tvg-name="咪咕37",咪咕37
+http://39.135.134.18/PLTV/88888888/224/3221225760/index.m3u8
+#EXTINF:-1 group-title="咪咕" tvg-name="咪咕38",咪咕38
+http://39.135.134.18/PLTV/88888888/224/3221225895/index.m3u8
+#EXTINF:-1 group-title="咪咕" tvg-name="咪咕39",咪咕39
+http://39.135.134.18/PLTV/88888888/224/3221225897/index.m3u8
+#EXTINF:-1 group-title="咪咕" tvg-name="咪咕4",咪咕4
+http://[2409:8087:2001:20:2800:0:df6e:eb06]/ott.mobaibox.com/PLTV/3/224/3221228231/index.m3u8
+#EXTINF:-1 group-title="咪咕" tvg-name="咪咕40",咪咕40
+http://39.135.134.18/PLTV/88888888/224/3221225899/index.m3u8
+#EXTINF:-1 group-title="咪咕" tvg-name="咪咕41",咪咕41
+http://39.135.134.18/PLTV/88888888/224/3221225901/index.m3u8
+#EXTINF:-1 group-title="咪咕" tvg-name="咪咕42",咪咕42
+http://39.135.134.18/PLTV/88888888/224/3221225903/index.m3u8
+#EXTINF:-1 group-title="咪咕" tvg-name="咪咕43",咪咕43
+http://39.135.134.18/PLTV/88888888/224/3221225905/index.m3u8
+#EXTINF:-1 group-title="咪咕" tvg-name="咪咕44",咪咕44
+http://39.135.134.18/PLTV/88888888/224/3221225910/index.m3u8
+#EXTINF:-1 group-title="咪咕" tvg-name="咪咕45",咪咕45
+http://39.135.134.18/PLTV/88888888/224/3221225912/index.m3u8
+#EXTINF:-1 group-title="咪咕" tvg-name="咪咕46",咪咕46
+http://39.135.134.18/PLTV/88888888/224/3221225914/index.m3u8
+#EXTINF:-1 group-title="咪咕" tvg-name="咪咕47",咪咕47
+http://39.135.134.18/PLTV/88888888/224/3221226027/index.m3u8
+#EXTINF:-1 group-title="咪咕" tvg-name="咪咕48",咪咕48
+http://39.135.134.18/PLTV/88888888/224/3221226031/index.m3u8
+#EXTINF:-1 group-title="咪咕" tvg-name="咪咕49",咪咕49
+http://39.135.134.18/PLTV/88888888/224/3221226046/index.m3u8
+#EXTINF:-1 group-title="咪咕" tvg-name="咪咕5",咪咕5
+http://[2409:8087:2001:20:2800:0:df6e:eb12]/ott.mobaibox.com/PLTV/3/224/3221228234/index.m3u8
+#EXTINF:-1 group-title="咪咕" tvg-name="咪咕6",咪咕6
+http://39.135.133.156/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
+#EXTINF:-1 group-title="咪咕" tvg-name="咪咕7",咪咕7
+http://39.135.133.158/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
+#EXTINF:-1 group-title="咪咕" tvg-name="咪咕8",咪咕8
+http://39.135.133.156/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8
+#EXTINF:-1 group-title="咪咕" tvg-name="咪咕9",咪咕9
+http://39.135.133.156/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
 #EXTINF:-1 group-title="咪咕" tvg-name="嘉佳卡通",嘉佳卡通
 http://hlszymgsplive.miguvideo.com:8080/wd_r1/2018/nfmedia/jjkt/1000/index.m3u8?msisdn=2026020212545371fa47676e4943f391aad9063b8137a2&mdspid=&spid=699054&netType=0&sid=2206172388&pid=2028597139&timestamp=20260202125453&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=614952364&ParentNodeID=-99&assertID=2206172388&client_ip=39.98.32.32&SecurityKey=20260202125453&promotionId=&mvid=2206172388&mcid=500020&playurlVersion=ZQ-A1-9.1.1.3-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=5ed4a721684b1e2e5a24c9d37e21638b&sv=10004&ct=android
 #EXTINF:-1 group-title="咪咕" tvg-name="四海钓鱼",四海钓鱼
@@ -509,10 +605,10 @@ https://stream1.antenaplay.ro/as/AS.ro/chunklist.m3u8
 https://piccpndali.v.myalicdn.com/audio/cctv5_2.m3u8
 #EXTINF:-1 group-title="体育" tvg-name="Canal+ Sport (1080p) [Geo-blocked]",Canal+ Sport (1080p) [Geo-blocked]
 http://tv.streambox.fr/live/testlivestream/testlivestream/31.m3u8
-#EXTINF:-1 group-title="体育" tvg-name="DAZN Combat (684p)",DAZN Combat (684p)
-https://jmp2.uk/plu-64d626ac9b414d000820e2fc.m3u8
 #EXTINF:-1 group-title="体育" tvg-name="DAZN Darts x Pluto TV",DAZN Darts x Pluto TV
 https://jmp2.uk/plu-64b67f0424ade50008a3be17.m3u8
+#EXTINF:-1 group-title="体育" tvg-name="DAZN Heldinnen x Pluto TV",DAZN Heldinnen x Pluto TV
+https://jmp2.uk/plu-64afe50c5dc16600087f3227.m3u8
 #EXTINF:-1 group-title="体育" tvg-name="DSports 2",DSports 2
 http://45.134.141.161:2200/ARG/DTV_SP2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="体育" tvg-name="DraftKings Network (1080p)",DraftKings Network (1080p)
@@ -545,6 +641,8 @@ http://tv.streambox.fr/live/testlivestream/testlivestream/49.m3u8
 https://dash4.antik.sk/live/test_golf_channel/playlist.m3u8
 #EXTINF:-1 group-title="体育" tvg-name="HTV Sports (1080p)",HTV Sports (1080p)
 https://dethich.pw/htvthethao/index.m3u8
+#EXTINF:-1 group-title="体育" tvg-name="Jiangsu Sports & Leisure Channel (576p)",Jiangsu Sports & Leisure Channel (576p)
+http://183.207.248.71/gitv/live1/G_JSTY/G_JSTY
 #EXTINF:-1 group-title="体育" tvg-name="L'Equipe (1080p)",L'Equipe (1080p)
 https://dq37unyetkpcz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-m04j89j7k5gtp/LEquipe_FR.m3u8
 #EXTINF:-1 group-title="体育" tvg-name="M4 Sport (1080p)",M4 Sport (1080p)
@@ -571,12 +669,16 @@ https://nhl-firetv.amagi.tv/playlist.m3u8
 https://test02.mdn.ors.at/orf/orfs/qxa/manifest.m3u8
 #EXTINF:-1 group-title="体育" tvg-name="Pluto TV E-Sports",Pluto TV E-Sports
 https://jmp2.uk/plu-5ff3934600d4c7000733ff49.m3u8
+#EXTINF:-1 group-title="体育" tvg-name="Pluto TV Esportes",Pluto TV Esportes
+https://jmp2.uk/plu-5f32d2db0af67400077f29c4.m3u8
 #EXTINF:-1 group-title="体育" tvg-name="Pluto TV Sport (Germany)",Pluto TV Sport (Germany)
 https://jmp2.uk/plu-608030eff4b6f70007e1684c.m3u8
 #EXTINF:-1 group-title="体育" tvg-name="Pluto TV Sport (Sweden)",Pluto TV Sport (Sweden)
 https://jmp2.uk/plu-62cd74e38f6f0d000798cd93.m3u8
 #EXTINF:-1 group-title="体育" tvg-name="Pluto TV Sport (Sweden) DK",Pluto TV Sport (Sweden) DK
 https://jmp2.uk/plu-6357f3de3643ba0007bc0b50.m3u8
+#EXTINF:-1 group-title="体育" tvg-name="Pluto TV Sport (Sweden) NO",Pluto TV Sport (Sweden) NO
+https://jmp2.uk/plu-6357f33cb51d2d00077927c6.m3u8
 #EXTINF:-1 group-title="体育" tvg-name="Real Madrid TV English",Real Madrid TV English
 http://88.212.15.50/live/real_madrid_tv/index.m3u8
 #EXTINF:-1 group-title="体育" tvg-name="Red Bull TV AU (1080p)",Red Bull TV AU (1080p)
@@ -611,16 +713,14 @@ https://sportsgrid-tribal.amagi.tv/playlist.m3u8
 https://livetr.teleromagna.it/mia/live/playlist.m3u8
 #EXTINF:-1 group-title="体育" tvg-name="TVS Classic Sports (360p)",TVS Classic Sports (360p)
 https://rpn.bozztv.com/gusa/gusa-tvs/index.m3u8
-#EXTINF:-1 group-title="体育" tvg-name="TVS Pinball Network (480p)",TVS Pinball Network (480p)
-https://rpn.bozztv.com/gusa/gusa-TVSCartoonNetwork/index.m3u8
 #EXTINF:-1 group-title="体育" tvg-name="TVS Sports (720p) [Not 24/7]",TVS Sports (720p) [Not 24/7]
 https://rpn.bozztv.com/gusa/gusa-tvssports/index.m3u8
 #EXTINF:-1 group-title="体育" tvg-name="TVS Sports Bureau (720p)",TVS Sports Bureau (720p)
 https://rpn.bozztv.com/gusa/gusa-tvssportsbureau/index.m3u8
 #EXTINF:-1 group-title="体育" tvg-name="TVS Women Sports (720p)",TVS Women Sports (720p)
 https://rpn.bozztv.com/gusa/gusa-tvswsn/index.m3u8
-#EXTINF:-1 group-title="体育" tvg-name="Women's Sports Network (1080p)",Women's Sports Network (1080p)
-https://d39accvx65hq9o.cloudfront.net/Womens_Sports_Network.m3u8
+#EXTINF:-1 group-title="体育" tvg-name="TyC Sports (1080p)",TyC Sports (1080p)
+https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
 #EXTINF:-1 group-title="体育" tvg-name="beIN SPORTS XTRA (1080p)",beIN SPORTS XTRA (1080p)
 https://bein-xtra-bein.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="体育" tvg-name="beIN SPORTS XTRA en Espanol (1080p)",beIN SPORTS XTRA en Espanol (1080p)
@@ -630,11 +730,11 @@ https://stream8.cinerama.uz/1229/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="体育" tvg-name="山东体育休闲广播",山东体育休闲广播
 http://satellitepull.cnr.cn/live/wxsdtyxxgb/playlist.m3u8
 #EXTINF:-1 group-title="体育" tvg-name="广东体育",广东体育
-https://epg.pw/stream/7b470f9fc5c305db0c8622117b7b25ca00eb35ba3e93e865cf0ff9df5c736681.m3u8
+http://r.jdshipin.com/LiYdg
 #EXTINF:-1 group-title="体育" tvg-name="精品体育",精品体育
 http://ott.mobaibox.com/PLTV/3/224/3221227615/index.m3u8
 #EXTINF:-1 group-title="体育" tvg-name="纬来体育",纬来体育
-https://epg.pw/stream/8855a9936e37e608a0ec8a014cce1673dee9c5d68d560da376cc92e5edef2b25.m3u8
+https://epg.pw/stream/ab6df63b64d0cc44a1f4f029ed847a26fa54a7aebd455578fb05a63f02c22f4b.m3u8
 #EXTINF:-1 group-title="体育" tvg-name="陕西体育休闲",陕西体育休闲
 http://gxlive.snrtv.com/sx7-SD.m3u8
 #EXTINF:-1 group-title="体育" tvg-name="青岛音乐体育广播",青岛音乐体育广播
@@ -643,22 +743,12 @@ http://satellitepull.cnr.cn/live/wxlnwygb/playlist.m3u8
 https://content.uplynk.com/channel/39919d3f7a074eefa8bf579214e952f9.m3u8
 #EXTINF:-1 group-title="美英" tvg-name="AL Jazeera F",AL Jazeera F
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1 group-title="美英" tvg-name="AccuWeather NOW (1080p)",AccuWeather NOW (1080p)
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8
 #EXTINF:-1 group-title="美英" tvg-name="ArirangTV",ArirangTV
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
 #EXTINF:-1 group-title="美英" tvg-name="Autentic History (1080p)",Autentic History (1080p)
 https://9e754fa707344ccca6d84955c8fcaf36.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticHistory/playlist.m3u8
 #EXTINF:-1 group-title="美英" tvg-name="Autentic Travel (1080p)",Autentic Travel (1080p)
 https://cb0c87cc605942ff9766a4e6744bbadc.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticTravel/playlist.m3u8
-#EXTINF:-1 group-title="美英" tvg-name="BBC Drama US (1080p)",BBC Drama US (1080p)
-https://linear-938.frequency.stream/mt/vizio/938/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="美英" tvg-name="BBC Earth US (1080p)",BBC Earth US (1080p)
-https://amg00793-amg00793c6-vizio-us-2670.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcearthaall-vizious/playlist.m3u8
-#EXTINF:-1 group-title="美英" tvg-name="BBC Food (1080p)",BBC Food (1080p)
-https://d1e9r0b71zfwk7.cloudfront.net/playlist.m3u8
-#EXTINF:-1 group-title="美英" tvg-name="BBC Home & Garden (1080p)",BBC Home & Garden (1080p)
-https://d11r33s5i066xh.cloudfront.net/playlist.m3u8
 #EXTINF:-1 group-title="美英" tvg-name="BBC One (720p)",BBC One (720p)
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/bbc_one/live.livx/playlist.m3u8
 #EXTINF:-1 group-title="美英" tvg-name="BBC Two HD (720p)",BBC Two HD (720p)
@@ -667,186 +757,58 @@ https://n-5-1.eu.cdn-redge.media/livehls/oeu/mt/live/bbc_two/live.livx/playlist.
 https://ciner.daioncdn.net/bloomberght/bloomberght_720p.m3u8
 #EXTINF:-1 group-title="美英" tvg-name="Bloomberg TV",Bloomberg TV
 http://content.uplynk.com/channel/328d1434fb51476cb6567c74d5b2cc70.m3u8
-#EXTINF:-1 group-title="美英" tvg-name="Bravo (720p)",Bravo (720p)
-http://41.205.93.154/BRAVO/index.m3u8
-#EXTINF:-1 group-title="美英" tvg-name="CBS News 24/7 (720p)",CBS News 24/7 (720p)
-https://jmp2.uk/plu-6350fdd266e9ea0007bedec5.m3u8
-#EXTINF:-1 group-title="美英" tvg-name="CBS en espanol",CBS en espanol
-https://jmp2.uk/plu-668c5cb4f01dbe0008dd4082.m3u8
 #EXTINF:-1 group-title="美英" tvg-name="CNBC UK (1080p)",CNBC UK (1080p)
 https://amg01079-nbcuuk-amg01079c2-samsung-gb-1258.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="美英" tvg-name="CNN (720p)",CNN (720p)
-https://tvsen6.aynaott.com/cnn/index.m3u8
-#EXTINF:-1 group-title="美英" tvg-name="CNN Originals (1080p)",CNN Originals (1080p)
-https://amg01918-cnnus-amg01918c2-vizio-us-9192.playouts.now.amagi.tv/playlist/amg01918-cnnus-cnnoriginals-vizious/playlist.m3u8
-#EXTINF:-1 group-title="美英" tvg-name="CNN en Espanol (1080p)",CNN en Espanol (1080p)
-https://amg00803-cnnfast-amg00803c3-lg-es-5477.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="美英" tvg-name="CSI: Crime Scene Investigation",CSI: Crime Scene Investigation
 https://jmp2.uk/plu-6304f8d5ffb61000071ab478.m3u8
 #EXTINF:-1 group-title="美英" tvg-name="Channel 4 (United Kingdom) (576p)",Channel 4 (United Kingdom) (576p)
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/channel_4/live.livx/playlist.m3u8
-#EXTINF:-1 group-title="美英" tvg-name="Cheddar News (1080p)",Cheddar News (1080p)
-https://hls.livecdn.io/cheddar.com/cheddar/playlist.m3u8
-#EXTINF:-1 group-title="美英" tvg-name="Comedy Central Animation",Comedy Central Animation
-https://jmp2.uk/plu-64f8a949f5b5e4000862467c.m3u8
-#EXTINF:-1 group-title="美英" tvg-name="Comedy Central Pluto TV",Comedy Central Pluto TV
-https://jmp2.uk/plu-5ca671f215a62078d2ec0abf.m3u8
-#EXTINF:-1 group-title="美英" tvg-name="Comedy Central en Espanol",Comedy Central en Espanol
-https://jmp2.uk/plu-5cf96dad1652631e36d43320.m3u8
 #EXTINF:-1 group-title="美英" tvg-name="Court TV",Court TV
 https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8
-#EXTINF:-1 group-title="美英" tvg-name="Court TV (1080p)",Court TV (1080p)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttv-tablo/playlist.m3u8
-#EXTINF:-1 group-title="美英" tvg-name="Discovery Turbo (United States) (720p)",Discovery Turbo (United States) (720p)
-http://41.205.93.154/ESPNNEWS/index.m3u8
 #EXTINF:-1 group-title="美英" tvg-name="Fox News",Fox News
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="美英" tvg-name="Fox News Channel",Fox News Channel
 http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="美英" tvg-name="Fox News Radio (720p)",Fox News Radio (720p)
-https://radiovid.foxnews.com/hls/live/661547/RADIOVID/index.m3u8
-#EXTINF:-1 group-title="美英" tvg-name="Fox Soul (1080p)",Fox Soul (1080p)
-https://foxsoul-vizio.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="美英" tvg-name="Freeform (720p)",Freeform (720p)
-https://chunk.tvnow247.today/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiIzMDEiLCJjaGFpbiI6InIyIiwidHMiOjE3OTUzODk4NjYzODB9
-#EXTINF:-1 group-title="美英" tvg-name="Hallmark Movies & More (1080p)",Hallmark Movies & More (1080p)
-https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991709
-#EXTINF:-1 group-title="美英" tvg-name="Hallmark Mystery (720p) [Geo-blocked]",Hallmark Mystery (720p) [Geo-blocked]
-http://41.205.93.154/HALLMARK/index.m3u8
-#EXTINF:-1 group-title="美英" tvg-name="History Hit (1080p)",History Hit (1080p)
-https://lds-timeline-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="美英" tvg-name="MTV Flow Latino (720p)",MTV Flow Latino (720p)
-https://jmp2.uk/plu-5d3609cd6a6c78d7672f2a81.m3u8
 #EXTINF:-1 group-title="美英" tvg-name="NASA TV 2",NASA TV 2
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
-#EXTINF:-1 group-title="美英" tvg-name="NBC Comedy Vault (1080p)",NBC Comedy Vault (1080p)
-https://xumo-xumoent-vc-105-z0vpm.fast.nbcuni.com/live/master.m3u8
-#EXTINF:-1 group-title="美英" tvg-name="NBC LX Home (1080p)",NBC LX Home (1080p)
-https://plex-xumoent-ch485-e7l5l.fast.nbcuni.com/live/master_5.m3u8
 #EXTINF:-1 group-title="美英" tvg-name="NBC News NOW (1080p)",NBC News NOW (1080p)
 https://d1si3n1st4nkgb.cloudfront.net/10502/88896001/hls/master.m3u8?ads.xumo_channelId=88896001
 #EXTINF:-1 group-title="美英" tvg-name="NBC WTMJ4",NBC WTMJ4
 https://content.uplynk.com/channel/50bb38f57f0547319060274f3b94db4e.m3u8
-#EXTINF:-1 group-title="美英" tvg-name="Newsmax 2 (1080p)",Newsmax 2 (1080p)
-https://amg00217-newsmax-newsmax-zeasn-022k9.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="美英" tvg-name="Newsmax Spanish (1080p)",Newsmax Spanish (1080p)
-https://n1ottesorkatv.akamaized.net/hls/live/2113795/Live_1/index.m3u8
-#EXTINF:-1 group-title="美英" tvg-name="Newsmax TV (720p)",Newsmax TV (720p)
-https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
 #EXTINF:-1 group-title="美英" tvg-name="OAN Plus",OAN Plus
 http://oneamericanews-roku-us.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="美英" tvg-name="OAN Plus (1080p)",OAN Plus (1080p)
-https://oan-plus-tcl.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="美英" tvg-name="PBS America",PBS America
 http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
-#EXTINF:-1 group-title="美英" tvg-name="PBS Antiques Roadshow (1080p)",PBS Antiques Roadshow (1080p)
-https://amg00953-pbsusa-antiroadshow-xumo-x6ud5.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="美英" tvg-name="PBS Kids (720p)",PBS Kids (720p)
-https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8
-#EXTINF:-1 group-title="美英" tvg-name="PBS Kids Alaska (1080p)",PBS Kids Alaska (1080p)
-https://livestream.pbskids.org/out/v1/94b88ad58fc14f84a9382341f1c00b82/akst.m3u8
-#EXTINF:-1 group-title="美英" tvg-name="PBS Kids Hawaii (720p)",PBS Kids Hawaii (720p)
-https://livestream.pbskids.org/out/v1/aa31792fee094b24b09045483f04d150/hast.m3u8
-#EXTINF:-1 group-title="美英" tvg-name="PBS Kids Mountain (1080p)",PBS Kids Mountain (1080p)
-https://livestream.pbskids.org/out/v1/3fe3030a2c8045a3932f4289d9eba3e6/mst.m3u8
-#EXTINF:-1 group-title="美英" tvg-name="PBS Kids Pacific (1080p)",PBS Kids Pacific (1080p)
-https://livestream.pbskids.org/out/v1/11f2e6b73eaa4887b3746cb863960e79/pst.m3u8
-#EXTINF:-1 group-title="美英" tvg-name="PBS Nature (1080p)",PBS Nature (1080p)
-https://d3mr43kyql7wgk.cloudfront.net/PBS_Nature.m3u8
-#EXTINF:-1 group-title="美英" tvg-name="PBS Travel (1080p)",PBS Travel (1080p)
-https://d3hqevbyoxtkoi.cloudfront.net/PBS_Travel.m3u8
-#EXTINF:-1 group-title="美英" tvg-name="Paramount+ Picks",Paramount+ Picks
-https://jmp2.uk/plu-5ff8c708653d080007361b14.m3u8
-#EXTINF:-1 group-title="美英" tvg-name="Pluto TV History",Pluto TV History
-https://jmp2.uk/plu-5a4d35dfa5c02e717a234f86.m3u8
-#EXTINF:-1 group-title="美英" tvg-name="Pluto TV Investigation",Pluto TV Investigation
-https://jmp2.uk/plu-63808dc806aa4700075f319a.m3u8
 #EXTINF:-1 group-title="美英" tvg-name="Sky News Extra 2",Sky News Extra 2
 https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8
 #EXTINF:-1 group-title="美英" tvg-name="Sky News Extra 3",Sky News Extra 3
 https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
 #EXTINF:-1 group-title="美英" tvg-name="Sky News Weather (720p)",Sky News Weather (720p)
 https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:weather_loop.stream_all/playlist.m3u8
-#EXTINF:-1 group-title="美英" tvg-name="TVS Hollywood History (582p)",TVS Hollywood History (582p)
-https://rpn.bozztv.com/gusa/gusa-tvshollywoohistory/index.m3u8
-#EXTINF:-1 group-title="美英" tvg-name="TVS Travel Network (720p) [Not 24/7]",TVS Travel Network (720p) [Not 24/7]
-https://rpn.bozztv.com/gusa/gusa-tvstravel/index.m3u8
-#EXTINF:-1 group-title="美英" tvg-name="Tastemade Travel (1080p)",Tastemade Travel (1080p)
-https://d6ef3usc6d9cl.cloudfront.net/Tastemade_Travel.m3u8
 #EXTINF:-1 group-title="美英" tvg-name="Thai PBS 3",Thai PBS 3
 http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
-#EXTINF:-1 group-title="美英" tvg-name="The Weather Channel (1080p)",The Weather Channel (1080p)
-https://twcprod-live.twc-tv.com/v1/manifest/b4d4d63a49309cc5140171fb2e92485c31be1e9e/DSP_6228e4760505741a116f1ba2_twcprod-live/6bf09ce5-366b-463c-b67e-c4b799f73c3f/4.m3u8
 #EXTINF:-1 group-title="美英" tvg-name="Yichang Sanxia Travel & Life Channel",Yichang Sanxia Travel & Life Channel
 https://liveplay.ycrmt.cn/sxgd/lysh.m3u8
-#EXTINF:-1 group-title="美英" tvg-name="Yo! MTV (1080p)",Yo! MTV (1080p)
-https://jmp2.uk/plu-5d14fc31252d35decbc4080b.m3u8
 #EXTINF:-1 group-title="美英" tvg-name="美·NASA 1",美·NASA 1
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 #EXTINF:-1 group-title="美英" tvg-name="韩·TBS",韩·TBS
 https://cdntv.tbs.seoul.kr/tbs/_definst_/tbs_tv_web_720.smil/playlist.m3u8
-#EXTINF:-1 group-title="电影" tvg-name="24 Hour Free Movies (720p)",24 Hour Free Movies (720p)
-https://d1j2u714xk898n.cloudfront.net/scheduler/scheduleMaster/145.m3u8
-#EXTINF:-1 group-title="电影" tvg-name="30A TV Classic Movies (720p)",30A TV Classic Movies (720p)
-https://30a-tv.com/feeds/pzaz/30atvmovies.m3u8
-#EXTINF:-1 group-title="电影" tvg-name="ABN Bible Movies Channel (720p)",ABN Bible Movies Channel (720p)
-https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
-#EXTINF:-1 group-title="电影" tvg-name="BET Comedy Movies",BET Comedy Movies
-https://jmp2.uk/plu-68c32d88f56983aba40052bd.m3u8
-#EXTINF:-1 group-title="电影" tvg-name="Classic Cinema (240p) [Not 24/7]",Classic Cinema (240p) [Not 24/7]
-https://rpn.bozztv.com/gusa/gusa-classiccinema/index.m3u8
-#EXTINF:-1 group-title="电影" tvg-name="Classic Movie Westerns",Classic Movie Westerns
-https://jmp2.uk/plu-61f33318210549000806a530.m3u8
-#EXTINF:-1 group-title="电影" tvg-name="Classic Movies Channel",Classic Movies Channel
-https://jmp2.uk/plu-561c5b0dada51f8004c4d855.m3u8
-#EXTINF:-1 group-title="电影" tvg-name="EBS Cinema (720p)",EBS Cinema (720p)
-https://rpn.bozztv.com/ebstv/ebscinema/index.m3u8
-#EXTINF:-1 group-title="电影" tvg-name="Gravitas Movies (1080p)",Gravitas Movies (1080p)
-https://d6dg3ebeih71x.cloudfront.net/Gravitas_Movies.m3u8
 #EXTINF:-1 group-title="电影" tvg-name="Harbin Movie Channel",Harbin Movie Channel
 https://stream.hrbtv.net/yspd/playlist.m3u8
-#EXTINF:-1 group-title="电影" tvg-name="Kids Movie Club",Kids Movie Club
-https://jmp2.uk/plu-5db0ad56edc89300090d2ebb.m3u8
-#EXTINF:-1 group-title="电影" tvg-name="Magnificent Movies Network",Magnificent Movies Network
-https://mmn1.b-cdn.net/hls/MMN-HLS.m3u8
-#EXTINF:-1 group-title="电影" tvg-name="MovieSphere (1080p)",MovieSphere (1080p)
-https://amg00353-lionsgatestudio-moviesphere-xumo-zh5u0.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="电影" tvg-name="MovieSphere Gold WFXT (1080p)",MovieSphere Gold WFXT (1080p)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionmystery-tablo/playlist.m3u8
 #EXTINF:-1 group-title="电影" tvg-name="MovieSphere UK (1080p)",MovieSphere UK (1080p)
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="电影" tvg-name="MyTime Movie Network (United Kingdom) (1080p)",MyTime Movie Network (United Kingdom) (1080p)
 https://appletree-mytimeuk-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="电影" tvg-name="MyTime Movie Network East (1080p)",MyTime Movie Network East (1080p)
-https://appletree-mytimeau-samsung.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="电影" tvg-name="NEW K.MOVIES (1080p)",NEW K.MOVIES (1080p)
-https://ads.its-newid.net/api/manifest.m3u8?ads.service_id=GB1700007PK&channel_id=newid_343&tp=samsung_tvplus
 #EXTINF:-1 group-title="电影" tvg-name="NewTV动作电影",NewTV动作电影
 http://ott.mobaibox.com/PLTV/3/224/3221227606/index.m3u8
-#EXTINF:-1 group-title="电影" tvg-name="Pluto TV Anime Movies",Pluto TV Anime Movies
-https://jmp2.uk/plu-67ed8f7e443f0671bc2b2368.m3u8
 #EXTINF:-1 group-title="电影" tvg-name="Pluto TV Cult Films (Germany)",Pluto TV Cult Films (Germany)
 https://jmp2.uk/plu-5c5c31f2f21b553c1f673fb0.m3u8
-#EXTINF:-1 group-title="电影" tvg-name="Pluto TV Family Movie Club",Pluto TV Family Movie Club
-https://jmp2.uk/plu-5dc3fc6b9133f500099c7d98.m3u8
-#EXTINF:-1 group-title="电影" tvg-name="TVS Classic Movies (288p)",TVS Classic Movies (288p)
-https://rpn.bozztv.com/gusa/gusa-tvsclassicmovies/index.m3u8
-#EXTINF:-1 group-title="电影" tvg-name="TVS Drive In Movie (360p)",TVS Drive In Movie (360p)
-https://rpn.bozztv.com/gusa/gusa-tvsdriveinmovie/index.m3u8
-#EXTINF:-1 group-title="电影" tvg-name="TVS Nostalgia Movies (480p)",TVS Nostalgia Movies (480p)
-https://rpn.bozztv.com/gusa/gusa-tvsNostalgiaMovies/index.m3u8
-#EXTINF:-1 group-title="电影" tvg-name="TVS Western Movie (270p)",TVS Western Movie (270p)
-https://rpn.bozztv.com/gusa/gusa-tvswesternmovies/index.m3u8
-#EXTINF:-1 group-title="电影" tvg-name="Whiplash Cinema (480p)",Whiplash Cinema (480p)
-https://cdn.whiplash.cc/whiplash-cinema/index.m3u8
 #EXTINF:-1 group-title="电影" tvg-name="上虞文化影院",上虞文化影院
 http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8?zzhed
 #EXTINF:-1 group-title="电影" tvg-name="东阳影视生活",东阳影视生活
 http://l.cztvcloud.com/channels/lantian/SXdongyang1/720p.m3u8
 #EXTINF:-1 group-title="电影" tvg-name="刘德华电影",刘德华电影
 https://live.metshop.top/huya/11342424
-#EXTINF:-1 group-title="电影" tvg-name="功夫电影",功夫电影
-https://live.metshop.top/huya/11352941
 #EXTINF:-1 group-title="电影" tvg-name="古天乐电影",古天乐电影
 https://live.metshop.top/huya/29982675
 #EXTINF:-1 group-title="电影" tvg-name="句容影视频道",句容影视频道
@@ -855,6 +817,8 @@ http://jrlive.jrntv.com/live/_definst_/yingshis/playlist.m3u8
 http://jrlive.jrntv.com/live/_definst_/yingshis/chunklist_w1994429382.m3u8?zjiangsd
 #EXTINF:-1 group-title="电影" tvg-name="句容影院频道",句容影院频道
 http://jrlive.jrntv.com/live/_definst_/yingshis/playlist.m3u8?zjiangsd
+#EXTINF:-1 group-title="电影" tvg-name="周星驰电影",周星驰电影
+https://live.metshop.top/huya/11342412
 #EXTINF:-1 group-title="电影" tvg-name="嘉禾新闻综合",嘉禾新闻综合
 https://liveplay-srs.voc.com.cn/hls/tv/184_e3af1a.m3u8
 #EXTINF:-1 group-title="电影" tvg-name="平泉影视频道",平泉影视频道
@@ -867,10 +831,14 @@ https://live.metshop.top/huya/21059581
 https://live.metshop.top/huya/21059577
 #EXTINF:-1 group-title="电影" tvg-name="成龙电影",成龙电影
 https://live.metshop.top/huya/11342386
-#EXTINF:-1 group-title="电影" tvg-name="明星大片",明星大片
-http://ott.mobaibox.com/PLTV/3/224/3221227594/index.m3u8
+#EXTINF:-1 group-title="电影" tvg-name="战争电影",战争电影
+https://live.metshop.top/huya/21059574
+#EXTINF:-1 group-title="电影" tvg-name="末日电影合集",末日电影合集
+https://live.metshop.top/yy/1354889019
 #EXTINF:-1 group-title="电影" tvg-name="李连杰电影",李连杰电影
 https://live.metshop.top/huya/11342390
+#EXTINF:-1 group-title="电影" tvg-name="林正英电影",林正英电影
+https://live.metshop.top/huya/11342421
 #EXTINF:-1 group-title="电影" tvg-name="枪战电影",枪战电影
 https://live.metshop.top/huya/21059579
 #EXTINF:-1 group-title="电影" tvg-name="沈腾电影",沈腾电影
@@ -879,20 +847,32 @@ https://live.metshop.top/huya/11601968
 http://live.yantaitv.cn/live/e9f1d9045d474c31884d13fa4ffbbd16/a4a9b3704d854756907845107cc56129-1.m3u8
 #EXTINF:-1 group-title="电影" tvg-name="狄仁杰电影",狄仁杰电影
 https://live.metshop.top/huya/30080229
+#EXTINF:-1 group-title="电影" tvg-name="玄幻电影",玄幻电影
+https://live.metshop.top/huya/11342414
 #EXTINF:-1 group-title="电影" tvg-name="王晶电影",王晶电影
 https://live.metshop.top/huya/11602058
 #EXTINF:-1 group-title="电影" tvg-name="甄子丹电影",甄子丹电影
 https://live.metshop.top/huya/11352935
-#EXTINF:-1 group-title="电影" tvg-name="电影刘德华",电影刘德华
-http://live.metshop.top/huya/11342424?cdn=alicdn
+#EXTINF:-1 group-title="电影" tvg-name="电影丧尸片",电影丧尸片
+http://live.metshop.top/huya/21059578?cdn=alicdn
+#EXTINF:-1 group-title="电影" tvg-name="电影八点档",电影八点档
+http://live.metshop.top/huya/880261?cdn=alicdn
+#EXTINF:-1 group-title="电影" tvg-name="电影功夫片",电影功夫片
+http://live.metshop.top/huya/11352941?cdn=alicdn
 #EXTINF:-1 group-title="电影" tvg-name="电影动作电影",电影动作电影
 http://live.metshop.top/huya/11602077?cdn=alicdn
+#EXTINF:-1 group-title="电影" tvg-name="电影周星星",电影周星星
+http://live.metshop.top/huya/11336587?cdn=alicdn
+#EXTINF:-1 group-title="电影" tvg-name="电影喜剧专场",电影喜剧专场
+http://live.metshop.top/huya/11602044?cdn=alicdn
+#EXTINF:-1 group-title="电影" tvg-name="电影嫣然影厅",电影嫣然影厅
+http://live.metshop.top/huya/11601977?cdn=alicdn
 #EXTINF:-1 group-title="电影" tvg-name="电影搞笑喜剧",电影搞笑喜剧
 http://live.metshop.top/huya/11342423?cdn=alicdn
-#EXTINF:-1 group-title="电影" tvg-name="电影蜘蛛侠",电影蜘蛛侠
-http://live.metshop.top/huya/21059599?cdn=alicdn
-#EXTINF:-1 group-title="电影" tvg-name="电影谍战",电影谍战
-http://live.metshop.top/huya/21059585?cdn=alicdn
+#EXTINF:-1 group-title="电影" tvg-name="电影梁家辉",电影梁家辉
+http://live.metshop.top/huya/11342429?cdn=alicdn
+#EXTINF:-1 group-title="电影" tvg-name="电影犯罪片",电影犯罪片
+http://live.metshop.top/huya/11352974?cdn=alicdn
 #EXTINF:-1 group-title="电影" tvg-name="电影谍战片",电影谍战片
 http://live.metshop.top/huya/21059587?cdn=alicdn
 #EXTINF:-1 group-title="电影" tvg-name="电影贺岁",电影贺岁
@@ -901,7 +881,13 @@ http://live.metshop.top/huya/11601971?cdn=alicdn
 http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
 #EXTINF:-1 group-title="电影" tvg-name="绍兴文化影院",绍兴文化影院
 http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8?zzhed
+#EXTINF:-1 group-title="电影" tvg-name="罪犯电影",罪犯电影
+https://live.metshop.top/huya/11352962
 #EXTINF:-1 group-title="电影" tvg-name="谍战电影",谍战电影
 https://live.metshop.top/huya/21059585
+#EXTINF:-1 group-title="电影" tvg-name="贺岁电影",贺岁电影
+https://live.metshop.top/huya/11601986
+#EXTINF:-1 group-title="电影" tvg-name="黄渤电影",黄渤电影
+https://live.metshop.top/huya/11352876
 #EXTINF:-1 group-title="电影" tvg-name="黑莓电影",黑莓电影
 https://epg.pw/stream/ffcb6572863f0745a7369fbd9d901f1dfd0ab8fab8bad8bebb4e01c90b303c47.m3u8

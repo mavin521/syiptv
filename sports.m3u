@@ -9,10 +9,10 @@ https://stream1.antenaplay.ro/as/AS.ro/chunklist.m3u8
 https://piccpndali.v.myalicdn.com/audio/cctv5_2.m3u8
 #EXTINF:-1 group-title="体育" tvg-name="Canal+ Sport (1080p) [Geo-blocked]",Canal+ Sport (1080p) [Geo-blocked]
 http://tv.streambox.fr/live/testlivestream/testlivestream/31.m3u8
-#EXTINF:-1 group-title="体育" tvg-name="DAZN Combat (684p)",DAZN Combat (684p)
-https://jmp2.uk/plu-64d626ac9b414d000820e2fc.m3u8
 #EXTINF:-1 group-title="体育" tvg-name="DAZN Darts x Pluto TV",DAZN Darts x Pluto TV
 https://jmp2.uk/plu-64b67f0424ade50008a3be17.m3u8
+#EXTINF:-1 group-title="体育" tvg-name="DAZN Heldinnen x Pluto TV",DAZN Heldinnen x Pluto TV
+https://jmp2.uk/plu-64afe50c5dc16600087f3227.m3u8
 #EXTINF:-1 group-title="体育" tvg-name="DSports 2",DSports 2
 http://45.134.141.161:2200/ARG/DTV_SP2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="体育" tvg-name="DraftKings Network (1080p)",DraftKings Network (1080p)
@@ -45,6 +45,8 @@ http://tv.streambox.fr/live/testlivestream/testlivestream/49.m3u8
 https://dash4.antik.sk/live/test_golf_channel/playlist.m3u8
 #EXTINF:-1 group-title="体育" tvg-name="HTV Sports (1080p)",HTV Sports (1080p)
 https://dethich.pw/htvthethao/index.m3u8
+#EXTINF:-1 group-title="体育" tvg-name="Jiangsu Sports & Leisure Channel (576p)",Jiangsu Sports & Leisure Channel (576p)
+http://183.207.248.71/gitv/live1/G_JSTY/G_JSTY
 #EXTINF:-1 group-title="体育" tvg-name="L'Equipe (1080p)",L'Equipe (1080p)
 https://dq37unyetkpcz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-m04j89j7k5gtp/LEquipe_FR.m3u8
 #EXTINF:-1 group-title="体育" tvg-name="M4 Sport (1080p)",M4 Sport (1080p)
@@ -71,12 +73,16 @@ https://nhl-firetv.amagi.tv/playlist.m3u8
 https://test02.mdn.ors.at/orf/orfs/qxa/manifest.m3u8
 #EXTINF:-1 group-title="体育" tvg-name="Pluto TV E-Sports",Pluto TV E-Sports
 https://jmp2.uk/plu-5ff3934600d4c7000733ff49.m3u8
+#EXTINF:-1 group-title="体育" tvg-name="Pluto TV Esportes",Pluto TV Esportes
+https://jmp2.uk/plu-5f32d2db0af67400077f29c4.m3u8
 #EXTINF:-1 group-title="体育" tvg-name="Pluto TV Sport (Germany)",Pluto TV Sport (Germany)
 https://jmp2.uk/plu-608030eff4b6f70007e1684c.m3u8
 #EXTINF:-1 group-title="体育" tvg-name="Pluto TV Sport (Sweden)",Pluto TV Sport (Sweden)
 https://jmp2.uk/plu-62cd74e38f6f0d000798cd93.m3u8
 #EXTINF:-1 group-title="体育" tvg-name="Pluto TV Sport (Sweden) DK",Pluto TV Sport (Sweden) DK
 https://jmp2.uk/plu-6357f3de3643ba0007bc0b50.m3u8
+#EXTINF:-1 group-title="体育" tvg-name="Pluto TV Sport (Sweden) NO",Pluto TV Sport (Sweden) NO
+https://jmp2.uk/plu-6357f33cb51d2d00077927c6.m3u8
 #EXTINF:-1 group-title="体育" tvg-name="Real Madrid TV English",Real Madrid TV English
 http://88.212.15.50/live/real_madrid_tv/index.m3u8
 #EXTINF:-1 group-title="体育" tvg-name="Red Bull TV AU (1080p)",Red Bull TV AU (1080p)
@@ -111,16 +117,14 @@ https://sportsgrid-tribal.amagi.tv/playlist.m3u8
 https://livetr.teleromagna.it/mia/live/playlist.m3u8
 #EXTINF:-1 group-title="体育" tvg-name="TVS Classic Sports (360p)",TVS Classic Sports (360p)
 https://rpn.bozztv.com/gusa/gusa-tvs/index.m3u8
-#EXTINF:-1 group-title="体育" tvg-name="TVS Pinball Network (480p)",TVS Pinball Network (480p)
-https://rpn.bozztv.com/gusa/gusa-TVSCartoonNetwork/index.m3u8
 #EXTINF:-1 group-title="体育" tvg-name="TVS Sports (720p) [Not 24/7]",TVS Sports (720p) [Not 24/7]
 https://rpn.bozztv.com/gusa/gusa-tvssports/index.m3u8
 #EXTINF:-1 group-title="体育" tvg-name="TVS Sports Bureau (720p)",TVS Sports Bureau (720p)
 https://rpn.bozztv.com/gusa/gusa-tvssportsbureau/index.m3u8
 #EXTINF:-1 group-title="体育" tvg-name="TVS Women Sports (720p)",TVS Women Sports (720p)
 https://rpn.bozztv.com/gusa/gusa-tvswsn/index.m3u8
-#EXTINF:-1 group-title="体育" tvg-name="Women's Sports Network (1080p)",Women's Sports Network (1080p)
-https://d39accvx65hq9o.cloudfront.net/Womens_Sports_Network.m3u8
+#EXTINF:-1 group-title="体育" tvg-name="TyC Sports (1080p)",TyC Sports (1080p)
+https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
 #EXTINF:-1 group-title="体育" tvg-name="beIN SPORTS XTRA (1080p)",beIN SPORTS XTRA (1080p)
 https://bein-xtra-bein.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="体育" tvg-name="beIN SPORTS XTRA en Espanol (1080p)",beIN SPORTS XTRA en Espanol (1080p)
@@ -130,11 +134,11 @@ https://stream8.cinerama.uz/1229/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="体育" tvg-name="山东体育休闲广播",山东体育休闲广播
 http://satellitepull.cnr.cn/live/wxsdtyxxgb/playlist.m3u8
 #EXTINF:-1 group-title="体育" tvg-name="广东体育",广东体育
-https://epg.pw/stream/7b470f9fc5c305db0c8622117b7b25ca00eb35ba3e93e865cf0ff9df5c736681.m3u8
+http://r.jdshipin.com/LiYdg
 #EXTINF:-1 group-title="体育" tvg-name="精品体育",精品体育
 http://ott.mobaibox.com/PLTV/3/224/3221227615/index.m3u8
 #EXTINF:-1 group-title="体育" tvg-name="纬来体育",纬来体育
-https://epg.pw/stream/8855a9936e37e608a0ec8a014cce1673dee9c5d68d560da376cc92e5edef2b25.m3u8
+https://epg.pw/stream/ab6df63b64d0cc44a1f4f029ed847a26fa54a7aebd455578fb05a63f02c22f4b.m3u8
 #EXTINF:-1 group-title="体育" tvg-name="陕西体育休闲",陕西体育休闲
 http://gxlive.snrtv.com/sx7-SD.m3u8
 #EXTINF:-1 group-title="体育" tvg-name="青岛音乐体育广播",青岛音乐体育广播
