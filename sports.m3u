@@ -33,8 +33,6 @@ https://d3d85c7qkywguj.cloudfront.net/scheduler/scheduleMaster/263.m3u8
 https://webtvstream.bhtelecom.ba/fightbox.m3u8
 #EXTINF:-1 group-title="体育" tvg-name="FightBox HD",FightBox HD
 https://nosignal1.antenaplay.ro/hls/fightbox-hd/index.m3u8
-#EXTINF:-1 group-title="体育" tvg-name="FloRacing (1080p)",FloRacing (1080p)
-https://amg02278-amg02278c1-flosports-worldwide-7592.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="体育" tvg-name="Fox Sports HD",Fox Sports HD
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/1552.m3u8
 #EXTINF:-1 group-title="体育" tvg-name="Fox Sports News (1080p)",Fox Sports News (1080p)
